@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
->>>>>>> d99c6ef (initial cleaning website)
 # dependencies
 /node_modules
 /.pnp
@@ -31,7 +28,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
+.pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
 .env
@@ -39,25 +36,17 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env*
 
 # turbopack
 .turbo
-=======
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
->>>>>>> d99c6ef (initial cleaning website)
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 
-<<<<<<< HEAD
-=======
 # analytics data
 /.analytics/
->>>>>>> d99c6ef (initial cleaning website)
