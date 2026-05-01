@@ -19,10 +19,17 @@
       }
     ],
     "paths": {
+<<<<<<< HEAD
       "@/*": ["./*"]
+=======
+      "@/*": ["./src/*"]
+>>>>>>> d99c6ef (initial cleaning website)
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> d99c6ef (initial cleaning website)

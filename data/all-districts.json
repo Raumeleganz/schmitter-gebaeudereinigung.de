@@ -1,0 +1,9517 @@
+[
+  {
+    "cityName": "Köln",
+    "slug": "koeln",
+    "serviceDistricts": [
+      "Bayenthal",
+      "Bickendorf",
+      "Bilderstöckchen",
+      "Braunsfeld",
+      "Buchforst"
+    ],
+    "featuredDistricts": [
+      "Buchheim",
+      "Deutz",
+      "Ehrenfeld"
+    ],
+    "allDistricts": [
+      {
+        "name": "Deutz",
+        "type": "suburb",
+        "lat": 50.9367586,
+        "lng": 6.9730461
+      },
+      {
+        "name": "Südstadt",
+        "type": "suburb",
+        "lat": 50.9180121,
+        "lng": 6.9604584
+      },
+      {
+        "name": "Nippes",
+        "type": "suburb",
+        "lat": 50.9640936,
+        "lng": 6.9539356
+      },
+      {
+        "name": "Bayenthal",
+        "type": "suburb",
+        "lat": 50.9110582,
+        "lng": 6.9692379
+      },
+      {
+        "name": "Raderberg",
+        "type": "suburb",
+        "lat": 50.9079878,
+        "lng": 6.9611688
+      },
+      {
+        "name": "Riehl",
+        "type": "suburb",
+        "lat": 50.9639129,
+        "lng": 6.9768709
+      },
+      {
+        "name": "Zollstock",
+        "type": "suburb",
+        "lat": 50.9098693,
+        "lng": 6.941747
+      },
+      {
+        "name": "Mauenheim",
+        "type": "suburb",
+        "lat": 50.9730394,
+        "lng": 6.9467311
+      },
+      {
+        "name": "Raderthal",
+        "type": "suburb",
+        "lat": 50.9006829,
+        "lng": 6.9548551
+      },
+      {
+        "name": "Poll",
+        "type": "suburb",
+        "lat": 50.9121007,
+        "lng": 6.988889
+      },
+      {
+        "name": "Humboldt",
+        "type": "suburb",
+        "lat": 50.9307962,
+        "lng": 6.9998779
+      },
+      {
+        "name": "Sülz",
+        "type": "suburb",
+        "lat": 50.9189277,
+        "lng": 6.9240929
+      },
+      {
+        "name": "Marienburg",
+        "type": "suburb",
+        "lat": 50.9014892,
+        "lng": 6.9774565
+      },
+      {
+        "name": "Neuehrenfeld",
+        "type": "suburb",
+        "lat": 50.958512,
+        "lng": 6.9243939
+      },
+      {
+        "name": "Ehrenfeld",
+        "type": "suburb",
+        "lat": 50.9488643,
+        "lng": 6.9198935
+      },
+      {
+        "name": "Bilderstöckchen",
+        "type": "suburb",
+        "lat": 50.9686542,
+        "lng": 6.9293607
+      },
+      {
+        "name": "Kalk",
+        "type": "suburb",
+        "lat": 50.9391021,
+        "lng": 7.0032695
+      },
+      {
+        "name": "Klettenberg",
+        "type": "suburb",
+        "lat": 50.9098095,
+        "lng": 6.924653
+      },
+      {
+        "name": "Lindenthal",
+        "type": "suburb",
+        "lat": 50.9298969,
+        "lng": 6.9143995
+      },
+      {
+        "name": "Weidenpesch",
+        "type": "suburb",
+        "lat": 50.9830002,
+        "lng": 6.9463407
+      },
+      {
+        "name": "Buchforst",
+        "type": "suburb",
+        "lat": 50.9505616,
+        "lng": 7.0054722
+      },
+      {
+        "name": "Niehl",
+        "type": "suburb",
+        "lat": 50.9898292,
+        "lng": 6.9627066
+      },
+      {
+        "name": "Gremberg",
+        "type": "suburb",
+        "lat": 50.9231802,
+        "lng": 7.0112628
+      },
+      {
+        "name": "Mülheim",
+        "type": "suburb",
+        "lat": 50.9659028,
+        "lng": 7.0077998
+      },
+      {
+        "name": "Stammheim",
+        "type": "suburb",
+        "lat": 50.9863925,
+        "lng": 6.9893266
+      },
+      {
+        "name": "Rodenkirchen",
+        "type": "suburb",
+        "lat": 50.8928511,
+        "lng": 6.9944973
+      },
+      {
+        "name": "Hochkirchen",
+        "type": "suburb",
+        "lat": 50.8809579,
+        "lng": 6.9647087
+      },
+      {
+        "name": "Braunsfeld",
+        "type": "suburb",
+        "lat": 50.9365109,
+        "lng": 6.8991826
+      },
+      {
+        "name": "Ossendorf",
+        "type": "suburb",
+        "lat": 50.9668722,
+        "lng": 6.9057465
+      },
+      {
+        "name": "Vingst",
+        "type": "suburb",
+        "lat": 50.9329543,
+        "lng": 7.0212406
+      },
+      {
+        "name": "Bickendorf",
+        "type": "suburb",
+        "lat": 50.9598891,
+        "lng": 6.9011507
+      },
+      {
+        "name": "Rondorf",
+        "type": "suburb",
+        "lat": 50.873124,
+        "lng": 6.9548745
+      },
+      {
+        "name": "Flittard",
+        "type": "suburb",
+        "lat": 51.0020492,
+        "lng": 6.9770862
+      },
+      {
+        "name": "Höhenberg",
+        "type": "suburb",
+        "lat": 50.9410028,
+        "lng": 7.0262147
+      },
+      {
+        "name": "Hahnwald",
+        "type": "suburb",
+        "lat": 50.8738192,
+        "lng": 6.9789269
+      },
+      {
+        "name": "Buchheim",
+        "type": "suburb",
+        "lat": 50.9614867,
+        "lng": 7.0240014
+      },
+      {
+        "name": "Westhoven",
+        "type": "suburb",
+        "lat": 50.8983209,
+        "lng": 7.022011
+      },
+      {
+        "name": "Longerich",
+        "type": "suburb",
+        "lat": 50.9973239,
+        "lng": 6.9137131
+      },
+      {
+        "name": "Müngersdorf",
+        "type": "suburb",
+        "lat": 50.940496,
+        "lng": 6.8793823
+      },
+      {
+        "name": "Vogelsang",
+        "type": "suburb",
+        "lat": 50.9561167,
+        "lng": 6.8801018
+      },
+      {
+        "name": "Ensen",
+        "type": "suburb",
+        "lat": 50.8972015,
+        "lng": 7.0311515
+      },
+      {
+        "name": "Meschenich",
+        "type": "suburb",
+        "lat": 50.8605854,
+        "lng": 6.9272589
+      },
+      {
+        "name": "Ostheim",
+        "type": "suburb",
+        "lat": 50.9313927,
+        "lng": 7.0457361
+      },
+      {
+        "name": "Stadtwaldviertel",
+        "type": "suburb",
+        "lat": 50.9258708,
+        "lng": 6.8728002
+      },
+      {
+        "name": "Höhenhaus",
+        "type": "suburb",
+        "lat": 50.9856509,
+        "lng": 7.0348204
+      },
+      {
+        "name": "Seeberg",
+        "type": "suburb",
+        "lat": 51.0159716,
+        "lng": 6.9159261
+      },
+      {
+        "name": "Sürth",
+        "type": "suburb",
+        "lat": 50.8622727,
+        "lng": 7.0067734
+      },
+      {
+        "name": "Merheim",
+        "type": "suburb",
+        "lat": 50.9504192,
+        "lng": 7.0485978
+      },
+      {
+        "name": "Godorf",
+        "type": "suburb",
+        "lat": 50.8491543,
+        "lng": 6.9753497
+      }
+    ]
+  },
+  {
+    "cityName": "Düsseldorf",
+    "slug": "duesseldorf",
+    "serviceDistricts": [
+      "Altstadt",
+      "Augustinusviertel",
+      "Baumberg",
+      "Berghausen",
+      "Bilk"
+    ],
+    "featuredDistricts": [
+      "Carlstadt",
+      "Derendorf",
+      "Düsseltal"
+    ],
+    "allDistricts": [
+      {
+        "name": "Altstadt",
+        "type": "suburb",
+        "lat": 51.2259125,
+        "lng": 6.7735672
+      },
+      {
+        "name": "Carlstadt",
+        "type": "suburb",
+        "lat": 51.2221416,
+        "lng": 6.7733942
+      },
+      {
+        "name": "Stadtmitte",
+        "type": "suburb",
+        "lat": 51.2219385,
+        "lng": 6.7844229
+      },
+      {
+        "name": "Friedrichstadt",
+        "type": "suburb",
+        "lat": 51.2135645,
+        "lng": 6.7816997
+      },
+      {
+        "name": "Pempelfort",
+        "type": "suburb",
+        "lat": 51.2396009,
+        "lng": 6.7796845
+      },
+      {
+        "name": "Unterbilk",
+        "type": "suburb",
+        "lat": 51.210055,
+        "lng": 6.7669651
+      },
+      {
+        "name": "Berghausen",
+        "type": "suburb",
+        "lat": 51.113559,
+        "lng": 6.9213931
+      },
+      {
+        "name": "Oberkassel",
+        "type": "suburb",
+        "lat": 51.2295816,
+        "lng": 6.7554498
+      },
+      {
+        "name": "Bilk",
+        "type": "suburb",
+        "lat": 51.2027583,
+        "lng": 6.7851015
+      },
+      {
+        "name": "Derendorf",
+        "type": "suburb",
+        "lat": 51.2445487,
+        "lng": 6.7922488
+      },
+      {
+        "name": "Niederkassel",
+        "type": "suburb",
+        "lat": 51.2402074,
+        "lng": 6.7519846
+      },
+      {
+        "name": "Oberbilk",
+        "type": "suburb",
+        "lat": 51.2136887,
+        "lng": 6.8024279
+      },
+      {
+        "name": "Golzheim",
+        "type": "suburb",
+        "lat": 51.2507945,
+        "lng": 6.7599633
+      },
+      {
+        "name": "Richrath",
+        "type": "suburb",
+        "lat": 51.1300123,
+        "lng": 6.9453956
+      },
+      {
+        "name": "Baumberg",
+        "type": "suburb",
+        "lat": 51.1170647,
+        "lng": 6.8858611
+      },
+      {
+        "name": "Karnap",
+        "type": "suburb",
+        "lat": 51.1572415,
+        "lng": 6.9333016
+      },
+      {
+        "name": "West",
+        "type": "suburb",
+        "lat": 51.2913896,
+        "lng": 6.8183558
+      },
+      {
+        "name": "Flingern Süd",
+        "type": "suburb",
+        "lat": 51.2210094,
+        "lng": 6.8100603
+      },
+      {
+        "name": "Flehe",
+        "type": "suburb",
+        "lat": 51.1889499,
+        "lng": 6.772142
+      },
+      {
+        "name": "Flingern Nord",
+        "type": "suburb",
+        "lat": 51.2313815,
+        "lng": 6.8132378
+      },
+      {
+        "name": "Düsseltal",
+        "type": "suburb",
+        "lat": 51.2378412,
+        "lng": 6.812116
+      },
+      {
+        "name": "Volmerswerth",
+        "type": "suburb",
+        "lat": 51.186561,
+        "lng": 6.7615195
+      },
+      {
+        "name": "Strauch",
+        "type": "suburb",
+        "lat": 51.1561211,
+        "lng": 6.9485088
+      },
+      {
+        "name": "Hamm",
+        "type": "suburb",
+        "lat": 51.2035725,
+        "lng": 6.7388087
+      },
+      {
+        "name": "Hafen",
+        "type": "suburb",
+        "lat": 51.2170292,
+        "lng": 6.7335758
+      },
+      {
+        "name": "Mörsenbroich",
+        "type": "suburb",
+        "lat": 51.253381,
+        "lng": 6.8116302
+      },
+      {
+        "name": "Forstbach",
+        "type": "suburb",
+        "lat": 51.1594948,
+        "lng": 6.9503215
+      },
+      {
+        "name": "Stockum",
+        "type": "suburb",
+        "lat": 51.2650919,
+        "lng": 6.7530407
+      },
+      {
+        "name": "Tiefenbroich",
+        "type": "suburb",
+        "lat": 51.3128417,
+        "lng": 6.8229196
+      },
+      {
+        "name": "Immigrath",
+        "type": "suburb",
+        "lat": 51.1148194,
+        "lng": 6.9594053
+      },
+      {
+        "name": "Hammfeld",
+        "type": "suburb",
+        "lat": 51.194392,
+        "lng": 6.7099752
+      },
+      {
+        "name": "Meide",
+        "type": "suburb",
+        "lat": 51.1767839,
+        "lng": 6.9236146
+      },
+      {
+        "name": "Unterrath",
+        "type": "suburb",
+        "lat": 51.2732625,
+        "lng": 6.786978
+      },
+      {
+        "name": "Pungshaus",
+        "type": "suburb",
+        "lat": 51.1658538,
+        "lng": 6.9499738
+      },
+      {
+        "name": "Gnadental",
+        "type": "suburb",
+        "lat": 51.1798655,
+        "lng": 6.7139386
+      },
+      {
+        "name": "Erfttal",
+        "type": "suburb",
+        "lat": 51.1681328,
+        "lng": 6.7263609
+      },
+      {
+        "name": "Kleef",
+        "type": "suburb",
+        "lat": 51.17764,
+        "lng": 6.9410874
+      },
+      {
+        "name": "Augustinusviertel",
+        "type": "suburb",
+        "lat": 51.1880819,
+        "lng": 6.7052988
+      },
+      {
+        "name": "Wersten",
+        "type": "suburb",
+        "lat": 51.1896284,
+        "lng": 6.8177768
+      },
+      {
+        "name": "Lörick",
+        "type": "suburb",
+        "lat": 51.2459011,
+        "lng": 6.7243627
+      },
+      {
+        "name": "Heerdt",
+        "type": "suburb",
+        "lat": 51.2323927,
+        "lng": 6.7201136
+      },
+      {
+        "name": "Lierenfeld",
+        "type": "suburb",
+        "lat": 51.2084072,
+        "lng": 6.8304704
+      },
+      {
+        "name": "Rath",
+        "type": "suburb",
+        "lat": 51.2639048,
+        "lng": 6.8203259
+      },
+      {
+        "name": "Grafenberg",
+        "type": "suburb",
+        "lat": 51.2410926,
+        "lng": 6.8329492
+      },
+      {
+        "name": "Kalstert",
+        "type": "suburb",
+        "lat": 51.1695327,
+        "lng": 6.9615636
+      },
+      {
+        "name": "Lichtenbroich",
+        "type": "suburb",
+        "lat": 51.2838706,
+        "lng": 6.7950205
+      },
+      {
+        "name": "Uedesheim",
+        "type": "suburb",
+        "lat": 51.1646246,
+        "lng": 6.7893
+      },
+      {
+        "name": "Himmelgeist",
+        "type": "suburb",
+        "lat": 51.1683369,
+        "lng": 6.8055675
+      },
+      {
+        "name": "Eller",
+        "type": "suburb",
+        "lat": 51.2012532,
+        "lng": 6.8375905
+      },
+      {
+        "name": "Lintorf",
+        "type": "suburb",
+        "lat": 51.333258,
+        "lng": 6.8312298
+      }
+    ]
+  },
+  {
+    "cityName": "Dortmund",
+    "slug": "dortmund",
+    "serviceDistricts": [
+      "Alt-Scharnhorst",
+      "Barop",
+      "Benninghofen",
+      "Berghofen",
+      "Bittermark"
+    ],
+    "featuredDistricts": [
+      "Brackel",
+      "Brechten",
+      "Brünninghausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Mitte",
+        "type": "suburb",
+        "lat": 51.5142235,
+        "lng": 7.4650942
+      },
+      {
+        "name": "Innenstadt Nord",
+        "type": "suburb",
+        "lat": 51.5291362,
+        "lng": 7.4686075
+      },
+      {
+        "name": "Innenstadt Ost",
+        "type": "suburb",
+        "lat": 51.5090745,
+        "lng": 7.491317
+      },
+      {
+        "name": "Körne",
+        "type": "suburb",
+        "lat": 51.5139716,
+        "lng": 7.4986384
+      },
+      {
+        "name": "Innenstadt West",
+        "type": "suburb",
+        "lat": 51.5088833,
+        "lng": 7.4323084
+      },
+      {
+        "name": "Eving",
+        "type": "suburb",
+        "lat": 51.5481277,
+        "lng": 7.4650456
+      },
+      {
+        "name": "Brünninghausen",
+        "type": "suburb",
+        "lat": 51.4803922,
+        "lng": 7.4586556
+      },
+      {
+        "name": "Renninghausen",
+        "type": "suburb",
+        "lat": 51.4773153,
+        "lng": 7.4479096
+      },
+      {
+        "name": "Hacheney",
+        "type": "suburb",
+        "lat": 51.4763775,
+        "lng": 7.4817835
+      },
+      {
+        "name": "Lindenhorst",
+        "type": "suburb",
+        "lat": 51.5552195,
+        "lng": 7.4560257
+      },
+      {
+        "name": "Hörde",
+        "type": "suburb",
+        "lat": 51.4904608,
+        "lng": 7.5009394
+      },
+      {
+        "name": "Dorstfeld",
+        "type": "suburb",
+        "lat": 51.5119955,
+        "lng": 7.4220018
+      },
+      {
+        "name": "Hombruch",
+        "type": "suburb",
+        "lat": 51.4752402,
+        "lng": 7.4379477
+      },
+      {
+        "name": "Gartenstadt",
+        "type": "suburb",
+        "lat": 51.504564,
+        "lng": 7.5128519
+      },
+      {
+        "name": "Kemminghausen",
+        "type": "suburb",
+        "lat": 51.5602771,
+        "lng": 7.4817685
+      },
+      {
+        "name": "Deusen",
+        "type": "suburb",
+        "lat": 51.5449468,
+        "lng": 7.4260393
+      },
+      {
+        "name": "Wellinghofen",
+        "type": "suburb",
+        "lat": 51.470103,
+        "lng": 7.4891566
+      },
+      {
+        "name": "Lücklemberg",
+        "type": "suburb",
+        "lat": 51.463454,
+        "lng": 7.4712138
+      },
+      {
+        "name": "Kleinholthausen",
+        "type": "suburb",
+        "lat": 51.464201,
+        "lng": 7.454689
+      },
+      {
+        "name": "Barop",
+        "type": "suburb",
+        "lat": 51.485731,
+        "lng": 7.4210778
+      },
+      {
+        "name": "Huckarde",
+        "type": "suburb",
+        "lat": 51.5317893,
+        "lng": 7.4156554
+      },
+      {
+        "name": "Ellinghausen",
+        "type": "suburb",
+        "lat": 51.5547132,
+        "lng": 7.4261312
+      },
+      {
+        "name": "Kirchhörde",
+        "type": "suburb",
+        "lat": 51.4573699,
+        "lng": 7.4644199
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 51.5671884,
+        "lng": 7.4421785
+      },
+      {
+        "name": "Wambel",
+        "type": "suburb",
+        "lat": 51.5216853,
+        "lng": 7.5229208
+      },
+      {
+        "name": "Benninghofen",
+        "type": "suburb",
+        "lat": 51.475893,
+        "lng": 7.5096129
+      },
+      {
+        "name": "Kirchderne",
+        "type": "suburb",
+        "lat": 51.5562055,
+        "lng": 7.5062585
+      },
+      {
+        "name": "Menglinghausen",
+        "type": "suburb",
+        "lat": 51.4726533,
+        "lng": 7.4226399
+      },
+      {
+        "name": "Löttringhausen",
+        "type": "suburb",
+        "lat": 51.4580946,
+        "lng": 7.4445927
+      },
+      {
+        "name": "Wichlinghofen",
+        "type": "suburb",
+        "lat": 51.4567078,
+        "lng": 7.4884271
+      },
+      {
+        "name": "Wischlingen",
+        "type": "suburb",
+        "lat": 51.5251225,
+        "lng": 7.4035806
+      },
+      {
+        "name": "Brechten",
+        "type": "suburb",
+        "lat": 51.5783423,
+        "lng": 7.4646609
+      },
+      {
+        "name": "Großholthausen",
+        "type": "suburb",
+        "lat": 51.4567309,
+        "lng": 7.430608
+      },
+      {
+        "name": "Bittermark",
+        "type": "suburb",
+        "lat": 51.446493,
+        "lng": 7.4674511
+      },
+      {
+        "name": "Eichlinghofen",
+        "type": "suburb",
+        "lat": 51.4822568,
+        "lng": 7.4040748
+      },
+      {
+        "name": "Loh",
+        "type": "suburb",
+        "lat": 51.4683694,
+        "lng": 7.5172213
+      },
+      {
+        "name": "Alt-Scharnhorst",
+        "type": "suburb",
+        "lat": 51.5496355,
+        "lng": 7.5290802
+      },
+      {
+        "name": "Schüren",
+        "type": "suburb",
+        "lat": 51.49443,
+        "lng": 7.5388261
+      },
+      {
+        "name": "Schanze",
+        "type": "suburb",
+        "lat": 51.4382764,
+        "lng": 7.4539286
+      },
+      {
+        "name": "Berghofen",
+        "type": "suburb",
+        "lat": 51.4769461,
+        "lng": 7.5325011
+      },
+      {
+        "name": "Höchsten",
+        "type": "suburb",
+        "lat": 51.4630984,
+        "lng": 7.5246047
+      },
+      {
+        "name": "Derne",
+        "type": "suburb",
+        "lat": 51.5688823,
+        "lng": 7.5218214
+      },
+      {
+        "name": "Rahm",
+        "type": "suburb",
+        "lat": 51.5228236,
+        "lng": 7.3866177
+      },
+      {
+        "name": "Persebeck",
+        "type": "suburb",
+        "lat": 51.4584056,
+        "lng": 7.4090521
+      },
+      {
+        "name": "Kruckel",
+        "type": "suburb",
+        "lat": 51.4541507,
+        "lng": 7.413224
+      },
+      {
+        "name": "Marten",
+        "type": "suburb",
+        "lat": 51.5092209,
+        "lng": 7.3851476
+      },
+      {
+        "name": "Salingen",
+        "type": "suburb",
+        "lat": 51.4721678,
+        "lng": 7.3963282
+      },
+      {
+        "name": "Schnee",
+        "type": "suburb",
+        "lat": 51.4423766,
+        "lng": 7.4276134
+      },
+      {
+        "name": "Schwieringhausen",
+        "type": "suburb",
+        "lat": 51.58102,
+        "lng": 7.4186815
+      },
+      {
+        "name": "Brackel",
+        "type": "suburb",
+        "lat": 51.5241752,
+        "lng": 7.5462227
+      }
+    ]
+  },
+  {
+    "cityName": "Essen",
+    "slug": "essen",
+    "serviceDistricts": [
+      "Altendorf",
+      "Altenessen",
+      "Altstadt",
+      "Bedingrade",
+      "Bergeborbeck"
+    ],
+    "featuredDistricts": [
+      "Bergerhausen",
+      "Bochold",
+      "Borbeck-Mitte"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rüttenscheid",
+        "type": "suburb",
+        "lat": 51.4353172,
+        "lng": 7.0069854
+      },
+      {
+        "name": "Stoppenberg",
+        "type": "suburb",
+        "lat": 51.4752519,
+        "lng": 7.0363234
+      },
+      {
+        "name": "Huttrop",
+        "type": "suburb",
+        "lat": 51.4474456,
+        "lng": 7.0448711
+      },
+      {
+        "name": "Altenessen",
+        "type": "suburb",
+        "lat": 51.4912248,
+        "lng": 7.0082355
+      },
+      {
+        "name": "Holsterhausen",
+        "type": "suburb",
+        "lat": 51.4394468,
+        "lng": 6.9864223
+      },
+      {
+        "name": "Frillendorf",
+        "type": "suburb",
+        "lat": 51.4626107,
+        "lng": 7.0510452
+      },
+      {
+        "name": "Bergerhausen",
+        "type": "suburb",
+        "lat": 51.436176,
+        "lng": 7.0439122
+      },
+      {
+        "name": "Rotthausen",
+        "type": "suburb",
+        "lat": 51.4905161,
+        "lng": 7.0845795
+      },
+      {
+        "name": "Stadtwald",
+        "type": "suburb",
+        "lat": 51.4202533,
+        "lng": 7.0262109
+      },
+      {
+        "name": "Altendorf",
+        "type": "suburb",
+        "lat": 51.4610327,
+        "lng": 6.9758433
+      },
+      {
+        "name": "Feldmark",
+        "type": "suburb",
+        "lat": 51.5089546,
+        "lng": 7.0716731
+      },
+      {
+        "name": "Frohnhausen",
+        "type": "suburb",
+        "lat": 51.4462205,
+        "lng": 6.9722084
+      },
+      {
+        "name": "Margarethenhöhe",
+        "type": "suburb",
+        "lat": 51.4323821,
+        "lng": 6.9771111
+      },
+      {
+        "name": "Rellinghausen",
+        "type": "suburb",
+        "lat": 51.4259329,
+        "lng": 7.0512693
+      },
+      {
+        "name": "Vogelheim",
+        "type": "suburb",
+        "lat": 51.4987931,
+        "lng": 6.9883526
+      },
+      {
+        "name": "Katernberg",
+        "type": "suburb",
+        "lat": 51.496634,
+        "lng": 7.0475778
+      },
+      {
+        "name": "Bredeney",
+        "type": "suburb",
+        "lat": 51.4123453,
+        "lng": 6.9940457
+      },
+      {
+        "name": "Schonnebeck",
+        "type": "suburb",
+        "lat": 51.4844305,
+        "lng": 7.061321
+      },
+      {
+        "name": "Bochold",
+        "type": "suburb",
+        "lat": 51.472545,
+        "lng": 6.9634864
+      },
+      {
+        "name": "Altstadt",
+        "type": "suburb",
+        "lat": 51.5088053,
+        "lng": 7.0935278
+      },
+      {
+        "name": "Bergeborbeck",
+        "type": "suburb",
+        "lat": 51.4846442,
+        "lng": 6.9656575
+      },
+      {
+        "name": "Neustadt",
+        "type": "suburb",
+        "lat": 51.5027267,
+        "lng": 7.1029455
+      },
+      {
+        "name": "Steele",
+        "type": "suburb",
+        "lat": 51.4477081,
+        "lng": 7.0771986
+      },
+      {
+        "name": "Fulerum",
+        "type": "suburb",
+        "lat": 51.4316623,
+        "lng": 6.95761
+      },
+      {
+        "name": "Karnap",
+        "type": "suburb",
+        "lat": 51.523574,
+        "lng": 7.0088793
+      },
+      {
+        "name": "Kray",
+        "type": "suburb",
+        "lat": 51.466847,
+        "lng": 7.0821576
+      },
+      {
+        "name": "Überruhr-Hinsel",
+        "type": "suburb",
+        "lat": 51.4290518,
+        "lng": 7.0762787
+      },
+      {
+        "name": "Fischlaken",
+        "type": "suburb",
+        "lat": 51.3921407,
+        "lng": 7.0302118
+      },
+      {
+        "name": "Borbeck-Mitte",
+        "type": "suburb",
+        "lat": 51.4744601,
+        "lng": 6.9499028
+      },
+      {
+        "name": "Haarzopf",
+        "type": "suburb",
+        "lat": 51.4206227,
+        "lng": 6.9584991
+      },
+      {
+        "name": "Werden",
+        "type": "suburb",
+        "lat": 51.3882195,
+        "lng": 7.0028334
+      },
+      {
+        "name": "Überruhr-Holthausen",
+        "type": "suburb",
+        "lat": 51.4201134,
+        "lng": 7.0796687
+      },
+      {
+        "name": "Heisingen",
+        "type": "suburb",
+        "lat": 51.4032669,
+        "lng": 7.0672889
+      },
+      {
+        "name": "Schönebeck",
+        "type": "suburb",
+        "lat": 51.4538986,
+        "lng": 6.9390077
+      },
+      {
+        "name": "Gerschede",
+        "type": "suburb",
+        "lat": 51.4798651,
+        "lng": 6.9385771
+      },
+      {
+        "name": "Leithe",
+        "type": "suburb",
+        "lat": 51.4641778,
+        "lng": 7.0959393
+      },
+      {
+        "name": "Heidhausen",
+        "type": "suburb",
+        "lat": 51.3738087,
+        "lng": 7.0159428
+      },
+      {
+        "name": "Horst",
+        "type": "suburb",
+        "lat": 51.4364796,
+        "lng": 7.1007021
+      },
+      {
+        "name": "Dellwig",
+        "type": "suburb",
+        "lat": 51.4865959,
+        "lng": 6.931433
+      },
+      {
+        "name": "Bedingrade",
+        "type": "suburb",
+        "lat": 51.4686805,
+        "lng": 6.9266688
+      },
+      {
+        "name": "Freisenbruch",
+        "type": "suburb",
+        "lat": 51.4468002,
+        "lng": 7.106497
+      },
+      {
+        "name": "Kupferdreh",
+        "type": "suburb",
+        "lat": 51.3915323,
+        "lng": 7.0833962
+      },
+      {
+        "name": "Byfang",
+        "type": "suburb",
+        "lat": 51.404553,
+        "lng": 7.0962936
+      },
+      {
+        "name": "Frintrop",
+        "type": "suburb",
+        "lat": 51.4776025,
+        "lng": 6.908272
+      },
+      {
+        "name": "Burgaltendorf",
+        "type": "suburb",
+        "lat": 51.4147298,
+        "lng": 7.1201524
+      },
+      {
+        "name": "Kettwig",
+        "type": "suburb",
+        "lat": 51.363076,
+        "lng": 6.9390685
+      },
+      {
+        "name": "Kettwig vor der Brücke",
+        "type": "suburb",
+        "lat": 51.3601035,
+        "lng": 6.933283
+      }
+    ]
+  },
+  {
+    "cityName": "Duisburg",
+    "slug": "duisburg",
+    "serviceDistricts": [
+      "Alt-Walsum",
+      "Altstadt",
+      "Angerhausen",
+      "Asterlagen",
+      "Baerl"
+    ],
+    "featuredDistricts": [
+      "Beeck",
+      "Beeckerwerth",
+      "Bergheim"
+    ],
+    "allDistricts": [
+      {
+        "name": "Altstadt",
+        "type": "suburb",
+        "lat": 51.4350176,
+        "lng": 6.761158
+      },
+      {
+        "name": "Kaßlerfeld",
+        "type": "suburb",
+        "lat": 51.441148,
+        "lng": 6.7534746
+      },
+      {
+        "name": "Hochfeld",
+        "type": "suburb",
+        "lat": 51.4191438,
+        "lng": 6.7550194
+      },
+      {
+        "name": "Duissern",
+        "type": "suburb",
+        "lat": 51.4398106,
+        "lng": 6.7876854
+      },
+      {
+        "name": "Neudorf",
+        "type": "suburb",
+        "lat": 51.4218258,
+        "lng": 6.7858042
+      },
+      {
+        "name": "Ruhrort",
+        "type": "suburb",
+        "lat": 51.4538969,
+        "lng": 6.733484
+      },
+      {
+        "name": "Wanheimerort",
+        "type": "suburb",
+        "lat": 51.4022807,
+        "lng": 6.7595258
+      },
+      {
+        "name": "Neuenkamp",
+        "type": "suburb",
+        "lat": 51.4348531,
+        "lng": 6.7248367
+      },
+      {
+        "name": "Meiderich",
+        "type": "suburb",
+        "lat": 51.4682939,
+        "lng": 6.7748552
+      },
+      {
+        "name": "Laar",
+        "type": "suburb",
+        "lat": 51.4646469,
+        "lng": 6.7297927
+      },
+      {
+        "name": "Hochemmerich",
+        "type": "suburb",
+        "lat": 51.4123393,
+        "lng": 6.7187191
+      },
+      {
+        "name": "Beeck",
+        "type": "suburb",
+        "lat": 51.4773888,
+        "lng": 6.7342224
+      },
+      {
+        "name": "Buchholz",
+        "type": "suburb",
+        "lat": 51.3837164,
+        "lng": 6.7634895
+      },
+      {
+        "name": "Wanheim",
+        "type": "suburb",
+        "lat": 51.3869244,
+        "lng": 6.7405648
+      },
+      {
+        "name": "Essenberg",
+        "type": "suburb",
+        "lat": 51.4388744,
+        "lng": 6.7059782
+      },
+      {
+        "name": "Bruckhausen",
+        "type": "suburb",
+        "lat": 51.4874995,
+        "lng": 6.7396567
+      },
+      {
+        "name": "Wedau",
+        "type": "suburb",
+        "lat": 51.3921127,
+        "lng": 6.7971086
+      },
+      {
+        "name": "Angerhausen",
+        "type": "suburb",
+        "lat": 51.3786366,
+        "lng": 6.7455942
+      },
+      {
+        "name": "Homberg",
+        "type": "suburb",
+        "lat": 51.4541984,
+        "lng": 6.7037774
+      },
+      {
+        "name": "Hamborn",
+        "type": "suburb",
+        "lat": 51.492381,
+        "lng": 6.7732976
+      },
+      {
+        "name": "Rheinhausen",
+        "type": "suburb",
+        "lat": 51.4029342,
+        "lng": 6.7070812
+      },
+      {
+        "name": "Neumühl",
+        "type": "suburb",
+        "lat": 51.4902985,
+        "lng": 6.7973866
+      },
+      {
+        "name": "Bissingheim",
+        "type": "suburb",
+        "lat": 51.3923803,
+        "lng": 6.8117398
+      },
+      {
+        "name": "Marxloh",
+        "type": "suburb",
+        "lat": 51.5039265,
+        "lng": 6.7589638
+      },
+      {
+        "name": "Huckingen",
+        "type": "suburb",
+        "lat": 51.3659376,
+        "lng": 6.7505523
+      },
+      {
+        "name": "Asterlagen",
+        "type": "suburb",
+        "lat": 51.4265359,
+        "lng": 6.6894358
+      },
+      {
+        "name": "Bergheim",
+        "type": "suburb",
+        "lat": 51.4125706,
+        "lng": 6.690846
+      },
+      {
+        "name": "Großenbaum",
+        "type": "suburb",
+        "lat": 51.3649245,
+        "lng": 6.7793089
+      },
+      {
+        "name": "Friemersheim",
+        "type": "suburb",
+        "lat": 51.3879894,
+        "lng": 6.7063302
+      },
+      {
+        "name": "Beeckerwerth",
+        "type": "suburb",
+        "lat": 51.476088,
+        "lng": 6.6987755
+      },
+      {
+        "name": "Obermarxloh",
+        "type": "suburb",
+        "lat": 51.5058197,
+        "lng": 6.7806335
+      },
+      {
+        "name": "Hüttenheim",
+        "type": "suburb",
+        "lat": 51.3680959,
+        "lng": 6.7280084
+      },
+      {
+        "name": "Oestrum",
+        "type": "suburb",
+        "lat": 51.4174786,
+        "lng": 6.6825632
+      },
+      {
+        "name": "Röttgersbach",
+        "type": "suburb",
+        "lat": 51.5144834,
+        "lng": 6.7777961
+      },
+      {
+        "name": "Ungelsheim",
+        "type": "suburb",
+        "lat": 51.357657,
+        "lng": 6.7329948
+      },
+      {
+        "name": "Rahm",
+        "type": "suburb",
+        "lat": 51.349127,
+        "lng": 6.7832716
+      },
+      {
+        "name": "Wehofen",
+        "type": "suburb",
+        "lat": 51.5278785,
+        "lng": 6.765028
+      },
+      {
+        "name": "Trompet",
+        "type": "suburb",
+        "lat": 51.4149792,
+        "lng": 6.6682716
+      },
+      {
+        "name": "Walsum",
+        "type": "suburb",
+        "lat": 51.5306436,
+        "lng": 6.7379952
+      },
+      {
+        "name": "Rumeln",
+        "type": "suburb",
+        "lat": 51.400221,
+        "lng": 6.6677242
+      },
+      {
+        "name": "Baerl",
+        "type": "suburb",
+        "lat": 51.4924989,
+        "lng": 6.6763978
+      },
+      {
+        "name": "Vierlinden",
+        "type": "suburb",
+        "lat": 51.5387456,
+        "lng": 6.7356021
+      },
+      {
+        "name": "Alt-Walsum",
+        "type": "suburb",
+        "lat": 51.5343576,
+        "lng": 6.7059169
+      },
+      {
+        "name": "Kaldenhausen",
+        "type": "suburb",
+        "lat": 51.3918506,
+        "lng": 6.6541397
+      },
+      {
+        "name": "Lohheide",
+        "type": "suburb",
+        "lat": 51.5054507,
+        "lng": 6.6667649
+      },
+      {
+        "name": "Overbruch",
+        "type": "suburb",
+        "lat": 51.5479962,
+        "lng": 6.7185962
+      }
+    ]
+  },
+  {
+    "cityName": "Bochum",
+    "slug": "bochum",
+    "serviceDistricts": [
+      "Altenbochum",
+      "Altenhöfen",
+      "Bergen",
+      "Dahlhausen",
+      "Eickel"
+    ],
+    "featuredDistricts": [
+      "Eppendorf",
+      "Gerthe",
+      "Grumme"
+    ],
+    "allDistricts": [
+      {
+        "name": "Grumme",
+        "type": "suburb",
+        "lat": 51.5000107,
+        "lng": 7.2330816
+      },
+      {
+        "name": "Wiemelhausen",
+        "type": "suburb",
+        "lat": 51.458753,
+        "lng": 7.2273719
+      },
+      {
+        "name": "Hamme",
+        "type": "suburb",
+        "lat": 51.4912642,
+        "lng": 7.1929997
+      },
+      {
+        "name": "Altenbochum",
+        "type": "suburb",
+        "lat": 51.473028,
+        "lng": 7.247222
+      },
+      {
+        "name": "Riemke",
+        "type": "suburb",
+        "lat": 51.5114682,
+        "lng": 7.2128499
+      },
+      {
+        "name": "Hofstede",
+        "type": "suburb",
+        "lat": 51.5054318,
+        "lng": 7.197126
+      },
+      {
+        "name": "Weitmar",
+        "type": "suburb",
+        "lat": 51.4494693,
+        "lng": 7.1990871
+      },
+      {
+        "name": "Eickel",
+        "type": "suburb",
+        "lat": 51.5134781,
+        "lng": 7.1764986
+      },
+      {
+        "name": "Bergen",
+        "type": "suburb",
+        "lat": 51.5160536,
+        "lng": 7.2398618
+      },
+      {
+        "name": "Hiltrop",
+        "type": "suburb",
+        "lat": 51.5154474,
+        "lng": 7.2596062
+      },
+      {
+        "name": "Laer",
+        "type": "suburb",
+        "lat": 51.469007,
+        "lng": 7.2715598
+      },
+      {
+        "name": "Röhlinghausen",
+        "type": "suburb",
+        "lat": 51.5154216,
+        "lng": 7.1550259
+      },
+      {
+        "name": "Hordel",
+        "type": "suburb",
+        "lat": 51.4997286,
+        "lng": 7.1680378
+      },
+      {
+        "name": "Eppendorf",
+        "type": "suburb",
+        "lat": 51.4544958,
+        "lng": 7.170781
+      },
+      {
+        "name": "Heven",
+        "type": "suburb",
+        "lat": 51.4403909,
+        "lng": 7.3085535
+      },
+      {
+        "name": "Holte-Kreta",
+        "type": "suburb",
+        "lat": 51.5065092,
+        "lng": 7.3146619
+      },
+      {
+        "name": "Stiepel",
+        "type": "suburb",
+        "lat": 51.4272719,
+        "lng": 7.2409352
+      },
+      {
+        "name": "Altenhöfen",
+        "type": "suburb",
+        "lat": 51.5275394,
+        "lng": 7.2278287
+      },
+      {
+        "name": "Harpen",
+        "type": "suburb",
+        "lat": 51.4937881,
+        "lng": 7.2781085
+      },
+      {
+        "name": "Querenburg",
+        "type": "suburb",
+        "lat": 51.4500203,
+        "lng": 7.2711932
+      },
+      {
+        "name": "Munscheid",
+        "type": "suburb",
+        "lat": 51.4405255,
+        "lng": 7.1699967
+      },
+      {
+        "name": "Günnigfeld",
+        "type": "suburb",
+        "lat": 51.4929131,
+        "lng": 7.1520539
+      },
+      {
+        "name": "Westenfeld",
+        "type": "suburb",
+        "lat": 51.4706346,
+        "lng": 7.148203
+      },
+      {
+        "name": "Linden",
+        "type": "suburb",
+        "lat": 51.4274909,
+        "lng": 7.1686215
+      },
+      {
+        "name": "Höntrop",
+        "type": "suburb",
+        "lat": 51.4558432,
+        "lng": 7.1490414
+      },
+      {
+        "name": "Gerthe",
+        "type": "suburb",
+        "lat": 51.5181221,
+        "lng": 7.28653
+      },
+      {
+        "name": "Innenstadt",
+        "type": "suburb",
+        "lat": 51.4818145,
+        "lng": 7.2196633
+      },
+      {
+        "name": "Wattenscheid",
+        "type": "suburb",
+        "lat": 51.4817107,
+        "lng": 7.1356618
+      },
+      {
+        "name": "Werne",
+        "type": "suburb",
+        "lat": 51.4884269,
+        "lng": 7.3053252
+      },
+      {
+        "name": "Dahlhausen",
+        "type": "suburb",
+        "lat": 51.4313774,
+        "lng": 7.1471441
+      },
+      {
+        "name": "Sevinghausen",
+        "type": "suburb",
+        "lat": 51.4610101,
+        "lng": 7.1251446
+      },
+      {
+        "name": "Langendreer",
+        "type": "suburb",
+        "lat": 51.472235,
+        "lng": 7.3211827
+      },
+      {
+        "name": "Leithe",
+        "type": "suburb",
+        "lat": 51.479151,
+        "lng": 7.1106726
+      }
+    ]
+  },
+  {
+    "cityName": "Wuppertal",
+    "slug": "wuppertal",
+    "serviceDistricts": [
+      "Arrenberg",
+      "Barmen",
+      "Brill",
+      "Cronenberg",
+      "Dönberg"
+    ],
+    "featuredDistricts": [
+      "Dornap",
+      "Eckbusch",
+      "Elberfeld"
+    ],
+    "allDistricts": [
+      {
+        "name": "Unterbarmen",
+        "type": "suburb",
+        "lat": 51.2591002,
+        "lng": 7.1746518
+      },
+      {
+        "name": "Rott",
+        "type": "suburb",
+        "lat": 51.2734566,
+        "lng": 7.1860707
+      },
+      {
+        "name": "Lichtenplatz",
+        "type": "suburb",
+        "lat": 51.2489743,
+        "lng": 7.1925722
+      },
+      {
+        "name": "Sedansberg",
+        "type": "suburb",
+        "lat": 51.2771317,
+        "lng": 7.1946737
+      },
+      {
+        "name": "Barmen",
+        "type": "suburb",
+        "lat": 51.2716035,
+        "lng": 7.2003449
+      },
+      {
+        "name": "Ostersbaum",
+        "type": "suburb",
+        "lat": 51.2650527,
+        "lng": 7.1522724
+      },
+      {
+        "name": "Uellendahl",
+        "type": "suburb",
+        "lat": 51.2805601,
+        "lng": 7.1558299
+      },
+      {
+        "name": "Südstadt",
+        "type": "suburb",
+        "lat": 51.2517344,
+        "lng": 7.1495387
+      },
+      {
+        "name": "Grifflenberg",
+        "type": "suburb",
+        "lat": 51.2448967,
+        "lng": 7.1533464
+      },
+      {
+        "name": "Elberfeld",
+        "type": "suburb",
+        "lat": 51.2573333,
+        "lng": 7.1458183
+      },
+      {
+        "name": "Nordstadt",
+        "type": "suburb",
+        "lat": 51.2645358,
+        "lng": 7.1436142
+      },
+      {
+        "name": "Heckinghausen",
+        "type": "suburb",
+        "lat": 51.2679999,
+        "lng": 7.2155123
+      },
+      {
+        "name": "Dönberg",
+        "type": "suburb",
+        "lat": 51.2980697,
+        "lng": 7.1608268
+      },
+      {
+        "name": "Wichlinghausen",
+        "type": "suburb",
+        "lat": 51.283773,
+        "lng": 7.2145105
+      },
+      {
+        "name": "Luisenviertel",
+        "type": "suburb",
+        "lat": 51.255914,
+        "lng": 7.137074
+      },
+      {
+        "name": "Ronsdorf",
+        "type": "suburb",
+        "lat": 51.2264266,
+        "lng": 7.1988387
+      },
+      {
+        "name": "Friedrichsberg",
+        "type": "suburb",
+        "lat": 51.2455978,
+        "lng": 7.1389938
+      },
+      {
+        "name": "Ölberg",
+        "type": "suburb",
+        "lat": 51.2595952,
+        "lng": 7.1349157
+      },
+      {
+        "name": "Hahnerberg",
+        "type": "suburb",
+        "lat": 51.2230878,
+        "lng": 7.1516164
+      },
+      {
+        "name": "Arrenberg",
+        "type": "suburb",
+        "lat": 51.2490269,
+        "lng": 7.1311158
+      },
+      {
+        "name": "Schraberg",
+        "type": "suburb",
+        "lat": 51.2995076,
+        "lng": 7.2131296
+      },
+      {
+        "name": "Brill",
+        "type": "suburb",
+        "lat": 51.2556784,
+        "lng": 7.1287627
+      },
+      {
+        "name": "Küllenhahn",
+        "type": "suburb",
+        "lat": 51.2288447,
+        "lng": 7.1345385
+      },
+      {
+        "name": "Katernberg",
+        "type": "suburb",
+        "lat": 51.2727357,
+        "lng": 7.113944
+      },
+      {
+        "name": "Langerfeld",
+        "type": "suburb",
+        "lat": 51.2743154,
+        "lng": 7.2436668
+      },
+      {
+        "name": "Nützenberg",
+        "type": "suburb",
+        "lat": 51.2536837,
+        "lng": 7.1123587
+      },
+      {
+        "name": "Cronenberg",
+        "type": "suburb",
+        "lat": 51.2057047,
+        "lng": 7.1312798
+      },
+      {
+        "name": "Eckbusch",
+        "type": "suburb",
+        "lat": 51.2786559,
+        "lng": 7.1046541
+      },
+      {
+        "name": "Sonnborn",
+        "type": "suburb",
+        "lat": 51.2378546,
+        "lng": 7.0986912
+      },
+      {
+        "name": "Nächstebreck",
+        "type": "suburb",
+        "lat": 51.3044256,
+        "lng": 7.251475
+      },
+      {
+        "name": "Varresbeck",
+        "type": "suburb",
+        "lat": 51.2471779,
+        "lng": 7.0936144
+      },
+      {
+        "name": "Lüntenbeck",
+        "type": "suburb",
+        "lat": 51.2507504,
+        "lng": 7.0835173
+      },
+      {
+        "name": "Vohwinkel",
+        "type": "suburb",
+        "lat": 51.2311401,
+        "lng": 7.0703608
+      },
+      {
+        "name": "Dornap",
+        "type": "suburb",
+        "lat": 51.2537756,
+        "lng": 7.0638739
+      },
+      {
+        "name": "Schöller",
+        "type": "suburb",
+        "lat": 51.2447236,
+        "lng": 7.0317059
+      }
+    ]
+  },
+  {
+    "cityName": "Bielefeld",
+    "slug": "bielefeld",
+    "serviceDistricts": [
+      "Brackwede",
+      "Dornberg",
+      "Gadderbaum",
+      "Heepen",
+      "Jöllenbeck"
+    ],
+    "featuredDistricts": [
+      "Mitte",
+      "Schildesche",
+      "Senne"
+    ],
+    "allDistricts": [
+      {
+        "name": "Mitte",
+        "type": "suburb",
+        "lat": 52.0208755,
+        "lng": 8.5308979
+      },
+      {
+        "name": "Gadderbaum",
+        "type": "suburb",
+        "lat": 52.0031035,
+        "lng": 8.5216345
+      },
+      {
+        "name": "Brackwede",
+        "type": "suburb",
+        "lat": 51.9875236,
+        "lng": 8.5162917
+      },
+      {
+        "name": "Schildesche",
+        "type": "suburb",
+        "lat": 52.0531702,
+        "lng": 8.5540589
+      },
+      {
+        "name": "Stieghorst",
+        "type": "suburb",
+        "lat": 51.9981869,
+        "lng": 8.5799327
+      },
+      {
+        "name": "Senne",
+        "type": "suburb",
+        "lat": 51.9669478,
+        "lng": 8.5139755
+      },
+      {
+        "name": "Dornberg",
+        "type": "suburb",
+        "lat": 52.0511861,
+        "lng": 8.4780667
+      },
+      {
+        "name": "Heepen",
+        "type": "suburb",
+        "lat": 52.0320354,
+        "lng": 8.6035378
+      },
+      {
+        "name": "Jöllenbeck",
+        "type": "suburb",
+        "lat": 52.0964222,
+        "lng": 8.5130168
+      },
+      {
+        "name": "Sennestadt",
+        "type": "suburb",
+        "lat": 51.946044,
+        "lng": 8.5850829
+      }
+    ]
+  },
+  {
+    "cityName": "Bonn",
+    "slug": "bonn",
+    "serviceDistricts": [
+      "Bad Godesberg",
+      "Beuel",
+      "Hangelar",
+      "Hardtberg",
+      "Niederberg"
+    ],
+    "featuredDistricts": [
+      "Niederdollendorf",
+      "Oberdollendorf",
+      "Römlinghoven"
+    ],
+    "allDistricts": [
+      {
+        "name": "Beuel",
+        "type": "suburb",
+        "lat": 50.7386619,
+        "lng": 7.1245135
+      },
+      {
+        "name": "Römlinghoven",
+        "type": "suburb",
+        "lat": 50.7077849,
+        "lng": 7.1846589
+      },
+      {
+        "name": "Niederdollendorf",
+        "type": "suburb",
+        "lat": 50.6947564,
+        "lng": 7.1787484
+      },
+      {
+        "name": "Hangelar",
+        "type": "suburb",
+        "lat": 50.7591626,
+        "lng": 7.1664663
+      },
+      {
+        "name": "Oberdollendorf",
+        "type": "suburb",
+        "lat": 50.6973984,
+        "lng": 7.1926083
+      },
+      {
+        "name": "Niederberg",
+        "type": "suburb",
+        "lat": 50.7587487,
+        "lng": 7.1819587
+      },
+      {
+        "name": "Hardtberg",
+        "type": "suburb",
+        "lat": 50.7063244,
+        "lng": 7.0518064
+      },
+      {
+        "name": "Bad Godesberg",
+        "type": "suburb",
+        "lat": 50.6850682,
+        "lng": 7.156323
+      }
+    ]
+  },
+  {
+    "cityName": "Münster",
+    "slug": "muenster",
+    "serviceDistricts": [
+      "Aaseestadt",
+      "Alt-Coerde",
+      "Angelmodde",
+      "Angelmodde-Waldsiedlung",
+      "Bahnhof"
+    ],
+    "featuredDistricts": [
+      "Berg Fidel",
+      "Coerde",
+      "Geistviertel"
+    ],
+    "allDistricts": [
+      {
+        "name": "Kuhviertel",
+        "type": "suburb",
+        "lat": 51.9657246,
+        "lng": 7.6207566
+      },
+      {
+        "name": "Martini",
+        "type": "suburb",
+        "lat": 51.9657906,
+        "lng": 7.6300581
+      },
+      {
+        "name": "Kreuzviertel",
+        "type": "suburb",
+        "lat": 51.9709614,
+        "lng": 7.6231359
+      },
+      {
+        "name": "Bahnhof",
+        "type": "suburb",
+        "lat": 51.9573591,
+        "lng": 7.633053
+      },
+      {
+        "name": "Südviertel",
+        "type": "suburb",
+        "lat": 51.9505466,
+        "lng": 7.628583
+      },
+      {
+        "name": "Pluggendorf",
+        "type": "suburb",
+        "lat": 51.9528839,
+        "lng": 7.6147413
+      },
+      {
+        "name": "Uppenberg",
+        "type": "suburb",
+        "lat": 51.9814463,
+        "lng": 7.6140215
+      },
+      {
+        "name": "Zentrum Nord",
+        "type": "suburb",
+        "lat": 51.9830234,
+        "lng": 7.6362714
+      },
+      {
+        "name": "Rumphorst",
+        "type": "suburb",
+        "lat": 51.9797179,
+        "lng": 7.6413349
+      },
+      {
+        "name": "Geistviertel",
+        "type": "suburb",
+        "lat": 51.9395287,
+        "lng": 7.6183703
+      },
+      {
+        "name": "Mauritzviertel",
+        "type": "suburb",
+        "lat": 51.962729,
+        "lng": 7.653957
+      },
+      {
+        "name": "Aaseestadt",
+        "type": "suburb",
+        "lat": 51.9426195,
+        "lng": 7.6043471
+      },
+      {
+        "name": "Sentruper Höhe",
+        "type": "suburb",
+        "lat": 51.9618155,
+        "lng": 7.5936625
+      },
+      {
+        "name": "Alt-Coerde",
+        "type": "suburb",
+        "lat": 51.9961336,
+        "lng": 7.6390763
+      },
+      {
+        "name": "Berg Fidel",
+        "type": "suburb",
+        "lat": 51.9248633,
+        "lng": 7.6222322
+      },
+      {
+        "name": "Coerde",
+        "type": "suburb",
+        "lat": 51.9941918,
+        "lng": 7.6469714
+      },
+      {
+        "name": "Kinderhaus",
+        "type": "suburb",
+        "lat": 51.9942949,
+        "lng": 7.6025935
+      },
+      {
+        "name": "Sankt Mauritz",
+        "type": "suburb",
+        "lat": 51.9557509,
+        "lng": 7.6713122
+      },
+      {
+        "name": "Mecklenbeck",
+        "type": "suburb",
+        "lat": 51.9306023,
+        "lng": 7.5815505
+      },
+      {
+        "name": "Mariendorf",
+        "type": "suburb",
+        "lat": 51.9883028,
+        "lng": 7.6730704
+      },
+      {
+        "name": "Gievenbeck",
+        "type": "suburb",
+        "lat": 51.9724068,
+        "lng": 7.5708258
+      },
+      {
+        "name": "Gremmendorf",
+        "type": "suburb",
+        "lat": 51.9265585,
+        "lng": 7.6707499
+      },
+      {
+        "name": "Hiltrup",
+        "type": "suburb",
+        "lat": 51.9025964,
+        "lng": 7.6428337
+      },
+      {
+        "name": "Sudmühle",
+        "type": "suburb",
+        "lat": 51.9939766,
+        "lng": 7.6871135
+      },
+      {
+        "name": "Handorf",
+        "type": "suburb",
+        "lat": 51.9882099,
+        "lng": 7.6998213
+      },
+      {
+        "name": "Angelmodde-Waldsiedlung",
+        "type": "suburb",
+        "lat": 51.914123,
+        "lng": 7.6873426
+      },
+      {
+        "name": "Angelmodde",
+        "type": "suburb",
+        "lat": 51.9174086,
+        "lng": 7.7048406
+      },
+      {
+        "name": "Roxel",
+        "type": "suburb",
+        "lat": 51.9549064,
+        "lng": 7.533159
+      },
+      {
+        "name": "Wolbeck",
+        "type": "suburb",
+        "lat": 51.920586,
+        "lng": 7.727183
+      }
+    ]
+  },
+  {
+    "cityName": "Mönchengladbach",
+    "slug": "moenchengladbach",
+    "serviceDistricts": [
+      "Dahl",
+      "Eicken",
+      "Geistenbeck",
+      "Giesenkirchen",
+      "Hamern"
+    ],
+    "featuredDistricts": [
+      "Hardterbroich-Pesch",
+      "Hehn",
+      "Hockstein"
+    ],
+    "allDistricts": [
+      {
+        "name": "Dahl",
+        "type": "suburb",
+        "lat": 51.1829035,
+        "lng": 6.4341329
+      },
+      {
+        "name": "Westend",
+        "type": "suburb",
+        "lat": 51.1920154,
+        "lng": 6.4212904
+      },
+      {
+        "name": "Eicken",
+        "type": "suburb",
+        "lat": 51.2049323,
+        "lng": 6.4459048
+      },
+      {
+        "name": "Hardterbroich-Pesch",
+        "type": "suburb",
+        "lat": 51.1914973,
+        "lng": 6.4560216
+      },
+      {
+        "name": "Windberg",
+        "type": "suburb",
+        "lat": 51.207131,
+        "lng": 6.418503
+      },
+      {
+        "name": "Waldhausen",
+        "type": "suburb",
+        "lat": 51.1959509,
+        "lng": 6.4116116
+      },
+      {
+        "name": "Schrievers",
+        "type": "suburb",
+        "lat": 51.1680735,
+        "lng": 6.4264087
+      },
+      {
+        "name": "Rheydt",
+        "type": "suburb",
+        "lat": 51.1675275,
+        "lng": 6.4458391
+      },
+      {
+        "name": "Holt",
+        "type": "suburb",
+        "lat": 51.1840972,
+        "lng": 6.4082489
+      },
+      {
+        "name": "Hamern",
+        "type": "suburb",
+        "lat": 51.2011451,
+        "lng": 6.4009342
+      },
+      {
+        "name": "Rheydt-West",
+        "type": "suburb",
+        "lat": 51.1604107,
+        "lng": 6.4224776
+      },
+      {
+        "name": "Pongs",
+        "type": "suburb",
+        "lat": 51.1639367,
+        "lng": 6.4140725
+      },
+      {
+        "name": "Neuwerk",
+        "type": "suburb",
+        "lat": 51.2207194,
+        "lng": 6.4714957
+      },
+      {
+        "name": "Hockstein",
+        "type": "suburb",
+        "lat": 51.1516365,
+        "lng": 6.419983
+      },
+      {
+        "name": "Geistenbeck",
+        "type": "suburb",
+        "lat": 51.1477856,
+        "lng": 6.4423241
+      },
+      {
+        "name": "Venn",
+        "type": "suburb",
+        "lat": 51.203503,
+        "lng": 6.3875679
+      },
+      {
+        "name": "Mülfort",
+        "type": "suburb",
+        "lat": 51.1513836,
+        "lng": 6.4635958
+      },
+      {
+        "name": "Odenkirchen",
+        "type": "suburb",
+        "lat": 51.1358107,
+        "lng": 6.4518493
+      },
+      {
+        "name": "Wetschewell",
+        "type": "suburb",
+        "lat": 51.1325067,
+        "lng": 6.4325154
+      },
+      {
+        "name": "Hoven",
+        "type": "suburb",
+        "lat": 51.1317135,
+        "lng": 6.4346297
+      },
+      {
+        "name": "Hehn",
+        "type": "suburb",
+        "lat": 51.1853316,
+        "lng": 6.3719079
+      },
+      {
+        "name": "Wickrath",
+        "type": "suburb",
+        "lat": 51.1334919,
+        "lng": 6.4137545
+      },
+      {
+        "name": "Giesenkirchen",
+        "type": "suburb",
+        "lat": 51.1554641,
+        "lng": 6.4910381
+      },
+      {
+        "name": "Rheindahlen",
+        "type": "suburb",
+        "lat": 51.1483063,
+        "lng": 6.3615133
+      }
+    ]
+  },
+  {
+    "cityName": "Gelsenkirchen",
+    "slug": "gelsenkirchen",
+    "serviceDistricts": [
+      "Altstadt",
+      "Beckhausen",
+      "Bismarck",
+      "Buer",
+      "Bulmke-Hüllen"
+    ],
+    "featuredDistricts": [
+      "Erle",
+      "Feldmark",
+      "Hassel"
+    ],
+    "allDistricts": [
+      {
+        "name": "Altstadt",
+        "type": "suburb",
+        "lat": 51.5088053,
+        "lng": 7.0935278
+      },
+      {
+        "name": "Neustadt",
+        "type": "suburb",
+        "lat": 51.5027267,
+        "lng": 7.1029455
+      },
+      {
+        "name": "Schalke",
+        "type": "suburb",
+        "lat": 51.5228667,
+        "lng": 7.0874533
+      },
+      {
+        "name": "Rotthausen",
+        "type": "suburb",
+        "lat": 51.4905161,
+        "lng": 7.0845795
+      },
+      {
+        "name": "Feldmark",
+        "type": "suburb",
+        "lat": 51.5089546,
+        "lng": 7.0716731
+      },
+      {
+        "name": "Schalke-Nord",
+        "type": "suburb",
+        "lat": 51.5334873,
+        "lng": 7.0826677
+      },
+      {
+        "name": "Bulmke-Hüllen",
+        "type": "suburb",
+        "lat": 51.5194076,
+        "lng": 7.1244356
+      },
+      {
+        "name": "Ückendorf",
+        "type": "suburb",
+        "lat": 51.4988062,
+        "lng": 7.1251207
+      },
+      {
+        "name": "Bismarck",
+        "type": "suburb",
+        "lat": 51.5323777,
+        "lng": 7.1215326
+      },
+      {
+        "name": "Heßler",
+        "type": "suburb",
+        "lat": 51.5205699,
+        "lng": 7.0584361
+      },
+      {
+        "name": "Erle",
+        "type": "suburb",
+        "lat": 51.5591959,
+        "lng": 7.0892779
+      },
+      {
+        "name": "Resser Mark",
+        "type": "suburb",
+        "lat": 51.5614038,
+        "lng": 7.1129097
+      },
+      {
+        "name": "Beckhausen",
+        "type": "suburb",
+        "lat": 51.5510276,
+        "lng": 7.0424718
+      },
+      {
+        "name": "Resse",
+        "type": "suburb",
+        "lat": 51.5807223,
+        "lng": 7.1084413
+      },
+      {
+        "name": "Horst",
+        "type": "suburb",
+        "lat": 51.5310406,
+        "lng": 7.0218286
+      },
+      {
+        "name": "Buer",
+        "type": "suburb",
+        "lat": 51.5798968,
+        "lng": 7.0527181
+      },
+      {
+        "name": "Hassel",
+        "type": "suburb",
+        "lat": 51.6054027,
+        "lng": 7.0524984
+      },
+      {
+        "name": "Scholven",
+        "type": "suburb",
+        "lat": 51.596316,
+        "lng": 7.0154142
+      }
+    ]
+  },
+  {
+    "cityName": "Aachen",
+    "slug": "aachen",
+    "serviceDistricts": [
+      "Afden",
+      "Atsch",
+      "Bardenberg",
+      "Bettendorf",
+      "Beverau"
+    ],
+    "featuredDistricts": [
+      "Brand",
+      "Burtscheid",
+      "Büsbach"
+    ],
+    "allDistricts": [
+      {
+        "name": "Afden",
+        "type": "suburb",
+        "lat": 50.8661599,
+        "lng": 6.0969623
+      },
+      {
+        "name": "Bettendorf",
+        "type": "suburb",
+        "lat": 50.8864349,
+        "lng": 6.2019956
+      },
+      {
+        "name": "Hoengen",
+        "type": "suburb",
+        "lat": 50.8686201,
+        "lng": 6.2122024
+      },
+      {
+        "name": "Büsbach",
+        "type": "suburb",
+        "lat": 50.7558454,
+        "lng": 6.2161908
+      },
+      {
+        "name": "Münsterbusch",
+        "type": "suburb",
+        "lat": 50.7728007,
+        "lng": 6.2154611
+      },
+      {
+        "name": "Burtscheid",
+        "type": "suburb",
+        "lat": 50.7637229,
+        "lng": 6.0934379
+      },
+      {
+        "name": "Merkstein",
+        "type": "suburb",
+        "lat": 50.8849021,
+        "lng": 6.1055778
+      },
+      {
+        "name": "Liester",
+        "type": "suburb",
+        "lat": 50.7626289,
+        "lng": 6.223418
+      },
+      {
+        "name": "Kohlbusch",
+        "type": "suburb",
+        "lat": 50.7788025,
+        "lng": 6.2121864
+      },
+      {
+        "name": "Soers",
+        "type": "suburb",
+        "lat": 50.7975381,
+        "lng": 6.0878014
+      },
+      {
+        "name": "Atsch",
+        "type": "suburb",
+        "lat": 50.783297,
+        "lng": 6.2051039
+      },
+      {
+        "name": "Frankenberger Viertel",
+        "type": "suburb",
+        "lat": 50.7682682,
+        "lng": 6.1050573
+      },
+      {
+        "name": "Mariadorf",
+        "type": "suburb",
+        "lat": 50.8634288,
+        "lng": 6.1953111
+      },
+      {
+        "name": "Straß",
+        "type": "suburb",
+        "lat": 50.8536231,
+        "lng": 6.0793469
+      },
+      {
+        "name": "Freund",
+        "type": "suburb",
+        "lat": 50.7524525,
+        "lng": 6.1827842
+      },
+      {
+        "name": "Hofstadt",
+        "type": "suburb",
+        "lat": 50.8996903,
+        "lng": 6.0904192
+      },
+      {
+        "name": "Pley",
+        "type": "suburb",
+        "lat": 50.8482791,
+        "lng": 6.0987898
+      },
+      {
+        "name": "Plitschard",
+        "type": "suburb",
+        "lat": 50.8980284,
+        "lng": 6.1110356
+      },
+      {
+        "name": "Beverau",
+        "type": "suburb",
+        "lat": 50.7614825,
+        "lng": 6.1106309
+      },
+      {
+        "name": "Oidtweiler",
+        "type": "suburb",
+        "lat": 50.8957821,
+        "lng": 6.185389
+      },
+      {
+        "name": "Niederbardenberg",
+        "type": "suburb",
+        "lat": 50.8518184,
+        "lng": 6.1143225
+      },
+      {
+        "name": "Laurensberg",
+        "type": "suburb",
+        "lat": 50.7981965,
+        "lng": 6.0614291
+      },
+      {
+        "name": "Noppenberg",
+        "type": "suburb",
+        "lat": 50.8670612,
+        "lng": 6.1231436
+      },
+      {
+        "name": "Klinkheide",
+        "type": "suburb",
+        "lat": 50.8420528,
+        "lng": 6.0877896
+      },
+      {
+        "name": "Wefelen",
+        "type": "suburb",
+        "lat": 50.8553721,
+        "lng": 6.1195705
+      },
+      {
+        "name": "Donnerberg",
+        "type": "suburb",
+        "lat": 50.780221,
+        "lng": 6.2327953
+      },
+      {
+        "name": "Forensberg",
+        "type": "suburb",
+        "lat": 50.8415691,
+        "lng": 6.0810067
+      },
+      {
+        "name": "Herbach",
+        "type": "suburb",
+        "lat": 50.9061348,
+        "lng": 6.1070888
+      },
+      {
+        "name": "Schaufenberg",
+        "type": "suburb",
+        "lat": 50.8774238,
+        "lng": 6.1756947
+      },
+      {
+        "name": "Pannesheide",
+        "type": "suburb",
+        "lat": 50.8470019,
+        "lng": 6.067485
+      },
+      {
+        "name": "Bardenberg",
+        "type": "suburb",
+        "lat": 50.8410788,
+        "lng": 6.1112251
+      },
+      {
+        "name": "Forst",
+        "type": "suburb",
+        "lat": 50.7689284,
+        "lng": 6.1212152
+      },
+      {
+        "name": "Richterich",
+        "type": "suburb",
+        "lat": 50.8110005,
+        "lng": 6.0657323
+      },
+      {
+        "name": "Kohlscheid",
+        "type": "suburb",
+        "lat": 50.8346962,
+        "lng": 6.0886835
+      },
+      {
+        "name": "Neuweiler",
+        "type": "suburb",
+        "lat": 50.8862554,
+        "lng": 6.172674
+      },
+      {
+        "name": "Kornelimünster",
+        "type": "suburb",
+        "lat": 50.7285409,
+        "lng": 6.1822433
+      },
+      {
+        "name": "Siedlung Ost",
+        "type": "suburb",
+        "lat": 50.8704839,
+        "lng": 6.1724389
+      },
+      {
+        "name": "Hücheln",
+        "type": "suburb",
+        "lat": 50.8178923,
+        "lng": 6.3180742
+      },
+      {
+        "name": "Setterich",
+        "type": "suburb",
+        "lat": 50.9228939,
+        "lng": 6.2035269
+      },
+      {
+        "name": "Brand",
+        "type": "suburb",
+        "lat": 50.7464895,
+        "lng": 6.1641116
+      },
+      {
+        "name": "Rimburg",
+        "type": "suburb",
+        "lat": 50.9186634,
+        "lng": 6.0991793
+      },
+      {
+        "name": "Zopp",
+        "type": "suburb",
+        "lat": 50.8689995,
+        "lng": 6.1375224
+      },
+      {
+        "name": "Busch",
+        "type": "suburb",
+        "lat": 50.8809674,
+        "lng": 6.1373371
+      },
+      {
+        "name": "Wilhelmshöhe",
+        "type": "suburb",
+        "lat": 50.8218029,
+        "lng": 6.3254739
+      },
+      {
+        "name": "Haaren",
+        "type": "suburb",
+        "lat": 50.795364,
+        "lng": 6.1268326
+      },
+      {
+        "name": "Duffesheide",
+        "type": "suburb",
+        "lat": 50.8585697,
+        "lng": 6.1372895
+      },
+      {
+        "name": "Lintert",
+        "type": "suburb",
+        "lat": 50.746052,
+        "lng": 6.1224577
+      },
+      {
+        "name": "Kämpchen",
+        "type": "suburb",
+        "lat": 50.8245958,
+        "lng": 6.0881331
+      },
+      {
+        "name": "Waldsiedlung",
+        "type": "suburb",
+        "lat": 50.796436,
+        "lng": 6.2412038
+      }
+    ]
+  },
+  {
+    "cityName": "Krefeld",
+    "slug": "krefeld",
+    "serviceDistricts": [
+      "Bockum",
+      "Cracau",
+      "Dießem",
+      "Elfrath",
+      "Fischeln"
+    ],
+    "featuredDistricts": [
+      "Forstwald",
+      "Gartenstadt",
+      "Gatherhof"
+    ],
+    "allDistricts": [
+      {
+        "name": "Cracau",
+        "type": "suburb",
+        "lat": 51.3396761,
+        "lng": 6.577482
+      },
+      {
+        "name": "Stahldorf",
+        "type": "suburb",
+        "lat": 51.3094259,
+        "lng": 6.5629025
+      },
+      {
+        "name": "Dießem",
+        "type": "suburb",
+        "lat": 51.3227518,
+        "lng": 6.5842211
+      },
+      {
+        "name": "Kliedbruch",
+        "type": "suburb",
+        "lat": 51.3582019,
+        "lng": 6.5683088
+      },
+      {
+        "name": "Königshof",
+        "type": "suburb",
+        "lat": 51.3154427,
+        "lng": 6.5844611
+      },
+      {
+        "name": "Lindental",
+        "type": "suburb",
+        "lat": 51.318445,
+        "lng": 6.5371636
+      },
+      {
+        "name": "Inrath",
+        "type": "suburb",
+        "lat": 51.3532885,
+        "lng": 6.538894
+      },
+      {
+        "name": "Stadtwald",
+        "type": "suburb",
+        "lat": 51.3561696,
+        "lng": 6.583819
+      },
+      {
+        "name": "Tackheide",
+        "type": "suburb",
+        "lat": 51.3104694,
+        "lng": 6.5374017
+      },
+      {
+        "name": "Gatherhof",
+        "type": "suburb",
+        "lat": 51.3223534,
+        "lng": 6.5291193
+      },
+      {
+        "name": "Niederbruch",
+        "type": "suburb",
+        "lat": 51.3168834,
+        "lng": 6.5934553
+      },
+      {
+        "name": "Schicksbaum",
+        "type": "suburb",
+        "lat": 51.3291979,
+        "lng": 6.5261152
+      },
+      {
+        "name": "Verberg",
+        "type": "suburb",
+        "lat": 51.3632469,
+        "lng": 6.5851435
+      },
+      {
+        "name": "Fischeln",
+        "type": "suburb",
+        "lat": 51.3045616,
+        "lng": 6.5873544
+      },
+      {
+        "name": "Oppum",
+        "type": "suburb",
+        "lat": 51.3291666,
+        "lng": 6.6127778
+      },
+      {
+        "name": "Traar",
+        "type": "suburb",
+        "lat": 51.3777953,
+        "lng": 6.5965238
+      },
+      {
+        "name": "Bockum",
+        "type": "suburb",
+        "lat": 51.35,
+        "lng": 6.61667
+      },
+      {
+        "name": "Elfrath",
+        "type": "suburb",
+        "lat": 51.3695781,
+        "lng": 6.6148446
+      },
+      {
+        "name": "Forstwald",
+        "type": "suburb",
+        "lat": 51.2995806,
+        "lng": 6.5067153
+      },
+      {
+        "name": "Hülser Berg",
+        "type": "suburb",
+        "lat": 51.3941223,
+        "lng": 6.5392472
+      },
+      {
+        "name": "Hüls",
+        "type": "suburb",
+        "lat": 51.3733939,
+        "lng": 6.5089874
+      },
+      {
+        "name": "Gartenstadt",
+        "type": "suburb",
+        "lat": 51.3646594,
+        "lng": 6.6214925
+      },
+      {
+        "name": "Linn",
+        "type": "suburb",
+        "lat": 51.3347412,
+        "lng": 6.6383417
+      },
+      {
+        "name": "Uerdingen",
+        "type": "suburb",
+        "lat": 51.3563656,
+        "lng": 6.6495971
+      },
+      {
+        "name": "Hohenbudberg",
+        "type": "suburb",
+        "lat": 51.3710187,
+        "lng": 6.663166
+      },
+      {
+        "name": "Gellep-Stratum",
+        "type": "suburb",
+        "lat": 51.3306621,
+        "lng": 6.6727866
+      }
+    ]
+  },
+  {
+    "cityName": "Oberhausen",
+    "slug": "oberhausen",
+    "serviceDistricts": [
+      "Alsfeld",
+      "Alstaden",
+      "Borbeck",
+      "Buschhausen",
+      "Hamborn"
+    ],
+    "featuredDistricts": [
+      "Hiesfeld",
+      "Holten",
+      "Klosterhardt"
+    ],
+    "allDistricts": [
+      {
+        "name": "Lirich",
+        "type": "suburb",
+        "lat": 51.4808881,
+        "lng": 6.8302437
+      },
+      {
+        "name": "Alstaden",
+        "type": "suburb",
+        "lat": 51.4578521,
+        "lng": 6.8295128
+      },
+      {
+        "name": "Neue Mitte",
+        "type": "suburb",
+        "lat": 51.4897721,
+        "lng": 6.8744383
+      },
+      {
+        "name": "Buschhausen",
+        "type": "suburb",
+        "lat": 51.496602,
+        "lng": 6.836853
+      },
+      {
+        "name": "Röttgersbach",
+        "type": "suburb",
+        "lat": 51.5144834,
+        "lng": 6.7777961
+      },
+      {
+        "name": "Obermarxloh",
+        "type": "suburb",
+        "lat": 51.5058197,
+        "lng": 6.7806335
+      },
+      {
+        "name": "Neumühl",
+        "type": "suburb",
+        "lat": 51.4902985,
+        "lng": 6.7973866
+      },
+      {
+        "name": "Sterkrade",
+        "type": "suburb",
+        "lat": 51.5163901,
+        "lng": 6.8466782
+      },
+      {
+        "name": "Osterfeld",
+        "type": "suburb",
+        "lat": 51.5019415,
+        "lng": 6.8857344
+      },
+      {
+        "name": "Wehofen",
+        "type": "suburb",
+        "lat": 51.5278785,
+        "lng": 6.765028
+      },
+      {
+        "name": "Hamborn",
+        "type": "suburb",
+        "lat": 51.492381,
+        "lng": 6.7732976
+      },
+      {
+        "name": "Klosterhardt",
+        "type": "suburb",
+        "lat": 51.5208047,
+        "lng": 6.8769202
+      },
+      {
+        "name": "Oberlohberg",
+        "type": "suburb",
+        "lat": 51.5769062,
+        "lng": 6.780324
+      },
+      {
+        "name": "Hiesfeld",
+        "type": "suburb",
+        "lat": 51.5620058,
+        "lng": 6.7640126
+      },
+      {
+        "name": "Alsfeld",
+        "type": "suburb",
+        "lat": 51.530449,
+        "lng": 6.8459535
+      },
+      {
+        "name": "Borbeck",
+        "type": "suburb",
+        "lat": 51.4907744,
+        "lng": 6.9110935
+      },
+      {
+        "name": "Königshardt",
+        "type": "suburb",
+        "lat": 51.5475526,
+        "lng": 6.8536583
+      },
+      {
+        "name": "Schmachtendorf",
+        "type": "suburb",
+        "lat": 51.5403468,
+        "lng": 6.815352
+      },
+      {
+        "name": "Walsumermark",
+        "type": "suburb",
+        "lat": 51.5484642,
+        "lng": 6.8296555
+      },
+      {
+        "name": "Holten",
+        "type": "suburb",
+        "lat": 51.5254459,
+        "lng": 6.7876389
+      }
+    ]
+  },
+  {
+    "cityName": "Hagen",
+    "slug": "hagen",
+    "serviceDistricts": [
+      "Altenhagen",
+      "Bathey",
+      "Berchum",
+      "Bissingheim",
+      "Boele"
+    ],
+    "featuredDistricts": [
+      "Boelerheide",
+      "Boloh",
+      "Braschoß"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hagen (Sauerland)",
+        "type": "suburb",
+        "lat": 51.2611136,
+        "lng": 7.9596971
+      },
+      {
+        "name": "Oberhagen",
+        "type": "suburb",
+        "lat": 51.3536347,
+        "lng": 7.4771506
+      },
+      {
+        "name": "Sudhagen",
+        "type": "suburb",
+        "lat": 51.7431017,
+        "lng": 8.5152932
+      },
+      {
+        "name": "Ischeland",
+        "type": "suburb",
+        "lat": 51.3696603,
+        "lng": 7.472314
+      },
+      {
+        "name": "Schreck",
+        "type": "suburb",
+        "lat": 50.8266022,
+        "lng": 7.2806377
+      },
+      {
+        "name": "Sittard",
+        "type": "suburb",
+        "lat": 51.2790022,
+        "lng": 6.3884659
+      },
+      {
+        "name": "Altenhagen",
+        "type": "suburb",
+        "lat": 51.3708623,
+        "lng": 7.4650215
+      },
+      {
+        "name": "Wehringhausen",
+        "type": "suburb",
+        "lat": 51.3541771,
+        "lng": 7.4585559
+      },
+      {
+        "name": "Braschoß",
+        "type": "suburb",
+        "lat": 50.822488,
+        "lng": 7.2854222
+      },
+      {
+        "name": "Eppenhausen",
+        "type": "suburb",
+        "lat": 51.3618471,
+        "lng": 7.4928531
+      },
+      {
+        "name": "Schneffelrath",
+        "type": "suburb",
+        "lat": 50.8161744,
+        "lng": 7.2847849
+      },
+      {
+        "name": "Rahser",
+        "type": "suburb",
+        "lat": 51.2674577,
+        "lng": 6.3881381
+      },
+      {
+        "name": "Eilpe",
+        "type": "suburb",
+        "lat": 51.3465581,
+        "lng": 7.4945825
+      },
+      {
+        "name": "Selbecke",
+        "type": "suburb",
+        "lat": 51.3336884,
+        "lng": 7.4728451
+      },
+      {
+        "name": "Boelerheide",
+        "type": "suburb",
+        "lat": 51.382175,
+        "lng": 7.4644001
+      },
+      {
+        "name": "Eckesey",
+        "type": "suburb",
+        "lat": 51.3806436,
+        "lng": 7.4540252
+      },
+      {
+        "name": "Kuhlerkamp",
+        "type": "suburb",
+        "lat": 51.3582437,
+        "lng": 7.4418214
+      },
+      {
+        "name": "Vorst",
+        "type": "suburb",
+        "lat": 51.2968026,
+        "lng": 6.3603333
+      },
+      {
+        "name": "Hülsdonk",
+        "type": "suburb",
+        "lat": 51.261107,
+        "lng": 6.408095
+      },
+      {
+        "name": "Emst",
+        "type": "suburb",
+        "lat": 51.3529596,
+        "lng": 7.5072032
+      },
+      {
+        "name": "Boloh",
+        "type": "suburb",
+        "lat": 51.3643287,
+        "lng": 7.5076152
+      },
+      {
+        "name": "Helfe",
+        "type": "suburb",
+        "lat": 51.3929234,
+        "lng": 7.4824154
+      },
+      {
+        "name": "Boele",
+        "type": "suburb",
+        "lat": 51.3953888,
+        "lng": 7.4705503
+      },
+      {
+        "name": "Delstern",
+        "type": "suburb",
+        "lat": 51.3434582,
+        "lng": 7.5074393
+      },
+      {
+        "name": "Rintgen",
+        "type": "suburb",
+        "lat": 51.2530698,
+        "lng": 6.3963682
+      },
+      {
+        "name": "Fley",
+        "type": "suburb",
+        "lat": 51.3881577,
+        "lng": 7.499136
+      },
+      {
+        "name": "Hestert",
+        "type": "suburb",
+        "lat": 51.3428032,
+        "lng": 7.4364661
+      },
+      {
+        "name": "Robend",
+        "type": "suburb",
+        "lat": 51.2574798,
+        "lng": 6.4147155
+      },
+      {
+        "name": "Kaldauen",
+        "type": "suburb",
+        "lat": 50.803593,
+        "lng": 7.2590745
+      },
+      {
+        "name": "Seligenthal",
+        "type": "suburb",
+        "lat": 50.7949668,
+        "lng": 7.2765491
+      },
+      {
+        "name": "Halden",
+        "type": "suburb",
+        "lat": 51.3772054,
+        "lng": 7.512542
+      },
+      {
+        "name": "Bissingheim",
+        "type": "suburb",
+        "lat": 51.3513336,
+        "lng": 7.51833
+      },
+      {
+        "name": "Kabel",
+        "type": "suburb",
+        "lat": 51.4033513,
+        "lng": 7.4819572
+      },
+      {
+        "name": "Hengstey",
+        "type": "suburb",
+        "lat": 51.4019441,
+        "lng": 7.457434
+      },
+      {
+        "name": "Hoser",
+        "type": "suburb",
+        "lat": 51.2454822,
+        "lng": 6.3806045
+      },
+      {
+        "name": "Vorhalle",
+        "type": "suburb",
+        "lat": 51.3827244,
+        "lng": 7.4291532
+      },
+      {
+        "name": "Weegen",
+        "type": "suburb",
+        "lat": 50.846731,
+        "lng": 7.233619
+      },
+      {
+        "name": "Bathey",
+        "type": "suburb",
+        "lat": 51.4102359,
+        "lng": 7.4776463
+      },
+      {
+        "name": "Haspe",
+        "type": "suburb",
+        "lat": 51.3471869,
+        "lng": 7.421921
+      },
+      {
+        "name": "Seidfeld (Sauerland)",
+        "type": "suburb",
+        "lat": 51.3060852,
+        "lng": 7.9899518
+      },
+      {
+        "name": "Haßley",
+        "type": "suburb",
+        "lat": 51.3552436,
+        "lng": 7.5282172
+      },
+      {
+        "name": "Herbeck",
+        "type": "suburb",
+        "lat": 51.3688896,
+        "lng": 7.5289097
+      },
+      {
+        "name": "Berchum",
+        "type": "suburb",
+        "lat": 51.3863769,
+        "lng": 7.5381948
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 51.3531482,
+        "lng": 7.5472945
+      },
+      {
+        "name": "Dahl",
+        "type": "suburb",
+        "lat": 51.3041153,
+        "lng": 7.5284853
+      },
+      {
+        "name": "Westerbauer",
+        "type": "suburb",
+        "lat": 51.34259,
+        "lng": 7.3971104
+      },
+      {
+        "name": "Reh",
+        "type": "suburb",
+        "lat": 51.3717191,
+        "lng": 7.5516613
+      },
+      {
+        "name": "Priorei",
+        "type": "suburb",
+        "lat": 51.2889753,
+        "lng": 7.5196577
+      },
+      {
+        "name": "Henkhausen",
+        "type": "suburb",
+        "lat": 51.3703935,
+        "lng": 7.5630399
+      },
+      {
+        "name": "Wesselbach",
+        "type": "suburb",
+        "lat": 51.3448686,
+        "lng": 7.5640087
+      }
+    ]
+  },
+  {
+    "cityName": "Hamm",
+    "slug": "hamm",
+    "serviceDistricts": [
+      "Anrath",
+      "Beberich",
+      "Berge",
+      "Bockert",
+      "Bockum"
+    ],
+    "featuredDistricts": [
+      "Braam-Ostwennemar",
+      "Daberg",
+      "Eicken"
+    ],
+    "allDistricts": [
+      {
+        "name": "Robend",
+        "type": "suburb",
+        "lat": 51.2574798,
+        "lng": 6.4147155
+      },
+      {
+        "name": "Hülsdonk",
+        "type": "suburb",
+        "lat": 51.261107,
+        "lng": 6.408095
+      },
+      {
+        "name": "Rintgen",
+        "type": "suburb",
+        "lat": 51.2530698,
+        "lng": 6.3963682
+      },
+      {
+        "name": "Beberich",
+        "type": "suburb",
+        "lat": 51.2386741,
+        "lng": 6.3954298
+      },
+      {
+        "name": "Helenabrunn",
+        "type": "suburb",
+        "lat": 51.2277078,
+        "lng": 6.4192663
+      },
+      {
+        "name": "Heessen",
+        "type": "suburb",
+        "lat": 51.7058412,
+        "lng": 7.8341174
+      },
+      {
+        "name": "Hoser",
+        "type": "suburb",
+        "lat": 51.2454822,
+        "lng": 6.3806045
+      },
+      {
+        "name": "Rahser",
+        "type": "suburb",
+        "lat": 51.2674577,
+        "lng": 6.3881381
+      },
+      {
+        "name": "Bockert",
+        "type": "suburb",
+        "lat": 51.2390894,
+        "lng": 6.3800418
+      },
+      {
+        "name": "Berge",
+        "type": "suburb",
+        "lat": 51.6503414,
+        "lng": 7.8328627
+      },
+      {
+        "name": "Lohauserholz",
+        "type": "suburb",
+        "lat": 51.6521246,
+        "lng": 7.8001034
+      },
+      {
+        "name": "Mark",
+        "type": "suburb",
+        "lat": 51.6833905,
+        "lng": 7.8557533
+      },
+      {
+        "name": "Hamm-Westen",
+        "type": "suburb",
+        "lat": 51.6689001,
+        "lng": 7.7828559
+      },
+      {
+        "name": "Windberg",
+        "type": "suburb",
+        "lat": 51.207131,
+        "lng": 6.418503
+      },
+      {
+        "name": "Sittard",
+        "type": "suburb",
+        "lat": 51.2790022,
+        "lng": 6.3884659
+      },
+      {
+        "name": "Daberg",
+        "type": "suburb",
+        "lat": 51.6603094,
+        "lng": 7.7814534
+      },
+      {
+        "name": "Hamern",
+        "type": "suburb",
+        "lat": 51.2011451,
+        "lng": 6.4009342
+      },
+      {
+        "name": "Venn",
+        "type": "suburb",
+        "lat": 51.203503,
+        "lng": 6.3875679
+      },
+      {
+        "name": "Waldhausen",
+        "type": "suburb",
+        "lat": 51.1959509,
+        "lng": 6.4116116
+      },
+      {
+        "name": "Eicken",
+        "type": "suburb",
+        "lat": 51.2049323,
+        "lng": 6.4459048
+      },
+      {
+        "name": "Braam-Ostwennemar",
+        "type": "suburb",
+        "lat": 51.6745458,
+        "lng": 7.8716509
+      },
+      {
+        "name": "Rhynern",
+        "type": "suburb",
+        "lat": 51.6375869,
+        "lng": 7.8566526
+      },
+      {
+        "name": "Anrath",
+        "type": "suburb",
+        "lat": 51.2794758,
+        "lng": 6.4589721
+      },
+      {
+        "name": "Westtünnen",
+        "type": "suburb",
+        "lat": 51.6530289,
+        "lng": 7.8710509
+      },
+      {
+        "name": "Selmigerheide",
+        "type": "suburb",
+        "lat": 51.6364406,
+        "lng": 7.7772539
+      },
+      {
+        "name": "Hövel",
+        "type": "suburb",
+        "lat": 51.7024486,
+        "lng": 7.7608319
+      },
+      {
+        "name": "Wiescherhöfen",
+        "type": "suburb",
+        "lat": 51.6461413,
+        "lng": 7.7611827
+      },
+      {
+        "name": "Werries",
+        "type": "suburb",
+        "lat": 51.6880303,
+        "lng": 7.891412
+      },
+      {
+        "name": "Osttünnen",
+        "type": "suburb",
+        "lat": 51.6469368,
+        "lng": 7.884737
+      },
+      {
+        "name": "Herringen",
+        "type": "suburb",
+        "lat": 51.6596791,
+        "lng": 7.7425657
+      },
+      {
+        "name": "Bockum",
+        "type": "suburb",
+        "lat": 51.6949802,
+        "lng": 7.7325523
+      },
+      {
+        "name": "Pelkum",
+        "type": "suburb",
+        "lat": 51.6377646,
+        "lng": 7.7429227
+      },
+      {
+        "name": "Vöckinghausen",
+        "type": "suburb",
+        "lat": 51.6522534,
+        "lng": 7.9128435
+      },
+      {
+        "name": "Süddinker",
+        "type": "suburb",
+        "lat": 51.6360846,
+        "lng": 7.9186986
+      },
+      {
+        "name": "Wambeln",
+        "type": "suburb",
+        "lat": 51.6045359,
+        "lng": 7.9015503
+      },
+      {
+        "name": "Norddinker",
+        "type": "suburb",
+        "lat": 51.651845,
+        "lng": 7.9291499
+      },
+      {
+        "name": "Uentrop",
+        "type": "suburb",
+        "lat": 51.6926159,
+        "lng": 7.940585
+      }
+    ]
+  },
+  {
+    "cityName": "Mülheim an der Ruhr",
+    "slug": "muelheim-an-der-ruhr",
+    "serviceDistricts": [
+      "Broich",
+      "Dümpten",
+      "Eppinghofen",
+      "Heimaterde",
+      "Heißen"
+    ],
+    "featuredDistricts": [
+      "Holthausen",
+      "Menden",
+      "Mintard"
+    ],
+    "allDistricts": [
+      {
+        "name": "Eppinghofen",
+        "type": "suburb",
+        "lat": 51.4350813,
+        "lng": 6.8874224
+      },
+      {
+        "name": "Broich",
+        "type": "suburb",
+        "lat": 51.4248951,
+        "lng": 6.8653618
+      },
+      {
+        "name": "Saarn",
+        "type": "suburb",
+        "lat": 51.4039664,
+        "lng": 6.8761353
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 51.4166912,
+        "lng": 6.9058336
+      },
+      {
+        "name": "Menden",
+        "type": "suburb",
+        "lat": 51.4042388,
+        "lng": 6.8990674
+      },
+      {
+        "name": "Winkhausen",
+        "type": "suburb",
+        "lat": 51.4459397,
+        "lng": 6.913255
+      },
+      {
+        "name": "Styrum",
+        "type": "suburb",
+        "lat": 51.4511123,
+        "lng": 6.8563215
+      },
+      {
+        "name": "Dümpten",
+        "type": "suburb",
+        "lat": 51.4628687,
+        "lng": 6.8916598
+      },
+      {
+        "name": "Speldorf",
+        "type": "suburb",
+        "lat": 51.4285249,
+        "lng": 6.8420924
+      },
+      {
+        "name": "Heißen",
+        "type": "suburb",
+        "lat": 51.4336428,
+        "lng": 6.9241513
+      },
+      {
+        "name": "Mintard",
+        "type": "suburb",
+        "lat": 51.3719564,
+        "lng": 6.9029362
+      },
+      {
+        "name": "Selbeck",
+        "type": "suburb",
+        "lat": 51.3681608,
+        "lng": 6.8623701
+      },
+      {
+        "name": "Heimaterde",
+        "type": "suburb",
+        "lat": 51.4271091,
+        "lng": 6.9469028
+      }
+    ]
+  },
+  {
+    "cityName": "Leverkusen",
+    "slug": "leverkusen",
+    "serviceDistricts": [
+      "Alkenrath",
+      "Bergisch Neukirchen",
+      "Bürrig",
+      "Fixheide",
+      "Hitdorf"
+    ],
+    "featuredDistricts": [
+      "Küppersteg",
+      "Lützenkirchen",
+      "Manfort"
+    ],
+    "allDistricts": [
+      {
+        "name": "Wiesdorf",
+        "type": "suburb",
+        "lat": 51.0314466,
+        "lng": 6.9776266
+      },
+      {
+        "name": "Küppersteg",
+        "type": "suburb",
+        "lat": 51.0462634,
+        "lng": 6.9942594
+      },
+      {
+        "name": "Bürrig",
+        "type": "suburb",
+        "lat": 51.050614,
+        "lng": 6.9792241
+      },
+      {
+        "name": "Manfort",
+        "type": "suburb",
+        "lat": 51.0326642,
+        "lng": 7.0183227
+      },
+      {
+        "name": "Fixheide",
+        "type": "suburb",
+        "lat": 51.0531503,
+        "lng": 7.0162135
+      },
+      {
+        "name": "Opladen",
+        "type": "suburb",
+        "lat": 51.0668849,
+        "lng": 7.0027715
+      },
+      {
+        "name": "Alkenrath",
+        "type": "suburb",
+        "lat": 51.0429252,
+        "lng": 7.0300219
+      },
+      {
+        "name": "Rheindorf",
+        "type": "suburb",
+        "lat": 51.0528023,
+        "lng": 6.9487853
+      },
+      {
+        "name": "Quettingen",
+        "type": "suburb",
+        "lat": 51.0615721,
+        "lng": 7.0285972
+      },
+      {
+        "name": "Schlebusch",
+        "type": "suburb",
+        "lat": 51.035159,
+        "lng": 7.047892
+      },
+      {
+        "name": "Bergisch Neukirchen",
+        "type": "suburb",
+        "lat": 51.0775388,
+        "lng": 7.0336658
+      },
+      {
+        "name": "Lützenkirchen",
+        "type": "suburb",
+        "lat": 51.0653086,
+        "lng": 7.0557541
+      },
+      {
+        "name": "Hitdorf",
+        "type": "suburb",
+        "lat": 51.0614791,
+        "lng": 6.9182861
+      },
+      {
+        "name": "Steinbüchel",
+        "type": "suburb",
+        "lat": 51.053384,
+        "lng": 7.0758028
+      },
+      {
+        "name": "Pattscheid",
+        "type": "suburb",
+        "lat": 51.0923957,
+        "lng": 7.0638417
+      }
+    ]
+  },
+  {
+    "cityName": "Solingen",
+    "slug": "solingen",
+    "serviceDistricts": [
+      "Aufderhöhe",
+      "Burg",
+      "Central",
+      "Gräfrath",
+      "Höhscheid"
+    ],
+    "featuredDistricts": [
+      "Merscheid",
+      "Mitte",
+      "Ohligs-Mitte"
+    ],
+    "allDistricts": [
+      {
+        "name": "Mitte",
+        "type": "suburb",
+        "lat": 51.1721314,
+        "lng": 7.0845986
+      },
+      {
+        "name": "Central",
+        "type": "suburb",
+        "lat": 51.1927536,
+        "lng": 7.0745465
+      },
+      {
+        "name": "Höhscheid",
+        "type": "suburb",
+        "lat": 51.1520609,
+        "lng": 7.0621998
+      },
+      {
+        "name": "Gräfrath",
+        "type": "suburb",
+        "lat": 51.2087795,
+        "lng": 7.0713686
+      },
+      {
+        "name": "Wald",
+        "type": "suburb",
+        "lat": 51.1835883,
+        "lng": 7.0415393
+      },
+      {
+        "name": "Merscheid",
+        "type": "suburb",
+        "lat": 51.1647758,
+        "lng": 7.0237751
+      },
+      {
+        "name": "Burg",
+        "type": "suburb",
+        "lat": 51.1375247,
+        "lng": 7.1519803
+      },
+      {
+        "name": "Aufderhöhe",
+        "type": "suburb",
+        "lat": 51.141132,
+        "lng": 7.0141212
+      },
+      {
+        "name": "Ohligs-Mitte",
+        "type": "suburb",
+        "lat": 51.1615661,
+        "lng": 7.0001386
+      }
+    ]
+  },
+  {
+    "cityName": "Herne",
+    "slug": "herne",
+    "serviceDistricts": [
+      "Altenhöfen",
+      "Baukau",
+      "Börnig",
+      "Eickel",
+      "Holsterhausen"
+    ],
+    "featuredDistricts": [
+      "Holthausen",
+      "Röhlinghausen",
+      "Sodingen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Altenhöfen",
+        "type": "suburb",
+        "lat": 51.5275394,
+        "lng": 7.2278287
+      },
+      {
+        "name": "Baukau",
+        "type": "suburb",
+        "lat": 51.5526061,
+        "lng": 7.2042484
+      },
+      {
+        "name": "Holsterhausen",
+        "type": "suburb",
+        "lat": 51.532672,
+        "lng": 7.195655
+      },
+      {
+        "name": "Sodingen",
+        "type": "suburb",
+        "lat": 51.5400269,
+        "lng": 7.2567297
+      },
+      {
+        "name": "Börnig",
+        "type": "suburb",
+        "lat": 51.5513522,
+        "lng": 7.2609568
+      },
+      {
+        "name": "Eickel",
+        "type": "suburb",
+        "lat": 51.5134781,
+        "lng": 7.1764986
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 51.5489278,
+        "lng": 7.2774431
+      },
+      {
+        "name": "Wanne",
+        "type": "suburb",
+        "lat": 51.5379397,
+        "lng": 7.1568839
+      },
+      {
+        "name": "Röhlinghausen",
+        "type": "suburb",
+        "lat": 51.5154216,
+        "lng": 7.1550259
+      },
+      {
+        "name": "Wanne-Bickern",
+        "type": "suburb",
+        "lat": 51.5275586,
+        "lng": 7.1407169
+      }
+    ]
+  },
+  {
+    "cityName": "Neuss",
+    "slug": "neuss",
+    "serviceDistricts": [
+      "Augustinusviertel",
+      "Barbaraviertel",
+      "Dreikönigenviertel",
+      "Erfttal",
+      "Furth-Mitte"
+    ],
+    "featuredDistricts": [
+      "Furth-Nord",
+      "Furth-Süd",
+      "Gnadental"
+    ],
+    "allDistricts": [
+      {
+        "name": "Innenstadt",
+        "type": "suburb",
+        "lat": 51.1987276,
+        "lng": 6.687305
+      },
+      {
+        "name": "Dreikönigenviertel",
+        "type": "suburb",
+        "lat": 51.1887531,
+        "lng": 6.6891336
+      },
+      {
+        "name": "Hafen",
+        "type": "suburb",
+        "lat": 51.2106244,
+        "lng": 6.7009446
+      },
+      {
+        "name": "Furth-Süd",
+        "type": "suburb",
+        "lat": 51.2075574,
+        "lng": 6.6782808
+      },
+      {
+        "name": "Augustinusviertel",
+        "type": "suburb",
+        "lat": 51.1880819,
+        "lng": 6.7052988
+      },
+      {
+        "name": "Pomona",
+        "type": "suburb",
+        "lat": 51.1805734,
+        "lng": 6.6921464
+      },
+      {
+        "name": "Barbaraviertel",
+        "type": "suburb",
+        "lat": 51.2158627,
+        "lng": 6.6923448
+      },
+      {
+        "name": "Hammfeld",
+        "type": "suburb",
+        "lat": 51.194392,
+        "lng": 6.7099752
+      },
+      {
+        "name": "Stadionviertel",
+        "type": "suburb",
+        "lat": 51.1929258,
+        "lng": 6.6703524
+      },
+      {
+        "name": "Weißenberg",
+        "type": "suburb",
+        "lat": 51.2172797,
+        "lng": 6.6758187
+      },
+      {
+        "name": "Gnadental",
+        "type": "suburb",
+        "lat": 51.1798655,
+        "lng": 6.7139386
+      },
+      {
+        "name": "Furth-Mitte",
+        "type": "suburb",
+        "lat": 51.2123611,
+        "lng": 6.6658263
+      },
+      {
+        "name": "Reuschenberg",
+        "type": "suburb",
+        "lat": 51.1682531,
+        "lng": 6.6845036
+      },
+      {
+        "name": "Vogelsang",
+        "type": "suburb",
+        "lat": 51.2240918,
+        "lng": 6.6616689
+      },
+      {
+        "name": "Morgensternsheide",
+        "type": "suburb",
+        "lat": 51.2089854,
+        "lng": 6.6525082
+      },
+      {
+        "name": "Holzheim",
+        "type": "suburb",
+        "lat": 51.1612964,
+        "lng": 6.6683339
+      },
+      {
+        "name": "Löveling",
+        "type": "suburb",
+        "lat": 51.1665606,
+        "lng": 6.6599408
+      },
+      {
+        "name": "Furth-Nord",
+        "type": "suburb",
+        "lat": 51.2211221,
+        "lng": 6.6524679
+      },
+      {
+        "name": "Erfttal",
+        "type": "suburb",
+        "lat": 51.1681328,
+        "lng": 6.7263609
+      },
+      {
+        "name": "Uedesheim",
+        "type": "suburb",
+        "lat": 51.1646246,
+        "lng": 6.7893
+      }
+    ]
+  },
+  {
+    "cityName": "Paderborn",
+    "slug": "paderborn",
+    "serviceDistricts": [
+      "Elsen",
+      "Marienloh",
+      "Mastbruch",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Mastbruch",
+        "type": "suburb",
+        "lat": 51.7551887,
+        "lng": 8.7321931
+      },
+      {
+        "name": "Marienloh",
+        "type": "suburb",
+        "lat": 51.7652696,
+        "lng": 8.7882559
+      },
+      {
+        "name": "Elsen",
+        "type": "suburb",
+        "lat": 51.7353263,
+        "lng": 8.6869145
+      }
+    ]
+  },
+  {
+    "cityName": "Bottrop",
+    "slug": "bottrop",
+    "serviceDistricts": [
+      "Batenbrock",
+      "Boy",
+      "Ebel",
+      "Eigen",
+      "Fuhlenbrock"
+    ],
+    "featuredDistricts": [
+      "Holthausen",
+      "Overhagen",
+      "Vonderort"
+    ],
+    "allDistricts": [
+      {
+        "name": "Vonderort",
+        "type": "suburb",
+        "lat": 51.5059734,
+        "lng": 6.9123017
+      },
+      {
+        "name": "Batenbrock",
+        "type": "suburb",
+        "lat": 51.5217237,
+        "lng": 6.9540611
+      },
+      {
+        "name": "Ebel",
+        "type": "suburb",
+        "lat": 51.5041029,
+        "lng": 6.9485063
+      },
+      {
+        "name": "Eigen",
+        "type": "suburb",
+        "lat": 51.5472706,
+        "lng": 6.9372215
+      },
+      {
+        "name": "Fuhlenbrock",
+        "type": "suburb",
+        "lat": 51.5266255,
+        "lng": 6.896096
+      },
+      {
+        "name": "Boy",
+        "type": "suburb",
+        "lat": 51.5365011,
+        "lng": 6.9722127
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 51.5955899,
+        "lng": 6.9073427
+      },
+      {
+        "name": "Overhagen",
+        "type": "suburb",
+        "lat": 51.6029748,
+        "lng": 6.9513564
+      }
+    ]
+  },
+  {
+    "cityName": "Recklinghausen",
+    "slug": "recklinghausen",
+    "serviceDistricts": [
+      "Alt-Marl",
+      "Auf dem großen Bruch",
+      "Berghausen",
+      "Brassert",
+      "Drewer"
+    ],
+    "featuredDistricts": [
+      "Essel",
+      "Grullbad",
+      "Hamm"
+    ],
+    "allDistricts": [
+      {
+        "name": "Nordviertel",
+        "type": "suburb",
+        "lat": 51.6202598,
+        "lng": 7.200433
+      },
+      {
+        "name": "Paulusviertel",
+        "type": "suburb",
+        "lat": 51.6066828,
+        "lng": 7.1964431
+      },
+      {
+        "name": "Stadtkern",
+        "type": "suburb",
+        "lat": 51.6557082,
+        "lng": 7.096319
+      },
+      {
+        "name": "Brassert",
+        "type": "suburb",
+        "lat": 51.6590902,
+        "lng": 7.0830791
+      },
+      {
+        "name": "Westviertel",
+        "type": "suburb",
+        "lat": 51.6154686,
+        "lng": 7.184453
+      },
+      {
+        "name": "Hillen",
+        "type": "suburb",
+        "lat": 51.6089928,
+        "lng": 7.2121988
+      },
+      {
+        "name": "Ostviertel",
+        "type": "suburb",
+        "lat": 51.6180898,
+        "lng": 7.2151878
+      },
+      {
+        "name": "Alt-Marl",
+        "type": "suburb",
+        "lat": 51.6473188,
+        "lng": 7.0826067
+      },
+      {
+        "name": "Auf dem großen Bruch",
+        "type": "suburb",
+        "lat": 51.326204,
+        "lng": 8.0413583
+      },
+      {
+        "name": "Hillerheide",
+        "type": "suburb",
+        "lat": 51.5914558,
+        "lng": 7.2100134
+      },
+      {
+        "name": "Drewer",
+        "type": "suburb",
+        "lat": 51.6533437,
+        "lng": 7.1172366
+      },
+      {
+        "name": "Hochlar",
+        "type": "suburb",
+        "lat": 51.6065057,
+        "lng": 7.1704955
+      },
+      {
+        "name": "Speckhorn",
+        "type": "suburb",
+        "lat": 51.6434263,
+        "lng": 7.1934147
+      },
+      {
+        "name": "Stuckenbusch",
+        "type": "suburb",
+        "lat": 51.592207,
+        "lng": 7.1774491
+      },
+      {
+        "name": "Seidfeld (Sauerland)",
+        "type": "suburb",
+        "lat": 51.3060852,
+        "lng": 7.9899518
+      },
+      {
+        "name": "Hüls",
+        "type": "suburb",
+        "lat": 51.6655915,
+        "lng": 7.1299346
+      },
+      {
+        "name": "Grullbad",
+        "type": "suburb",
+        "lat": 51.5779107,
+        "lng": 7.1992826
+      },
+      {
+        "name": "Hamm",
+        "type": "suburb",
+        "lat": 51.6868591,
+        "lng": 7.1252566
+      },
+      {
+        "name": "Waldsiedlung",
+        "type": "suburb",
+        "lat": 51.6864285,
+        "lng": 7.1280777
+      },
+      {
+        "name": "Süd",
+        "type": "suburb",
+        "lat": 51.5726217,
+        "lng": 7.2134219
+      },
+      {
+        "name": "Berghausen",
+        "type": "suburb",
+        "lat": 51.609539,
+        "lng": 7.2435153
+      },
+      {
+        "name": "Hochlarmark",
+        "type": "suburb",
+        "lat": 51.5687852,
+        "lng": 7.1852557
+      },
+      {
+        "name": "König Ludwig",
+        "type": "suburb",
+        "lat": 51.5746285,
+        "lng": 7.2276834
+      },
+      {
+        "name": "Röllinghausen",
+        "type": "suburb",
+        "lat": 51.5916832,
+        "lng": 7.2437596
+      },
+      {
+        "name": "Essel",
+        "type": "suburb",
+        "lat": 51.6223397,
+        "lng": 7.2527441
+      },
+      {
+        "name": "Scherlebeck",
+        "type": "suburb",
+        "lat": 51.6193436,
+        "lng": 7.1419803
+      }
+    ]
+  },
+  {
+    "cityName": "Remscheid",
+    "slug": "remscheid",
+    "serviceDistricts": [
+      "Lennep",
+      "Lüttringhausen",
+      "Reinshagen",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Reinshagen",
+        "type": "suburb",
+        "lat": 51.1607235,
+        "lng": 7.1539439
+      },
+      {
+        "name": "Lüttringhausen",
+        "type": "suburb",
+        "lat": 51.2121473,
+        "lng": 7.2306158
+      },
+      {
+        "name": "Lennep",
+        "type": "suburb",
+        "lat": 51.1926183,
+        "lng": 7.2571154
+      }
+    ]
+  },
+  {
+    "cityName": "Bergisch Gladbach",
+    "slug": "bergisch-gladbach",
+    "serviceDistricts": [
+      "Alt-Frankenforst",
+      "Bensberg",
+      "Frankenforst",
+      "Gronau",
+      "Hand"
+    ],
+    "featuredDistricts": [
+      "Hebborn",
+      "Heidkamp",
+      "Kippekausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hebborn",
+        "type": "suburb",
+        "lat": 50.9997674,
+        "lng": 7.1257841
+      },
+      {
+        "name": "Heidkamp",
+        "type": "suburb",
+        "lat": 50.9806941,
+        "lng": 7.1391424
+      },
+      {
+        "name": "Gronau",
+        "type": "suburb",
+        "lat": 50.9811623,
+        "lng": 7.115663
+      },
+      {
+        "name": "Rommerscheid",
+        "type": "suburb",
+        "lat": 50.9985287,
+        "lng": 7.1519696
+      },
+      {
+        "name": "Paffrath",
+        "type": "suburb",
+        "lat": 50.9994265,
+        "lng": 7.1000318
+      },
+      {
+        "name": "Sand",
+        "type": "suburb",
+        "lat": 50.9897381,
+        "lng": 7.1561478
+      },
+      {
+        "name": "Lückerath",
+        "type": "suburb",
+        "lat": 50.9689604,
+        "lng": 7.146563
+      },
+      {
+        "name": "Alt-Frankenforst",
+        "type": "suburb",
+        "lat": 50.9597624,
+        "lng": 7.1396541
+      },
+      {
+        "name": "Kippekausen",
+        "type": "suburb",
+        "lat": 50.9562505,
+        "lng": 7.1246317
+      },
+      {
+        "name": "Hand",
+        "type": "suburb",
+        "lat": 50.9892835,
+        "lng": 7.0901934
+      },
+      {
+        "name": "Refrath",
+        "type": "suburb",
+        "lat": 50.9573285,
+        "lng": 7.1134382
+      },
+      {
+        "name": "Neu-Frankenforst",
+        "type": "suburb",
+        "lat": 50.9534269,
+        "lng": 7.1286252
+      },
+      {
+        "name": "Frankenforst",
+        "type": "suburb",
+        "lat": 50.9539347,
+        "lng": 7.1371523
+      },
+      {
+        "name": "Bensberg",
+        "type": "suburb",
+        "lat": 50.9662418,
+        "lng": 7.1614433
+      },
+      {
+        "name": "Lustheide",
+        "type": "suburb",
+        "lat": 50.9506195,
+        "lng": 7.1075734
+      },
+      {
+        "name": "Schildgen",
+        "type": "suburb",
+        "lat": 51.0161098,
+        "lng": 7.0807315
+      }
+    ]
+  },
+  {
+    "cityName": "Moers",
+    "slug": "moers",
+    "serviceDistricts": [
+      "Asberg",
+      "Bornheim",
+      "Eick Ost",
+      "Eick West",
+      "Genend"
+    ],
+    "featuredDistricts": [
+      "Hochstraß",
+      "Hülsdonk",
+      "Hülshorst"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hülsdonk",
+        "type": "suburb",
+        "lat": 51.4535987,
+        "lng": 6.6064844
+      },
+      {
+        "name": "Utfort",
+        "type": "suburb",
+        "lat": 51.4748613,
+        "lng": 6.6257208
+      },
+      {
+        "name": "Meerbeck",
+        "type": "suburb",
+        "lat": 51.4621785,
+        "lng": 6.6525873
+      },
+      {
+        "name": "Schwafheim",
+        "type": "suburb",
+        "lat": 51.4259605,
+        "lng": 6.6503444
+      },
+      {
+        "name": "Hochstraß",
+        "type": "suburb",
+        "lat": 51.4514831,
+        "lng": 6.6579508
+      },
+      {
+        "name": "Sandfort",
+        "type": "suburb",
+        "lat": 51.4672929,
+        "lng": 6.6011757
+      },
+      {
+        "name": "Eick West",
+        "type": "suburb",
+        "lat": 51.4834946,
+        "lng": 6.6284906
+      },
+      {
+        "name": "Meerfeld",
+        "type": "suburb",
+        "lat": 51.4800284,
+        "lng": 6.6100044
+      },
+      {
+        "name": "Asberg",
+        "type": "suburb",
+        "lat": 51.4413822,
+        "lng": 6.6611069
+      },
+      {
+        "name": "Eick Ost",
+        "type": "suburb",
+        "lat": 51.4848905,
+        "lng": 6.6376408
+      },
+      {
+        "name": "Genend",
+        "type": "suburb",
+        "lat": 51.4759902,
+        "lng": 6.6004742
+      },
+      {
+        "name": "Hülshorst",
+        "type": "suburb",
+        "lat": 51.4284544,
+        "lng": 6.5985847
+      },
+      {
+        "name": "Rheinkamp",
+        "type": "suburb",
+        "lat": 51.490798,
+        "lng": 6.6190939
+      },
+      {
+        "name": "Bornheim",
+        "type": "suburb",
+        "lat": 51.4955836,
+        "lng": 6.6343342
+      },
+      {
+        "name": "Scherpenberg",
+        "type": "suburb",
+        "lat": 51.4565975,
+        "lng": 6.6737888
+      },
+      {
+        "name": "Repelen",
+        "type": "suburb",
+        "lat": 51.4886787,
+        "lng": 6.600662
+      },
+      {
+        "name": "Vennikel",
+        "type": "suburb",
+        "lat": 51.3974144,
+        "lng": 6.6274174
+      },
+      {
+        "name": "Kohlenhuck",
+        "type": "suburb",
+        "lat": 51.5117482,
+        "lng": 6.5908099
+      }
+    ]
+  },
+  {
+    "cityName": "Siegen",
+    "slug": "siegen",
+    "serviceDistricts": [
+      "Aue",
+      "Birlenbach",
+      "Bürbach",
+      "Dillnhütten",
+      "Eiserfeld"
+    ],
+    "featuredDistricts": [
+      "Eisern",
+      "Geisweid",
+      "Gosenbach"
+    ],
+    "allDistricts": [
+      {
+        "name": "Weidenau",
+        "type": "suburb",
+        "lat": 50.8952073,
+        "lng": 8.0284566
+      },
+      {
+        "name": "Kaan-Marienborn",
+        "type": "suburb",
+        "lat": 50.8720514,
+        "lng": 8.0570786
+      },
+      {
+        "name": "Bürbach",
+        "type": "suburb",
+        "lat": 50.8890689,
+        "lng": 8.0591786
+      },
+      {
+        "name": "Geisweid",
+        "type": "suburb",
+        "lat": 50.9136699,
+        "lng": 8.0095133
+      },
+      {
+        "name": "Aue",
+        "type": "suburb",
+        "lat": 51.0540348,
+        "lng": 8.2893161
+      },
+      {
+        "name": "Birlenbach",
+        "type": "suburb",
+        "lat": 50.9042191,
+        "lng": 7.9896302
+      },
+      {
+        "name": "Eisern",
+        "type": "suburb",
+        "lat": 50.8289242,
+        "lng": 8.0395889
+      },
+      {
+        "name": "Eiserfeld",
+        "type": "suburb",
+        "lat": 50.834907,
+        "lng": 7.9927373
+      },
+      {
+        "name": "Wingeshausen",
+        "type": "suburb",
+        "lat": 51.0698482,
+        "lng": 8.2902467
+      },
+      {
+        "name": "Dillnhütten",
+        "type": "suburb",
+        "lat": 50.9270986,
+        "lng": 8.0118874
+      },
+      {
+        "name": "Niederschelden",
+        "type": "suburb",
+        "lat": 50.8445346,
+        "lng": 7.9706228
+      },
+      {
+        "name": "Sohlbach",
+        "type": "suburb",
+        "lat": 50.9321885,
+        "lng": 7.9977728
+      },
+      {
+        "name": "Gosenbach",
+        "type": "suburb",
+        "lat": 50.8552933,
+        "lng": 7.9620542
+      }
+    ]
+  },
+  {
+    "cityName": "Gütersloh",
+    "slug": "guetersloh",
+    "serviceDistricts": [
+      "Avenwedde",
+      "Blankenhagen",
+      "Ebbesloh",
+      "Friedrichsdorf",
+      "Hollen"
+    ],
+    "featuredDistricts": [
+      "Isselhorst",
+      "Kattenstroth",
+      "Niehorst"
+    ],
+    "allDistricts": [
+      {
+        "name": "Kattenstroth",
+        "type": "suburb",
+        "lat": 51.8916998,
+        "lng": 8.3723954
+      },
+      {
+        "name": "Varensell",
+        "type": "suburb",
+        "lat": 51.8602751,
+        "lng": 8.4419513
+      },
+      {
+        "name": "Blankenhagen",
+        "type": "suburb",
+        "lat": 51.9297461,
+        "lng": 8.372295
+      },
+      {
+        "name": "Sürenheide",
+        "type": "suburb",
+        "lat": 51.8899754,
+        "lng": 8.4642152
+      },
+      {
+        "name": "Pavenstädt",
+        "type": "suburb",
+        "lat": 51.9115451,
+        "lng": 8.3492324
+      },
+      {
+        "name": "Sundern",
+        "type": "suburb",
+        "lat": 51.8938339,
+        "lng": 8.4050752
+      },
+      {
+        "name": "Nordhorn",
+        "type": "suburb",
+        "lat": 51.9214587,
+        "lng": 8.4118784
+      },
+      {
+        "name": "Spexard",
+        "type": "suburb",
+        "lat": 51.8826206,
+        "lng": 8.4090922
+      },
+      {
+        "name": "Hollen",
+        "type": "suburb",
+        "lat": 51.9558967,
+        "lng": 8.3857416
+      },
+      {
+        "name": "Isselhorst",
+        "type": "suburb",
+        "lat": 51.9460143,
+        "lng": 8.412831
+      },
+      {
+        "name": "Niehorst",
+        "type": "suburb",
+        "lat": 51.9507064,
+        "lng": 8.3479506
+      },
+      {
+        "name": "Ebbesloh",
+        "type": "suburb",
+        "lat": 51.9702568,
+        "lng": 8.3578286
+      },
+      {
+        "name": "Avenwedde",
+        "type": "suburb",
+        "lat": 51.9377825,
+        "lng": 8.4450617
+      },
+      {
+        "name": "Friedrichsdorf",
+        "type": "suburb",
+        "lat": 51.9363434,
+        "lng": 8.4876239
+      }
+    ]
+  },
+  {
+    "cityName": "Witten",
+    "slug": "witten",
+    "serviceDistricts": [
+      "Annen",
+      "Auf dem Schnee",
+      "Bommern",
+      "Eichlinghofen",
+      "Ende"
+    ],
+    "featuredDistricts": [
+      "Herbede",
+      "Heven",
+      "Kley"
+    ],
+    "allDistricts": [
+      {
+        "name": "Bommern",
+        "type": "suburb",
+        "lat": 51.4228986,
+        "lng": 7.3383316
+      },
+      {
+        "name": "Heven",
+        "type": "suburb",
+        "lat": 51.4403909,
+        "lng": 7.3085535
+      },
+      {
+        "name": "Salingen",
+        "type": "suburb",
+        "lat": 51.4721678,
+        "lng": 7.3963282
+      },
+      {
+        "name": "Annen",
+        "type": "suburb",
+        "lat": 51.4462436,
+        "lng": 7.3744351
+      },
+      {
+        "name": "Kley",
+        "type": "suburb",
+        "lat": 51.4875026,
+        "lng": 7.3678551
+      },
+      {
+        "name": "Stockum",
+        "type": "suburb",
+        "lat": 51.4682596,
+        "lng": 7.3622496
+      },
+      {
+        "name": "Persebeck",
+        "type": "suburb",
+        "lat": 51.4584056,
+        "lng": 7.4090521
+      },
+      {
+        "name": "Oespel",
+        "type": "suburb",
+        "lat": 51.4893445,
+        "lng": 7.3816292
+      },
+      {
+        "name": "Kruckel",
+        "type": "suburb",
+        "lat": 51.4541507,
+        "lng": 7.413224
+      },
+      {
+        "name": "Somborn",
+        "type": "suburb",
+        "lat": 51.4907071,
+        "lng": 7.3477107
+      },
+      {
+        "name": "Eichlinghofen",
+        "type": "suburb",
+        "lat": 51.4822568,
+        "lng": 7.4040748
+      },
+      {
+        "name": "Wengern",
+        "type": "suburb",
+        "lat": 51.4011632,
+        "lng": 7.3430524
+      },
+      {
+        "name": "Langendreer",
+        "type": "suburb",
+        "lat": 51.472235,
+        "lng": 7.3211827
+      },
+      {
+        "name": "Ende",
+        "type": "suburb",
+        "lat": 51.4163301,
+        "lng": 7.4134326
+      },
+      {
+        "name": "Herbede",
+        "type": "suburb",
+        "lat": 51.4218624,
+        "lng": 7.2800297
+      },
+      {
+        "name": "Rüdinghausen",
+        "type": "suburb",
+        "lat": 51.4514448,
+        "lng": 7.4018401
+      },
+      {
+        "name": "Auf dem Schnee",
+        "type": "suburb",
+        "lat": 51.4313093,
+        "lng": 7.4158351
+      }
+    ]
+  },
+  {
+    "cityName": "Iserlohn",
+    "slug": "iserlohn",
+    "serviceDistricts": [
+      "Bredenbruch",
+      "Gerlingsen",
+      "Grüne",
+      "Hombruch",
+      "Ihmert"
+    ],
+    "featuredDistricts": [
+      "Iserlohner Heide",
+      "Iserlohnerheide",
+      "Letmathe"
+    ],
+    "allDistricts": [
+      {
+        "name": "Nußberg",
+        "type": "suburb",
+        "lat": 51.3866949,
+        "lng": 7.6827611
+      },
+      {
+        "name": "Hombruch",
+        "type": "suburb",
+        "lat": 51.3922759,
+        "lng": 7.6833858
+      },
+      {
+        "name": "Obergrüne",
+        "type": "suburb",
+        "lat": 51.3618398,
+        "lng": 7.6757886
+      },
+      {
+        "name": "Wermingsen",
+        "type": "suburb",
+        "lat": 51.3752422,
+        "lng": 7.7279422
+      },
+      {
+        "name": "Iserlohnerheide",
+        "type": "suburb",
+        "lat": 51.4012577,
+        "lng": 7.6872892
+      },
+      {
+        "name": "Iserlohner Heide",
+        "type": "suburb",
+        "lat": 51.40184,
+        "lng": 7.6867887
+      },
+      {
+        "name": "Gerlingsen",
+        "type": "suburb",
+        "lat": 51.3891023,
+        "lng": 7.6690301
+      },
+      {
+        "name": "Grüne",
+        "type": "suburb",
+        "lat": 51.3668205,
+        "lng": 7.6660647
+      },
+      {
+        "name": "Roden",
+        "type": "suburb",
+        "lat": 51.3612452,
+        "lng": 7.6628317
+      },
+      {
+        "name": "Sümmern",
+        "type": "suburb",
+        "lat": 51.4185099,
+        "lng": 7.712633
+      },
+      {
+        "name": "Wiehagen",
+        "type": "suburb",
+        "lat": 51.3734517,
+        "lng": 7.7480692
+      },
+      {
+        "name": "Sümmern-Rombrock",
+        "type": "suburb",
+        "lat": 51.4241345,
+        "lng": 7.7052752
+      },
+      {
+        "name": "Lössel",
+        "type": "suburb",
+        "lat": 51.3486492,
+        "lng": 7.6562195
+      },
+      {
+        "name": "Untergrüne",
+        "type": "suburb",
+        "lat": 51.3661742,
+        "lng": 7.6490165
+      },
+      {
+        "name": "Bredenbruch",
+        "type": "suburb",
+        "lat": 51.3520351,
+        "lng": 7.7468389
+      },
+      {
+        "name": "Ihmert",
+        "type": "suburb",
+        "lat": 51.3295577,
+        "lng": 7.7360822
+      },
+      {
+        "name": "Oestrich",
+        "type": "suburb",
+        "lat": 51.3720398,
+        "lng": 7.6317638
+      },
+      {
+        "name": "Letmathe",
+        "type": "suburb",
+        "lat": 51.3665984,
+        "lng": 7.6110137
+      },
+      {
+        "name": "Stübbeken",
+        "type": "suburb",
+        "lat": 51.3786239,
+        "lng": 7.6023974
+      }
+    ]
+  },
+  {
+    "cityName": "Düren",
+    "slug": "dueren",
+    "serviceDistricts": [
+      "Rölsdorf",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rölsdorf",
+        "type": "suburb",
+        "lat": 50.790069,
+        "lng": 6.4622503
+      }
+    ]
+  },
+  {
+    "cityName": "Ratingen",
+    "slug": "ratingen",
+    "serviceDistricts": [
+      "Lintorf",
+      "Ost",
+      "Süd",
+      "Tiefenbroich",
+      "West"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Süd",
+        "type": "suburb",
+        "lat": 51.2886403,
+        "lng": 6.8476188
+      },
+      {
+        "name": "Ost",
+        "type": "suburb",
+        "lat": 51.2988297,
+        "lng": 6.8712422
+      },
+      {
+        "name": "Tiefenbroich",
+        "type": "suburb",
+        "lat": 51.3128417,
+        "lng": 6.8229196
+      },
+      {
+        "name": "West",
+        "type": "suburb",
+        "lat": 51.2913896,
+        "lng": 6.8183558
+      },
+      {
+        "name": "Lintorf",
+        "type": "suburb",
+        "lat": 51.333258,
+        "lng": 6.8312298
+      }
+    ]
+  },
+  {
+    "cityName": "Lünen",
+    "slug": "luenen",
+    "serviceDistricts": [
+      "Alstedde",
+      "Beckinghausen",
+      "Brambauer",
+      "Gahmen",
+      "Geistviertel"
+    ],
+    "featuredDistricts": [
+      "Horstmar",
+      "Lippholthausen",
+      "Lünen-Süd"
+    ],
+    "allDistricts": [
+      {
+        "name": "Osterfeld",
+        "type": "suburb",
+        "lat": 51.6027827,
+        "lng": 7.524453
+      },
+      {
+        "name": "Nordlünen",
+        "type": "suburb",
+        "lat": 51.6292074,
+        "lng": 7.5267791
+      },
+      {
+        "name": "Geistviertel",
+        "type": "suburb",
+        "lat": 51.6136103,
+        "lng": 7.5028411
+      },
+      {
+        "name": "Wethmar",
+        "type": "suburb",
+        "lat": 51.6234682,
+        "lng": 7.5422076
+      },
+      {
+        "name": "Lünen-Süd",
+        "type": "suburb",
+        "lat": 51.5904843,
+        "lng": 7.5294333
+      },
+      {
+        "name": "Gahmen",
+        "type": "suburb",
+        "lat": 51.5872865,
+        "lng": 7.5075263
+      },
+      {
+        "name": "Alstedde",
+        "type": "suburb",
+        "lat": 51.6285541,
+        "lng": 7.4900841
+      },
+      {
+        "name": "Horstmar",
+        "type": "suburb",
+        "lat": 51.5941484,
+        "lng": 7.552594
+      },
+      {
+        "name": "Beckinghausen",
+        "type": "suburb",
+        "lat": 51.6120863,
+        "lng": 7.5624645
+      },
+      {
+        "name": "Lippholthausen",
+        "type": "suburb",
+        "lat": 51.6120118,
+        "lng": 7.4756923
+      },
+      {
+        "name": "Niederaden",
+        "type": "suburb",
+        "lat": 51.5928017,
+        "lng": 7.5661392
+      },
+      {
+        "name": "Brambauer",
+        "type": "suburb",
+        "lat": 51.5963865,
+        "lng": 7.4345342
+      }
+    ]
+  },
+  {
+    "cityName": "Marl",
+    "slug": "marl",
+    "serviceDistricts": [
+      "Alt-Marl",
+      "Brassert",
+      "Drewer",
+      "Hamm",
+      "Hüls"
+    ],
+    "featuredDistricts": [
+      "Lenkerbeck",
+      "Scherlebeck",
+      "Sinsen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Alt-Marl",
+        "type": "suburb",
+        "lat": 51.6473188,
+        "lng": 7.0826067
+      },
+      {
+        "name": "Brassert",
+        "type": "suburb",
+        "lat": 51.6590902,
+        "lng": 7.0830791
+      },
+      {
+        "name": "Stadtkern",
+        "type": "suburb",
+        "lat": 51.6557082,
+        "lng": 7.096319
+      },
+      {
+        "name": "Drewer",
+        "type": "suburb",
+        "lat": 51.6533437,
+        "lng": 7.1172366
+      },
+      {
+        "name": "Hüls",
+        "type": "suburb",
+        "lat": 51.6655915,
+        "lng": 7.1299346
+      },
+      {
+        "name": "Hamm",
+        "type": "suburb",
+        "lat": 51.6868591,
+        "lng": 7.1252566
+      },
+      {
+        "name": "Waldsiedlung",
+        "type": "suburb",
+        "lat": 51.6864285,
+        "lng": 7.1280777
+      },
+      {
+        "name": "Scherlebeck",
+        "type": "suburb",
+        "lat": 51.6193436,
+        "lng": 7.1419803
+      },
+      {
+        "name": "Lenkerbeck",
+        "type": "suburb",
+        "lat": 51.6665107,
+        "lng": 7.1616382
+      },
+      {
+        "name": "Sinsen",
+        "type": "suburb",
+        "lat": 51.6663033,
+        "lng": 7.1855382
+      }
+    ]
+  },
+  {
+    "cityName": "Velbert",
+    "slug": "velbert",
+    "serviceDistricts": [
+      "Am Berg",
+      "Birth",
+      "Bonsfeld",
+      "Frohnberg",
+      "Heidhausen"
+    ],
+    "featuredDistricts": [
+      "Hopscheiderberg",
+      "Kocherscheidt",
+      "Kostenberg"
+    ],
+    "allDistricts": [
+      {
+        "name": "Nordstadt",
+        "type": "suburb",
+        "lat": 51.3474347,
+        "lng": 7.0397258
+      },
+      {
+        "name": "Unterstadt",
+        "type": "suburb",
+        "lat": 51.3438199,
+        "lng": 7.0328276
+      },
+      {
+        "name": "Nordpark",
+        "type": "suburb",
+        "lat": 51.3505113,
+        "lng": 7.0522715
+      },
+      {
+        "name": "Oberstadt",
+        "type": "suburb",
+        "lat": 51.3304839,
+        "lng": 7.0545318
+      },
+      {
+        "name": "Rützkausen",
+        "type": "suburb",
+        "lat": 51.3246176,
+        "lng": 7.0457905
+      },
+      {
+        "name": "Langenhorst",
+        "type": "suburb",
+        "lat": 51.355089,
+        "lng": 7.0344437
+      },
+      {
+        "name": "Kostenberg",
+        "type": "suburb",
+        "lat": 51.3275251,
+        "lng": 7.0326898
+      },
+      {
+        "name": "Am Berg",
+        "type": "suburb",
+        "lat": 51.3331121,
+        "lng": 7.028056
+      },
+      {
+        "name": "Röttgen",
+        "type": "suburb",
+        "lat": 51.3422654,
+        "lng": 7.0667379
+      },
+      {
+        "name": "Birth",
+        "type": "suburb",
+        "lat": 51.3400675,
+        "lng": 7.0177664
+      },
+      {
+        "name": "Losenburg",
+        "type": "suburb",
+        "lat": 51.3488694,
+        "lng": 7.016818
+      },
+      {
+        "name": "Röbbeck",
+        "type": "suburb",
+        "lat": 51.3499181,
+        "lng": 7.0712736
+      },
+      {
+        "name": "Tönisheide",
+        "type": "suburb",
+        "lat": 51.3136681,
+        "lng": 7.0659357
+      },
+      {
+        "name": "Obere Flandersbach",
+        "type": "suburb",
+        "lat": 51.3226484,
+        "lng": 7.0141435
+      },
+      {
+        "name": "Kocherscheidt",
+        "type": "suburb",
+        "lat": 51.2955018,
+        "lng": 7.0563764
+      },
+      {
+        "name": "Nord - Erbach",
+        "type": "suburb",
+        "lat": 51.293863,
+        "lng": 7.0444261
+      },
+      {
+        "name": "Neviges",
+        "type": "suburb",
+        "lat": 51.3098033,
+        "lng": 7.0878942
+      },
+      {
+        "name": "Heidhausen",
+        "type": "suburb",
+        "lat": 51.3738087,
+        "lng": 7.0159428
+      },
+      {
+        "name": "Pöthen",
+        "type": "suburb",
+        "lat": 51.2985098,
+        "lng": 7.0864267
+      },
+      {
+        "name": "Rohdenhaus",
+        "type": "suburb",
+        "lat": 51.3019014,
+        "lng": 7.0118356
+      },
+      {
+        "name": "Siepen",
+        "type": "suburb",
+        "lat": 51.3084567,
+        "lng": 7.1017705
+      },
+      {
+        "name": "Rosenhügel",
+        "type": "suburb",
+        "lat": 51.3010551,
+        "lng": 7.0991903
+      },
+      {
+        "name": "Frohnberg",
+        "type": "suburb",
+        "lat": 51.3554352,
+        "lng": 7.1147442
+      },
+      {
+        "name": "Hopscheiderberg",
+        "type": "suburb",
+        "lat": 51.3647457,
+        "lng": 7.1158647
+      },
+      {
+        "name": "Langenberg",
+        "type": "suburb",
+        "lat": 51.3517176,
+        "lng": 7.1215145
+      },
+      {
+        "name": "Langenberg-Mitte",
+        "type": "suburb",
+        "lat": 51.3529059,
+        "lng": 7.121391
+      },
+      {
+        "name": "Bonsfeld",
+        "type": "suburb",
+        "lat": 51.3644591,
+        "lng": 7.1323873
+      },
+      {
+        "name": "Nierenhof",
+        "type": "suburb",
+        "lat": 51.37221,
+        "lng": 7.1380455
+      }
+    ]
+  },
+  {
+    "cityName": "Minden",
+    "slug": "minden",
+    "serviceDistricts": [
+      "Aminghausen",
+      "Bärenkämpen",
+      "Barkhausen",
+      "Bölhorst",
+      "Dankersen"
+    ],
+    "featuredDistricts": [
+      "Dützen",
+      "Grille",
+      "Haddenhausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Königstor",
+        "type": "suburb",
+        "lat": 52.2897488,
+        "lng": 8.897862
+      },
+      {
+        "name": "Rodenbeck",
+        "type": "suburb",
+        "lat": 52.2780667,
+        "lng": 8.8951255
+      },
+      {
+        "name": "Leteln",
+        "type": "suburb",
+        "lat": 52.3119642,
+        "lng": 8.9348854
+      },
+      {
+        "name": "Grille",
+        "type": "suburb",
+        "lat": 52.2849567,
+        "lng": 8.9473842
+      },
+      {
+        "name": "Bärenkämpen",
+        "type": "suburb",
+        "lat": 52.3051021,
+        "lng": 8.8911254
+      },
+      {
+        "name": "Neesen",
+        "type": "suburb",
+        "lat": 52.2629859,
+        "lng": 8.9341269
+      },
+      {
+        "name": "Kuhlenkamp",
+        "type": "suburb",
+        "lat": 52.3132049,
+        "lng": 8.8932551
+      },
+      {
+        "name": "Bölhorst",
+        "type": "suburb",
+        "lat": 52.2680127,
+        "lng": 8.882164
+      },
+      {
+        "name": "Lerbeck",
+        "type": "suburb",
+        "lat": 52.2505341,
+        "lng": 8.9425087
+      },
+      {
+        "name": "Meißen",
+        "type": "suburb",
+        "lat": 52.2685572,
+        "lng": 8.9544086
+      },
+      {
+        "name": "Aminghausen",
+        "type": "suburb",
+        "lat": 52.3117364,
+        "lng": 8.9534417
+      },
+      {
+        "name": "Barkhausen",
+        "type": "suburb",
+        "lat": 52.2511764,
+        "lng": 8.9116447
+      },
+      {
+        "name": "Todtenhausen",
+        "type": "suburb",
+        "lat": 52.3349705,
+        "lng": 8.9228775
+      },
+      {
+        "name": "Dankersen",
+        "type": "suburb",
+        "lat": 52.296146,
+        "lng": 8.9640121
+      },
+      {
+        "name": "Minderheide",
+        "type": "suburb",
+        "lat": 52.3129182,
+        "lng": 8.8751853
+      },
+      {
+        "name": "Kutenhausen",
+        "type": "suburb",
+        "lat": 52.3348077,
+        "lng": 8.896298
+      },
+      {
+        "name": "Dützen",
+        "type": "suburb",
+        "lat": 52.2708375,
+        "lng": 8.8634186
+      },
+      {
+        "name": "Nammen",
+        "type": "suburb",
+        "lat": 52.2469066,
+        "lng": 8.9858518
+      },
+      {
+        "name": "Stemmer",
+        "type": "suburb",
+        "lat": 52.3383708,
+        "lng": 8.8734395
+      },
+      {
+        "name": "Hahlen",
+        "type": "suburb",
+        "lat": 52.3052994,
+        "lng": 8.8438856
+      },
+      {
+        "name": "Haddenhausen",
+        "type": "suburb",
+        "lat": 52.2741431,
+        "lng": 8.8286249
+      }
+    ]
+  },
+  {
+    "cityName": "Troisdorf",
+    "slug": "troisdorf",
+    "serviceDistricts": [
+      "Altenrath",
+      "Bergheim",
+      "Brückberg",
+      "Dreesch",
+      "Eschmar"
+    ],
+    "featuredDistricts": [
+      "Friedrich-Wilhelms-Hütte",
+      "Hangelar",
+      "Kriegsdorf"
+    ],
+    "allDistricts": [
+      {
+        "name": "Troisdorf-West",
+        "type": "suburb",
+        "lat": 50.8057648,
+        "lng": 7.1650928
+      },
+      {
+        "name": "Friedrich-Wilhelms-Hütte",
+        "type": "suburb",
+        "lat": 50.8028977,
+        "lng": 7.1497052
+      },
+      {
+        "name": "Menden",
+        "type": "suburb",
+        "lat": 50.790379,
+        "lng": 7.1646594
+      },
+      {
+        "name": "Oberlar",
+        "type": "suburb",
+        "lat": 50.8150515,
+        "lng": 7.1297167
+      },
+      {
+        "name": "Brückberg",
+        "type": "suburb",
+        "lat": 50.8086552,
+        "lng": 7.1913806
+      },
+      {
+        "name": "Sieglar",
+        "type": "suburb",
+        "lat": 50.7983009,
+        "lng": 7.128106
+      },
+      {
+        "name": "Zange",
+        "type": "suburb",
+        "lat": 50.7944574,
+        "lng": 7.1965862
+      },
+      {
+        "name": "Rotter See",
+        "type": "suburb",
+        "lat": 50.8100514,
+        "lng": 7.1167312
+      },
+      {
+        "name": "Spich",
+        "type": "suburb",
+        "lat": 50.828651,
+        "lng": 7.1172016
+      },
+      {
+        "name": "Mülldorf",
+        "type": "suburb",
+        "lat": 50.7844125,
+        "lng": 7.1971871
+      },
+      {
+        "name": "Dreesch",
+        "type": "suburb",
+        "lat": 50.8036569,
+        "lng": 7.2045964
+      },
+      {
+        "name": "Ort",
+        "type": "suburb",
+        "lat": 50.77051,
+        "lng": 7.186784
+      },
+      {
+        "name": "Hangelar",
+        "type": "suburb",
+        "lat": 50.7591626,
+        "lng": 7.1664663
+      },
+      {
+        "name": "Eschmar",
+        "type": "suburb",
+        "lat": 50.7926958,
+        "lng": 7.1116875
+      },
+      {
+        "name": "Niederberg",
+        "type": "suburb",
+        "lat": 50.7587487,
+        "lng": 7.1819587
+      },
+      {
+        "name": "Altenrath",
+        "type": "suburb",
+        "lat": 50.8573645,
+        "lng": 7.1955431
+      },
+      {
+        "name": "Kriegsdorf",
+        "type": "suburb",
+        "lat": 50.8075529,
+        "lng": 7.1023123
+      },
+      {
+        "name": "Müllekoven",
+        "type": "suburb",
+        "lat": 50.7789947,
+        "lng": 7.1062773
+      },
+      {
+        "name": "Bergheim",
+        "type": "suburb",
+        "lat": 50.7751276,
+        "lng": 7.0917977
+      }
+    ]
+  },
+  {
+    "cityName": "Viersen",
+    "slug": "viersen",
+    "serviceDistricts": [
+      "Anrath",
+      "Beberich",
+      "Bockert",
+      "Helenabrunn",
+      "Hoser"
+    ],
+    "featuredDistricts": [
+      "Hülsdonk",
+      "Neersen",
+      "Rahser"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rintgen",
+        "type": "suburb",
+        "lat": 51.2530698,
+        "lng": 6.3963682
+      },
+      {
+        "name": "Rahser",
+        "type": "suburb",
+        "lat": 51.2674577,
+        "lng": 6.3881381
+      },
+      {
+        "name": "Hoser",
+        "type": "suburb",
+        "lat": 51.2454822,
+        "lng": 6.3806045
+      },
+      {
+        "name": "Beberich",
+        "type": "suburb",
+        "lat": 51.2386741,
+        "lng": 6.3954298
+      },
+      {
+        "name": "Hülsdonk",
+        "type": "suburb",
+        "lat": 51.261107,
+        "lng": 6.408095
+      },
+      {
+        "name": "Bockert",
+        "type": "suburb",
+        "lat": 51.2390894,
+        "lng": 6.3800418
+      },
+      {
+        "name": "Sittard",
+        "type": "suburb",
+        "lat": 51.2790022,
+        "lng": 6.3884659
+      },
+      {
+        "name": "Robend",
+        "type": "suburb",
+        "lat": 51.2574798,
+        "lng": 6.4147155
+      },
+      {
+        "name": "Vorst",
+        "type": "suburb",
+        "lat": 51.2968026,
+        "lng": 6.3603333
+      },
+      {
+        "name": "Helenabrunn",
+        "type": "suburb",
+        "lat": 51.2277078,
+        "lng": 6.4192663
+      },
+      {
+        "name": "Anrath",
+        "type": "suburb",
+        "lat": 51.2794758,
+        "lng": 6.4589721
+      },
+      {
+        "name": "Neersen",
+        "type": "suburb",
+        "lat": 51.2531194,
+        "lng": 6.4814398
+      },
+      {
+        "name": "Schiefbahn",
+        "type": "suburb",
+        "lat": 51.2419278,
+        "lng": 6.5365831
+      }
+    ]
+  },
+  {
+    "cityName": "Rheine",
+    "slug": "rheine",
+    "serviceDistricts": [
+      "Altenrheine",
+      "Bentlage",
+      "Dorenkamp",
+      "Dutum",
+      "Eschendorf"
+    ],
+    "featuredDistricts": [
+      "Gellendorf",
+      "Kanalhafen",
+      "Rodde"
+    ],
+    "allDistricts": [
+      {
+        "name": "Wietesch",
+        "type": "suburb",
+        "lat": 52.2852229,
+        "lng": 7.4284262
+      },
+      {
+        "name": "Dorenkamp",
+        "type": "suburb",
+        "lat": 52.2698922,
+        "lng": 7.4316801
+      },
+      {
+        "name": "Schleupe",
+        "type": "suburb",
+        "lat": 52.2817286,
+        "lng": 7.4255238
+      },
+      {
+        "name": "Schotthock",
+        "type": "suburb",
+        "lat": 52.2945416,
+        "lng": 7.4453852
+      },
+      {
+        "name": "Stadtberg",
+        "type": "suburb",
+        "lat": 52.2878835,
+        "lng": 7.4542599
+      },
+      {
+        "name": "Dutum",
+        "type": "suburb",
+        "lat": 52.2706333,
+        "lng": 7.4116495
+      },
+      {
+        "name": "Eschendorf",
+        "type": "suburb",
+        "lat": 52.2832714,
+        "lng": 7.4649494
+      },
+      {
+        "name": "Gellendorf",
+        "type": "suburb",
+        "lat": 52.2662026,
+        "lng": 7.4666533
+      },
+      {
+        "name": "Bentlage",
+        "type": "suburb",
+        "lat": 52.2999834,
+        "lng": 7.4088872
+      },
+      {
+        "name": "Wadelheim",
+        "type": "suburb",
+        "lat": 52.280184,
+        "lng": 7.3984997
+      },
+      {
+        "name": "Altenrheine",
+        "type": "suburb",
+        "lat": 52.3041446,
+        "lng": 7.4682999
+      },
+      {
+        "name": "Kanalhafen",
+        "type": "suburb",
+        "lat": 52.292634,
+        "lng": 7.5050258
+      },
+      {
+        "name": "Rodde",
+        "type": "suburb",
+        "lat": 52.2843546,
+        "lng": 7.5296051
+      }
+    ]
+  },
+  {
+    "cityName": "Lüdenscheid",
+    "slug": "luedenscheid",
+    "serviceDistricts": [
+      "Ahelle",
+      "Augustenthal",
+      "Baukloh",
+      "Bierbaum",
+      "Born"
+    ],
+    "featuredDistricts": [
+      "Brügge",
+      "Brügger Höh",
+      "Brüninghausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Staberg",
+        "type": "suburb",
+        "lat": 51.2145137,
+        "lng": 7.63689
+      },
+      {
+        "name": "Tinsberg",
+        "type": "suburb",
+        "lat": 51.2227416,
+        "lng": 7.6379837
+      },
+      {
+        "name": "Tinsberger Kopf",
+        "type": "suburb",
+        "lat": 51.2254728,
+        "lng": 7.6351306
+      },
+      {
+        "name": "Höh",
+        "type": "suburb",
+        "lat": 51.2093635,
+        "lng": 7.6448688
+      },
+      {
+        "name": "Schafsbrücke",
+        "type": "suburb",
+        "lat": 51.229157,
+        "lng": 7.6355361
+      },
+      {
+        "name": "Baukloh",
+        "type": "suburb",
+        "lat": 51.207118,
+        "lng": 7.6354323
+      },
+      {
+        "name": "Hasley",
+        "type": "suburb",
+        "lat": 51.2106274,
+        "lng": 7.6303525
+      },
+      {
+        "name": "Worthhagen",
+        "type": "suburb",
+        "lat": 51.2298718,
+        "lng": 7.6433127
+      },
+      {
+        "name": "Worth",
+        "type": "suburb",
+        "lat": 51.2264447,
+        "lng": 7.6492837
+      },
+      {
+        "name": "Honsel",
+        "type": "suburb",
+        "lat": 51.2225757,
+        "lng": 7.6518655
+      },
+      {
+        "name": "Knapp",
+        "type": "suburb",
+        "lat": 51.2198473,
+        "lng": 7.6249108
+      },
+      {
+        "name": "Vogelberg",
+        "type": "suburb",
+        "lat": 51.2330788,
+        "lng": 7.6383785
+      },
+      {
+        "name": "Wefelshohl",
+        "type": "suburb",
+        "lat": 51.2137975,
+        "lng": 7.6562904
+      },
+      {
+        "name": "Grünewald",
+        "type": "suburb",
+        "lat": 51.2241394,
+        "lng": 7.6234781
+      },
+      {
+        "name": "Eichholz",
+        "type": "suburb",
+        "lat": 51.2271131,
+        "lng": 7.6545019
+      },
+      {
+        "name": "Ramsberg",
+        "type": "suburb",
+        "lat": 51.2149883,
+        "lng": 7.6210781
+      },
+      {
+        "name": "Nattenberg",
+        "type": "suburb",
+        "lat": 51.2084911,
+        "lng": 7.6221501
+      },
+      {
+        "name": "Bierbaum",
+        "type": "suburb",
+        "lat": 51.2011424,
+        "lng": 7.6513463
+      },
+      {
+        "name": "Kalve",
+        "type": "suburb",
+        "lat": 51.2182107,
+        "lng": 7.6629818
+      },
+      {
+        "name": "Hellersen",
+        "type": "suburb",
+        "lat": 51.2054001,
+        "lng": 7.6601244
+      },
+      {
+        "name": "Wehberg",
+        "type": "suburb",
+        "lat": 51.2326863,
+        "lng": 7.6202266
+      },
+      {
+        "name": "Heerwiese",
+        "type": "suburb",
+        "lat": 51.2343617,
+        "lng": 7.6125959
+      },
+      {
+        "name": "Gevelndorf",
+        "type": "suburb",
+        "lat": 51.2411632,
+        "lng": 7.6169649
+      },
+      {
+        "name": "Leifringhausen",
+        "type": "suburb",
+        "lat": 51.2208074,
+        "lng": 7.6724754
+      },
+      {
+        "name": "Buckesfeld",
+        "type": "suburb",
+        "lat": 51.224662,
+        "lng": 7.6062178
+      },
+      {
+        "name": "Grebbecke",
+        "type": "suburb",
+        "lat": 51.2318589,
+        "lng": 7.6077531
+      },
+      {
+        "name": "Oberrahmede",
+        "type": "suburb",
+        "lat": 51.2473828,
+        "lng": 7.620818
+      },
+      {
+        "name": "Oeneking",
+        "type": "suburb",
+        "lat": 51.2126231,
+        "lng": 7.6047803
+      },
+      {
+        "name": "Piepersloh",
+        "type": "suburb",
+        "lat": 51.1979129,
+        "lng": 7.6693884
+      },
+      {
+        "name": "Peddensiepen",
+        "type": "suburb",
+        "lat": 51.2312469,
+        "lng": 7.6743657
+      },
+      {
+        "name": "Dünnebrett",
+        "type": "suburb",
+        "lat": 51.2549063,
+        "lng": 7.6346588
+      },
+      {
+        "name": "Oberlösenbach",
+        "type": "suburb",
+        "lat": 51.2193055,
+        "lng": 7.6004409
+      },
+      {
+        "name": "Pöppelsheim",
+        "type": "suburb",
+        "lat": 51.2107295,
+        "lng": 7.6004946
+      },
+      {
+        "name": "Born",
+        "type": "suburb",
+        "lat": 51.2516915,
+        "lng": 7.6161351
+      },
+      {
+        "name": "Rathmecke",
+        "type": "suburb",
+        "lat": 51.2588788,
+        "lng": 7.6260707
+      },
+      {
+        "name": "Freisenberg",
+        "type": "suburb",
+        "lat": 51.2458963,
+        "lng": 7.6065525
+      },
+      {
+        "name": "Stüttinghausen",
+        "type": "suburb",
+        "lat": 51.2088771,
+        "lng": 7.5957834
+      },
+      {
+        "name": "Wettringhof",
+        "type": "suburb",
+        "lat": 51.2325113,
+        "lng": 7.6823518
+      },
+      {
+        "name": "Dickenberg",
+        "type": "suburb",
+        "lat": 51.2586727,
+        "lng": 7.6172762
+      },
+      {
+        "name": "Eggenscheid",
+        "type": "suburb",
+        "lat": 51.2546181,
+        "lng": 7.6105231
+      },
+      {
+        "name": "Othlinghausen",
+        "type": "suburb",
+        "lat": 51.2242184,
+        "lng": 7.5920642
+      },
+      {
+        "name": "Brügger Höh",
+        "type": "suburb",
+        "lat": 51.207733,
+        "lng": 7.590899
+      },
+      {
+        "name": "Lösenbach",
+        "type": "suburb",
+        "lat": 51.2142573,
+        "lng": 7.5896616
+      },
+      {
+        "name": "Hülscheiderbaum",
+        "type": "suburb",
+        "lat": 51.2482429,
+        "lng": 7.5952151
+      },
+      {
+        "name": "Elsperhammer",
+        "type": "suburb",
+        "lat": 51.2036377,
+        "lng": 7.5878955
+      },
+      {
+        "name": "Brüninghausen",
+        "type": "suburb",
+        "lat": 51.2221053,
+        "lng": 7.6947455
+      },
+      {
+        "name": "Augustenthal",
+        "type": "suburb",
+        "lat": 51.2344233,
+        "lng": 7.6964603
+      },
+      {
+        "name": "Eininghausen",
+        "type": "suburb",
+        "lat": 51.2056727,
+        "lng": 7.5782937
+      },
+      {
+        "name": "Ahelle",
+        "type": "suburb",
+        "lat": 51.2010249,
+        "lng": 7.5771489
+      },
+      {
+        "name": "Brügge",
+        "type": "suburb",
+        "lat": 51.2094897,
+        "lng": 7.5695126
+      }
+    ]
+  },
+  {
+    "cityName": "Castrop-Rauxel",
+    "slug": "castrop-rauxel",
+    "serviceDistricts": [
+      "Becklem",
+      "Beckum",
+      "Behringhausen",
+      "Bladenhorst",
+      "Castrop"
+    ],
+    "featuredDistricts": [
+      "Deininghausen",
+      "Dingen",
+      "Frohlinde"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rauxel",
+        "type": "suburb",
+        "lat": 51.5572544,
+        "lng": 7.3220287
+      },
+      {
+        "name": "Castrop",
+        "type": "suburb",
+        "lat": 51.5490704,
+        "lng": 7.3095683
+      },
+      {
+        "name": "Behringhausen",
+        "type": "suburb",
+        "lat": 51.5507835,
+        "lng": 7.2968932
+      },
+      {
+        "name": "Bladenhorst",
+        "type": "suburb",
+        "lat": 51.5710929,
+        "lng": 7.2907575
+      },
+      {
+        "name": "Habinghorst",
+        "type": "suburb",
+        "lat": 51.5872937,
+        "lng": 7.3115097
+      },
+      {
+        "name": "Obercastrop",
+        "type": "suburb",
+        "lat": 51.5403542,
+        "lng": 7.3103538
+      },
+      {
+        "name": "Deininghausen",
+        "type": "suburb",
+        "lat": 51.569322,
+        "lng": 7.3372865
+      },
+      {
+        "name": "Schwerin",
+        "type": "suburb",
+        "lat": 51.542171,
+        "lng": 7.3337169
+      },
+      {
+        "name": "Henrichenburg",
+        "type": "suburb",
+        "lat": 51.5992525,
+        "lng": 7.3128792
+      },
+      {
+        "name": "Dingen",
+        "type": "suburb",
+        "lat": 51.5539206,
+        "lng": 7.3503272
+      },
+      {
+        "name": "Merklinde",
+        "type": "suburb",
+        "lat": 51.5268194,
+        "lng": 7.3273752
+      },
+      {
+        "name": "Ickern",
+        "type": "suburb",
+        "lat": 51.5923286,
+        "lng": 7.3414465
+      },
+      {
+        "name": "Becklem",
+        "type": "suburb",
+        "lat": 51.6098165,
+        "lng": 7.3017951
+      },
+      {
+        "name": "Pöppinghausen",
+        "type": "suburb",
+        "lat": 51.5787104,
+        "lng": 7.265259
+      },
+      {
+        "name": "Frohlinde",
+        "type": "suburb",
+        "lat": 51.5305983,
+        "lng": 7.3522528
+      },
+      {
+        "name": "Beckum",
+        "type": "suburb",
+        "lat": 51.6206881,
+        "lng": 7.3028477
+      }
+    ]
+  },
+  {
+    "cityName": "Gladbeck",
+    "slug": "gladbeck",
+    "serviceDistricts": [
+      "Brauck",
+      "Butendorf",
+      "Ellinghorst",
+      "Rentfort",
+      "Rosenhügel"
+    ],
+    "featuredDistricts": [
+      "Schultendorf",
+      "Zweckel",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Schultendorf",
+        "type": "suburb",
+        "lat": 51.5833249,
+        "lng": 6.9769739
+      },
+      {
+        "name": "Butendorf",
+        "type": "suburb",
+        "lat": 51.56404,
+        "lng": 7.0017243
+      },
+      {
+        "name": "Zweckel",
+        "type": "suburb",
+        "lat": 51.5940967,
+        "lng": 6.9812721
+      },
+      {
+        "name": "Ellinghorst",
+        "type": "suburb",
+        "lat": 51.5624985,
+        "lng": 6.9599906
+      },
+      {
+        "name": "Rentfort",
+        "type": "suburb",
+        "lat": 51.5802129,
+        "lng": 6.9576984
+      },
+      {
+        "name": "Brauck",
+        "type": "suburb",
+        "lat": 51.5462747,
+        "lng": 7.0124491
+      },
+      {
+        "name": "Rosenhügel",
+        "type": "suburb",
+        "lat": 51.5481957,
+        "lng": 7.0241092
+      }
+    ]
+  },
+  {
+    "cityName": "Dorsten",
+    "slug": "dorsten",
+    "serviceDistricts": [
+      "Alt-Wulfen",
+      "Altstadt",
+      "Barkenberg",
+      "Feldmark",
+      "Hardt"
+    ],
+    "featuredDistricts": [
+      "Hervest",
+      "Holsterhausen",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Altstadt",
+        "type": "suburb",
+        "lat": 51.6609416,
+        "lng": 6.9655064
+      },
+      {
+        "name": "Hardt",
+        "type": "suburb",
+        "lat": 51.6594398,
+        "lng": 6.9488373
+      },
+      {
+        "name": "Feldmark",
+        "type": "suburb",
+        "lat": 51.6545226,
+        "lng": 6.9827847
+      },
+      {
+        "name": "Holsterhausen",
+        "type": "suburb",
+        "lat": 51.6790016,
+        "lng": 6.9493567
+      },
+      {
+        "name": "Hervest",
+        "type": "suburb",
+        "lat": 51.6718852,
+        "lng": 6.9995255
+      },
+      {
+        "name": "Alt-Wulfen",
+        "type": "suburb",
+        "lat": 51.7180727,
+        "lng": 7.0183586
+      },
+      {
+        "name": "Barkenberg",
+        "type": "suburb",
+        "lat": 51.7308322,
+        "lng": 7.0423734
+      }
+    ]
+  },
+  {
+    "cityName": "Detmold",
+    "slug": "detmold",
+    "serviceDistricts": [
+      "Heidenoldendorf",
+      "Hiddesen",
+      "Jerxen",
+      "Klüt",
+      "Nienhagen"
+    ],
+    "featuredDistricts": [
+      "Orbke",
+      "Pivitsheide V. H.",
+      "Pivitsheide V. L."
+    ],
+    "allDistricts": [
+      {
+        "name": "Spork-Eichholz",
+        "type": "suburb",
+        "lat": 51.9229948,
+        "lng": 8.8986643
+      },
+      {
+        "name": "Jerxen",
+        "type": "suburb",
+        "lat": 51.9582184,
+        "lng": 8.8672071
+      },
+      {
+        "name": "Klüt",
+        "type": "suburb",
+        "lat": 51.9622516,
+        "lng": 8.8902945
+      },
+      {
+        "name": "Rödlinghausen",
+        "type": "suburb",
+        "lat": 51.9320217,
+        "lng": 8.9078868
+      },
+      {
+        "name": "Orbke",
+        "type": "suburb",
+        "lat": 51.9578485,
+        "lng": 8.8504272
+      },
+      {
+        "name": "Hiddesen",
+        "type": "suburb",
+        "lat": 51.9255366,
+        "lng": 8.8432252
+      },
+      {
+        "name": "Remmighausen",
+        "type": "suburb",
+        "lat": 51.9125906,
+        "lng": 8.9095127
+      },
+      {
+        "name": "Heidenoldendorf",
+        "type": "suburb",
+        "lat": 51.9440995,
+        "lng": 8.8333717
+      },
+      {
+        "name": "Nienhagen",
+        "type": "suburb",
+        "lat": 51.95959,
+        "lng": 8.8243813
+      },
+      {
+        "name": "Pivitsheide V. H.",
+        "type": "suburb",
+        "lat": 51.9477174,
+        "lng": 8.8104651
+      },
+      {
+        "name": "Pivitsheide V.H.",
+        "type": "suburb",
+        "lat": 51.9385652,
+        "lng": 8.8029375
+      },
+      {
+        "name": "Pivitsheide V. L.",
+        "type": "suburb",
+        "lat": 51.9461188,
+        "lng": 8.7896057
+      },
+      {
+        "name": "Pivitsheide V.L.",
+        "type": "suburb",
+        "lat": 51.9415659,
+        "lng": 8.7871094
+      }
+    ]
+  },
+  {
+    "cityName": "Arnsberg",
+    "slug": "arnsberg",
+    "serviceDistricts": [
+      "Rusch",
+      "Wiehagen",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Wiehagen",
+        "type": "suburb",
+        "lat": 51.1482391,
+        "lng": 7.3167222
+      },
+      {
+        "name": "Rusch",
+        "type": "suburb",
+        "lat": 51.4477743,
+        "lng": 7.9847559
+      }
+    ]
+  },
+  {
+    "cityName": "Bocholt",
+    "slug": "bocholt",
+    "serviceDistricts": [
+      "Biemenhorst",
+      "Feldmark",
+      "Holtwick",
+      "Lowick",
+      "Mussum"
+    ],
+    "featuredDistricts": [
+      "Stenern",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Stenern",
+        "type": "suburb",
+        "lat": 51.8544282,
+        "lng": 6.6191906
+      },
+      {
+        "name": "Biemenhorst",
+        "type": "suburb",
+        "lat": 51.8180508,
+        "lng": 6.6237138
+      },
+      {
+        "name": "Mussum",
+        "type": "suburb",
+        "lat": 51.8130501,
+        "lng": 6.6061361
+      },
+      {
+        "name": "Feldmark",
+        "type": "suburb",
+        "lat": 51.8353127,
+        "lng": 6.5870252
+      },
+      {
+        "name": "Lowick",
+        "type": "suburb",
+        "lat": 51.8368738,
+        "lng": 6.5775091
+      },
+      {
+        "name": "Holtwick",
+        "type": "suburb",
+        "lat": 51.8579902,
+        "lng": 6.5823045
+      }
+    ]
+  },
+  {
+    "cityName": "Lippstadt",
+    "slug": "lippstadt",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Dinslaken",
+    "slug": "dinslaken",
+    "serviceDistricts": [
+      "Averbruch",
+      "Blumenviertel",
+      "Bruch",
+      "Eppinghoven",
+      "Hagenviertel"
+    ],
+    "featuredDistricts": [
+      "Hiesfeld",
+      "Lohberg",
+      "Oberlohberg"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hagenviertel",
+        "type": "suburb",
+        "lat": 51.5701148,
+        "lng": 6.7234298
+      },
+      {
+        "name": "Averbruch",
+        "type": "suburb",
+        "lat": 51.5516701,
+        "lng": 6.7433227
+      },
+      {
+        "name": "Blumenviertel",
+        "type": "suburb",
+        "lat": 51.5700688,
+        "lng": 6.7464478
+      },
+      {
+        "name": "Bruch",
+        "type": "suburb",
+        "lat": 51.5802259,
+        "lng": 6.7242524
+      },
+      {
+        "name": "Eppinghoven",
+        "type": "suburb",
+        "lat": 51.5649864,
+        "lng": 6.7051703
+      },
+      {
+        "name": "Hiesfeld",
+        "type": "suburb",
+        "lat": 51.5620058,
+        "lng": 6.7640126
+      },
+      {
+        "name": "Lohberg",
+        "type": "suburb",
+        "lat": 51.5821757,
+        "lng": 6.7568162
+      },
+      {
+        "name": "Oberlohberg",
+        "type": "suburb",
+        "lat": 51.5769062,
+        "lng": 6.780324
+      }
+    ]
+  },
+  {
+    "cityName": "Lübbecke",
+    "slug": "luebbecke",
+    "serviceDistricts": [
+      "Ahmserort",
+      "Aminghausen",
+      "Bad Holzhausen",
+      "Bärenkämpen",
+      "Barkhausen"
+    ],
+    "featuredDistricts": [
+      "Blasheim",
+      "Bölhorst",
+      "Dankersen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Obernfelde",
+        "type": "suburb",
+        "lat": 52.2965189,
+        "lng": 8.6010287
+      },
+      {
+        "name": "Gehlenbeck",
+        "type": "suburb",
+        "lat": 52.3088552,
+        "lng": 8.6500312
+      },
+      {
+        "name": "Obermehnen",
+        "type": "suburb",
+        "lat": 52.2823123,
+        "lng": 8.5807125
+      },
+      {
+        "name": "Eilhausen",
+        "type": "suburb",
+        "lat": 52.3105904,
+        "lng": 8.6673372
+      },
+      {
+        "name": "Blasheim",
+        "type": "suburb",
+        "lat": 52.3047303,
+        "lng": 8.5677506
+      },
+      {
+        "name": "Wulferdingsen",
+        "type": "suburb",
+        "lat": 52.2551965,
+        "lng": 8.7494527
+      },
+      {
+        "name": "Niedringhausen",
+        "type": "suburb",
+        "lat": 52.2774936,
+        "lng": 8.633647
+      },
+      {
+        "name": "Volmerdingsen",
+        "type": "suburb",
+        "lat": 52.25389,
+        "lng": 8.7809411
+      },
+      {
+        "name": "Haddenhausen",
+        "type": "suburb",
+        "lat": 52.2741431,
+        "lng": 8.8286249
+      },
+      {
+        "name": "Werste",
+        "type": "suburb",
+        "lat": 52.2155884,
+        "lng": 8.7809216
+      },
+      {
+        "name": "Eidinghausen",
+        "type": "suburb",
+        "lat": 52.2231415,
+        "lng": 8.8007325
+      },
+      {
+        "name": "Hahlen",
+        "type": "suburb",
+        "lat": 52.3052994,
+        "lng": 8.8438856
+      },
+      {
+        "name": "Dehme",
+        "type": "suburb",
+        "lat": 52.2333468,
+        "lng": 8.8325116
+      },
+      {
+        "name": "Rehme",
+        "type": "suburb",
+        "lat": 52.2128537,
+        "lng": 8.8236479
+      },
+      {
+        "name": "Dützen",
+        "type": "suburb",
+        "lat": 52.2708375,
+        "lng": 8.8634186
+      },
+      {
+        "name": "Stemmer",
+        "type": "suburb",
+        "lat": 52.3383708,
+        "lng": 8.8734395
+      },
+      {
+        "name": "Minderheide",
+        "type": "suburb",
+        "lat": 52.3129182,
+        "lng": 8.8751853
+      },
+      {
+        "name": "Lohe",
+        "type": "suburb",
+        "lat": 52.1811734,
+        "lng": 8.8006476
+      },
+      {
+        "name": "Bölhorst",
+        "type": "suburb",
+        "lat": 52.2680127,
+        "lng": 8.882164
+      },
+      {
+        "name": "Bad Holzhausen",
+        "type": "suburb",
+        "lat": 52.2888129,
+        "lng": 8.5349768
+      },
+      {
+        "name": "Bärenkämpen",
+        "type": "suburb",
+        "lat": 52.3051021,
+        "lng": 8.8911254
+      },
+      {
+        "name": "Kuhlenkamp",
+        "type": "suburb",
+        "lat": 52.3132049,
+        "lng": 8.8932551
+      },
+      {
+        "name": "Kutenhausen",
+        "type": "suburb",
+        "lat": 52.3348077,
+        "lng": 8.896298
+      },
+      {
+        "name": "Rodenbeck",
+        "type": "suburb",
+        "lat": 52.2780667,
+        "lng": 8.8951255
+      },
+      {
+        "name": "Königstor",
+        "type": "suburb",
+        "lat": 52.2897488,
+        "lng": 8.897862
+      },
+      {
+        "name": "Gut Crollage",
+        "type": "suburb",
+        "lat": 52.2780768,
+        "lng": 8.5251804
+      },
+      {
+        "name": "Hitzepohl",
+        "type": "suburb",
+        "lat": 52.2198481,
+        "lng": 8.8890713
+      },
+      {
+        "name": "Todtenhausen",
+        "type": "suburb",
+        "lat": 52.3349705,
+        "lng": 8.9228775
+      },
+      {
+        "name": "Barkhausen",
+        "type": "suburb",
+        "lat": 52.2511764,
+        "lng": 8.9116447
+      },
+      {
+        "name": "Holzhausen I",
+        "type": "suburb",
+        "lat": 52.2288764,
+        "lng": 8.9030476
+      },
+      {
+        "name": "Engershausen",
+        "type": "suburb",
+        "lat": 52.3102371,
+        "lng": 8.4994759
+      },
+      {
+        "name": "Twellsiek",
+        "type": "suburb",
+        "lat": 52.1989403,
+        "lng": 8.8860698
+      },
+      {
+        "name": "Helserbruch",
+        "type": "suburb",
+        "lat": 52.2129431,
+        "lng": 8.8970584
+      },
+      {
+        "name": "Leteln",
+        "type": "suburb",
+        "lat": 52.3119642,
+        "lng": 8.9348854
+      },
+      {
+        "name": "Hausberge",
+        "type": "suburb",
+        "lat": 52.2370335,
+        "lng": 8.9185585
+      },
+      {
+        "name": "Harlinghausen",
+        "type": "suburb",
+        "lat": 52.3161535,
+        "lng": 8.4831651
+      },
+      {
+        "name": "Neesen",
+        "type": "suburb",
+        "lat": 52.2629859,
+        "lng": 8.9341269
+      },
+      {
+        "name": "Grille",
+        "type": "suburb",
+        "lat": 52.2849567,
+        "lng": 8.9473842
+      },
+      {
+        "name": "Lerbeck",
+        "type": "suburb",
+        "lat": 52.2505341,
+        "lng": 8.9425087
+      },
+      {
+        "name": "Aminghausen",
+        "type": "suburb",
+        "lat": 52.3117364,
+        "lng": 8.9534417
+      },
+      {
+        "name": "Möllbergen",
+        "type": "suburb",
+        "lat": 52.2033663,
+        "lng": 8.9259277
+      },
+      {
+        "name": "Schierholz",
+        "type": "suburb",
+        "lat": 52.2081961,
+        "lng": 8.9297957
+      },
+      {
+        "name": "Meißen",
+        "type": "suburb",
+        "lat": 52.2685572,
+        "lng": 8.9544086
+      },
+      {
+        "name": "Dankersen",
+        "type": "suburb",
+        "lat": 52.296146,
+        "lng": 8.9640121
+      },
+      {
+        "name": "Heisterholz",
+        "type": "suburb",
+        "lat": 52.3605442,
+        "lng": 8.9630583
+      },
+      {
+        "name": "Hopfenberg",
+        "type": "suburb",
+        "lat": 52.3863105,
+        "lng": 8.9638587
+      },
+      {
+        "name": "Veltheim",
+        "type": "suburb",
+        "lat": 52.199297,
+        "lng": 8.9625301
+      },
+      {
+        "name": "Nammen",
+        "type": "suburb",
+        "lat": 52.2469066,
+        "lng": 8.9858518
+      },
+      {
+        "name": "Höpen",
+        "type": "suburb",
+        "lat": 52.3924034,
+        "lng": 9.004326
+      },
+      {
+        "name": "Ahmserort",
+        "type": "suburb",
+        "lat": 52.2227089,
+        "lng": 9.0117147
+      }
+    ]
+  },
+  {
+    "cityName": "Kerpen",
+    "slug": "kerpen",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Wesel",
+    "slug": "wesel",
+    "serviceDistricts": [
+      "Bislich",
+      "Feldmark",
+      "Flüren",
+      "Fusternberg",
+      "Lackhausen"
+    ],
+    "featuredDistricts": [
+      "Obrighoven",
+      "Schepersfeld",
+      "Wittenberg"
+    ],
+    "allDistricts": [
+      {
+        "name": "Feldmark",
+        "type": "suburb",
+        "lat": 51.6756205,
+        "lng": 6.6099291
+      },
+      {
+        "name": "Fusternberg",
+        "type": "suburb",
+        "lat": 51.6556689,
+        "lng": 6.6327551
+      },
+      {
+        "name": "Schepersfeld",
+        "type": "suburb",
+        "lat": 51.6632389,
+        "lng": 6.6395337
+      },
+      {
+        "name": "Lackhausen",
+        "type": "suburb",
+        "lat": 51.679588,
+        "lng": 6.6291144
+      },
+      {
+        "name": "Obrighoven",
+        "type": "suburb",
+        "lat": 51.6736265,
+        "lng": 6.6478833
+      },
+      {
+        "name": "Wittenberg",
+        "type": "suburb",
+        "lat": 51.658202,
+        "lng": 6.6642174
+      },
+      {
+        "name": "Flüren",
+        "type": "suburb",
+        "lat": 51.6810981,
+        "lng": 6.5729806
+      },
+      {
+        "name": "Bislich",
+        "type": "suburb",
+        "lat": 51.6789676,
+        "lng": 6.493184
+      }
+    ]
+  },
+  {
+    "cityName": "Grevenbroich",
+    "slug": "grevenbroich",
+    "serviceDistricts": [
+      "Elsen",
+      "Gewerbegebiet Ost",
+      "Hemmerden",
+      "Kapellen",
+      "Laach"
+    ],
+    "featuredDistricts": [
+      "Neu-Elfgen",
+      "Neuenhausen",
+      "Noithausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Stadtmitte",
+        "type": "suburb",
+        "lat": 51.0888415,
+        "lng": 6.5913093
+      },
+      {
+        "name": "Orken",
+        "type": "suburb",
+        "lat": 51.097511,
+        "lng": 6.5776967
+      },
+      {
+        "name": "Laach",
+        "type": "suburb",
+        "lat": 51.0824337,
+        "lng": 6.5691891
+      },
+      {
+        "name": "Neu-Elfgen",
+        "type": "suburb",
+        "lat": 51.086961,
+        "lng": 6.5686967
+      },
+      {
+        "name": "Neuenhausen",
+        "type": "suburb",
+        "lat": 51.070944,
+        "lng": 6.5921358
+      },
+      {
+        "name": "Südstadt",
+        "type": "suburb",
+        "lat": 51.080243,
+        "lng": 6.6026719
+      },
+      {
+        "name": "Noithausen",
+        "type": "suburb",
+        "lat": 51.1057082,
+        "lng": 6.5839413
+      },
+      {
+        "name": "Elsen",
+        "type": "suburb",
+        "lat": 51.0922226,
+        "lng": 6.56486
+      },
+      {
+        "name": "Gewerbegebiet Ost",
+        "type": "suburb",
+        "lat": 51.0857426,
+        "lng": 6.6186364
+      },
+      {
+        "name": "Hemmerden",
+        "type": "suburb",
+        "lat": 51.1246696,
+        "lng": 6.5901204
+      },
+      {
+        "name": "Wevelinghoven",
+        "type": "suburb",
+        "lat": 51.1051545,
+        "lng": 6.6214552
+      },
+      {
+        "name": "Kapellen",
+        "type": "suburb",
+        "lat": 51.1283123,
+        "lng": 6.6238661
+      }
+    ]
+  },
+  {
+    "cityName": "Herten",
+    "slug": "herten",
+    "serviceDistricts": [
+      "Bertlich",
+      "Disteln",
+      "Langenbochum",
+      "Scherlebeck",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Disteln",
+        "type": "suburb",
+        "lat": 51.6078508,
+        "lng": 7.1487562
+      },
+      {
+        "name": "Scherlebeck",
+        "type": "suburb",
+        "lat": 51.6193436,
+        "lng": 7.1419803
+      },
+      {
+        "name": "Langenbochum",
+        "type": "suburb",
+        "lat": 51.6131409,
+        "lng": 7.1174199
+      },
+      {
+        "name": "Bertlich",
+        "type": "suburb",
+        "lat": 51.6121234,
+        "lng": 7.0802047
+      }
+    ]
+  },
+  {
+    "cityName": "Bergheim",
+    "slug": "bergheim",
+    "serviceDistricts": [
+      "Asberg",
+      "Asterlagen",
+      "Essenberg",
+      "Friemersheim",
+      "Hochemmerich"
+    ],
+    "featuredDistricts": [
+      "Hochstraß",
+      "Hohenbudberg",
+      "Homberg"
+    ],
+    "allDistricts": [
+      {
+        "name": "Oestrum",
+        "type": "suburb",
+        "lat": 51.4174786,
+        "lng": 6.6825632
+      },
+      {
+        "name": "Kenten",
+        "type": "suburb",
+        "lat": 50.9497464,
+        "lng": 6.6527054
+      },
+      {
+        "name": "Asterlagen",
+        "type": "suburb",
+        "lat": 51.4265359,
+        "lng": 6.6894358
+      },
+      {
+        "name": "Zieverich",
+        "type": "suburb",
+        "lat": 50.9511417,
+        "lng": 6.6250071
+      },
+      {
+        "name": "Rheinhausen",
+        "type": "suburb",
+        "lat": 51.4029342,
+        "lng": 6.7070812
+      },
+      {
+        "name": "Trompet",
+        "type": "suburb",
+        "lat": 51.4149792,
+        "lng": 6.6682716
+      },
+      {
+        "name": "Rumeln",
+        "type": "suburb",
+        "lat": 51.400221,
+        "lng": 6.6677242
+      },
+      {
+        "name": "Hochemmerich",
+        "type": "suburb",
+        "lat": 51.4123393,
+        "lng": 6.7187191
+      },
+      {
+        "name": "Essenberg",
+        "type": "suburb",
+        "lat": 51.4388744,
+        "lng": 6.7059782
+      },
+      {
+        "name": "Friemersheim",
+        "type": "suburb",
+        "lat": 51.3879894,
+        "lng": 6.7063302
+      },
+      {
+        "name": "Neuenkamp",
+        "type": "suburb",
+        "lat": 51.4348531,
+        "lng": 6.7248367
+      },
+      {
+        "name": "Asberg",
+        "type": "suburb",
+        "lat": 51.4413822,
+        "lng": 6.6611069
+      },
+      {
+        "name": "Kaldenhausen",
+        "type": "suburb",
+        "lat": 51.3918506,
+        "lng": 6.6541397
+      },
+      {
+        "name": "Schwafheim",
+        "type": "suburb",
+        "lat": 51.4259605,
+        "lng": 6.6503444
+      },
+      {
+        "name": "Homberg",
+        "type": "suburb",
+        "lat": 51.4541984,
+        "lng": 6.7037774
+      },
+      {
+        "name": "Scherpenberg",
+        "type": "suburb",
+        "lat": 51.4565975,
+        "lng": 6.6737888
+      },
+      {
+        "name": "Hohenbudberg",
+        "type": "suburb",
+        "lat": 51.3710187,
+        "lng": 6.663166
+      },
+      {
+        "name": "Hochstraß",
+        "type": "suburb",
+        "lat": 51.4514831,
+        "lng": 6.6579508
+      },
+      {
+        "name": "Wanheim",
+        "type": "suburb",
+        "lat": 51.3869244,
+        "lng": 6.7405648
+      },
+      {
+        "name": "Hüttenheim",
+        "type": "suburb",
+        "lat": 51.3680959,
+        "lng": 6.7280084
+      },
+      {
+        "name": "Ruhrort",
+        "type": "suburb",
+        "lat": 51.4538969,
+        "lng": 6.733484
+      },
+      {
+        "name": "Meerbeck",
+        "type": "suburb",
+        "lat": 51.4621785,
+        "lng": 6.6525873
+      }
+    ]
+  },
+  {
+    "cityName": "Dormagen",
+    "slug": "dormagen",
+    "serviceDistricts": [
+      "Dormagen-Mitte",
+      "Hackenbroich",
+      "Horrem",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Dormagen-Mitte",
+        "type": "suburb",
+        "lat": 51.0959492,
+        "lng": 6.8355989
+      },
+      {
+        "name": "Horrem",
+        "type": "suburb",
+        "lat": 51.099265,
+        "lng": 6.8126007
+      },
+      {
+        "name": "Hackenbroich",
+        "type": "suburb",
+        "lat": 51.0643262,
+        "lng": 6.8133312
+      }
+    ]
+  },
+  {
+    "cityName": "Unna",
+    "slug": "unna",
+    "serviceDistricts": [
+      "Afferde",
+      "Alte Heide",
+      "Buderuskolonie",
+      "Kessebüren",
+      "Königsborn"
+    ],
+    "featuredDistricts": [
+      "Lünern",
+      "Massen",
+      "Mühlhausen"
+    ],
+    "allDistricts": [
+      {
+        "name": "Königsborn",
+        "type": "suburb",
+        "lat": 51.5562935,
+        "lng": 7.688707
+      },
+      {
+        "name": "Uelzen",
+        "type": "suburb",
+        "lat": 51.5422328,
+        "lng": 7.7236103
+      },
+      {
+        "name": "Alte Heide",
+        "type": "suburb",
+        "lat": 51.5648328,
+        "lng": 7.7119513
+      },
+      {
+        "name": "Kessebüren",
+        "type": "suburb",
+        "lat": 51.5194182,
+        "lng": 7.7259119
+      },
+      {
+        "name": "Massen",
+        "type": "suburb",
+        "lat": 51.5375082,
+        "lng": 7.6478814
+      },
+      {
+        "name": "Afferde",
+        "type": "suburb",
+        "lat": 51.5600674,
+        "lng": 7.6513286
+      },
+      {
+        "name": "Mühlhausen",
+        "type": "suburb",
+        "lat": 51.5427185,
+        "lng": 7.736545
+      },
+      {
+        "name": "Buderuskolonie",
+        "type": "suburb",
+        "lat": 51.5526025,
+        "lng": 7.6394577
+      },
+      {
+        "name": "Nordlünern",
+        "type": "suburb",
+        "lat": 51.5543853,
+        "lng": 7.752371
+      },
+      {
+        "name": "Lünern",
+        "type": "suburb",
+        "lat": 51.5490496,
+        "lng": 7.7614835
+      }
+    ]
+  },
+  {
+    "cityName": "Langenfeld",
+    "slug": "langenfeld",
+    "serviceDistricts": [
+      "Berghausen",
+      "Immigrath",
+      "Reusrath",
+      "Richrath",
+      "Wiescheid"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Immigrath",
+        "type": "suburb",
+        "lat": 51.1148194,
+        "lng": 6.9594053
+      },
+      {
+        "name": "Berghausen",
+        "type": "suburb",
+        "lat": 51.113559,
+        "lng": 6.9213931
+      },
+      {
+        "name": "Richrath",
+        "type": "suburb",
+        "lat": 51.1300123,
+        "lng": 6.9453956
+      },
+      {
+        "name": "Reusrath",
+        "type": "suburb",
+        "lat": 51.0869543,
+        "lng": 6.9762867
+      },
+      {
+        "name": "Wiescheid",
+        "type": "suburb",
+        "lat": 51.1338287,
+        "lng": 6.9905275
+      }
+    ]
+  },
+  {
+    "cityName": "Willich",
+    "slug": "willich",
+    "serviceDistricts": [
+      "Anrath",
+      "Neersen",
+      "Schiefbahn",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Schiefbahn",
+        "type": "suburb",
+        "lat": 51.2419278,
+        "lng": 6.5365831
+      },
+      {
+        "name": "Neersen",
+        "type": "suburb",
+        "lat": 51.2531194,
+        "lng": 6.4814398
+      },
+      {
+        "name": "Anrath",
+        "type": "suburb",
+        "lat": 51.2794758,
+        "lng": 6.4589721
+      }
+    ]
+  },
+  {
+    "cityName": "Hürth",
+    "slug": "huerth",
+    "serviceDistricts": [
+      "Alstädten-Burbach",
+      "Alt-Hürth",
+      "Braunsfeld",
+      "Efferen",
+      "Hermülheim"
+    ],
+    "featuredDistricts": [
+      "Kalscheuren",
+      "Klettenberg",
+      "Lindenthal"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hermülheim",
+        "type": "suburb",
+        "lat": 50.8790767,
+        "lng": 6.8872815
+      },
+      {
+        "name": "Alt-Hürth",
+        "type": "suburb",
+        "lat": 50.8686612,
+        "lng": 6.8645184
+      },
+      {
+        "name": "Alstädten-Burbach",
+        "type": "suburb",
+        "lat": 50.8828812,
+        "lng": 6.8569329
+      },
+      {
+        "name": "Efferen",
+        "type": "suburb",
+        "lat": 50.8965093,
+        "lng": 6.8968621
+      },
+      {
+        "name": "Klettenberg",
+        "type": "suburb",
+        "lat": 50.9098095,
+        "lng": 6.924653
+      },
+      {
+        "name": "Kalscheuren",
+        "type": "suburb",
+        "lat": 50.8753279,
+        "lng": 6.9074954
+      },
+      {
+        "name": "Meschenich",
+        "type": "suburb",
+        "lat": 50.8605854,
+        "lng": 6.9272589
+      },
+      {
+        "name": "Sülz",
+        "type": "suburb",
+        "lat": 50.9189277,
+        "lng": 6.9240929
+      },
+      {
+        "name": "Zollstock",
+        "type": "suburb",
+        "lat": 50.9098693,
+        "lng": 6.941747
+      },
+      {
+        "name": "Lindenthal",
+        "type": "suburb",
+        "lat": 50.9298969,
+        "lng": 6.9143995
+      },
+      {
+        "name": "Vochem",
+        "type": "suburb",
+        "lat": 50.8446739,
+        "lng": 6.8940895
+      },
+      {
+        "name": "Raderthal",
+        "type": "suburb",
+        "lat": 50.9006829,
+        "lng": 6.9548551
+      },
+      {
+        "name": "Braunsfeld",
+        "type": "suburb",
+        "lat": 50.9365109,
+        "lng": 6.8991826
+      },
+      {
+        "name": "Rondorf",
+        "type": "suburb",
+        "lat": 50.873124,
+        "lng": 6.9548745
+      },
+      {
+        "name": "Stadtwaldviertel",
+        "type": "suburb",
+        "lat": 50.9258708,
+        "lng": 6.8728002
+      }
+    ]
+  },
+  {
+    "cityName": "Hilden",
+    "slug": "hilden",
+    "serviceDistricts": [
+      "Forstbach",
+      "Kalstert",
+      "Karnap",
+      "Kleef",
+      "Meide"
+    ],
+    "featuredDistricts": [
+      "Pungshaus",
+      "Strauch",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Karnap",
+        "type": "suburb",
+        "lat": 51.1572415,
+        "lng": 6.9333016
+      },
+      {
+        "name": "Meide",
+        "type": "suburb",
+        "lat": 51.1767839,
+        "lng": 6.9236146
+      },
+      {
+        "name": "Kleef",
+        "type": "suburb",
+        "lat": 51.17764,
+        "lng": 6.9410874
+      },
+      {
+        "name": "Pungshaus",
+        "type": "suburb",
+        "lat": 51.1658538,
+        "lng": 6.9499738
+      },
+      {
+        "name": "Strauch",
+        "type": "suburb",
+        "lat": 51.1561211,
+        "lng": 6.9485088
+      },
+      {
+        "name": "Forstbach",
+        "type": "suburb",
+        "lat": 51.1594948,
+        "lng": 6.9503215
+      },
+      {
+        "name": "Kalstert",
+        "type": "suburb",
+        "lat": 51.1695327,
+        "lng": 6.9615636
+      }
+    ]
+  },
+  {
+    "cityName": "Meerbusch",
+    "slug": "meerbusch",
+    "serviceDistricts": [
+      "Bösinghoven",
+      "Bovert",
+      "Büderich",
+      "Lank-Latum",
+      "Necklenbroich"
+    ],
+    "featuredDistricts": [
+      "Niederdonk",
+      "Ossum",
+      "Osterath"
+    ],
+    "allDistricts": [
+      {
+        "name": "Necklenbroich",
+        "type": "suburb",
+        "lat": 51.2512831,
+        "lng": 6.6773792
+      },
+      {
+        "name": "Niederdonk",
+        "type": "suburb",
+        "lat": 51.243432,
+        "lng": 6.6896139
+      },
+      {
+        "name": "Büderich",
+        "type": "suburb",
+        "lat": 51.2529248,
+        "lng": 6.7005034
+      },
+      {
+        "name": "Bovert",
+        "type": "suburb",
+        "lat": 51.2678542,
+        "lng": 6.6373222
+      },
+      {
+        "name": "Lank-Latum",
+        "type": "suburb",
+        "lat": 51.3077988,
+        "lng": 6.6804295
+      },
+      {
+        "name": "Ossum",
+        "type": "suburb",
+        "lat": 51.3069157,
+        "lng": 6.6458263
+      },
+      {
+        "name": "Osterath",
+        "type": "suburb",
+        "lat": 51.2690922,
+        "lng": 6.6207151
+      },
+      {
+        "name": "Bösinghoven",
+        "type": "suburb",
+        "lat": 51.3055327,
+        "lng": 6.6315071
+      }
+    ]
+  },
+  {
+    "cityName": "Pulheim",
+    "slug": "pulheim",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Wesseling",
+    "slug": "wesseling",
+    "serviceDistricts": [
+      "Berzdorf",
+      "Keldenich",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Keldenich",
+        "type": "suburb",
+        "lat": 50.8101179,
+        "lng": 6.9760508
+      },
+      {
+        "name": "Berzdorf",
+        "type": "suburb",
+        "lat": 50.830442,
+        "lng": 6.9477429
+      }
+    ]
+  },
+  {
+    "cityName": "Euskirchen",
+    "slug": "euskirchen",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Niederkassel",
+    "slug": "niederkassel",
+    "serviceDistricts": [
+      "Mondorf",
+      "Rheidt",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rheidt",
+        "type": "suburb",
+        "lat": 50.7860611,
+        "lng": 7.0486213
+      },
+      {
+        "name": "Mondorf",
+        "type": "suburb",
+        "lat": 50.7759872,
+        "lng": 7.0716755
+      }
+    ]
+  },
+  {
+    "cityName": "Erkelenz",
+    "slug": "erkelenz",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Sankt Augustin",
+    "slug": "sankt-augustin",
+    "serviceDistricts": [
+      "Hangelar",
+      "Menden",
+      "Mülldorf",
+      "Niederberg",
+      "Niederpleis"
+    ],
+    "featuredDistricts": [
+      "Ort",
+      "Schmerbroich",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Ort",
+        "type": "suburb",
+        "lat": 50.77051,
+        "lng": 7.186784
+      },
+      {
+        "name": "Mülldorf",
+        "type": "suburb",
+        "lat": 50.7844125,
+        "lng": 7.1971871
+      },
+      {
+        "name": "Niederberg",
+        "type": "suburb",
+        "lat": 50.7587487,
+        "lng": 7.1819587
+      },
+      {
+        "name": "Niederpleis",
+        "type": "suburb",
+        "lat": 50.7717333,
+        "lng": 7.213634
+      },
+      {
+        "name": "Schmerbroich",
+        "type": "suburb",
+        "lat": 50.7644707,
+        "lng": 7.2122992
+      },
+      {
+        "name": "Hangelar",
+        "type": "suburb",
+        "lat": 50.7591626,
+        "lng": 7.1664663
+      },
+      {
+        "name": "Menden",
+        "type": "suburb",
+        "lat": 50.790379,
+        "lng": 7.1646594
+      }
+    ]
+  },
+  {
+    "cityName": "Königswinter",
+    "slug": "koenigswinter",
+    "serviceDistricts": [
+      "Niederdollendorf",
+      "Oberdollendorf",
+      "Römlinghoven",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Oberdollendorf",
+        "type": "suburb",
+        "lat": 50.6973984,
+        "lng": 7.1926083
+      },
+      {
+        "name": "Niederdollendorf",
+        "type": "suburb",
+        "lat": 50.6947564,
+        "lng": 7.1787484
+      },
+      {
+        "name": "Römlinghoven",
+        "type": "suburb",
+        "lat": 50.7077849,
+        "lng": 7.1846589
+      }
+    ]
+  },
+  {
+    "cityName": "Brühl",
+    "slug": "bruehl",
+    "serviceDistricts": [
+      "Badorf",
+      "Heide",
+      "Kierberg",
+      "Pingsdorf",
+      "Vochem"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Kierberg",
+        "type": "suburb",
+        "lat": 50.8354645,
+        "lng": 6.8870302
+      },
+      {
+        "name": "Vochem",
+        "type": "suburb",
+        "lat": 50.8446739,
+        "lng": 6.8940895
+      },
+      {
+        "name": "Pingsdorf",
+        "type": "suburb",
+        "lat": 50.8147703,
+        "lng": 6.8900147
+      },
+      {
+        "name": "Badorf",
+        "type": "suburb",
+        "lat": 50.8072167,
+        "lng": 6.8915756
+      },
+      {
+        "name": "Heide",
+        "type": "suburb",
+        "lat": 50.8360059,
+        "lng": 6.8703631
+      }
+    ]
+  },
+  {
+    "cityName": "Siegburg",
+    "slug": "siegburg",
+    "serviceDistricts": [
+      "Braschoß",
+      "Brückberg",
+      "Deichhaus",
+      "Dreesch",
+      "Kaldauen"
+    ],
+    "featuredDistricts": [
+      "Schneffelrath",
+      "Schreck",
+      "Seligenthal"
+    ],
+    "allDistricts": [
+      {
+        "name": "Zange",
+        "type": "suburb",
+        "lat": 50.7944574,
+        "lng": 7.1965862
+      },
+      {
+        "name": "Dreesch",
+        "type": "suburb",
+        "lat": 50.8036569,
+        "lng": 7.2045964
+      },
+      {
+        "name": "Deichhaus",
+        "type": "suburb",
+        "lat": 50.7892451,
+        "lng": 7.2190434
+      },
+      {
+        "name": "Wolsdorf",
+        "type": "suburb",
+        "lat": 50.7976476,
+        "lng": 7.2265949
+      },
+      {
+        "name": "Brückberg",
+        "type": "suburb",
+        "lat": 50.8086552,
+        "lng": 7.1913806
+      },
+      {
+        "name": "Stallberg",
+        "type": "suburb",
+        "lat": 50.8088803,
+        "lng": 7.2309109
+      },
+      {
+        "name": "Kaldauen",
+        "type": "suburb",
+        "lat": 50.803593,
+        "lng": 7.2590745
+      },
+      {
+        "name": "Seligenthal",
+        "type": "suburb",
+        "lat": 50.7949668,
+        "lng": 7.2765491
+      },
+      {
+        "name": "Schreck",
+        "type": "suburb",
+        "lat": 50.8266022,
+        "lng": 7.2806377
+      },
+      {
+        "name": "Schneffelrath",
+        "type": "suburb",
+        "lat": 50.8161744,
+        "lng": 7.2847849
+      },
+      {
+        "name": "Braschoß",
+        "type": "suburb",
+        "lat": 50.822488,
+        "lng": 7.2854222
+      }
+    ]
+  },
+  {
+    "cityName": "Hennef",
+    "slug": "hennef",
+    "serviceDistricts": [
+      "Braschoß",
+      "Deichhaus",
+      "Edgoven",
+      "Geisbach",
+      "Geistingen"
+    ],
+    "featuredDistricts": [
+      "Kaldauen",
+      "Niederpleis",
+      "Schmerbroich"
+    ],
+    "allDistricts": [
+      {
+        "name": "Edgoven",
+        "type": "suburb",
+        "lat": 50.7646359,
+        "lng": 7.2990331
+      },
+      {
+        "name": "Warth",
+        "type": "suburb",
+        "lat": 50.7708565,
+        "lng": 7.3022478
+      },
+      {
+        "name": "Geistingen",
+        "type": "suburb",
+        "lat": 50.7739249,
+        "lng": 7.2626523
+      },
+      {
+        "name": "Seligenthal",
+        "type": "suburb",
+        "lat": 50.7949668,
+        "lng": 7.2765491
+      },
+      {
+        "name": "Geisbach",
+        "type": "suburb",
+        "lat": 50.7626587,
+        "lng": 7.3056334
+      },
+      {
+        "name": "Kaldauen",
+        "type": "suburb",
+        "lat": 50.803593,
+        "lng": 7.2590745
+      },
+      {
+        "name": "Weldergoven",
+        "type": "suburb",
+        "lat": 50.7778861,
+        "lng": 7.3139433
+      },
+      {
+        "name": "Stoßdorf",
+        "type": "suburb",
+        "lat": 50.7847192,
+        "lng": 7.2519585
+      },
+      {
+        "name": "Wolsdorf",
+        "type": "suburb",
+        "lat": 50.7976476,
+        "lng": 7.2265949
+      },
+      {
+        "name": "Stallberg",
+        "type": "suburb",
+        "lat": 50.8088803,
+        "lng": 7.2309109
+      },
+      {
+        "name": "Deichhaus",
+        "type": "suburb",
+        "lat": 50.7892451,
+        "lng": 7.2190434
+      },
+      {
+        "name": "Schneffelrath",
+        "type": "suburb",
+        "lat": 50.8161744,
+        "lng": 7.2847849
+      },
+      {
+        "name": "Niederpleis",
+        "type": "suburb",
+        "lat": 50.7717333,
+        "lng": 7.213634
+      },
+      {
+        "name": "Schmerbroich",
+        "type": "suburb",
+        "lat": 50.7644707,
+        "lng": 7.2122992
+      },
+      {
+        "name": "Braschoß",
+        "type": "suburb",
+        "lat": 50.822488,
+        "lng": 7.2854222
+      },
+      {
+        "name": "Schreck",
+        "type": "suburb",
+        "lat": 50.8266022,
+        "lng": 7.2806377
+      }
+    ]
+  },
+  {
+    "cityName": "Kleve",
+    "slug": "kleve",
+    "serviceDistricts": [
+      "Unterstadt",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Unterstadt",
+        "type": "suburb",
+        "lat": 51.7912981,
+        "lng": 6.137888
+      }
+    ]
+  },
+  {
+    "cityName": "Frechen",
+    "slug": "frechen",
+    "serviceDistricts": [
+      "Bachem",
+      "Benzelrath",
+      "Buschbell",
+      "Grube Carl",
+      "Hücheln"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Hücheln",
+        "type": "suburb",
+        "lat": 50.923533,
+        "lng": 6.8058299
+      },
+      {
+        "name": "Benzelrath",
+        "type": "suburb",
+        "lat": 50.9040717,
+        "lng": 6.7928908
+      },
+      {
+        "name": "Bachem",
+        "type": "suburb",
+        "lat": 50.8975509,
+        "lng": 6.8191719
+      },
+      {
+        "name": "Buschbell",
+        "type": "suburb",
+        "lat": 50.9271917,
+        "lng": 6.7964573
+      },
+      {
+        "name": "Grube Carl",
+        "type": "suburb",
+        "lat": 50.9076048,
+        "lng": 6.7860692
+      }
+    ]
+  },
+  {
+    "cityName": "Übach-Palenberg",
+    "slug": "uebach-palenberg",
+    "serviceDistricts": [
+      "Boscheln",
+      "Holthausen",
+      "Palenberg",
+      "Rimburg",
+      "Übach"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Übach",
+        "type": "suburb",
+        "lat": 50.9185664,
+        "lng": 6.1226991
+      },
+      {
+        "name": "Palenberg",
+        "type": "suburb",
+        "lat": 50.9255234,
+        "lng": 6.1012432
+      },
+      {
+        "name": "Rimburg",
+        "type": "suburb",
+        "lat": 50.9186634,
+        "lng": 6.0991793
+      },
+      {
+        "name": "Holthausen",
+        "type": "suburb",
+        "lat": 50.9166483,
+        "lng": 6.1409362
+      },
+      {
+        "name": "Boscheln",
+        "type": "suburb",
+        "lat": 50.9075177,
+        "lng": 6.1396577
+      }
+    ]
+  },
+  {
+    "cityName": "Kamp-Lintfort",
+    "slug": "kamp-lintfort",
+    "serviceDistricts": [
+      "Kamp",
+      "Niersenbruch",
+      "Saalhoff",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Niersenbruch",
+        "type": "suburb",
+        "lat": 51.5125853,
+        "lng": 6.5334741
+      },
+      {
+        "name": "Kamp",
+        "type": "suburb",
+        "lat": 51.503607,
+        "lng": 6.5157985
+      },
+      {
+        "name": "Saalhoff",
+        "type": "suburb",
+        "lat": 51.5270223,
+        "lng": 6.5253212
+      }
+    ]
+  },
+  {
+    "cityName": "Erkrath",
+    "slug": "erkrath",
+    "serviceDistricts": [
+      "Alt-Erkrath",
+      "Hochdahl",
+      "Unterfeldhaus",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Alt-Erkrath",
+        "type": "suburb",
+        "lat": 51.2209774,
+        "lng": 6.9055459
+      },
+      {
+        "name": "Unterfeldhaus",
+        "type": "suburb",
+        "lat": 51.2003269,
+        "lng": 6.9137752
+      },
+      {
+        "name": "Hochdahl",
+        "type": "suburb",
+        "lat": 51.2076346,
+        "lng": 6.9580296
+      }
+    ]
+  },
+  {
+    "cityName": "Meckenheim",
+    "slug": "meckenheim",
+    "serviceDistricts": [
+      "Merl",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Merl",
+        "type": "suburb",
+        "lat": 50.6306647,
+        "lng": 7.0556469
+      }
+    ]
+  },
+  {
+    "cityName": "Mettmann",
+    "slug": "mettmann",
+    "serviceDistricts": [
+      "Alt-Erkrath",
+      "Am Berg",
+      "Aprath",
+      "Birth",
+      "Düssel"
+    ],
+    "featuredDistricts": [
+      "Forstbach",
+      "Goldberg",
+      "Hassel"
+    ],
+    "allDistricts": [
+      {
+        "name": "Kaldenberg",
+        "type": "suburb",
+        "lat": 51.2595025,
+        "lng": 6.9762757
+      },
+      {
+        "name": "Süd",
+        "type": "suburb",
+        "lat": 51.2418471,
+        "lng": 6.9798355
+      },
+      {
+        "name": "Goldberg",
+        "type": "suburb",
+        "lat": 51.2545164,
+        "lng": 6.9910993
+      },
+      {
+        "name": "West",
+        "type": "suburb",
+        "lat": 51.2450686,
+        "lng": 6.963733
+      },
+      {
+        "name": "Stübbenhaus",
+        "type": "suburb",
+        "lat": 51.2558472,
+        "lng": 6.958078
+      },
+      {
+        "name": "Karpendelle",
+        "type": "suburb",
+        "lat": 51.2508469,
+        "lng": 6.9564936
+      },
+      {
+        "name": "Metzkausen",
+        "type": "suburb",
+        "lat": 51.2665938,
+        "lng": 6.9567701
+      },
+      {
+        "name": "Peckhaus",
+        "type": "suburb",
+        "lat": 51.2561814,
+        "lng": 6.9515826
+      },
+      {
+        "name": "Ost",
+        "type": "suburb",
+        "lat": 51.2498774,
+        "lng": 7.0104428
+      },
+      {
+        "name": "Hassel",
+        "type": "suburb",
+        "lat": 51.2647829,
+        "lng": 6.9453685
+      },
+      {
+        "name": "Obmettmann",
+        "type": "suburb",
+        "lat": 51.2567121,
+        "lng": 7.0228537
+      },
+      {
+        "name": "Hochdahl",
+        "type": "suburb",
+        "lat": 51.2076346,
+        "lng": 6.9580296
+      },
+      {
+        "name": "Süd - Erbach",
+        "type": "suburb",
+        "lat": 51.2690235,
+        "lng": 7.0297716
+      },
+      {
+        "name": "Heidhausen",
+        "type": "suburb",
+        "lat": 51.3738087,
+        "lng": 7.0159428
+      },
+      {
+        "name": "Rohdenhaus",
+        "type": "suburb",
+        "lat": 51.3019014,
+        "lng": 7.0118356
+      },
+      {
+        "name": "Nonnenbruch",
+        "type": "suburb",
+        "lat": 51.3203528,
+        "lng": 6.95771
+      },
+      {
+        "name": "Tillmannsdorf",
+        "type": "suburb",
+        "lat": 51.2577197,
+        "lng": 7.0480612
+      },
+      {
+        "name": "Heide",
+        "type": "suburb",
+        "lat": 51.3242507,
+        "lng": 6.9850782
+      },
+      {
+        "name": "Alt-Erkrath",
+        "type": "suburb",
+        "lat": 51.2209774,
+        "lng": 6.9055459
+      },
+      {
+        "name": "Nord - Erbach",
+        "type": "suburb",
+        "lat": 51.293863,
+        "lng": 7.0444261
+      },
+      {
+        "name": "Obere Flandersbach",
+        "type": "suburb",
+        "lat": 51.3226484,
+        "lng": 7.0141435
+      },
+      {
+        "name": "Düssel",
+        "type": "suburb",
+        "lat": 51.2621595,
+        "lng": 7.0562365
+      },
+      {
+        "name": "Hetterscheidt",
+        "type": "suburb",
+        "lat": 51.3290239,
+        "lng": 7.0029647
+      },
+      {
+        "name": "Unterdüssel",
+        "type": "suburb",
+        "lat": 51.2777499,
+        "lng": 7.0553427
+      },
+      {
+        "name": "Oberilp",
+        "type": "suburb",
+        "lat": 51.3281806,
+        "lng": 6.9441708
+      },
+      {
+        "name": "Unterfeldhaus",
+        "type": "suburb",
+        "lat": 51.2003269,
+        "lng": 6.9137752
+      },
+      {
+        "name": "Kleef",
+        "type": "suburb",
+        "lat": 51.17764,
+        "lng": 6.9410874
+      },
+      {
+        "name": "Kalstert",
+        "type": "suburb",
+        "lat": 51.1695327,
+        "lng": 6.9615636
+      },
+      {
+        "name": "Unterilp",
+        "type": "suburb",
+        "lat": 51.3323258,
+        "lng": 6.9400174
+      },
+      {
+        "name": "Kocherscheidt",
+        "type": "suburb",
+        "lat": 51.2955018,
+        "lng": 7.0563764
+      },
+      {
+        "name": "Pungshaus",
+        "type": "suburb",
+        "lat": 51.1658538,
+        "lng": 6.9499738
+      },
+      {
+        "name": "Kostenberg",
+        "type": "suburb",
+        "lat": 51.3275251,
+        "lng": 7.0326898
+      },
+      {
+        "name": "Meide",
+        "type": "suburb",
+        "lat": 51.1767839,
+        "lng": 6.9236146
+      },
+      {
+        "name": "Am Berg",
+        "type": "suburb",
+        "lat": 51.3331121,
+        "lng": 7.028056
+      },
+      {
+        "name": "Schlupkothen",
+        "type": "suburb",
+        "lat": 51.2836467,
+        "lng": 7.068288
+      },
+      {
+        "name": "Birth",
+        "type": "suburb",
+        "lat": 51.3400675,
+        "lng": 7.0177664
+      },
+      {
+        "name": "Aprath",
+        "type": "suburb",
+        "lat": 51.2728092,
+        "lng": 7.07178
+      },
+      {
+        "name": "Forstbach",
+        "type": "suburb",
+        "lat": 51.1594948,
+        "lng": 6.9503215
+      },
+      {
+        "name": "Rützkausen",
+        "type": "suburb",
+        "lat": 51.3246176,
+        "lng": 7.0457905
+      },
+      {
+        "name": "Strauch",
+        "type": "suburb",
+        "lat": 51.1561211,
+        "lng": 6.9485088
+      },
+      {
+        "name": "Losenburg",
+        "type": "suburb",
+        "lat": 51.3488694,
+        "lng": 7.016818
+      },
+      {
+        "name": "Karnap",
+        "type": "suburb",
+        "lat": 51.1572415,
+        "lng": 6.9333016
+      },
+      {
+        "name": "Unterstadt",
+        "type": "suburb",
+        "lat": 51.3438199,
+        "lng": 7.0328276
+      },
+      {
+        "name": "Tönisheide",
+        "type": "suburb",
+        "lat": 51.3136681,
+        "lng": 7.0659357
+      },
+      {
+        "name": "Oberdüssel",
+        "type": "suburb",
+        "lat": 51.2891463,
+        "lng": 7.0786745
+      },
+      {
+        "name": "Oberstadt",
+        "type": "suburb",
+        "lat": 51.3304839,
+        "lng": 7.0545318
+      },
+      {
+        "name": "Nordstadt",
+        "type": "suburb",
+        "lat": 51.3474347,
+        "lng": 7.0397258
+      },
+      {
+        "name": "Langenhorst",
+        "type": "suburb",
+        "lat": 51.355089,
+        "lng": 7.0344437
+      },
+      {
+        "name": "Pöthen",
+        "type": "suburb",
+        "lat": 51.2985098,
+        "lng": 7.0864267
+      }
+    ]
+  },
+  {
+    "cityName": "Rheinbach",
+    "slug": "rheinbach",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Gevelsberg",
+    "slug": "gevelsberg",
+    "serviceDistricts": [
+      "Asbeck",
+      "Berge",
+      "Klostermark",
+      "Silschede",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Klostermark",
+        "type": "suburb",
+        "lat": 51.3284026,
+        "lng": 7.3241703
+      },
+      {
+        "name": "Asbeck",
+        "type": "suburb",
+        "lat": 51.3416139,
+        "lng": 7.3186704
+      },
+      {
+        "name": "Silschede",
+        "type": "suburb",
+        "lat": 51.3508888,
+        "lng": 7.3323161
+      },
+      {
+        "name": "Berge",
+        "type": "suburb",
+        "lat": 51.3378341,
+        "lng": 7.3764856
+      }
+    ]
+  },
+  {
+    "cityName": "Emsdetten",
+    "slug": "emsdetten",
+    "serviceDistricts": [
+      "Berge",
+      "Detten",
+      "Dorfbauernschaft",
+      "Hollingen",
+      "Westum"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Detten",
+        "type": "suburb",
+        "lat": 52.1736192,
+        "lng": 7.5297347
+      },
+      {
+        "name": "Dorfbauernschaft",
+        "type": "suburb",
+        "lat": 52.1653132,
+        "lng": 7.5191214
+      },
+      {
+        "name": "Berge",
+        "type": "suburb",
+        "lat": 52.166984,
+        "lng": 7.5460803
+      },
+      {
+        "name": "Hollingen",
+        "type": "suburb",
+        "lat": 52.1562066,
+        "lng": 7.5281227
+      },
+      {
+        "name": "Westum",
+        "type": "suburb",
+        "lat": 52.1821143,
+        "lng": 7.5048018
+      }
+    ]
+  },
+  {
+    "cityName": "Schwerte",
+    "slug": "schwerte",
+    "serviceDistricts": [
+      "Ergste",
+      "Geisecke",
+      "Holzen-Rosen",
+      "Villigst",
+      "Wandhofen"
+    ],
+    "featuredDistricts": [
+      "Westhofen",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Wandhofen",
+        "type": "suburb",
+        "lat": 51.4304934,
+        "lng": 7.55895
+      },
+      {
+        "name": "Holzen-Rosen",
+        "type": "suburb",
+        "lat": 51.4414111,
+        "lng": 7.5502213
+      },
+      {
+        "name": "Villigst",
+        "type": "suburb",
+        "lat": 51.4332585,
+        "lng": 7.5898099
+      },
+      {
+        "name": "Ergste",
+        "type": "suburb",
+        "lat": 51.4161952,
+        "lng": 7.5712974
+      },
+      {
+        "name": "Westhofen",
+        "type": "suburb",
+        "lat": 51.4249817,
+        "lng": 7.5334109
+      },
+      {
+        "name": "Geisecke",
+        "type": "suburb",
+        "lat": 51.457284,
+        "lng": 7.618329
+      }
+    ]
+  },
+  {
+    "cityName": "Erftstadt",
+    "slug": "erftstadt",
+    "serviceDistricts": [
+      "Stadtmitte",
+      "Innenstadt",
+      "Altstadt",
+      "Neustadt",
+      "Zentrum"
+    ],
+    "featuredDistricts": [
+      "Nord",
+      "Süd",
+      "West"
+    ],
+    "allDistricts": []
+  },
+  {
+    "cityName": "Rheda-Wiedenbrück",
+    "slug": "rheda-wiedenbrueck",
+    "serviceDistricts": [
+      "Batenhorst",
+      "Bosfeld",
+      "Lintel",
+      "Rheda",
+      "St. Vit"
+    ],
+    "featuredDistricts": [
+      "Wiedenbrück",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Rheda",
+        "type": "suburb",
+        "lat": 51.8534904,
+        "lng": 8.2914176
+      },
+      {
+        "name": "Wiedenbrück",
+        "type": "suburb",
+        "lat": 51.8358274,
+        "lng": 8.3130164
+      },
+      {
+        "name": "St. Vit",
+        "type": "suburb",
+        "lat": 51.8242339,
+        "lng": 8.2775921
+      },
+      {
+        "name": "Batenhorst",
+        "type": "suburb",
+        "lat": 51.8051273,
+        "lng": 8.2980473
+      },
+      {
+        "name": "Bosfeld",
+        "type": "suburb",
+        "lat": 51.85549,
+        "lng": 8.2510396
+      },
+      {
+        "name": "Lintel",
+        "type": "suburb",
+        "lat": 51.8385913,
+        "lng": 8.3689118
+      }
+    ]
+  },
+  {
+    "cityName": "Bünde",
+    "slug": "buende",
+    "serviceDistricts": [
+      "Ahle",
+      "Bustedt",
+      "Dünne",
+      "Ennigloh",
+      "Hüffen"
+    ],
+    "featuredDistricts": [
+      "Hunnebrock",
+      "Mitte",
+      "Muckum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Mitte",
+        "type": "suburb",
+        "lat": 52.1965747,
+        "lng": 8.5854113
+      },
+      {
+        "name": "Hunnebrock",
+        "type": "suburb",
+        "lat": 52.1825759,
+        "lng": 8.5722234
+      },
+      {
+        "name": "Spradow",
+        "type": "suburb",
+        "lat": 52.2084335,
+        "lng": 8.6026425
+      },
+      {
+        "name": "Ennigloh",
+        "type": "suburb",
+        "lat": 52.2054344,
+        "lng": 8.5620635
+      },
+      {
+        "name": "Südlengern",
+        "type": "suburb",
+        "lat": 52.1930252,
+        "lng": 8.6041312
+      },
+      {
+        "name": "Dünne",
+        "type": "suburb",
+        "lat": 52.2262986,
+        "lng": 8.583031
+      },
+      {
+        "name": "Hüffen",
+        "type": "suburb",
+        "lat": 52.1763111,
+        "lng": 8.5708796
+      },
+      {
+        "name": "Bustedt",
+        "type": "suburb",
+        "lat": 52.1737115,
+        "lng": 8.5983205
+      },
+      {
+        "name": "Werfen",
+        "type": "suburb",
+        "lat": 52.1805996,
+        "lng": 8.5536931
+      },
+      {
+        "name": "Muckum",
+        "type": "suburb",
+        "lat": 52.2212435,
+        "lng": 8.5374879
+      },
+      {
+        "name": "Ahle",
+        "type": "suburb",
+        "lat": 52.1946531,
+        "lng": 8.5113448
+      }
+    ]
+  },
+  {
+    "cityName": "Kaarst",
+    "slug": "kaarst",
+    "serviceDistricts": [
+      "Büttgen",
+      "Driesch",
+      "Holzbüttgen",
+      "Linning",
+      "Vorst"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Holzbüttgen",
+        "type": "suburb",
+        "lat": 51.2145511,
+        "lng": 6.6186416
+      },
+      {
+        "name": "Büttgen",
+        "type": "suburb",
+        "lat": 51.1970467,
+        "lng": 6.6081718
+      },
+      {
+        "name": "Linning",
+        "type": "suburb",
+        "lat": 51.2211121,
+        "lng": 6.5868218
+      },
+      {
+        "name": "Driesch",
+        "type": "suburb",
+        "lat": 51.2069257,
+        "lng": 6.592977
+      },
+      {
+        "name": "Vorst",
+        "type": "suburb",
+        "lat": 51.2159731,
+        "lng": 6.5868672
+      }
+    ]
+  },
+  {
+    "cityName": "Meschede",
+    "slug": "meschede",
+    "serviceDistricts": [
+      "Bockum",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Bockum",
+        "type": "suburb",
+        "lat": 51.3605637,
+        "lng": 8.1834786
+      }
+    ]
+  },
+  {
+    "cityName": "Schwelm",
+    "slug": "schwelm",
+    "serviceDistricts": [
+      "Linderhausen",
+      "Loh",
+      "Möllenkotten",
+      "Stadtmitte",
+      "Stadtmitte"
+    ],
+    "featuredDistricts": [
+      "Zentrum",
+      "Zentrum",
+      "Zentrum"
+    ],
+    "allDistricts": [
+      {
+        "name": "Loh",
+        "type": "suburb",
+        "lat": 51.2959843,
+        "lng": 7.2875618
+      },
+      {
+        "name": "Möllenkotten",
+        "type": "suburb",
+        "lat": 51.2861348,
+        "lng": 7.307453
+      },
+      {
+        "name": "Linderhausen",
+        "type": "suburb",
+        "lat": 51.3083923,
+        "lng": 7.293918
+      }
+    ]
+  }
+]
