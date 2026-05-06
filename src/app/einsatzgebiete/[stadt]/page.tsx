@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import FAQItem from '@/components/FAQItem';
 import { citySlugs, getCityBySlug } from '@/data/cities.generated';
@@ -359,11 +360,13 @@ export default async function CityPage({ params }: CityPageProps) {
                   </div>
                 </div>
                 {/* Bild (überdeckt Placeholder wenn vorhanden) */}
-                <img
+                <Image
                   src={getImageUrl(city.slug)}
                   alt={getImageAltText(city.name, city.slug)}
+                  fill
                   className="relative w-full h-full object-cover z-10"
-                  loading="lazy"
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  priority={false}
                 />
               </div>
             </div>
