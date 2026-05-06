@@ -67,12 +67,12 @@ export function getImageKeyword(citySlug: string): string {
  * 
  * @example
  * getImageAltText("Dortmund", "dortmund") 
- * // → "DATRA Büroreinigung in Dortmund – Professioneller Reinigungsservice"
+ * // → "Schmitter Büroreinigung in Dortmund – Professioneller Reinigungsservice"
  */
 export function getImageAltText(cityName: string, citySlug: string): string {
   const variants = imageKeywordTexts;
   const keyword = variants[hash(citySlug) % variants.length];
-  return `DATRA ${keyword} in ${cityName} – Professioneller Reinigungsservice`;
+  return `Schmitter ${keyword} in ${cityName} – Professioneller Reinigungsservice`;
 }
 
 /**

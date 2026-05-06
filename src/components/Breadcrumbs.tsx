@@ -139,13 +139,13 @@ export default function Breadcrumbs({ customLabels = {} }: BreadcrumbsProps) {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://datra-gebaeudereinigung.de"
+        "item": "https://schmitter-gebaeudereinigung.de"
       },
       ...pathSegments.map((segment, index) => ({
         "@type": "ListItem",
         "position": index + 2,
         "name": combinedLabels[segment] || segment.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
-        "item": `https://datra-gebaeudereinigung.de/${pathSegments.slice(0, index + 1).join("/")}`
+        "item": `https://schmitter-gebaeudereinigung.de/${pathSegments.slice(0, index + 1).join("/")}`
       }))
     ]
   };

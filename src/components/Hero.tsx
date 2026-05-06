@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 
 export default function Hero() {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -10,22 +10,25 @@ export default function Hero() {
   const slides = [
     {
       image: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80&fm=webp",
-      title: "Professionelle Gebäudereinigung in ganz NRW",
-      subtitle: "Ihr zuverlässiger Partner für höchste Sauberkeit und Hygiene",
-      description: "Von Düsseldorf bis Köln – Wir bieten maßgeschneiderte Reinigungslösungen für Büros, Gewerbeimmobilien und öffentliche Einrichtungen in ganz Nordrhein-Westfalen."
+      title: "Gebäudereinigung in NRW – einfach sauber gemacht",
+      subtitle: "Klarer Plan, fixes Team, keine Überraschungen",
+      description:
+        "Ob Büro, Praxis oder Treppenhaus: Wir reinigen dort, wo Sie es brauchen – in ganz Nordrhein-Westfalen. Sie sagen uns, wie oft und was wir machen sollen. Wir halten uns dran.",
     },
     {
       image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80&fm=webp",
-      title: "Premium Büroreinigung für Ihr Unternehmen",
-      subtitle: "Schaffen Sie eine produktive und repräsentative Arbeitsatmosphäre",
-      description: "Professionelle Reinigung von Büroräumen, Besprechungszimmern und Sozialräumen. Täglich, wöchentlich oder nach Ihrem individuellen Zeitplan – flexibel und zuverlässig."
+      title: "Büroreinigung, die auch Montag funktioniert",
+      subtitle: "Ohne Schnickschnack – dafür gründlich",
+      description:
+        "Schreibtische, Küche, Toiletten, Böden: alles wird in einem Rhythmus gepflegt, der zu Ihnen passt (täglich, wöchentlich oder flexibel). Ihr Büro soll gut riechen, gut aussehen und für Gäste stimmig sein.",
     },
     {
       image: "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=1200&q=80&fm=webp",
-      title: "Nachhaltig, Zertifiziert & Erfahren",
-      subtitle: "15+ Jahre Expertise in der professionellen Gebäudereinigung",
-      description: "ISO-zertifiziert, umweltfreundlich und mit über 500 zufriedenen Kunden in NRW. Vertrauen Sie auf unsere Erfahrung und höchste Qualitätsstandards."
-    }
+      title: "Sauberkeit mit Hirn – seit über 15 Jahren",
+      subtitle: "Seriös, freundlich, mit ordentlicher Chemie",
+      description:
+        "Wir sind zertifiziert, halten Standards ein und mögen trotzdem einen lockeren Ton. Für Sie heißt das: weniger Kleingedrucktes-Geschwurbel – mehr konkrete Leistungen, feste Absprachen und ein Team, das nicht nur „irgendwie“ wischt.",
+    },
   ];
 
   useEffect(() => {
@@ -62,76 +65,36 @@ export default function Hero() {
       <div className="relative h-full flex items-center z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
           <div className="max-w-3xl">
-            {/* Animated Title */}
-            <div className="relative mb-4 min-h-[100px] md:min-h-[120px]">
-              {slides.map((slide, index) => (
-                <motion.h1
-                  key={index}
-                  initial={false}
-                  animate={{
-                    opacity: index === currentSlide ? 1 : 0,
-                    x: index === currentSlide ? 0 : -20,
-                    filter: index === currentSlide ? "blur(0px)" : "blur(10px)"
-                  }}
-                  transition={{ duration: 0.6, ease: "easeOut" }}
-                  className={`text-3xl md:text-5xl font-bold text-white leading-tight ${
-                    index === currentSlide ? "relative" : "absolute top-0 left-0"
-                  }`}
-                >
-                  {slide.title}
-                </motion.h1>
-              ))}
-            </div>
-
-            {/* Animated Subtitle */}
-            <div className="relative mb-4 min-h-[50px] md:min-h-[60px]">
-              {slides.map((slide, index) => (
-                <motion.p
-                  key={index}
-                  initial={false}
-                  animate={{
-                    opacity: index === currentSlide ? 1 : 0,
-                    x: index === currentSlide ? 0 : -20
-                  }}
-                  transition={{ duration: 0.6, delay: 0.15, ease: "easeOut" }}
-                  className={`text-lg md:text-xl text-gray-200 font-semibold ${
-                    index === currentSlide ? "relative" : "absolute top-0 left-0"
-                  }`}
-                >
-                  {slide.subtitle}
-                </motion.p>
-              ))}
-            </div>
-
-            {/* Animated Description */}
-            <div className="relative mb-6 min-h-[60px] md:min-h-[80px]">
-              {slides.map((slide, index) => (
-                <motion.p
-                  key={index}
-                  initial={false}
-                  animate={{
-                    opacity: index === currentSlide ? 1 : 0,
-                    y: index === currentSlide ? 0 : 20
-                  }}
-                  transition={{ duration: 0.6, delay: 0.25, ease: "easeOut" }}
-                  className={`text-sm md:text-base text-gray-300 max-w-2xl leading-relaxed ${
-                    index === currentSlide ? "relative" : "absolute top-0 left-0"
-                  }`}
-                >
-                  {slide.description}
-                </motion.p>
-              ))}
-            </div>
+            {/* Nur aktiver Slide: keine überlagerten absoluten Texte */}
+            <AnimatePresence mode="wait" initial={false}>
+              <motion.div
+                key={currentSlide}
+                initial={{ opacity: 0, y: 14 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -10 }}
+                transition={{ duration: 0.45, ease: [0.22, 1, 0.36, 1] }}
+              >
+                <h1 className="text-3xl md:text-5xl font-bold text-white leading-tight mb-4">
+                  {slides[currentSlide].title}
+                </h1>
+                <p className="text-lg md:text-xl text-gray-200 font-semibold mb-4">
+                  {slides[currentSlide].subtitle}
+                </p>
+                <p className="text-sm md:text-base text-gray-300 max-w-2xl leading-relaxed mb-6">
+                  {slides[currentSlide].description}
+                </p>
+              </motion.div>
+            </AnimatePresence>
 
             {/* CTA Buttons mit Framer Motion */}
             <div className="flex flex-col sm:flex-row gap-4">
               <motion.a
-                href="#contact"
+                href="/kontakt"
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.98 }}
                 className="group inline-flex items-center justify-center bg-blue-600 text-white px-8 py-4 rounded-lg hover:bg-blue-700 transition-all duration-500 font-bold shadow-xl hover:shadow-2xl"
               >
-                <span>Kostenlos beraten lassen</span>
+                <span>Kostenlos Angebot holen</span>
                 <motion.svg
                   className="w-5 h-5 ml-2"
                   fill="none"
@@ -156,9 +119,9 @@ export default function Hero() {
             {/* Trust Indicators mit Stagger Animation */}
             <div className="mt-10 flex flex-wrap gap-6 items-center">
               {[
-                "15+ Jahre Erfahrung",
-                "500+ zufriedene Kunden",
-                "ISO-zertifiziert"
+                "15+ Jahre unterwegs",
+                "Überall in NRW im Einsatz",
+                "Fest zertifiziert & versichert",
               ].map((text, index) => (
                 <motion.div
                   key={text}

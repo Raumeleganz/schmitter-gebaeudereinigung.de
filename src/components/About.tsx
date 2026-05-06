@@ -8,8 +8,9 @@ export default function About() {
   const { ref: contentRef, isVisible: contentVisible } = useScrollAnimation();
   const features = [
     {
-      title: "Erfahrenes Fachpersonal",
-      description: "Geschulte und zuverlässige Mitarbeiter mit langjähriger Erfahrung in der professionellen Gebäudereinigung.",
+      title: "Teams mit Handwerk statt PowerPoint",
+      description:
+        "Unser Team kümmert sich um einen Job, den man leicht überseht – bis’s unangenehm wird. Bei uns gilt: freundlich, pünktlich, und wenn etwas unklar ist, gibt’s eine echte Frage statt Funkstille.",
       icon: (
         <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
@@ -17,8 +18,9 @@ export default function About() {
       )
     },
     {
-      title: "Umweltfreundliche Reinigung",
-      description: "Wir verwenden ausschließlich ökologische Reinigungsmittel für Ihre Gesundheit und unsere Umwelt.",
+      title: "Putzmittel ohne Science-Fiction",
+      description:
+        "Wo es Sinn ergibt, setzen wir Mittel mit guter Bilanz für Umwelt und Atemluft ein – und sagen vorher kurz, warum welches Produkt drankommt.",
       icon: (
         <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -26,8 +28,9 @@ export default function About() {
       )
     },
     {
-      title: "Flexible Einsatzzeiten",
-      description: "Reinigung auch außerhalb der Geschäftszeiten – ganz nach Ihren individuellen Anforderungen.",
+      title: "Zeiten, in denen wir nicht im Weg sind",
+      description:
+        "Früh, spät oder nachts: Wir orientieren uns an Ihrem Tagesgeschäft, damit weder Besuch noch Personal zwischen Wischern hindurchschlängeln muss.",
       icon: (
         <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -35,8 +38,9 @@ export default function About() {
       )
     },
     {
-      title: "Qualitätsgarantie",
-      description: "100% Zufriedenheitsgarantie mit regelmäßigen Qualitätskontrollen für erstklassige Ergebnisse.",
+      title: "Nachkontrollen ohne Selbstgefälligkeit",
+      description:
+        "Wenn ein Punkt klemmt, melden wir uns lieber zweimal zu viel als einmal zu wenig – und korrigieren nachvollziehbar nach. Spart später die „Ja, aber …“-Gespräche.",
       icon: (
         <svg className="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
@@ -59,8 +63,8 @@ export default function About() {
           >
             <div className="relative h-[500px] lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=80&fm=webp"
-                alt="ABED Team bei der Arbeit"
+                src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80&fm=webp"
+                alt="Schmitter Team bei der Arbeit"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -75,8 +79,7 @@ export default function About() {
                       </svg>
                     </div>
                     <div>
-                      <p className="text-2xl font-bold text-gray-900">15+</p>
-                      <p className="text-sm text-gray-600 font-semibold">Jahre Erfahrung</p>
+                      <p className="text-xl font-bold text-gray-900">15+ Jahre Erfahrung</p>
                     </div>
                   </div>
                 </div>
@@ -103,11 +106,11 @@ export default function About() {
             </div>
             
             <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-              Warum ABED?
+              Warum Schmitter – ohne PowerPoint
             </h2>
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Mit über 15 Jahren Erfahrung in der Gebäudereinigung sind wir Ihr zuverlässiger Partner für höchste Qualität und Kundenzufriedenheit in ganz NRW.
+              Weil professionelle Gebäudereinigung keine Raketenwissenschaft ist – aber Arbeit mit klaren Aufgaben und ehrlicher Kommunikation. Seit über 15 Jahren halten wir Büros, Praxen und Gebäude in NRW dort, wo man sich wohlfühlen kann beim reingehen – damit Sie sich um Ihr Kerngeschäft kümmern können.
             </p>
 
             {/* Features List */}

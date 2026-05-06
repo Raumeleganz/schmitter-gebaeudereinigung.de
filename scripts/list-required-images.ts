@@ -26,7 +26,7 @@ interface ImageInfo {
  * Hauptfunktion
  */
 function main() {
-  console.log('🖼️  DATRA - Bild-Dateinamen Generator\n');
+  console.log('🖼️  Schmitter - Bild-Dateinamen Generator\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   
   const images: ImageInfo[] = [];

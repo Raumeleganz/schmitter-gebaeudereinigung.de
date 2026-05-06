@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "AGB | ABED - Gebäudereinigung",
-  description: "Allgemeine Geschäftsbedingungen der ABED Gebäudereinigung",
+  title: "AGB | Schmitter Gebäudereinigung",
+  description: "Allgemeine Geschäftsbedingungen der Schmitter Gebäudereinigung",
   robots: {
     index: true,
     follow: true,
@@ -32,7 +32,7 @@ export default function AGBPage() {
           <section>
             <div className="bg-blue-50 border-l-4 border-blue-600 p-6 rounded-r-lg mb-6">
               <p className="text-gray-700 leading-relaxed">
-                Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge über Gebäudereinigungsleistungen zwischen der ABED Gebäudereinigung und ihren Auftraggebern.
+                Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge über Gebäudereinigungsleistungen zwischen der Schmitter Gebäudereinigung und ihren Auftraggebern.
               </p>
             </div>
           </section>
@@ -45,7 +45,7 @@ export default function AGBPage() {
             </h2>
             <div className="ml-11 text-gray-700 text-sm leading-relaxed space-y-2">
               <p>
-                Diese Geschäftsbedingungen gelten für alle Verträge über Gebäudereinigungsleistungen zwischen der ABED Gebäudereinigung (nachfolgend "Auftragnehmer") und dem Auftraggeber.
+                Diese Geschäftsbedingungen gelten für alle Verträge über Gebäudereinigungsleistungen zwischen der Schmitter Gebäudereinigung (nachfolgend "Auftragnehmer") und dem Auftraggeber.
               </p>
               <p>
                 Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Auftraggebers werden, selbst bei Kenntnis, nicht Vertragsbestandteil, es sei denn, ihrer Geltung wird ausdrücklich schriftlich zugestimmt.

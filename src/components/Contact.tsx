@@ -196,7 +196,7 @@ export default function Contact() {
         </svg>
       ),
       title: "Telefon",
-      content: ["+49 211 12345678"]
+      content: ["0201-89083050"]
     },
     {
       icon: (
@@ -205,7 +205,7 @@ export default function Contact() {
         </svg>
       ),
       title: "E-Mail",
-      content: ["info@datra-gebaeudereinigung.de"]
+      content: ["info@schmitter-gebaeudereinigung.de"]
     },
     {
       icon: (
@@ -227,14 +227,16 @@ export default function Contact() {
             headerVisible ? 'animate-fade-in-up' : 'scroll-hidden'
           }`}
         >
-          <h2 className="text-3xl font-bold mb-2">Kontaktieren Sie uns</h2>
-          <p className="text-base text-blue-100">Wir beraten Sie gerne und erstellen ein individuelles Angebot</p>
+          <h2 className="text-3xl font-bold mb-2">Lust auf Klartext?</h2>
+          <p className="text-base text-blue-100 max-w-xl mx-auto">
+            Schreiben Sie kurz, was Sie brauchen – wir antworten sachlich und ohne leere Buzzwords: Gebäude, Fläche, Rhythmus, Besonderheiten. Unverbindlich.
+          </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8">
           {/* Contact Info */}
           <div>
-            <h3 className="text-xl font-bold mb-5">Kontaktinformationen</h3>
+            <h3 className="text-xl font-bold mb-5">Erreichbarkeit</h3>
             
             <div className="space-y-4">
               {contactInfo.map((info, index) => (
@@ -257,9 +259,11 @@ export default function Contact() {
 
           {/* Contact Form */}
           <div className="bg-white rounded-xl p-6 text-gray-900 shadow-2xl animate-scale-in">
-            <h3 className="text-xl font-bold mb-4 flex items-center">
-              <span className="mr-2">✨</span>
-              Anfrage senden
+            <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+              <span className="mr-2" aria-hidden>
+                ✨
+              </span>
+              Formular ausfüllen – fertig
             </h3>
             
             {/* Success State - Komplette Danke-Nachricht */}
@@ -282,7 +286,7 @@ export default function Contact() {
                   Ihre Anfrage wurde erfolgreich gesendet.
                 </p>
                 <p className="text-gray-500 mb-8">
-                  Wir melden uns schnellstmöglich bei Ihnen.
+                  In der Regel melden wir uns innerhalb eines Werktags – bei Dringlichkeit lieber gleich kurz anrufen.
                 </p>
 
                 {/* Kontakt-Info */}
@@ -293,8 +297,8 @@ export default function Contact() {
                   <p className="text-sm text-gray-600">
                     <strong>Dringende Anfragen?</strong> Rufen Sie uns an:
                   </p>
-                  <a href="tel:+4921112345678" className="text-blue-600 font-semibold hover:text-blue-700 transition">
-                    +49 211 12345678
+                <a href="tel:+4920189083050" className="text-blue-600 font-semibold hover:text-blue-700 transition">
+                  0201-89083050
                   </a>
                 </div>
 
@@ -395,7 +399,7 @@ export default function Contact() {
                   className={`w-full px-3 py-2 text-sm rounded-lg border ${
                     errors.phone ? 'border-red-500 focus:border-red-500 focus:ring-red-500 bg-red-50' : 'border-gray-300 focus:border-blue-600 focus:ring-blue-600'
                   } focus:ring-1 focus:outline-none transition`}
-                  placeholder="+49 211 12345678"
+                  placeholder="0201-89083050"
                   disabled={formState === 'submitting'}
                 />
                 {errors.phone && (
@@ -420,7 +424,7 @@ export default function Contact() {
                   className={`w-full px-3 py-2 text-sm rounded-lg border ${
                     errors.message ? 'border-red-500 focus:border-red-500 focus:ring-red-500 bg-red-50' : 'border-gray-300 focus:border-blue-600 focus:ring-blue-600'
                   } focus:ring-1 focus:outline-none transition resize-none`}
-                  placeholder="Beschreiben Sie Ihren Reinigungsbedarf..."
+                  placeholder="z. B. Büro ca. 200 m², 2× pro Woche, abends möglich, Parkplatz beim Hintereingang…"
                   disabled={formState === 'submitting'}
                 ></textarea>
                 {errors.message && (

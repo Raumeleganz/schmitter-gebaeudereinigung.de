@@ -3,10 +3,10 @@ import Link from "next/link";
 import PriceCalculator from "@/components/PriceCalculator";
 
 export const metadata: Metadata = {
-  title: "Online-Preiskalkulator | ABED - Gebäudereinigung",
+  title: "Online-Preiskalkulator | Schmitter Gebäudereinigung",
   description: "Berechnen Sie online eine erste Preisindikation für Ihre Gebäudereinigung - schnell, einfach und unverbindlich.",
   openGraph: {
-    title: "Preiskalkulator - ABED Gebäudereinigung",
+    title: "Preiskalkulator - Schmitter Gebäudereinigung",
     description: "Ermitteln Sie sofort eine erste Preiseinschätzung für Ihre Reinigungsleistung",
     type: "website",
   },
@@ -80,7 +80,7 @@ export default function PreiskalkulatorPage() {
               <svg className="w-7 h-7 mr-3 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              Warum ABED?
+              Warum Schmitter?
             </h2>
             <ul className="space-y-4">
               <li className="flex items-start">

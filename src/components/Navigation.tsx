@@ -44,10 +44,10 @@ export default function Navigation() {
             </div>
             <div>
               <div className="text-2xl font-black tracking-tight text-gray-900 group-hover:text-blue-600 transition-colors duration-300">
-                ABED
+                Schmitter
               </div>
-              <div className="text-xs font-semibold text-gray-500 tracking-wider uppercase">
-                Gebäudereinigung
+              <div className="text-xs font-semibold text-gray-500 tracking-wide">
+                Reinigung ohne Fachchinesisch
               </div>
             </div>
           </Link>
@@ -76,7 +76,7 @@ export default function Navigation() {
               href="/kontakt"
               className="hidden sm:inline-flex items-center gap-2 relative group overflow-hidden bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-7 py-3.5 rounded-xl font-bold text-sm shadow-lg hover:shadow-2xl hover:shadow-blue-500/50 transform hover:scale-105 transition-all duration-300"
             >
-              <span className="relative z-10">Jetzt anfragen</span>
+              <span className="relative z-10">Kurz hallo sagen</span>
               <svg 
                 className="w-4 h-4 relative z-10 transform group-hover:translate-x-1 transition-transform duration-300" 
                 fill="none" 
@@ -136,7 +136,7 @@ export default function Navigation() {
                   onClick={() => setMobileMenuOpen(false)}
                   className="relative group overflow-hidden inline-flex items-center justify-center gap-2 w-full bg-gradient-to-r from-blue-600 to-indigo-600 text-white px-6 py-4 rounded-xl font-bold shadow-lg hover:shadow-2xl hover:shadow-blue-500/50 transform hover:scale-105 transition-all duration-300"
                 >
-                  <span className="relative z-10">Jetzt anfragen</span>
+                  <span className="relative z-10">Kurz hallo sagen</span>
                   <svg className="w-4 h-4 relative z-10 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                   </svg>

@@ -89,7 +89,7 @@ Bearbeite: `src/app/einsatzgebiete/[stadt]/page.tsx`
 
 ### Telefonnummer ändern
 
-Suche & Ersetze: `+4921112345678` und `0211 123 456 78`
+Rufnummer: `0201-89083050` (Link: `tel:+4920189083050`)
 
 ### Domain ändern
 

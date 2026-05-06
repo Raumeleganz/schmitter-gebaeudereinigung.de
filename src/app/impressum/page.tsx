@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Impressum | ABED - Gebäudereinigung",
-  description: "Impressum und rechtliche Informationen der ABED Gebäudereinigung",
+  title: "Impressum | Schmitter Gebäudereinigung",
+  description: "Impressum und rechtliche Informationen der Schmitter Gebäudereinigung",
   robots: {
     index: true,
     follow: true,
@@ -32,7 +32,7 @@ export default function ImpressumPage() {
               Angaben gemäß § 5 TMG
             </h2>
             <div className="space-y-2 text-gray-700 ml-9">
-              <p className="font-semibold text-lg text-gray-900">ABED Gebäudereinigung</p>
+              <p className="font-semibold text-lg text-gray-900">Schmitter Gebäudereinigung</p>
               <p>Geschäftsführer: Max Mustermann</p>
               <p>Musterstraße 123</p>
               <p>40212 Düsseldorf</p>
@@ -50,20 +50,20 @@ export default function ImpressumPage() {
             <div className="space-y-2 text-gray-700 ml-9">
               <p>
                 <span className="font-semibold">Telefon:</span>{" "}
-                <a href="tel:+4921112345678" className="text-blue-600 hover:text-blue-700">
-                  +49 211 12345678
+                <a href="tel:+4920189083050" className="text-blue-600 hover:text-blue-700">
+                  0201-89083050
                 </a>
               </p>
               <p>
                 <span className="font-semibold">E-Mail:</span>{" "}
-                <a href="mailto:info@ABED-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
-                  info@ABED-gebaeudereinigung.de
+                <a href="mailto:info@schmitter-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
+                  info@schmitter-gebaeudereinigung.de
                 </a>
               </p>
               <p>
                 <span className="font-semibold">Website:</span>{" "}
-                <a href="https://ABED-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
-                  www.ABED-gebaeudereinigung.de
+                <a href="https://schmitter-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
+                  www.schmitter-gebaeudereinigung.de
                 </a>
               </p>
             </div>

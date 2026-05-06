@@ -4,13 +4,27 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Professionelle Unterhaltsreinigung in NRW - Treppenhäuser, Flure & Gemeinschaftsflächen | DATRA - Gebäudereinigung",
-  description: "Zuverlässige Unterhaltsreinigung für Wohn- und Gewerbeimmobilien in NRW. Treppenhäuser, Eingangsbereiche, Außenanlagen. Langfristiger Werterhalt garantiert. ✓ Täglich ✓ Wöchentlich ✓ Monatlich",
-  keywords: ["Unterhaltsreinigung", "Treppenhaus reinigen", "Hausreinigung NRW", "Immobilienreinigung", "Gemeinschaftsflächen", "Unterhaltsreinigung Düsseldorf", "Unterhaltsreinigung Köln", "Hausverwaltung Reinigung", "Wohnungswirtschaft"],
+  title: "Unterhaltsreinigung NRW | Treppenhaus, Flure, Gemeinschaftsflächen | Schmitter",
+  description:
+    "Treppenhaus und Gemeinschaftsflächen in NRW: feste Intervalle, erklärte Punkte auf dem Schein, direkte Ansprechpartner für Verwaltungen und Eigentümergemeinschaften – ohne Kleingedruckt-Drama.",
+  keywords: [
+    "Unterhaltsreinigung",
+    "Treppenhaus reinigen",
+    "Hausreinigung NRW",
+    "Immobilienreinigung",
+    "Gemeinschaftsflächen",
+    "Unterhaltsreinigung Düsseldorf",
+    "Unterhaltsreinigung Köln",
+    "Hausverwaltung Reinigung",
+    "Schmitter",
+  ],
+  alternates: { canonical: "https://schmitter-gebaeudereinigung.de/leistungen/unterhaltsreinigung" },
   openGraph: {
-    title: "Professionelle Unterhaltsreinigung in NRW | DATRA - Gebäudereinigung",
-    description: "Regelmäßige und zuverlässige Pflege für gepflegte Immobilien.",
+    title: "Unterhaltsreinigung NRW | Schmitter Gebäudereinigung",
+    description:
+      "Regelmäßig sauber statt sporadischer Notfall-Kur: wir stimmen Rhythmus, Flächen und Dokumentation mit Ihnen ab.",
     type: "website",
+    url: "https://schmitter-gebaeudereinigung.de/leistungen/unterhaltsreinigung",
   },
 };
 
@@ -107,7 +121,7 @@ export default function UnterhaltsreinigungPage() {
                   Professionelle Unterhaltsreinigung
                 </h1>
                 <p className="text-xl text-gray-200">
-                  Für gepflegte Immobilien und langfristigen Werterhalt
+                  Damit’s im Treppenhaus nicht nach „ach komm…“ aussieht (NRW-weit)
                 </p>
               </div>
             </div>
@@ -124,16 +138,16 @@ export default function UnterhaltsreinigungPage() {
                   Professionelle Unterhaltsreinigung in Düsseldorf, Köln und ganz NRW
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Die Unterhaltsreinigung ist das Herzstück einer gepflegten Immobilie und entscheidend für den langfristigen Werterhalt. Mit unseren professionellen Reinigungszyklen sorgen wir dafür, dass Treppenhäuser, Flure, Eingangsbereiche und Gemeinschaftsflächen stets sauber, hygienisch und einladend sind.
+                  Unterhaltsreinigung heißt ganz simpel: regelmäßig sauber machen, bevor es „viel Arbeit“ wird. Treppenhaus, Flure, Eingang, Aufzug – also genau die Bereiche, die jeden Tag alle sehen.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Seit über 15 Jahren sind wir der zuverlässige Partner für Hausverwaltungen, Wohnungsbaugesellschaften, Eigentümergemeinschaften und Immobilieneigentümer in ganz Nordrhein-Westfalen. Unser geschultes Reinigungspersonal arbeitet diskret, zuverlässig und nach fest vereinbarten Qualitätsstandards.
+                  Schmitter Gebäudereinigung arbeitet seit über 15 Jahren für Hausverwaltungen, Eigentümergemeinschaften und Gewerbeobjekte in NRW. Wir kommen im festen Rhythmus, halten die Absprachen ein – und wenn’s irgendwo klemmt, gibt’s einen Ansprechpartner statt Ping-Pong.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Unser umfassender Service erstreckt sich über alle Bereiche Ihrer Immobilie – von der Haustür über das Treppenhaus bis zum Dachboden. Wir reinigen nicht nur oberflächlich, sondern sorgen für nachhaltige Sauberkeit, die Bewohner und Besucher sofort wahrnehmen.
+                  Wir machen nicht nur „einmal drüber“, sondern so, dass man’s merkt: Geländer, Ecken, Lichtschalter, Spuren am Eingang – die typischen Nerv-Dinger.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Durch regelmäßige professionelle Reinigung erhalten Sie den Wert Ihrer Immobilie langfristig, reduzieren Instandhaltungskosten und schaffen ein angenehmes Wohnumfeld, das die Zufriedenheit Ihrer Mieter steigert. Eine gepflegte Immobilie ist eine Investition, die sich auszahlt.
+                  Ergebnis: weniger Beschwerden, weniger Überraschungen, mehr „läuft“. Und ja – gepflegt wirkt auch einfach wertiger, ohne dass man jeden Monat Grundreinigung spielen muss.
                 </p>
 
                 <div className="space-y-4">
@@ -144,7 +158,9 @@ export default function UnterhaltsreinigungPage() {
                       </svg>
                       <div>
                         <h3 className="font-bold text-gray-900 mb-2">Für Hausverwaltungen optimiert</h3>
-                        <p className="text-gray-600 text-sm leading-relaxed">Digitale Reinigungs nachweise, transparente Dokumentation und direkte Ansprechpartner für eine reibungslose Zusammenarbeit mit Ihrer Verwaltung.</p>
+                        <p className="text-gray-600 text-sm leading-relaxed">
+                          Klare Dokumentation, feste Zuständigkeit, kurze Wege. Damit Sie nicht jede Woche erklären müssen, was ein Treppenhaus ist.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -156,12 +172,14 @@ export default function UnterhaltsreinigungPage() {
                       </svg>
                       Kostenlose Objektbesichtigung & Angebot
                     </h3>
-                    <p className="text-gray-600 mb-4">Wir besichtigen Ihre Immobilie vor Ort, analysieren den Bedarf und erstellen Ihnen ein transparentes, individuelles Angebot!</p>
+                    <p className="text-gray-600 mb-4">
+                      Wir schauen uns das Objekt kurz an, klären Rhythmus + Umfang – und Sie bekommen ein Angebot, das ohne Übersetzer verständlich ist.
+                    </p>
                     <Link
                       href="/kontakt"
                       className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all font-bold shadow-lg"
                     >
-                      Jetzt Termin vereinbaren
+                      Besichtigung anfragen
                       <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                       </svg>
@@ -238,7 +256,7 @@ export default function UnterhaltsreinigungPage() {
                 </div>
 
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum DATRA - Gebäudereinigung für Ihre Unterhaltsreinigung?</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum Schmitter Gebäudereinigung für Ihre Unterhaltsreinigung?</h2>
                   <div className="space-y-6">
                     <div className="flex items-start">
                       <div className="w-16 h-16 bg-green-100 rounded-2xl flex items-center justify-center flex-shrink-0 mr-4">
@@ -287,13 +305,13 @@ export default function UnterhaltsreinigungPage() {
                         </h3>
                         <p className="text-gray-600 mb-4">Rufen Sie uns an und vereinbaren Sie einen Termin für eine kostenlose Objektbesichtigung.</p>
                         <a
-                          href="tel:+4921112345678"
+                          href="tel:+4920189083050"
                           className="inline-flex items-center justify-center bg-green-600 text-white px-8 py-4 rounded-lg hover:bg-green-700 transition-all font-bold shadow-lg w-full sm:w-auto"
                         >
                           <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                           </svg>
-                          0211 123 456 78
+                          0201-89083050
                         </a>
                         <p className="text-sm text-gray-500 mt-3">Montag - Freitag: 8:00 - 18:00 Uhr</p>
                       </div>
@@ -388,7 +406,7 @@ export default function UnterhaltsreinigungPage() {
                     ))}
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Seit 5 Jahren betreut DATRA - Gebäudereinigung unsere 12 Wohnobjekte. Pünktlich, zuverlässig und die Mieter sind hochzufrieden. Beste Empfehlung!"
+                    "Seit 5 Jahren betreut Schmitter Gebäudereinigung unsere 12 Wohnobjekte. Pünktlich, zuverlässig und die Mieter sind hochzufrieden. Beste Empfehlung!"
                   </p>
                 </div>
 
@@ -453,7 +471,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Die Häufigkeit hängt von der Frequentierung ab. Eingangsbereiche in Mehrfamilienhäusern sollten wöchentlich gereinigt werden, während Treppenhäuser je nach Nutzung wöchentlich oder zweiwöchentlich gereinigt werden können. Kellerräume und Dachböden reichen meist monatlich oder quartalsweise.
+                    Das hängt davon ab, wie viel los ist. Viele Mehrfamilienhäuser fahren gut mit 1× pro Woche, bei mehr Verkehr auch häufiger. Keller & Dachboden brauchen meist seltener. Wir schlagen einen Rhythmus vor, der sauber bleibt – ohne Overkill.
                   </div>
                 </details>
 
@@ -465,7 +483,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Die Kosten variieren je nach Objektgröße, Reinigungsumfang und Frequenz. Ein Treppenhaus in einem 10-Parteien-Haus kostet bei wöchentlicher Reinigung ca. 80-120€ pro Monat. Wir erstellen Ihnen gerne ein individuelles, transparentes Angebot nach Objektbesichtigung.
+                    Preis hängt an Objektgröße, Umfang (z. B. Aufzug/Müllraum) und Häufigkeit. Richtwert: ein Treppenhaus im 10-Parteien-Haus liegt bei wöchentlicher Reinigung oft bei ca. 80–120 € im Monat. Den genauen Preis gibt’s nach kurzer Besichtigung – transparent.
                   </div>
                 </details>
 
@@ -477,7 +495,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Nein, das ist nicht notwendig. Nach einer Einweisung vor Ort können unsere Teams selbstständig arbeiten. Bei Mehrfamilienhäusern ist meist ein Schlüsselsafe oder ein Hausmeister vorhanden. Wir arbeiten versichert und mit polizeilich überprüftem Personal.
+                    Nein. Nach einer kurzen Einweisung läuft das selbstständig – z. B. über Hausmeister, Schlüsselsafe oder feste Übergabe. Wichtig ist nur, dass Zugang klar geregelt ist.
                   </div>
                 </details>
 
@@ -489,7 +507,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Wir verwenden professionelle, umweltfreundliche Reinigungsmittel, die für Wohnimmobilien geeignet sind. Auf Wunsch können wir auch mit biologisch abbaubaren oder allergikerfreundlichen Produkten arbeiten. Alle Mittel und Geräte bringen wir selbst mit.
+                    Professionelle Mittel, die zum Objekt passen – und auf Wunsch auch besonders schonend/allergikerfreundlich. Geräte und Material bringen wir in der Regel mit (Details klären wir beim Start).
                   </div>
                 </details>
 
@@ -501,7 +519,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Wir bieten flexible Vertragslaufzeiten an - von 3 Monaten bis zu langfristigen Rahmenverträgen. Die Kündigungsfrist beträgt in der Regel 4 Wochen. Bei Bedarf können wir auch kurzfristige Vertretungen oder Urlaubsreinigungen übernehmen.
+                    Ziemlich flexibel. Oft mit kurzer Kündigungsfrist (z. B. 4 Wochen) – je nach Objekt und Vereinbarung. Und ja: Vertretung/Urlaubslösungen bekommen wir in vielen Fällen auch hin.
                   </div>
                 </details>
 
@@ -513,7 +531,7 @@ export default function UnterhaltsreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Unser Qualitätsmanager führt regelmäßige Kontrollbegehungen durch und dokumentiert diese. Zusätzlich erhalten Sie von uns digitale Reinigungsnachweise. Bei Beanstandungen reagieren wir innerhalb von 24 Stunden und bessern kostenlos nach.
+                    Mit regelmäßigen Checks und klaren Standards. Und wenn mal etwas nicht passt: kurz melden – wir kümmern uns und bessern nach, statt zu diskutieren.
                   </div>
                 </details>
               </div>
@@ -589,10 +607,10 @@ export default function UnterhaltsreinigungPage() {
                   Jetzt Angebot anfordern
                 </Link>
                 <a
-                  href="tel:+4921112345678"
+                  href="tel:+4920189083050"
                   className="inline-flex items-center justify-center bg-blue-500 text-white border-2 border-white/50 px-8 py-4 rounded-lg hover:bg-blue-400 transition-all font-bold"
                 >
-                  0211 123 456 78
+                  0201-89083050
                 </a>
               </div>
               <p className="text-blue-200 text-sm mt-6">

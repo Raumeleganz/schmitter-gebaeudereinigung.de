@@ -1,5 +1,5 @@
 /**
- * ABED - Gebäudereinigung Sitemap Generator
+ * Schmitter Gebäudereinigung Sitemap Generator
  * 
  * Generiert eine vollständige XML-Sitemap mit allen statischen und dynamischen Seiten:
  * - 10 statische Hauptseiten (inkl. rechtliche Seiten, FAQ, Preiskalkulator)
@@ -12,7 +12,7 @@
 import { MetadataRoute } from 'next';
 import { citySlugs } from '@/data/cities.generated';
 
-const BASE_URL = 'https://ABED-gebaeudereinigung.de';
+const BASE_URL = 'https://schmitter-gebaeudereinigung.de';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

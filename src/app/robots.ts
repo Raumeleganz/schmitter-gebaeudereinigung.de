@@ -1,5 +1,5 @@
 /**
- * ABED - Gebäudereinigung Robots.txt Generator
+ * Schmitter Gebäudereinigung Robots.txt Generator
  * 
  * Definiert Crawler-Regeln für Suchmaschinen:
  * - Erlaubt alle öffentlichen Seiten
@@ -11,7 +11,7 @@
 
 import { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://ABED-gebaeudereinigung.de';
+const BASE_URL = 'https://schmitter-gebaeudereinigung.de';
 
 export default function robots(): MetadataRoute.Robots {
   return {

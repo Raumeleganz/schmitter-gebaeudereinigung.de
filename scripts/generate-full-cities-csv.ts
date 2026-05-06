@@ -498,14 +498,14 @@ function readBaseCsv(filePath: string): BaseCityData[] {
  */
 function generateTitle(cityName: string, index: number): string {
   const titles = [
-    `Gebäudereinigung ${cityName} | DATRA – Hygiene für Büro & Praxis`,
-    `Gebäudereinigung ${cityName} | DATRA – sauber. pünktlich. fair.`,
-    `Gebäudereinigung ${cityName} | DATRA – für Unternehmen & Praxen`,
-    `Gebäudereinigung ${cityName} | DATRA – Fenster`,
-    `Gebäudereinigung ${cityName} | DATRA – zuverlässig & gründlich`,
-    `Gebäudereinigung ${cityName} | DATRA – Start in 5–7 Werktagen`,
-    `Gebäudereinigung ${cityName} | DATRA – fair & transparent`,
-    `Gebäudereinigung ${cityName} | DATRA – effizient & günstig`
+    `Gebäudereinigung ${cityName} | Schmitter – Hygiene für Büro & Praxis`,
+    `Gebäudereinigung ${cityName} | Schmitter – sauber. pünktlich. fair.`,
+    `Gebäudereinigung ${cityName} | Schmitter – für Unternehmen & Praxen`,
+    `Gebäudereinigung ${cityName} | Schmitter – Fenster`,
+    `Gebäudereinigung ${cityName} | Schmitter – zuverlässig & gründlich`,
+    `Gebäudereinigung ${cityName} | Schmitter – Start in 5–7 Werktagen`,
+    `Gebäudereinigung ${cityName} | Schmitter – fair & transparent`,
+    `Gebäudereinigung ${cityName} | Schmitter – effizient & günstig`
   ];
   
   return titles[index % titles.length];
@@ -604,10 +604,10 @@ function enrichCityData(baseCity: BaseCityData, index: number): FullCityData {
     keyword4: `Reinigungsservice ${baseCity.name}`,
     keyword5: `Industriereinigung ${baseCity.name}`,
     imageKeyword: `Gebäudereinigung ${baseCity.name}`,
-    imageAlt: `DATRA Gebäudereinigung in ${baseCity.name} – Professioneller Reinigungsservice`,
-    aboutText: `DATRA ist Ihr zuverlässiger Partner für professionelle Gebäudereinigung in ${baseCity.name}. Mit über 15 Jahren Erfahrung bieten wir maßgeschneiderte Reinigungslösungen für Unternehmen aller Größen. Unsere zertifizierten Reinigungskräfte sorgen für Sauberkeit und Hygiene in Ihren Räumlichkeiten.`,
+    imageAlt: `Schmitter Gebäudereinigung in ${baseCity.name} – Professioneller Reinigungsservice`,
+    aboutText: `Schmitter ist Ihr zuverlässiger Partner für professionelle Gebäudereinigung in ${baseCity.name}. Mit über 15 Jahren Erfahrung bieten wir maßgeschneiderte Reinigungslösungen für Unternehmen aller Größen. Unsere zertifizierten Reinigungskräfte sorgen für Sauberkeit und Hygiene in Ihren Räumlichkeiten.`,
     ctaText: `Jetzt kostenloses Angebot für ${baseCity.name} anfragen`,
-    schemaBusinessName: `DATRA Gebäudereinigung ${baseCity.name}`
+    schemaBusinessName: `Schmitter Gebäudereinigung ${baseCity.name}`
   };
 }
 
@@ -661,7 +661,7 @@ function writeCitiesCsv(cities: FullCityData[], outputPath: string): void {
  * Hauptfunktion
  */
 async function main() {
-  console.log('🏗️  DATRA - Gebäudereinigung - Vollständige Städte-CSV Generator\n');
+  console.log('🏗️  Schmitter - Gebäudereinigung - Vollständige Städte-CSV Generator\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   
   const baseCsvPath = path.join(process.cwd(), 'data', 'nrw-cities-90-base.csv');

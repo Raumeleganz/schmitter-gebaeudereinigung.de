@@ -1,5 +1,5 @@
 /**
- * DATRA - Umlaut-Slug Fixer
+ * Schmitter - Umlaut-Slug Fixer
  * 
  * Korrigiert alle Slugs in der CSV damit Umlaute korrekt ersetzt werden:
  * ö → oe, ü → ue, ä → ae
@@ -29,7 +29,7 @@ function generateSlug(cityName: string): string {
 }
 
 function main() {
-  console.log('🔧 DATRA - Umlaut-Slug Fixer\n');
+  console.log('🔧 Schmitter - Umlaut-Slug Fixer\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   
   // CSV lesen

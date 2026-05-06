@@ -26,10 +26,10 @@ export function Footer() {
         <div className="space-y-4">
           <Link href="/" className="flex items-center gap-2 text-3xl font-bold text-amber-500">
             <Sparkles className="w-8 h-8" />
-            <span style={{ fontFamily: 'Playfair Display, serif' }}>Raumeleganz</span>
+            <span style={{ fontFamily: 'Playfair Display, serif' }}>Gebäudereinigung</span>
           </Link>
           <p className="text-gray-400 text-sm leading-relaxed">
-            Wo Licht auf Eleganz trifft – Ihre Experten für luxuriöse Spanndecken in NRW.
+            Professionelle Gebäudereinigung – zuverlässig, gründlich und flexibel für NRW und Umgebung.
           </p>
         </div>
 
@@ -64,14 +64,14 @@ export function Footer() {
             </div>
             <div className="flex items-center gap-3">
               <Phone className="w-5 h-5 text-amber-500" />
-              <a href="tel:+4921112345678" className="hover:text-amber-500 transition-colors duration-300">
-                +49 (0) 211 123 456 78
+              <a href="tel:+4920189083050" className="hover:text-amber-500 transition-colors duration-300">
+                0201-89083050
               </a>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="w-5 h-5 text-amber-500" />
-              <a href="mailto:info@raumeleganz.de" className="hover:text-amber-500 transition-colors duration-300">
-                info@raumeleganz.de
+              <a href="mailto:info@gebaeudereinigung.de" className="hover:text-amber-500 transition-colors duration-300">
+                info@gebaeudereinigung.de
               </a>
             </div>
           </div>
@@ -104,7 +104,7 @@ export function Footer() {
       </div>
 
       <div className="border-t border-gray-800 mt-12 pt-8 text-center text-sm text-gray-400">
-        &copy; {new Date().getFullYear()} Raumeleganz Spanndecken. Alle Rechte vorbehalten.
+        &copy; {new Date().getFullYear()} Gebäudereinigung. Alle Rechte vorbehalten.
       </div>
     </footer>
   )

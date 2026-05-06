@@ -11,8 +11,8 @@ import { ContactApiResponse } from '@/types/contact';
 
 // Configuration
 const CONFIG = {
-  RECIPIENT_EMAIL: process.env.CONTACT_EMAIL || 'info@datra-gebaeudereinigung.de',
-  FROM_EMAIL: process.env.FROM_EMAIL || 'noreply@datra-gebaeudereinigung.de',
+  RECIPIENT_EMAIL: process.env.CONTACT_EMAIL || 'info@schmitter-gebaeudereinigung.de',
+  FROM_EMAIL: process.env.FROM_EMAIL || 'noreply@schmitter-gebaeudereinigung.de',
 };
 
 /**

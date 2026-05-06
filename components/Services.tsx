@@ -1,26 +1,26 @@
 'use client'
 
 import { motion } from 'framer-motion'
-    import { Home, Lightbulb, Volume2, ArrowRight } from 'lucide-react'
+import { Building2, SprayCan, GlassWater, ArrowRight } from 'lucide-react'
 
 export function Services() {
   const services = [
     {
-      icon: Home,
-      title: 'Wohnraum-Eleganz',
-      description: 'Stilvolle Deckengestaltung für ein exklusives Wohngefühl. Perfekt auf Ihre Räume abgestimmt.',
+      icon: Building2,
+      title: 'Unterhaltsreinigung',
+      description: 'Regelmäßige Reinigung von Büros, Praxen und Treppenhäusern – planbar, zuverlässig, gründlich.',
       color: '#D4AF37',
     },
     {
-      icon: Lightbulb,
-      title: 'Lichtdecken & LED',
-      description: 'Moderne Beleuchtungskonzepte mit integrierter LED-Technologie für beeindruckende Lichteffekte.',
+      icon: SprayCan,
+      title: 'Grund- & Sonderreinigung',
+      description: 'Intensive Reinigung bei Bedarf: hartnäckige Verschmutzungen, Pflegefilme, Detailarbeiten.',
       color: '#8B7355',
     },
     {
-      icon: Volume2,
-      title: 'Akustik-Lösungen',
-      description: 'Optimale Raumakustik für Wohlbefinden und perfekten Klang in jedem Raum.',
+      icon: GlassWater,
+      title: 'Glasreinigung',
+      description: 'Streifenfreie Fenster- und Glasflächen – inklusive Rahmen und Falzen, auf Wunsch terminiert.',
       color: '#9CAF88',
     },
   ]
@@ -37,7 +37,7 @@ export function Services() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Eleganz und Funktionalität in perfekter Harmonie
+            Sauberkeit, die man sieht – Service, auf den man sich verlassen kann
           </p>
         </div>
 
@@ -77,7 +77,7 @@ export function Services() {
 
                 {/* CTA Link */}
                 <a
-                  href="#"
+                  href="/leistungen"
                   className="inline-flex items-center gap-2 text-amber-600 font-semibold group-hover:text-amber-700 transition-colors"
                 >
                   Mehr erfahren

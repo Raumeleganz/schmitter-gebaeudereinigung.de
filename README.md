@@ -221,10 +221,9 @@ NEXT_PUBLIC_FORM_ENDPOINT=https://...
 
 ## 📞 Kontakt
 
-**Raumeleganz Spanndecken**
-- 📧 E-Mail: info@raumeleganz-spanndecken.de
-- 📞 Telefon: +49 (0) 211 / 12 34 56 78
-- 🌐 Website: www.raumeleganz-spanndecken.de
+**Gebäudereinigung (Beispiel / Platzhalter)**
+- E-Mail: info@schmitter-gebaeudereinigung.de
+- Telefon: +49 (0) 211 / 12 34 56 78
 
 ---
 

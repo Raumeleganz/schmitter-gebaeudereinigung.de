@@ -19,7 +19,7 @@ export function Hero() {
         >
           <Sparkles className="w-5 h-5 text-amber-500" />
           <span className="text-sm font-semibold text-white">
-            Premium Spanndecken seit 2015
+            Zuverlässige Reinigung mit System
           </span>
         </motion.div>
 
@@ -31,11 +31,11 @@ export function Hero() {
           className="text-6xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight"
           style={{ fontFamily: 'Playfair Display, serif' }}
         >
-          <span className="block text-white">Wo Licht</span>
+          <span className="block text-white">Sauberkeit</span>
           <span className="block mt-2 bg-gradient-to-r from-amber-600 via-yellow-500 to-amber-600 bg-clip-text text-transparent">
-            auf Eleganz
+            die überzeugt
           </span>
-          <span className="block mt-2 text-white">trifft</span>
+          <span className="block mt-2 text-white">jeden Tag</span>
         </motion.h1>
 
         {/* Subheadline */}
@@ -45,9 +45,9 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-12 leading-relaxed"
         >
-          Elegante Spanndecken für anspruchsvolle Kunden in ganz NRW.
+          Professionelle Gebäudereinigung für Unternehmen und Privat – zuverlässig, gründlich, diskret.
           <span className="block mt-2 font-semibold text-white">
-            Qualität, die man sieht. Perfektion, die man spürt.
+            Klare Abläufe. Feste Ansprechpartner. Saubere Ergebnisse.
           </span>
         </motion.p>
 
@@ -63,7 +63,7 @@ export function Hero() {
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 bg-gradient-to-r from-amber-500 to-amber-600 text-gray-900 text-lg font-semibold rounded-full shadow-xl hover:shadow-2xl transition-all duration-300"
           >
-            Kostenlose Beratung buchen
+            Angebot anfordern
           </motion.button>
 
           <motion.button
@@ -71,7 +71,7 @@ export function Hero() {
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 bg-transparent text-white text-lg font-semibold rounded-full border-2 border-amber-500 hover:bg-amber-500 hover:text-gray-900 transition-all duration-300 shadow-lg"
           >
-            Galerie ansehen
+            Leistungen ansehen
           </motion.button>
         </motion.div>
       </div>
@@ -88,7 +88,7 @@ export function Hero() {
           transition={{ repeat: Infinity, duration: 1.5 }}
         >
           <ChevronDown className="w-8 h-8 mx-auto mb-2" />
-          <span className="text-sm">Entdecken Sie Ihre Traumdecke</span>
+          <span className="text-sm">Entdecken Sie unsere Leistungen</span>
         </motion.div>
       </motion.div>
     </section>

@@ -5,32 +5,35 @@ import Testimonials from "@/components/Testimonials";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ABED - Gebäudereinigung - Professionelle Gebäudereinigung in NRW",
-  description: "Professionelle Gebäudereinigung in ganz Nordrhein-Westfalen. Über 15 Jahre Erfahrung, 500+ zufriedene Kunden. ISO-zertifiziert und umweltfreundlich.",
+  title: "Schmitter Gebäudereinigung NRW | Büro- & Praxisreinigung ohne Fachwort-Dschungel",
+  description:
+    "Gebäudereinigung in NRW ohne Fachwort-Wirrwarr: Büro-, Praxis- und Unterhaltsreinigung mit klarem Plan und Team, das sagt was Sache ist – seit über 15 Jahren für saubere Ergebnisse ohne Drama.",
   keywords: ["Gebäudereinigung", "Büroreinigung", "Reinigungsdienst", "NRW", "Düsseldorf", "Köln", "Dortmund"],
   alternates: {
-    canonical: "https://ABED-gebaeudereinigung.de"
+    canonical: "https://schmitter-gebaeudereinigung.de"
   },
   openGraph: {
-    title: "ABED - Gebäudereinigung - Professionelle Gebäudereinigung in NRW",
-    description: "Professionelle Gebäudereinigung in ganz Nordrhein-Westfalen. Über 15 Jahre Erfahrung, ISO-zertifiziert.",
-    url: "https://ABED-gebaeudereinigung.de",
+    title: "Schmitter Gebäudereinigung NRW | Büro- & Praxisreinigung ohne Fachwort-Dschungel",
+    description:
+      "Büro-, Praxis- und Unterhaltsreinigung in NRW: wir erklären, was wir tun, wann wir kommen und was es kostet – ohne leere Marketing-Floskeln.",
+    url: "https://schmitter-gebaeudereinigung.de",
     type: "website",
     locale: "de_DE",
     images: [
       {
-        url: "https://ABED-gebaeudereinigung.de/images/og-home.jpg",
+        url: "https://schmitter-gebaeudereinigung.de/images/og-home.jpg",
         width: 1200,
         height: 630,
-        alt: "ABED Gebäudereinigung - Professioneller Reinigungsservice in NRW"
+        alt: "Schmitter – Gebäudereinigung und Büroreinigung in Nordrhein-Westfalen"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "ABED - Gebäudereinigung - Professionelle Gebäudereinigung in NRW",
-    description: "Professionelle Gebäudereinigung in ganz Nordrhein-Westfalen.",
-    images: ["https://ABED-gebaeudereinigung.de/images/og-home.jpg"]
+    title: "Schmitter Gebäudereinigung NRW | Büro- & Praxisreinigung ohne Fachwort-Dschungel",
+    description:
+      "Reinigung für Büro, Praxis & Haus in NRW – klar geredet, zuverlässig umgesetzt, seit über 15 Jahren.",
+    images: ["https://schmitter-gebaeudereinigung.de/images/og-home.jpg"]
   }
 };
 
@@ -45,10 +48,10 @@ export default function Home() {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              Sauberkeit auf höchstem Niveau
+              Endlich sauber – ohne PowerPoint dazu
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Über 500 Unternehmen vertrauen bereits auf unsere Expertise
+              Hunderte Kund:innen in NRW wollten einfach weniger Stress mit Schmutz und mehr klare Absprachen – genau dafür gibt’s uns.
             </p>
           </div>
 
@@ -66,9 +69,9 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">ISO 9001 zertifiziert</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">Mit System statt „musste reichen“</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Qualitätsmanagement nach internationalen Standards für konstante Spitzenleistung
+                    ISO 9001 ist kein Party-Titel, sondern heißt: Checklisten, weniger Zufall beim Putzen, und nachvollziehbare Routine statt spontaner Notfälle jeden Donnerstag.
                   </p>
                 </div>
               </div>
@@ -85,9 +88,9 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">Nachhaltig & umweltfreundlich</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">Grün, wo’s Sinn macht</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Ökologische Reinigungsmittel für Ihre Gesundheit und den Schutz unserer Umwelt
+                    Ökologisch heißt bei uns: nicht alles grüngewaschen labeln, sondern Mittel wählen, die Atemluft, Haut und Kanalisation nicht unnötig ärgern.
                   </p>
                 </div>
               </div>
@@ -104,9 +107,9 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">Flexibel 24/7 verfügbar</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">Wann’s bei Ihnen nicht stört</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Reinigung zu Ihren Wunschzeiten – auch nachts und am Wochenende
+                    Büro leer? Praxis zu? Wochenende okay? Wir sind flexibel – weil niemand gern Kaffee holen geht, wenn nebenan schon der Wischmob tanzt.
                   </p>
                 </div>
               </div>
@@ -123,9 +126,9 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">Erfahrenes Fachpersonal</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">Leute, die Bock auf Ordnung haben</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Geschulte Teams mit über 15 Jahren Branchenerfahrung und Expertise
+                    Über 15 Jahre Erfahrung heißt: Wir wissen, wo Schmutz sich gern versteckt – und reden offen, wenn’s mal knifflig wird oder Sonderwerkzeug braucht.
                   </p>
                 </div>
               </div>
@@ -151,10 +154,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-              So funktioniert's
+              So läuft’s bei uns (wirklich)
             </h2>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto">
-              In nur 3 Schritten zu Ihrer professionellen Gebäudereinigung
+              Drei Schritte, null Rätselraten – von erstem Hallo bis regelmäßiger Gebäude-, Büro- oder Praxisreinigung in NRW.
             </p>
           </div>
 
@@ -168,9 +171,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-white rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-xl relative z-10">
                   <span className="text-4xl font-bold text-blue-600">1</span>
                 </div>
-                <h3 className="text-2xl font-bold text-white mb-4 text-center">Kontakt & Besichtigung</h3>
+                <h3 className="text-2xl font-bold text-white mb-4 text-center">Sie melden sich – wir schauen vorbei</h3>
                 <p className="text-blue-100 text-center leading-relaxed">
-                  Kontaktieren Sie uns und vereinbaren Sie einen kostenlosen Besichtigungstermin. Wir analysieren Ihre Anforderungen vor Ort.
+                  Kurz anrufen, schreiben oder Formular – dann kommen wir (unverbindlich) vorbei, gucken Flächen und Stolperfallen an und fragen nach, was Ihnen wichtig ist. Keine Magie, nur Klartext vor Ort.
                 </p>
               </div>
             </div>
@@ -181,9 +184,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-white rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-xl relative z-10">
                   <span className="text-4xl font-bold text-blue-600">2</span>
                 </div>
-                <h3 className="text-2xl font-bold text-white mb-4 text-center">Angebot & Planung</h3>
+                <h3 className="text-2xl font-bold text-white mb-4 text-center">Angebot, das Sie verstehen</h3>
                 <p className="text-blue-100 text-center leading-relaxed">
-                  Sie erhalten ein transparentes Festpreis-Angebot in 24 Stunden. Gemeinsam planen wir die perfekte Reinigungslösung.
+                  Sie bekommen ein Festpreis-Angebot in bis zu 24 Stunden – mit erklärten Punkten („was putzen wir wie oft“), nicht mit Kleingedrucktem-Geschwurbel. Dann stimmen wir Termine und Zugänge mit Ihnen ab.
                 </p>
               </div>
             </div>
@@ -194,9 +197,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-white rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-xl relative z-10">
                   <span className="text-4xl font-bold text-blue-600">3</span>
                 </div>
-                <h3 className="text-2xl font-bold text-white mb-4 text-center">Reinigung & Qualität</h3>
+                <h3 className="text-2xl font-bold text-white mb-4 text-center">Putzen – und nachfragen geht immer</h3>
                 <p className="text-blue-100 text-center leading-relaxed">
-                  Unser geschultes Team übernimmt die Reinigung nach höchsten Standards. Mit laufender Qualitätskontrolle.
+                  Unser Team rollt nach Plan aus; wenn sich was ändert, sagen wir’s. Qualität bei uns heißt: feste Routinen plus „kommt das für Sie hin?“ – nicht nur einmal glänzend und dann Funkstille.
                 </p>
               </div>
             </div>
@@ -215,13 +218,13 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <div className="inline-flex items-center justify-center px-4 py-2 bg-green-100 text-green-700 rounded-full text-sm font-semibold mb-6">
-              ✓ Zertifiziert & Geprüft
+              Stempel sind langweilig – aber ehrliche Arbeit braucht Rückendeckung
             </div>
             <h2 className="text-5xl md:text-6xl font-extrabold text-gray-900 mb-6 leading-tight">
-              Vertrauen & <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">Qualität</span>
+              Vertrauen, das Sie <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">nachschlagen können</span>
             </h2>
             <p className="text-2xl text-gray-600 max-w-3xl mx-auto">
-              Ausgezeichnet, zertifiziert und von unseren Kunden empfohlen
+              Zertifikate sind kein Alleinstellungsmerkmal – aber zeigen: Wir arbeiten nach Regeln statt nach Bauchgefühl. Und unsere Kund:innen in NRW sagen oft: endlich weniger Theater, mehr Routine.
             </p>
           </div>
 
@@ -236,12 +239,12 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-8 text-center">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">ISO 9001 Zertifiziert</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">ISO 9001 (Qualität mit Plan)</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Zertifiziertes Qualitätsmanagement für konstant hohe Standards in allen Bereichen
+                  Kurz gesagt: wie wir Arbeit festhalten, überprüfen und verbessern – damit Büro-, Praxis- und Gebäudereinigung nicht von der Tageslaune abhängt.
                 </p>
                 <div className="inline-flex items-center text-blue-600 font-semibold">
-                  Mehr erfahren
+                  Was das für Sie bedeutet
                   <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
@@ -259,12 +262,12 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-8 text-center">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">Umwelt-Zertifikat</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">Nachhaltigkeit ohne Grün-Spielzeug</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Nachhaltige Reinigung mit ökologischen Reinigungsmitteln – für eine grünere Zukunft
+                  Wir setzen dort auf schonende Mittel und Abläufe, wo es hygienisch passt – damit Luft, Böden und Menschen weniger Stress haben.
                 </p>
                 <div className="inline-flex items-center text-green-600 font-semibold">
-                  Mehr erfahren
+                  So denken wir Umwelt
                   <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
@@ -282,12 +285,12 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-8 text-center">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">Geprüfter Fachbetrieb</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">Als Firma geführt, nicht Hobbykeller</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
-                  Ausgezeichnet als geprüfter Fachbetrieb für professionelle Gebäudereinigung
+                  Geprüfter Fachbetrieb heißt: Grundlagen stimmen – von Versicherungen bis dokumentiertem Handwerk rund um Gebäudedienst und Reinigung.
                 </p>
                 <div className="inline-flex items-center text-yellow-600 font-semibold">
-                  Mehr erfahren
+                  Seriosität ohne Schnickschnack
                   <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                   </svg>
@@ -302,13 +305,13 @@ export default function Home() {
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-blue-600 via-blue-700 to-blue-800">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Bereit für professionelle Sauberkeit?
+            Schluss mit „irgendwann mal staubfrei“ – starten wir sauber durch?
           </h2>
           <p className="text-xl text-blue-100 mb-4">
-            Lassen Sie sich unverbindlich beraten und überzeugen Sie sich von unserer Qualität
+            Schreiben Sie uns – wir hören zu, lachen wenn’s passt und bleiben sachlich, wenn’s um Flächen, Unterhaltsreinigung oder Ihre Praxisabläufe geht.
           </p>
           <p className="text-lg text-blue-200 mb-10">
-            ✓ Kostenlose Besichtigung &nbsp;&nbsp; ✓ Festpreis-Angebot in 24h &nbsp;&nbsp; ✓ Schneller Start
+            Besichtigung unverpflichtend &nbsp;·&nbsp; Festpreis-Idee oft in 24 h &nbsp;·&nbsp; Start sobald Sie grünes Licht geben
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -336,14 +339,14 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
                 <div className="font-semibold mb-1">Telefon</div>
-                <a href="tel:+49123456789" className="text-blue-100 hover:text-white">+49 123 456 789</a>
+                <a href="tel:+4920189083050" className="text-blue-100 hover:text-white">0201-89083050</a>
               </div>
               <div className="flex flex-col items-center">
                 <svg className="w-8 h-8 mb-3 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
                 <div className="font-semibold mb-1">E-Mail</div>
-                <a href="mailto:info@ABED-gebaeudereinigung.de" className="text-blue-100 hover:text-white">info@ABED-gebaeudereinigung.de</a>
+                <a href="mailto:info@schmitter-gebaeudereinigung.de" className="text-blue-100 hover:text-white">info@schmitter-gebaeudereinigung.de</a>
               </div>
               <div className="flex flex-col items-center">
                 <svg className="w-8 h-8 mb-3 text-blue-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">

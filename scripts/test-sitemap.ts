@@ -1,5 +1,5 @@
 /**
- * DATRA - Sitemap Test & Validation Script
+ * Schmitter - Sitemap Test & Validation Script
  * 
  * Testet die Sitemap-Generierung und validiert alle URLs
  * 
@@ -9,7 +9,7 @@
 
 import { citySlugs } from '../src/data/cities.generated';
 
-const BASE_URL = 'https://datra-gebaeudereinigung.de';
+const BASE_URL = 'https://schmitter-gebaeudereinigung.de';
 
 interface SitemapStats {
   totalUrls: number;
@@ -24,7 +24,7 @@ function testSitemap(): SitemapStats {
   const now = new Date();
   const allUrls: string[] = [];
   
-  console.log('🔍 DATRA - Sitemap Validierung\n');
+  console.log('🔍 Schmitter - Sitemap Validierung\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   
   // Statische Seiten

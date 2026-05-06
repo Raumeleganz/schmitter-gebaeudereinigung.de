@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Industriereinigung NRW • Produktionshallen, Lagerhallen & Werkstätten • 24/7 Service | ABED",
+  title: "Industriereinigung NRW • Produktionshallen, Lagerhallen & Werkstätten • 24/7 Service | Schmitter",
   description: "✓ Professionelle Industriereinigung in NRW ✓ Produktionshallen ✓ Lagerhallen ✓ Maschinenreinigung ✓ HACCP-konform ✓ Flexible Zeiten ✓ Kostenlose Beratung ➤ Jetzt anfragen!",
   keywords: [
     "Industriereinigung NRW", 
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Werkstattreinigung"
   ],
   openGraph: {
-    title: "Professionelle Industriereinigung in NRW | ABED - Gebäudereinigung",
+    title: "Professionelle Industriereinigung in NRW | Schmitter Gebäudereinigung",
     description: "Leistungsstarke Reinigungslösungen für Produktionshallen, Lagerhallen und Betriebsstätten. 24/7 Service, HACCP-konform, modernste Technik.",
     type: "website",
     images: [
@@ -37,11 +37,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Industriereinigung NRW • 24/7 Service | ABED",
+    title: "Industriereinigung NRW • 24/7 Service | Schmitter",
     description: "Professionelle Reinigung für Produktionshallen, Lagerhallen & Betriebsstätten in NRW",
   },
   alternates: {
-    canonical: "https://ABED-gebaeudereinigung.de/leistungen/industriereinigung"
+    canonical: "https://schmitter-gebaeudereinigung.de/leistungen/industriereinigung"
   }
 };
 
@@ -183,10 +183,10 @@ export default function IndustriereinigungPage() {
             "serviceType": "Industriereinigung",
             "provider": {
               "@type": "LocalBusiness",
-              "name": "ABED Gebäudereinigung",
-              "image": "https://ABED-gebaeudereinigung.de/logo.png",
+              "name": "Schmitter Gebäudereinigung",
+              "image": "https://schmitter-gebaeudereinigung.de/logo.png",
               "telephone": "+49-211-12345678",
-              "email": "info@ABED-gebaeudereinigung.de",
+              "email": "info@schmitter-gebaeudereinigung.de",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Düsseldorf",
@@ -260,7 +260,7 @@ export default function IndustriereinigungPage() {
                   Professionelle Industriereinigung
                 </h1>
                 <p className="text-xl text-gray-200">
-                  Für produktive Betriebsabläufe und sichere Arbeitsumgebungen
+                  Für Hallen & Produktion, die laufen sollen – ohne Schmutz-Drama
                 </p>
               </div>
             </div>
@@ -277,10 +277,10 @@ export default function IndustriereinigungPage() {
                   Reinigung für Industrie & Produktion
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  In industriellen Produktionsumgebungen sind Sauberkeit und Ordnung nicht nur eine Frage der Optik – sie sind entscheidend für Effizienz, Sicherheit und Qualität. Unsere Industriereinigung ist speziell auf die Anforderungen von Produktions- und Lagerhallen ausgerichtet.
+                  In der Industrie geht’s nicht um Deko – sondern um Sicherheit, Ablauf und Qualität. Wenn Öl, Staub, Späne oder Abrieb liegen bleiben, wird’s schnell rutschig, teuer oder beides.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Mit leistungsstarkem Equipment und erfahrenem Personal bewältigen wir auch große Flächen und hartnäckige Verschmutzungen effizient. Wir arbeiten flexibel zu Ihren Produktionszeiten – im laufenden Betrieb oder während Stillstandzeiten.
+                  Schmitter Gebäudereinigung bringt dafür das passende Equipment und ein Team mit Erfahrung in Hallen, Lagern und Produktionsbereichen. Und wir planen so, dass Ihr Betrieb nicht stillstehen muss: laufender Betrieb, Schichtwechsel, Nacht/Wochenende – was eben passt.
                 </p>
 
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-200">
@@ -290,12 +290,14 @@ export default function IndustriereinigungPage() {
                     </svg>
                     Kostenlose Objektanalyse
                   </h3>
-                  <p className="text-gray-600 mb-4">Wir analysieren Ihre Räumlichkeiten und erstellen ein maßgeschneidertes Reinigungskonzept!</p>
+                  <p className="text-gray-600 mb-4">
+                    Wir schauen uns Flächen, Verschmutzung und Sicherheitsregeln an – und sagen dann klar, was sinnvoll ist (und was Quatsch wäre).
+                  </p>
                   <Link
                     href="/kontakt"
                     className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all font-bold"
                   >
-                    Objektanalyse anfordern
+                    Objektanalyse anfragen
                   </Link>
                 </div>
               </div>
@@ -415,7 +417,7 @@ export default function IndustriereinigungPage() {
 
             {/* Vorteile Section */}
             <div className="mb-16">
-              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Warum ABED für Ihre Industriereinigung?</h2>
+              <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Warum Schmitter für Ihre Industriereinigung?</h2>
               <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <div className="text-center">
                   <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg">
@@ -528,7 +530,7 @@ export default function IndustriereinigungPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Professionelle Industriereinigung in NRW – Ihr Partner für saubere Produktionsumgebungen</h2>
               
               <p className="text-gray-600 leading-relaxed mb-4">
-                <strong>Industriereinigung in Düsseldorf, Köln und ganz NRW</strong> – ABED Gebäudereinigung ist Ihr verlässlicher Partner für die professionelle Reinigung von Produktionshallen, Lagerhallen, Werkstätten und Industriegebäuden. Mit über 15 Jahren Erfahrung und modernster Reinigungstechnik sorgen wir für hygienische, sichere und produktive Arbeitsumgebungen in Industriebetrieben aller Branchen.
+                <strong>Industriereinigung in Düsseldorf, Köln und ganz NRW</strong> – Schmitter Gebäudereinigung ist Ihr verlässlicher Partner für die professionelle Reinigung von Produktionshallen, Lagerhallen, Werkstätten und Industriegebäuden. Mit über 15 Jahren Erfahrung und modernster Reinigungstechnik sorgen wir für hygienische, sichere und produktive Arbeitsumgebungen in Industriebetrieben aller Branchen.
               </p>
               
               <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Warum ist professionelle Industriereinigung so wichtig?</h3>
@@ -562,7 +564,7 @@ export default function IndustriereinigungPage() {
 
               <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Branchenspezifische Industriereinigung</h3>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Jede Branche hat spezifische Anforderungen an die Industriereinigung. Bei ABED kennen wir die Besonderheiten:
+                Jede Branche hat spezifische Anforderungen an die Industriereinigung. Bei Schmitter kennen wir die Besonderheiten:
               </p>
               <ul className="list-disc pl-6 text-gray-600 mb-4 space-y-2">
                 <li><strong>Metallverarbeitung</strong>: Entfernung von Metallspänen, Kühlmitteln, Öl und Fett</li>
@@ -619,13 +621,13 @@ export default function IndustriereinigungPage() {
                   Kostenlose Objektanalyse
                 </Link>
                 <a
-                  href="tel:+4921112345678"
+                  href="tel:+4920189083050"
                   className="inline-flex items-center justify-center bg-blue-800 text-white border-2 border-white px-8 py-4 rounded-lg hover:bg-blue-900 transition-all font-bold shadow-xl hover:scale-105 transform"
                 >
                   <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
-                  0211 123 456 78
+                  0201-89083050
                 </a>
               </div>
               <p className="text-blue-200 text-sm mt-6">

@@ -46,7 +46,7 @@
 │  │                                     │ │
 │  │ Dringende Anfragen?                │ │
 │  │ Rufen Sie uns an:                  │ │
-│  │ 📞 +49 211 12345678                │ │
+│  │ 📞 0201-89083050                   │ │
 │  └───────────────────────────────────┘ │
 │                                         │
 │  [➕ Neue Nachricht senden]            │
@@ -231,7 +231,7 @@ onClick={() => {
 <div className="bg-blue-50 rounded-lg p-4 
                 border border-blue-200">
   <p>Durchschnittliche Antwortzeit: 24 Stunden</p>
-  <a href="tel:...">+49 211 12345678</a>
+  <a href="tel:+4920189083050">0201-89083050</a>
 </div>
 ```
 

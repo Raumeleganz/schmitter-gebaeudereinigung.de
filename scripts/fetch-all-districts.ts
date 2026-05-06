@@ -54,7 +54,7 @@ async function fetchDistrictsForCity(cityName: string): Promise<District[]> {
     
     console.log(`   🔍 Suche Stadt: ${cityName}`);
     const cityResponse = await axios.get(searchUrl, {
-      headers: { 'User-Agent': 'DATRA-Gebaeudereinigung/1.0' },
+      headers: { 'User-Agent': 'schmitter-gebaeudereinigung/1.0' },
       timeout: 10000
     });
 
@@ -74,7 +74,7 @@ async function fetchDistrictsForCity(cityName: string): Promise<District[]> {
     
     console.log(`   🏘️  Hole Stadtteile...`);
     const districtsResponse = await axios.get(districtsUrl, {
-      headers: { 'User-Agent': 'DATRA-Gebaeudereinigung/1.0' },
+      headers: { 'User-Agent': 'schmitter-gebaeudereinigung/1.0' },
       timeout: 10000
     });
 
@@ -158,7 +158,7 @@ function readCitiesFromCsv(csvPath: string): string[] {
  * Hauptfunktion
  */
 async function main() {
-  console.log('🏗️  DATRA - ALLE STADTTEILE VON NOMINATIM HOLEN\n');
+  console.log('🏗️  Schmitter - ALLE STADTTEILE VON NOMINATIM HOLEN\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
 
   const baseCsvPath = path.join(process.cwd(), 'data', 'nrw-cities-90-base.csv');

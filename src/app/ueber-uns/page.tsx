@@ -3,11 +3,11 @@ import Testimonials from "@/components/Testimonials";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Über uns - 15+ Jahre Erfahrung in Gebäudereinigung | ABED - Gebäudereinigung",
-  description: "Erfahren Sie mehr über ABED - Gebäudereinigung: 15+ Jahre Erfahrung, 500+ zufriedene Kunden, ISO-zertifiziert. Ihr zuverlässiger Partner für professionelle Gebäudereinigung in NRW.",
-  keywords: ["Über uns", "ABED - Gebäudereinigung", "Gebäudereinigung", "Erfahrung", "ISO-zertifiziert", "NRW"],
+  title: "Über uns - 15+ Jahre Erfahrung in Gebäudereinigung | Schmitter Gebäudereinigung",
+  description: "Erfahren Sie mehr über Schmitter Gebäudereinigung: 15+ Jahre Erfahrung, 500+ zufriedene Kunden, ISO-zertifiziert. Ihr zuverlässiger Partner für professionelle Gebäudereinigung in NRW.",
+  keywords: ["Über uns", "Schmitter Gebäudereinigung", "Gebäudereinigung", "Erfahrung", "ISO-zertifiziert", "NRW"],
   openGraph: {
-    title: "Über uns - ABED - Gebäudereinigung",
+    title: "Über uns - Schmitter Gebäudereinigung",
     description: "15+ Jahre Erfahrung in professioneller Gebäudereinigung.",
     type: "website",
   },
@@ -28,13 +28,13 @@ export default function UeberUnsPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://cleanpro-nrw.de"
+                "item": "https://schmitter-gebaeudereinigung.de"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Über uns",
-                "item": "https://cleanpro-nrw.de/ueber-uns"
+                "item": "https://schmitter-gebaeudereinigung.de/ueber-uns"
               }
             ]
           })
@@ -48,10 +48,10 @@ export default function UeberUnsPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Organization",
-            "name": "ABED - Gebäudereinigung Gebäudereinigung",
+            "name": "Schmitter Gebäudereinigung",
             "description": "Professionelle Gebäudereinigung in NRW",
-            "url": "https://cleanpro-nrw.de",
-            "logo": "https://cleanpro-nrw.de/logo.png",
+            "url": "https://schmitter-gebaeudereinigung.de",
+            "logo": "https://schmitter-gebaeudereinigung.de/logo.png",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Musterstraße 123",

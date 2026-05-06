@@ -25,7 +25,7 @@ export function middleware(request: NextRequest) {
 
     // Check credentials (In production, use environment variables!)
     const validUser = process.env.ADMIN_USER || 'admin';
-    const validPassword = process.env.ADMIN_PASSWORD || 'datra2025';
+    const validPassword = process.env.ADMIN_PASSWORD || 'schmitter2025';
 
     if (user !== validUser || password !== validPassword) {
       return new NextResponse('Invalid credentials', {

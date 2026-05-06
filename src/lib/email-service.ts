@@ -179,7 +179,7 @@ function generateEmailHTML(data: ContactFormInput): string {
   <div class="email-container">
     <div class="header">
       <h1>🎉 Neue Kontaktanfrage</h1>
-      <p>DATRA - Gebäudereinigung</p>
+      <p>Schmitter Gebäudereinigung</p>
     </div>
     
     <div class="content">
@@ -215,7 +215,7 @@ function generateEmailHTML(data: ContactFormInput): string {
     </div>
     
     <div class="footer">
-      <p>Diese Nachricht wurde über das Kontaktformular von datra-gebaeudereinigung.de gesendet.</p>
+      <p>Diese Nachricht wurde über das Kontaktformular von schmitter-gebaeudereinigung.de gesendet.</p>
       <p>Zeitpunkt: ${new Date().toLocaleString('de-DE', { timeZone: 'Europe/Berlin' })}</p>
     </div>
   </div>
@@ -229,7 +229,7 @@ function generateEmailHTML(data: ContactFormInput): string {
  */
 function generateEmailText(data: ContactFormInput): string {
   return `
-Neue Kontaktanfrage - DATRA Gebäudereinigung
+Neue Kontaktanfrage - Schmitter Gebäudereinigung
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 👤 Name: ${data.name}

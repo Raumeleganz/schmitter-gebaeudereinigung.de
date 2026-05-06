@@ -85,7 +85,7 @@ async function fetchCityData(cityName: string): Promise<CityData | null> {
     
     const searchResponse = await fetch(searchUrl, {
       headers: {
-        'User-Agent': 'DATRA - Gebäudereinigung-NRW-Cities/1.0 (https://cleanpro-nrw.de)'
+        'User-Agent': 'Schmitter - Gebäudereinigung-NRW-Cities/1.0 (https://schmitter-gebaeudereinigung.de)'
       }
     });
     
@@ -111,7 +111,7 @@ async function fetchCityData(cityName: string): Promise<CityData | null> {
     
     const reverseResponse = await fetch(reverseUrl, {
       headers: {
-        'User-Agent': 'DATRA - Gebäudereinigung-NRW-Cities/1.0 (https://cleanpro-nrw.de)'
+        'User-Agent': 'Schmitter - Gebäudereinigung-NRW-Cities/1.0 (https://schmitter-gebaeudereinigung.de)'
       }
     });
     
@@ -166,7 +166,7 @@ async function fetchCityData(cityName: string): Promise<CityData | null> {
  * Hauptfunktion
  */
 async function main() {
-  console.log('🌍 DATRA - Gebäudereinigung NRW - Stadt-Daten Generator\n');
+  console.log('🌍 Schmitter - Gebäudereinigung NRW - Stadt-Daten Generator\n');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   console.log(`📊 Anzahl Städte: ${top90NRWCities.length}`);
   console.log(`⏱️  Geschätzte Dauer: ~${Math.ceil(top90NRWCities.length * 2.5 / 60)} Minuten`);
@@ -235,7 +235,7 @@ async function main() {
   console.log('   1. Öffne data/nrw-cities-90-base.csv in Excel');
   console.log('   2. Erweitere die Spalten (siehe data/cities-template.csv)');
   console.log('   3. Nutze Excel-Formeln für automatisches Befüllen:');
-  console.log('      ="Gebäudereinigung " & B2 & " | DATRA - Gebäudereinigung"');
+  console.log('      ="Gebäudereinigung " & B2 & " | Schmitter - Gebäudereinigung"');
   console.log('   4. Speichere als data/cities.csv');
   console.log('   5. Führe aus: npm run generate:cities');
   console.log('   6. Starte Server: npm run dev\n');

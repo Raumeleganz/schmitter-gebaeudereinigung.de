@@ -4,11 +4,11 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Professionelle Glasreinigung & Fensterreinigung in NRW - Streifenfrei & Kristallklar | ABED - Gebäudereinigung",
+  title: "Professionelle Glasreinigung & Fensterreinigung in NRW - Streifenfrei & Kristallklar | Schmitter Gebäudereinigung",
   description: "Professionelle Fensterreinigung in Düsseldorf, Köln & NRW. Glasfassaden, Wintergärten, Schaufenster. Mit modernster Technik für perfekte Durchsicht.",
   keywords: ["Glasreinigung", "Fensterreinigung", "Fensterputzer", "Glasfassade reinigen", "Schaufenster reinigen", "NRW"],
   openGraph: {
-    title: "Professionelle Glasreinigung in NRW | ABED - Gebäudereinigung",
+    title: "Professionelle Glasreinigung in NRW | Schmitter Gebäudereinigung",
     description: "Streifenfreie Fensterreinigung für perfekte Durchsicht.",
     type: "website",
   },
@@ -125,7 +125,7 @@ export default function GlasreinigungPage() {
                   Professionelle Glasreinigung
                 </h1>
                 <p className="text-xl text-gray-200">
-                  Für perfekte Durchsicht und repräsentative Fassaden
+                  Für klare Sicht statt Fingerabdruck-Galerie (NRW-weit)
                 </p>
               </div>
             </div>
@@ -142,10 +142,10 @@ export default function GlasreinigungPage() {
                   Streifenfreier Glanz für Ihre Fenster
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Saubere und klare Fenster sind die Visitenkarte Ihres Gebäudes. Mit unserer professionellen Glasreinigung sorgen wir für perfekte Durchsicht und lassen Ihre Räume in neuem Licht erstrahlen.
+                  Fensterputzen ist simpel – wenn man’s kann. Wir sorgen für klare Scheiben, saubere Rahmen und den Unterschied zwischen „geht so“ und „wow, da war ja ein Fenster“.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Unser erfahrenes Team nutzt modernste Reinigungstechniken und umweltfreundliche Reinigungsmittel für streifenfreie Ergebnisse. Von einfachen Fenstern bis zu komplexen Glasfassaden – wir reinigen alles professionell und zuverlässig.
+                  Ob Wohnung, Büro, Schaufenster oder Glasfassade: Wir stimmen vorher kurz ab, was erreichbar ist – und liefern dann streifenfrei. Mit professionellem Equipment und Mitteln, die nicht unnötig aggressiv sind.
                 </p>
 
                 <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl border border-blue-200">
@@ -155,12 +155,12 @@ export default function GlasreinigungPage() {
                     </svg>
                     Schnelle Terminvergabe
                   </h3>
-                  <p className="text-gray-600 mb-4">Oft noch in derselben Woche verfügbar!</p>
+                  <p className="text-gray-600 mb-4">Oft klappt’s noch in derselben Woche – einfach kurz anfragen.</p>
                   <Link
                     href="/kontakt"
                     className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all font-bold"
                   >
-                    Termin anfragen
+                    Termin klarmachen
                   </Link>
                 </div>
               </div>
@@ -227,7 +227,7 @@ export default function GlasreinigungPage() {
             <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-3xl p-8 md:p-12 text-white mb-16">
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div>
-                  <h2 className="text-3xl font-bold mb-6">Warum ABED - Gebäudereinigung?</h2>
+                  <h2 className="text-3xl font-bold mb-6">Warum Schmitter Gebäudereinigung?</h2>
                   <ul className="space-y-4">
                     <li className="flex items-start">
                       <svg className="w-6 h-6 text-green-400 mr-3 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -280,13 +280,13 @@ export default function GlasreinigungPage() {
                   Jetzt Termin vereinbaren
                 </Link>
                 <a
-                  href="tel:+4921112345678"
+                  href="tel:+4920189083050"
                   className="inline-flex items-center justify-center bg-white text-blue-600 border-2 border-blue-600 px-8 py-4 rounded-lg hover:bg-blue-50 transition-all font-bold"
                 >
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
-                  0211 123 456 78
+                  0201-89083050
                 </a>
               </div>
             </div>

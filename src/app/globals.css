@@ -41,13 +41,20 @@ html {
   perspective: 1000px;
 }
 
-/* Global Smooth Transitions */
-* {
+/* Nur interaktive Elemente animieren — kein globales * (vermeidet Layout-/Reflow-Probleme) */
+a,
+button,
+input,
+textarea,
+select {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-a, button {
-  transition: all 0.3s ease-out;
+a,
+button {
+  transition: color 0.2s ease-out, background-color 0.2s ease-out,
+    border-color 0.2s ease-out, transform 0.2s ease-out,
+    box-shadow 0.2s ease-out, opacity 0.2s ease-out;
 }
 
 img {

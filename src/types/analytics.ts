@@ -1,6 +1,6 @@
 /**
  * Analytics Type Definitions
- * Professional Analytics System für DATRA Gebäudereinigung
+ * Professional Analytics System für Schmitter Gebäudereinigung
  */
 
 export type AnalyticsEventType = 

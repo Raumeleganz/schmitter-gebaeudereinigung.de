@@ -4,12 +4,14 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Professionelle Büroreinigung in NRW - Täglich, Wöchentlich oder nach Bedarf | ABED - Gebäudereinigung",
-  description: "Premium Büroreinigung in Düsseldorf, Köln & NRW. Professionelle Arbeitsplatzreinigung, Bodenreinigung, Sanitärreinigung. Flexibel, zuverlässig, ISO-zertifiziert. ✓ 24/7 Service ✓ Umweltfreundlich ✓ Festpreisgarantie",
+  title: "Büroreinigung NRW | Schmitter Gebäudereinigung – klar, planbar, zuverlässig",
+  description:
+    "Büroreinigung in NRW (Düsseldorf, Köln & Umgebung): feste Abläufe, saubere Küche/Sanitär/Arbeitsplätze – ohne Fachwort-Stress. Unverbindlich anfragen.",
   keywords: ["Büroreinigung", "Office Cleaning", "Arbeitsplatzreinigung", "Büro putzen", "Gewerbereinigung", "Büroreinigung Düsseldorf", "Büroreinigung Köln", "Büroreinigung NRW", "Gewerbliche Reinigung", "Unternehmensreinigung"],
   openGraph: {
-    title: "Professionelle Büroreinigung in NRW | ABED - Gebäudereinigung",
-    description: "Premium Büroreinigung für maximale Produktivität und Repräsentation.",
+    title: "Büroreinigung NRW | Schmitter Gebäudereinigung",
+    description:
+      "Büroreinigung ohne Floskeln: klare Absprachen, feste Zeiten, sauberes Ergebnis – NRW-weit.",
     type: "website",
   },
 };
@@ -91,10 +93,10 @@ export default function BueroreinigungPage() {
             "@context": "https://schema.org",
             "@type": "Service",
             "name": "Professionelle Büroreinigung",
-            "description": "Premium Büroreinigung für maximale Produktivität und Repräsentation in NRW",
+            "description": "Büroreinigung in NRW: klare Absprachen, feste Abläufe, saubere Ergebnisse – ohne Fachwort-Stress.",
             "provider": {
               "@type": "Organization",
-              "name": "ABED - Gebäudereinigung Gebäudereinigung"
+              "name": "Schmitter Gebäudereinigung"
             },
             "areaServed": {
               "@type": "State",
@@ -132,13 +134,13 @@ export default function BueroreinigungPage() {
                   </Link>
                 </div>
                 <span className="inline-block bg-blue-600 text-white px-4 py-2 rounded-full text-sm font-bold mb-4">
-                  Premium Service
+                  Büro sauber, Kopf frei
                 </span>
                 <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
                   Professionelle Büroreinigung
                 </h1>
                 <p className="text-xl text-gray-200">
-                  Für maximale Produktivität und repräsentative Arbeitsatmosphäre
+                  Damit es sauber wirkt – und sich auch so anfühlt (in ganz NRW)
                 </p>
               </div>
             </div>
@@ -155,13 +157,13 @@ export default function BueroreinigungPage() {
                   Professionelle Büroreinigung in Düsseldorf, Köln und ganz NRW
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Ein sauberes und gepflegtes Büro ist weit mehr als nur eine Frage der Ästhetik – es ist die Visitenkarte Ihres Unternehmens und ein entscheidender Faktor für den Geschäftserfolg. Mit unserer professionellen Büroreinigung schaffen wir eine hygienische, repräsentative und motivierende Arbeitsumgebung, die Ihre Mitarbeiter produktiver macht und Ihre Kunden nachhaltig beeindruckt.
+                  Ein sauberes Büro ist kein Luxus – es spart Nerven. Wenn Küche, Sanitär und Meetingraum passen, arbeitet es sich einfach ruhiger (und der erste Eindruck beim Besuch ist auch direkt besser).
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Seit über 15 Jahren sind wir der vertrauensvolle Partner für Unternehmen jeder Größe in ganz Nordrhein-Westfalen. Unser erfahrenes und geschultes Reinigungsteam arbeitet diskret, effizient und zuverlässig – zu den Zeiten, die optimal zu Ihrem Betriebsablauf passen. Ob täglich, wöchentlich, monatlich oder nach einem individuell abgestimmten Reinigungsplan: Wir richten uns vollständig nach Ihren spezifischen Anforderungen.
+                  Schmitter Gebäudereinigung unterstützt Unternehmen in ganz Nordrhein-Westfalen seit über 15 Jahren – mit festen Abläufen, klaren Absprachen und Zeiten, die Ihren Betrieb nicht stören. Täglich, wöchentlich oder nach Bedarf: Sie sagen, wie es passt – wir setzen es um.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Als ISO 9001 zertifiziertes Unternehmen garantieren wir Ihnen höchste Qualitätsstandards bei jedem Einsatz. Unsere Reinigungskräfte sind vollständig versichert, polizeilich überprüft und in modernen Reinigungstechniken geschult. Wir verwenden ausschließlich professionelle, umweltfreundliche Reinigungsmittel und modernste Reinigungsgeräte.
+                  Und ja: Qualität ist bei uns nicht „Gefühl“, sondern System. ISO 9001, dokumentierte Checklisten und ein Team, das weiß, welche Flächen im Büro schnell eklig werden (und welche nur laut aussehen).
                 </p>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
                   <h3 className="font-bold text-gray-900 mb-4 flex items-center">
@@ -170,12 +172,14 @@ export default function BueroreinigungPage() {
                     </svg>
                     Kostenloses Erstgespräch
                   </h3>
-                  <p className="text-gray-600 mb-4">Erhalten Sie innerhalb von 24 Stunden ein unverbindliches, individuelles Angebot – kostenlos und ohne Verpflichtung!</p>
+                  <p className="text-gray-600 mb-4">
+                    Kurz sagen, was Sie brauchen (Fläche + Rhythmus reichen) – wir melden uns mit einem Angebot, das man versteht. Unverbindlich.
+                  </p>
                   <Link
                     href="/kontakt"
                     className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all font-bold shadow-lg"
                   >
-                    Jetzt Angebot anfordern
+                    Angebot anfragen
                     <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                     </svg>
@@ -230,7 +234,7 @@ export default function BueroreinigungPage() {
                 </div>
 
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum ABED - Gebäudereinigung für Ihre Büroreinigung?</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum Schmitter Gebäudereinigung für Ihre Büroreinigung?</h2>
                   <div className="space-y-6">
                     <div className="flex items-start">
                       <div className="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center flex-shrink-0 mr-4">
@@ -239,8 +243,10 @@ export default function BueroreinigungPage() {
                         </svg>
                       </div>
                       <div>
-                        <h3 className="text-xl font-bold text-gray-900 mb-2">ISO 9001 Zertifiziert</h3>
-                        <p className="text-gray-600">Geprüfte Qualität und dokumentierte Prozesse für höchste Standards in der gewerblichen Gebäudereinigung. Regelmäßige Audits sichern unsere Qualität.</p>
+                        <h3 className="text-xl font-bold text-gray-900 mb-2">Qualität mit Plan (ISO 9001)</h3>
+                        <p className="text-gray-600">
+                          Bedeutet bei uns: sauber ist messbar. Mit Checklisten, klaren Standards und regelmäßigen Kontrollen – nicht „wird schon“.
+                        </p>
                       </div>
                     </div>
 
@@ -252,7 +258,9 @@ export default function BueroreinigungPage() {
                       </div>
                       <div>
                         <h3 className="text-xl font-bold text-gray-900 mb-2">Flexible Reinigungszeiten</h3>
-                        <p className="text-gray-600">Morgens vor Arbeitsbeginn, abends nach Feierabend oder am Wochenende – wir passen uns vollständig Ihrem Arbeitsablauf an, ohne diesen zu stören.</p>
+                        <p className="text-gray-600">
+                          Früh, spät oder Wochenende – wir reinigen so, dass niemand beim Telefonieren um den Wischwagen slalom fahren muss.
+                        </p>
                       </div>
                     </div>
 
@@ -290,7 +298,7 @@ export default function BueroreinigungPage() {
 
             {/* Benefits Section */}
             <div className="bg-gradient-to-br from-blue-600 to-blue-700 rounded-3xl p-8 md:p-12 text-white mb-20">
-              <h2 className="text-3xl font-bold mb-8">Ihre Vorteile mit ABED - Gebäudereinigung Büroreinigung</h2>
+              <h2 className="text-3xl font-bold mb-8">Ihre Vorteile mit Schmitter Gebäudereinigung Büroreinigung</h2>
               <div className="grid md:grid-cols-2 gap-4">
                 {benefits.map((benefit, index) => (
                   <div key={index} className="flex items-start">
@@ -366,7 +374,7 @@ export default function BueroreinigungPage() {
                     ))}
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Seit 3 Jahren reinigt ABED - Gebäudereinigung unsere Büroräume. Pünktlich, zuverlässig und immer in Top-Qualität. Das Team arbeitet so diskret, dass wir es kaum merken – aber das Ergebnis sehen wir jeden Tag!"
+                    "Seit 3 Jahren reinigt Schmitter Gebäudereinigung unsere Büroräume. Pünktlich, zuverlässig und immer in Top-Qualität. Das Team arbeitet so diskret, dass wir es kaum merken – aber das Ergebnis sehen wir jeden Tag!"
                   </p>
                 </div>
 
@@ -388,7 +396,7 @@ export default function BueroreinigungPage() {
                     ))}
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Als junges Startup war uns wichtig, einen flexiblen Partner zu finden. ABED - Gebäudereinigung hat perfekt zu uns gepasst – faire Preise, keine lange Vertragsbindung und super Service!"
+                    "Als junges Startup war uns wichtig, einen flexiblen Partner zu finden. Schmitter Gebäudereinigung hat perfekt zu uns gepasst – faire Preise, keine lange Vertragsbindung und super Service!"
                   </p>
                 </div>
 
@@ -410,7 +418,7 @@ export default function BueroreinigungPage() {
                     ))}
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Bei 2.500 m² Bürofläche brauchen wir absolute Profis. ABED - Gebäudereinigung liefert konstant hervorragende Qualität mit einem festen, gut eingespielten Team. Absolut empfehlenswert!"
+                    "Bei 2.500 m² Bürofläche brauchen wir absolute Profis. Schmitter Gebäudereinigung liefert konstant hervorragende Qualität mit einem festen, gut eingespielten Team. Absolut empfehlenswert!"
                   </p>
                 </div>
               </div>
@@ -617,7 +625,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Die Kosten für Büroreinigung hängen von mehreren Faktoren ab: Größe der Räumlichkeiten, Reinigungsintervall, Umfang der Leistungen und Anzahl der Mitarbeiter. Als Richtwert können Sie für eine Standard-Büroreinigung mit 100-150 m² Fläche bei wöchentlicher Reinigung mit ca. 200-350 € pro Monat rechnen. Wir erstellen Ihnen gerne ein individuelles, kostenloses Angebot nach einer Vor-Ort-Besichtigung.
+                    Das hängt vor allem von drei Dingen ab: Fläche, wie oft wir kommen (z. B. 1×/Woche oder täglich) und was genau rein soll (Küche/Sanitär/Meetingräume usw.). Als grober Richtwert: 100–150 m² bei 1× pro Woche liegen oft bei ca. 200–350 € im Monat. Für einen fairen Preis schauen wir kurz drauf und machen ein Angebot, das Sie ohne Taschenrechner verstehen.
                   </p>
                 </details>
 
@@ -629,7 +637,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Wir richten uns vollständig nach Ihren Bedürfnissen! Die meisten unserer Kunden bevorzugen die Reinigung außerhalb der regulären Arbeitszeiten – entweder frühmorgens (ab 6 Uhr), am Abend (ab 17/18 Uhr) oder am Wochenende. So wird Ihr Arbeitsalltag nicht gestört. Bei Bedarf können wir auch während der Bürozeiten reinigen, beispielsweise in nicht genutzten Bereichen.
+                    So, wie es bei Ihnen am wenigsten stört: früh morgens, abends nach Feierabend oder am Wochenende. Wenn tagsüber besser passt (z. B. in nicht genutzten Bereichen), geht das auch – wir stimmen das vorher sauber ab.
                   </p>
                 </details>
 
@@ -641,7 +649,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Die optimale Reinigungsfrequenz hängt von der Nutzungsintensität ab. Für Großraumbüros mit vielen Mitarbeitern empfehlen wir eine tägliche Reinigung, für mittlere Büros 2-3x wöchentlich und für kleine Büros oder Startups mindestens 1x wöchentlich. Hochfrequentierte Bereiche wie Toiletten, Küchen und Eingangsbereiche sollten häufiger gereinigt werden als Einzelbüros oder Besprechungsräume.
+                    Kommt auf Betrieb und Besucher an. Grobe Faustregel: kleine Büros oft 1× pro Woche, mittlere Büros 2–3×, große/hoch frequentierte Flächen eher täglich. Küche und Sanitär brauchen meistens öfter als einzelne Arbeitsplätze – wir setzen den Rhythmus so, dass es sauber bleibt, ohne Geld zu verbrennen.
                   </p>
                 </details>
 
@@ -653,7 +661,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Ja, Nachhaltigkeit ist uns wichtig! Wir verwenden ausschließlich professionelle, ökologisch abbaubare Reinigungsmittel mit EU-Ecolabel-Zertifizierung. Diese sind frei von schädlichen Chemikalien, schonen Ihre Gesundheit und die Umwelt, ohne dabei Kompromisse bei der Reinigungsleistung einzugehen. Für besonders sensible Bereiche wie Allergiker-Büros bieten wir auch spezielle allergenreduzierte Reinigungsprodukte an.
+                    Ja – wir setzen auf Mittel, die wirksam sind, aber nicht unnötig aggressiv. Für sensible Bereiche (z. B. Allergien) können wir das ebenfalls passend abstimmen. Wichtig: „umweltfreundlich“ heißt bei uns nicht Show, sondern sinnvoll dosiert und passend zum Einsatz.
                   </p>
                 </details>
 
@@ -665,7 +673,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Sicherheit hat für uns oberste Priorität. Alle unsere Reinigungskräfte sind festangestellt, sozialversichert und über eine Betriebshaftpflichtversicherung mit 5 Millionen Euro Deckungssumme abgesichert. Zusätzlich sind alle Mitarbeiter polizeilich überprüft und haben eine Verschwiegenheitserklärung unterschrieben – wichtig für den Umgang mit sensiblen Unternehmensbereichen.
+                    Kurz: ja. Unser Team ist versichert, wir arbeiten zuverlässig und diskret – gerade in sensiblen Bereichen (z. B. Akten/Technik). Wenn Sie konkrete Nachweise brauchen, geben wir die auf Anfrage gerne mit.
                   </p>
                 </details>
 
@@ -677,7 +685,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Ihre Zufriedenheit ist unser Anspruch! Bei Beanstandungen garantieren wir eine kostenlose Nachbesserung innerhalb von 24 Stunden. Zusätzlich führen wir regelmäßige Qualitätskontrollen durch und stehen in engem Dialog mit unseren Kunden. Sie haben einen festen Ansprechpartner, der sich persönlich um Ihr Anliegen kümmert. Diese 100% Zufriedenheitsgarantie ist in unserem Service inkludiert.
+                    Dann sagen Sie’s – bitte direkt. Wir bessern nach und kümmern uns, damit das Thema erledigt ist und nicht wochenlang mitschleppt. Sie haben bei uns einen Ansprechpartner, der’s wirklich löst (und nicht nur „weiterleitet“).
                   </p>
                 </details>
 
@@ -689,7 +697,7 @@ export default function BueroreinigungPage() {
                     </svg>
                   </summary>
                   <p className="text-gray-600 mt-4 leading-relaxed">
-                    Für unsere Standard-Büroreinigung arbeiten wir üblicherweise mit einer flexiblen Kündigungsfrist von nur 4 Wochen. Bei langfristigen Verträgen (ab 12 Monaten) bieten wir attraktive Rabatte von bis zu 15%. Für Startups und kleinere Unternehmen haben wir auch komplett flexible Modelle ohne Mindestlaufzeit im Angebot. Sprechen Sie uns einfach auf Ihre Wünsche an!
+                    Wir halten’s gern flexibel. Häufig arbeiten wir mit kurzer Kündigungsfrist (z. B. 4 Wochen). Wenn Sie länger planen wollen, geht das auch – dann meist mit besseren Konditionen. Kurz: Wir bauen das so, dass es zu Ihrem Büro passt, nicht umgekehrt.
                   </p>
                 </details>
               </div>
@@ -726,7 +734,7 @@ export default function BueroreinigungPage() {
                       </h2>
                       
                       <p className="text-lg text-blue-50 mb-8 leading-relaxed">
-                        Bei ABED - Gebäudereinigung garantieren wir Ihnen nicht nur saubere Räume, sondern auch absolute Zufriedenheit. Wenn Sie mit unserer Leistung nicht vollständig zufrieden sind, bessern wir kostenlos nach – innerhalb von 24 Stunden, garantiert!
+                        Bei Schmitter Gebäudereinigung garantieren wir Ihnen nicht nur saubere Räume, sondern auch absolute Zufriedenheit. Wenn Sie mit unserer Leistung nicht vollständig zufrieden sind, bessern wir kostenlos nach – innerhalb von 24 Stunden, garantiert!
                       </p>
                       
                       <div className="grid grid-cols-2 gap-6">
@@ -833,13 +841,13 @@ export default function BueroreinigungPage() {
                   Kostenlos beraten lassen
                 </Link>
                 <a
-                  href="tel:+4921112345678"
+                  href="tel:+4920189083050"
                   className="inline-flex items-center justify-center bg-white text-blue-600 border-2 border-blue-600 px-10 py-5 rounded-xl hover:bg-blue-50 transition-all font-bold shadow-md"
                 >
                   <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
-                  0211 123 456 78
+                  0201-89083050
                 </a>
               </div>
               <p className="text-sm text-gray-500 mt-6">

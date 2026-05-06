@@ -322,7 +322,7 @@ Mit freundlichen Grüßen`;
                 className={`w-full px-4 py-3 rounded-lg border-2 ${
                   errors.phone ? 'border-red-500 bg-red-50' : 'border-gray-300 focus:border-blue-600'
                 } focus:ring-2 focus:ring-blue-200 focus:outline-none transition`}
-                placeholder="+49 211 12345678"
+                placeholder="0201-89083050"
                 disabled={formState === 'submitting'}
               />
               {errors.phone && (

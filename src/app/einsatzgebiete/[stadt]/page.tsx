@@ -53,7 +53,7 @@ export async function generateMetadata({ params }: CityPageProps): Promise<Metad
       locale: 'de_DE',
     },
     alternates: {
-      canonical: `https://ABED-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
+      canonical: `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
     },
   };
 }
@@ -78,9 +78,9 @@ export default async function CityPage({ params }: CityPageProps) {
           __html: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'LocalBusiness',
-            '@id': `https://ABED-gebaeudereinigung.de/einsatzgebiete/${city.slug}#business`,
+            '@id': `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}#business`,
             name: city.schemaBusinessName,
-            image: `https://ABED-gebaeudereinigung.de${getImageUrl(city.slug)}`,
+            image: `https://schmitter-gebaeudereinigung.de${getImageUrl(city.slug)}`,
             description: city.metaDescription,
             address: {
               '@type': 'PostalAddress',
@@ -95,7 +95,7 @@ export default async function CityPage({ params }: CityPageProps) {
               latitude: city.lat,
               longitude: city.lng,
             },
-            url: `https://ABED-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
+            url: `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
             telephone: '+49-211-123-456-78',
             priceRange: '€€',
             openingHoursSpecification: [
@@ -132,19 +132,19 @@ export default async function CityPage({ params }: CityPageProps) {
                 '@type': 'ListItem',
                 position: 1,
                 name: 'Home',
-                item: 'https://ABED-gebaeudereinigung.de',
+                item: 'https://schmitter-gebaeudereinigung.de',
               },
               {
                 '@type': 'ListItem',
                 position: 2,
                 name: 'Einsatzgebiete',
-                item: 'https://ABED-gebaeudereinigung.de/einsatzgebiete',
+                item: 'https://schmitter-gebaeudereinigung.de/einsatzgebiete',
               },
               {
                 '@type': 'ListItem',
                 position: 3,
                 name: city.name,
-                item: `https://ABED-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
+                item: `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
               },
             ],
           }),
@@ -218,7 +218,7 @@ export default async function CityPage({ params }: CityPageProps) {
             </Link>
 
             <a
-              href="tel:+4921112345678"
+              href="tel:+4920189083050"
               className="group inline-flex items-center bg-blue-800/80 backdrop-blur-sm text-white px-8 py-5 rounded-xl hover:bg-blue-900 transition-all font-bold shadow-lg border-2 border-white/20 hover:border-white/40"
             >
               <svg
@@ -234,7 +234,7 @@ export default async function CityPage({ params }: CityPageProps) {
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              <span>0211 123 456 78</span>
+              <span>0201-89083050</span>
             </a>
           </div>
 
@@ -484,13 +484,13 @@ export default async function CityPage({ params }: CityPageProps) {
                 </svg>
               </Link>
               <a
-                href="tel:+4921112345678"
+                href="tel:+4920189083050"
                 className="inline-flex items-center bg-blue-800 text-white px-6 py-3 rounded-lg hover:bg-blue-900 transition font-semibold border-2 border-white/20"
               >
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
-                0211 123 456 78
+                0201-89083050
               </a>
             </div>
           </div>
@@ -642,7 +642,7 @@ export default async function CityPage({ params }: CityPageProps) {
               </svg>
             </Link>
             <a
-              href="tel:+4921112345678"
+              href="tel:+4920189083050"
               className="inline-flex items-center bg-blue-800/80 backdrop-blur-sm text-white px-8 py-5 rounded-xl hover:bg-blue-900 transition-all font-bold shadow-lg border-2 border-white/20 hover:border-white/40"
             >
               <svg
@@ -658,7 +658,7 @@ export default async function CityPage({ params }: CityPageProps) {
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-              0211 123 456 78
+              0201-89083050
             </a>
           </div>
         </div>
@@ -691,7 +691,7 @@ export default async function CityPage({ params }: CityPageProps) {
             
             <FAQItem 
               question={`Bieten Sie auch Notfall-Reinigung in ${city.name} an?`}
-              answer={`Ja! Unser 24/7 Notdienst ist auch in ${city.name} verfügbar. Bei Wasserschäden, Baustellen-Endreinigung, Tatortreinigung oder dringenden Reinigungsanforderungen sind wir kurzfristig für Sie da. Rufen Sie uns an unter 0211 123 456 78 - wir sind sofort in ${city.name} für Sie im Einsatz!`}
+              answer={`Ja! Unser 24/7 Notdienst ist auch in ${city.name} verfügbar. Bei Wasserschäden, Baustellen-Endreinigung, Tatortreinigung oder dringenden Reinigungsanforderungen sind wir kurzfristig für Sie da. Rufen Sie uns an unter 0201-89083050 - wir sind sofort in ${city.name} für Sie im Einsatz!`}
             />
             
             <FAQItem 
@@ -780,7 +780,7 @@ export default async function CityPage({ params }: CityPageProps) {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Warum ABED für Gebäudereinigung in {city.name}?
+              Warum Schmitter für Gebäudereinigung in {city.name}?
             </h2>
             <p className="text-gray-600 max-w-3xl mx-auto">
               Als führender Reinigungsdienstleister in {city.name} garantieren wir höchste Qualität und Zuverlässigkeit. 

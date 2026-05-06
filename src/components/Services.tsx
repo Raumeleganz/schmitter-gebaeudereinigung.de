@@ -1,27 +1,87 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 import Link from "next/link";
+
+type ServiceItem = {
+  icon: ReactNode;
+  title: string;
+  subtitle: string;
+  description: string;
+  features: string[];
+  link: string;
+};
+
+/** Eigene Komponente = ein Hook-Aufruf pro Karte (nicht in `.map()`!) */
+function ServiceCard({ service, index }: { service: ServiceItem; index: number }) {
+  const { ref, isVisible } = useScrollAnimation();
+  return (
+    <Link
+      href={service.link}
+      ref={ref as React.RefObject<HTMLAnchorElement>}
+      className={`group bg-white p-8 rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-[transform,shadow,border-color] duration-300 ease-out border border-gray-100 hover:border-blue-300 relative overflow-hidden cursor-pointer block will-change-transform ${
+        isVisible ? "animate-fade-in-up" : "scroll-hidden"
+      }`}
+      style={{ transitionDelay: `${index * 100}ms` }}
+    >
+      <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-50 to-transparent rounded-bl-full opacity-50 group-hover:opacity-100 transition-[opacity,transform] duration-300 ease-out group-hover:scale-150 will-change-transform" />
+
+      <div className="relative">
+        <div className="w-16 h-16 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl flex items-center justify-center mb-6 text-blue-600 group-hover:from-blue-600 group-hover:to-blue-700 group-hover:text-white group-hover:scale-110 group-hover:rotate-3 transition-[transform,background,color,box-shadow] duration-300 ease-out shadow-md group-hover:shadow-xl will-change-transform">
+          {service.icon}
+        </div>
+
+        <h3 className="text-2xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors duration-200 ease-out">
+          {service.title}
+        </h3>
+        <p className="text-blue-600 font-semibold text-sm mb-4">{service.subtitle}</p>
+        <p className="text-gray-600 mb-6 leading-relaxed text-sm">{service.description}</p>
+
+        <div className="space-y-3 mb-6">
+          {service.features.map((feature, idx) => (
+            <div key={idx} className="flex items-start">
+              <div className="flex-shrink-0 mt-0.5">
+                <svg className="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+                </svg>
+              </div>
+              <span className="ml-3 text-gray-700 text-sm font-medium leading-tight">{feature}</span>
+            </div>
+          ))}
+        </div>
+
+        <div className="flex items-center text-blue-600 font-bold group-hover:translate-x-2 transition-transform duration-300 ease-out will-change-transform">
+          <span>Mehr Infos – ganz ohne Druck</span>
+          <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+          </svg>
+        </div>
+      </div>
+    </Link>
+  );
+}
 
 export default function Services() {
   const { ref: headerRef, isVisible: headerVisible } = useScrollAnimation();
   const { ref: ctaRef, isVisible: ctaVisible } = useScrollAnimation();
-  const services = [
+  const services: ServiceItem[] = [
     {
       icon: (
         <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
         </svg>
       ),
-      title: "Premium Büroreinigung",
-      subtitle: "Für maximale Produktivität",
-      description: "Professionelle Reinigungskonzepte für moderne Büroumgebungen. Wir schaffen eine hygienische und repräsentative Arbeitsatmosphäre, die Ihre Mitarbeiter motiviert und Ihre Kunden beeindruckt.",
+      title: "Büroreinigung",
+      subtitle: "Damit Arbeiten wieder Spaß macht – zumindest optisch",
+      description:
+        "Schreibtische, Meetingräume, Küche, Bad: Wir putzen, wo Ihr Tag stattfindet. Regelmäßig und checklisten-basiert, damit nichts unter den Tisch fällt (außer Krümel – die gehören in den Müll).",
       features: [
-        "Systematische Arbeitsplatz- & Oberflächenreinigung",
-        "Professionelle Boden- & Teppichpflege",
-        "Hygienische Sanitärraumaufbereitung",
-        "Küchen- & Pausenraumreinigung",
-        "Papierkorb-Entleerung & Entsorgung"
+        "Staub und Oberflächen gründlich weg",
+        "Boden und Teppich je nach Bodenarten richtig",
+        "Toiletten frisch und ordentlich",
+        "Teamküche und Pausenraum ohne „tschuldigung, wer hat das geschossen“-Gerüche",
+        "Müll leer machen und ordentlich trennen – wie Sie es brauchen",
       ],
       link: "/leistungen/bueroreinigung"
     },
@@ -35,14 +95,15 @@ export default function Services() {
         </svg>
       ),
       title: "Unterhaltsreinigung",
-      subtitle: "Für gepflegte Immobilien",
-      description: "Regelmäßige und zuverlässige Pflege von Gemeinschaftsflächen in Wohn- und Gewerbeimmobilien. Langfristiger Werterhalt durch professionelle Reinigungszyklen und qualitätsgesicherte Durchführung.",
+      subtitle: "Treppenhaus & Co. immer „oh, schick“ und nicht „oh nein“",
+      description:
+        "Gemeinschaftsbereiche machen den ersten Eindruck – bei Besuchern und bei Ihnen selbst. Wir kommen zuverlässig im festen Rhythmus, damit Fingerabdrücke auf dem Lichtschalter die Ausnahme bleiben.",
       features: [
-        "Treppenhäuser & Eingangsbereiche",
-        "Fachgerechte Glas- & Fensterreinigung",
-        "Pflege von Außenanlagen & Gehwegen",
-        "Aufzugsreinigung & Gemeinschaftsräume",
-        "Müllraum- & Kellerreinigung"
+        "Treppen, Podeste, Geländer ohne Grauschleier",
+        "Eingang und Briefkästen ohne Regentropfen-Spuren",
+        "Fenster und Spiegel dort, wo es sich lohnt",
+        "Lift und Flur sauber gefegt oder gewischt – je nach Untergrund",
+        "Müllraum hygienisch halten – fair für alle Nachbarn",
       ],
       link: "/leistungen/unterhaltsreinigung"
     },
@@ -55,14 +116,15 @@ export default function Services() {
         </svg>
       ),
       title: "Glasreinigung",
-      subtitle: "Für perfekte Durchsicht",
-      description: "Professionelle Fenster- und Glasreinigung für streifenfreien Glanz. Mit modernster Technik und umweltfreundlichen Reinigungsmitteln sorgen wir für kristallklare Fenster in jeder Höhe.",
+      subtitle: "Streifen? Kennen wir nur von Filmsets",
+      description:
+        "Fenster von innen und außen putzen wir so, dass man wieder rausgucken mag. Rahmen und Falznischen machen wir mit – kein Drama, keine magischen Zaubersprüche, nur sauberes Equipment und Übung.",
       features: [
-        "Innen- & Außenreinigung von Fenstern",
-        "Rahmen- & Fensterbankreinigung",
-        "Glasfassaden & Wintergärten",
-        "Schaufenster & Vitrinen",
-        "Oberlichter & Dachfenster"
+        "Normal große Fenster bis zu höher liegenden Scheiben geplant möglich",
+        "Rahmen und Fensterbank mit angefasst – nicht nur die Mitte vom Glas",
+        "Schaufenster, die verkaufen dürfen, statt Fingerabdruck-Galerie",
+        "Wintergarten wieder hell statt beige-grau-gefiltert",
+        "Mit Dachfenstern oder schwer erreichbar: vorher kurz abstimmen, was realistisch geht",
       ],
       link: "/leistungen/glasreinigung"
     },
@@ -74,14 +136,15 @@ export default function Services() {
         </svg>
       ),
       title: "Praxisreinigung",
-      subtitle: "Für höchste Hygiene",
-      description: "Spezialisierte Reinigung für Arztpraxen, Kliniken und medizinische Einrichtungen. Wir erfüllen höchste Hygiene- und Desinfektionsstandards zum Schutz von Patienten und Personal.",
+      subtitle:         "Da zählen Hygiene UND gutes Gefühl",
+      description:
+        "In Praxen wird es schnell voll mit Terminen und Routine. Wir kümmern uns um Sauberkeit: Wartezone, Sanitärbereiche und nach Absprache Behandlungsräume – transparent und nach gültigen Vorgaben, wo Dokumentation nötig ist.",
       features: [
-        "Desinfektion nach RKI-Richtlinien",
-        "Behandlungs- & Untersuchungsräume",
-        "Wartebereich & Empfang",
-        "Hygienische Sanitärreinigung",
-        "Medizinische Geräteoberflächen"
+        "Sanitärbereiche ohne „Hm, war das immer schon so grünlich?“",
+        "Wartezone und Empfang ordentlich, damit Nervosität nicht klebrig wirkt",
+        "Behandlungsräume nach Absprache und gültigen Vorgaben",
+        "Berührte Oberflächen und Griffe mit Köpfchen eingeteilt nach Risiko",
+        "Wischpläne, die neue Mitarbeiter auch verstehen – nicht erst nach drei Wochen Einarbeitung",
       ],
       link: "/leistungen/praxisreinigung"
     },
@@ -95,14 +158,15 @@ export default function Services() {
         </svg>
       ),
       title: "Industriereinigung",
-      subtitle: "Für produktive Betriebsabläufe",
-      description: "Leistungsstarke Reinigungslösungen für Produktions- und Lagerhallen. Mit industrietauglicher Ausrüstung bewältigen wir auch großflächige und anspruchsvolle Reinigungsprojekte effizient.",
+      subtitle: "Robuster Dreck – braucht robuste Planung",
+      description:
+        "Halle und Lager sind keine Wohnzimmer – und gut so. Gemeinsam klären wir, was kritisch ist, wo Schichtbetrieb läuft und wo keine Nässe hingehört. Erst wenn das feststeht: Hochdruck, Scheuersauger & Co.",
       features: [
-        "Produktionshallen & Werkstätten",
-        "Lager- & Logistikbereiche",
-        "Maschinen- & Anlagenreinigung",
-        "Industrieböden & Beschichtungen",
-        "Hochregallager & Bühnensysteme"
+        "Großflächige Produktions- und Hallenböden strukturiert und möglichst sicher angehen",
+        "Laufwege logistisch mitgedacht – damit Staplerführung kein Puzzle wird",
+        "Maschinenräumen von außen sauber halten ohne die Elektronik zu „überraschen“",
+        "Beschriftete Böden dort, wo Sicherheit wichtiger ist als ein Insta-Foto",
+        "Großprojekte nach Absprache – mit Zeit für Sicherheitszeug und Pause",
       ],
       link: "/leistungen/industriereinigung"
     }
@@ -119,67 +183,22 @@ export default function Services() {
         >
           <div className="inline-block mb-4">
             <span className="bg-blue-100 text-blue-600 px-4 py-2 rounded-full text-sm font-semibold">
-              Unser Leistungsspektrum
+              Was wir drauf haben
             </span>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Premium Reinigungsdienstleistungen
+            Unsere Leistungen – auf Deutsch erklärt
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Maßgeschneiderte und professionelle Reinigungslösungen für höchste Ansprüche. 
-            Qualität, Zuverlässigkeit und Nachhaltigkeit seit über 15 Jahren.
+            Egal ob Büro in der Stadt, Hausverwaltung mit Treppenhaus oder Praxis rund um NRW:
+            Wir sagen vorher, was passiert und was es kosten soll – und danach gibt’s kein Ratespiel beim Putzenplan.
           </p>
         </div>
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {services.map((service, index) => {
-            const { ref, isVisible } = useScrollAnimation();
-            return (
-            <Link
-              href={service.link}
-              key={index}
-              ref={ref as unknown as React.RefObject<HTMLAnchorElement>}
-              className={`group bg-white p-8 rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-[transform,shadow,border-color] duration-300 ease-out border border-gray-100 hover:border-blue-300 relative overflow-hidden cursor-pointer block will-change-transform ${
-                isVisible ? 'animate-fade-in-up' : 'scroll-hidden'
-              }`}
-              style={{ transitionDelay: `${index * 100}ms` }}
-            >
-              {/* Decorative gradient */}
-              <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-50 to-transparent rounded-bl-full opacity-50 group-hover:opacity-100 transition-[opacity,transform] duration-300 ease-out group-hover:scale-150 will-change-transform"></div>
-              
-              <div className="relative">
-                <div className="w-16 h-16 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl flex items-center justify-center mb-6 text-blue-600 group-hover:from-blue-600 group-hover:to-blue-700 group-hover:text-white group-hover:scale-110 group-hover:rotate-3 transition-[transform,background,color,box-shadow] duration-300 ease-out shadow-md group-hover:shadow-xl will-change-transform">
-                  {service.icon}
-                </div>
-                
-                <h3 className="text-2xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors duration-200 ease-out">{service.title}</h3>
-                <p className="text-blue-600 font-semibold text-sm mb-4">{service.subtitle}</p>
-                <p className="text-gray-600 mb-6 leading-relaxed text-sm">{service.description}</p>
-                
-                <div className="space-y-3 mb-6">
-                  {service.features.map((feature, idx) => (
-                    <div key={idx} className="flex items-start">
-                      <div className="flex-shrink-0 mt-0.5">
-                        <svg className="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
-                        </svg>
-                      </div>
-                      <span className="ml-3 text-gray-700 text-sm font-medium leading-tight">{feature}</span>
-                    </div>
-                  ))}
-                </div>
-
-                {/* More Info Link */}
-                <div className="flex items-center text-blue-600 font-bold group-hover:translate-x-2 transition-transform duration-300 ease-out will-change-transform">
-                  <span>Mehr erfahren</span>
-                  <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                  </svg>
-                </div>
-              </div>
-            </Link>
-            );
-          })}
+          {services.map((service, index) => (
+            <ServiceCard key={service.link} service={service} index={index} />
+          ))}
         </div>
 
         {/* CTA Section */}
@@ -198,15 +217,15 @@ export default function Services() {
               {/* Badge */}
               <div className="inline-block mb-6">
                 <span className="bg-white/20 backdrop-blur-sm text-white px-5 py-2 rounded-full text-sm font-semibold border border-white/30">
-                  Kostenlose & unverbindliche Beratung
+                  Erst kurz klären, dann sauber
                 </span>
               </div>
 
               <h3 className="text-3xl md:text-4xl font-bold text-white mb-4">
-                Ihr individuelles Reinigungskonzept
+                Lust auf weniger Büro-Theater?
               </h3>
               <p className="text-blue-50 text-lg md:text-xl mb-8 max-w-2xl mx-auto leading-relaxed">
-                Profitieren Sie von über 15 Jahren Erfahrung. Wir analysieren Ihren Bedarf und erstellen ein maßgeschneidertes Angebot – transparent, fair und ohne versteckte Kosten.
+                Schreiben Sie uns einfach, was geputzt werden soll und wie oft es laufen soll. Wir melden uns mit einem Angebot, das Sie ruhig im Meeting vorlesen dürfen – ohne versteckte „Außerdem hätten wir noch …“-Klauseln – es sei denn, Sie wollen wirklich Extra-Leistungen.
               </p>
 
               {/* Features */}
@@ -215,42 +234,42 @@ export default function Services() {
                   <svg className="w-6 h-6 text-green-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span className="text-white font-semibold text-sm">Kostenlose Erstberatung</span>
+                  <span className="text-white font-semibold text-sm">Kostenlose Erstkontakt-Abfrage</span>
                 </div>
                 <div className="flex items-center justify-center space-x-3 bg-white/10 backdrop-blur-sm rounded-xl p-4 border border-white/20">
                   <svg className="w-6 h-6 text-green-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span className="text-white font-semibold text-sm">24h Rückmeldung</span>
+                  <span className="text-white font-semibold text-sm">Mo–Fr schnell Antwort</span>
                 </div>
                 <div className="flex items-center justify-center space-x-3 bg-white/10 backdrop-blur-sm rounded-xl p-4 border border-white/20">
                   <svg className="w-6 h-6 text-green-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                   </svg>
-                  <span className="text-white font-semibold text-sm">Faire Festpreise</span>
+                  <span className="text-white font-semibold text-sm">Festpreise, die man lesen kann</span>
                 </div>
               </div>
 
               {/* CTA Buttons */}
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <a
-                  href="#contact"
+                  href="/kontakt"
                   className="group inline-flex items-center bg-white text-blue-600 px-8 py-4 rounded-xl hover:bg-gray-50 transition-all font-bold shadow-xl hover:shadow-2xl transform hover:-translate-y-1 duration-200"
                 >
                   <svg className="w-5 h-5 mr-2 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
-                  Angebot anfordern
+                  Schnell Kontakt aufnehmen
                 </a>
                 
                 <a
-                  href="tel:+4921112345678"
+                  href="tel:+4920189083050"
                   className="group inline-flex items-center bg-blue-800/80 backdrop-blur-sm text-white px-8 py-4 rounded-xl hover:bg-blue-900 transition-all font-bold shadow-lg border-2 border-white/20 hover:border-white/40"
                 >
                   <svg className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
-                  0211 123 456 78
+                  0201-89083050
                 </a>
               </div>
 

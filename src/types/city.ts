@@ -5,6 +5,8 @@ export interface CityData {
   // SEO & URL
   slug: string;
   name: string;
+  /** Optional, z. B. für Listen auf /einsatzgebiete */
+  population?: number;
   
   // Geo-Daten
   lat: number;

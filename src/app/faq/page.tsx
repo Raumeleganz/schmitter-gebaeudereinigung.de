@@ -4,10 +4,10 @@ import FAQAccordion from "@/components/FAQAccordion";
 import { faqItems } from "@/data/faq-items";
 
 export const metadata: Metadata = {
-  title: "Häufig gestellte Fragen (FAQ) | ABED - Gebäudereinigung",
+  title: "Häufig gestellte Fragen (FAQ) | Schmitter Gebäudereinigung",
   description: "Antworten auf die häufigsten Fragen zu unseren Gebäudereinigungsleistungen - von Preisen über Qualitätssicherung bis zu Vertragsdetails.",
   openGraph: {
-    title: "FAQ - ABED Gebäudereinigung",
+    title: "FAQ - Schmitter Gebäudereinigung",
     description: "Alle Antworten auf Ihre Fragen zur professionellen Gebäudereinigung in NRW",
     type: "website",
   },
@@ -78,13 +78,13 @@ export default function FAQPage() {
               </a>
               
               <a
-                href="tel:+4921112345678"
+                href="tel:+4920189083050"
                 className="inline-flex items-center justify-center gap-2 bg-transparent border-2 border-white text-white px-8 py-4 rounded-lg font-bold hover:bg-white hover:text-blue-600 transition-all duration-300 transform hover:scale-105"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.135a11.042 11.042 0 005.516 5.516l1.135-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
-                +49 211 12345678
+                0201-89083050
               </a>
             </div>
           </div>

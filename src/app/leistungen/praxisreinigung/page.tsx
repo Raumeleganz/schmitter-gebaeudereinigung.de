@@ -4,11 +4,11 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Professionelle Praxisreinigung in NRW - Arztpraxen, Kliniken & Medizinische Einrichtungen | ABED - Gebäudereinigung",
+  title: "Professionelle Praxisreinigung in NRW - Arztpraxen, Kliniken & Medizinische Einrichtungen | Schmitter Gebäudereinigung",
   description: "Spezialisierte Praxisreinigung nach RKI-Richtlinien in NRW. Hygienische Reinigung für Arztpraxen, Zahnarztpraxen, Kliniken. ISO-zertifiziert & desinfizierend. ✓ VAH-gelistet ✓ Infektionsschutz ✓ § 36 IfSG konform",
   keywords: ["Praxisreinigung", "Arztpraxis reinigen", "Zahnarztpraxis Reinigung", "Klinik Reinigung", "medizinische Reinigung", "RKI-Richtlinien", "Desinfektion", "Praxisreinigung Düsseldorf", "Praxisreinigung Köln", "Praxisreinigung NRW", "VAH-gelistet", "Infektionsschutz"],
   openGraph: {
-    title: "Professionelle Praxisreinigung in NRW | ABED - Gebäudereinigung",
+    title: "Professionelle Praxisreinigung in NRW | Schmitter Gebäudereinigung",
     description: "Hygienische Reinigung für medizinische Einrichtungen nach höchsten Standards.",
     type: "website",
   },
@@ -155,16 +155,16 @@ export default function PraxisreinigungPage() {
                   Professionelle Praxisreinigung nach RKI-Richtlinien in Düsseldorf, Köln und ganz NRW
                 </h2>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  In medizinischen Einrichtungen sind Sauberkeit und Hygiene nicht nur wichtig – sie sind lebensnotwendig und gesetzlich vorgeschrieben. Unsere spezialisierte Praxisreinigung erfüllt höchste Standards nach § 36 Infektionsschutzgesetz (IfSG) und schützt Ihre Patienten sowie Ihr medizinisches Personal zuverlässig vor nosokomialen Infektionen.
+                  In einer Praxis ist „sauber“ nicht optional. Hygiene muss stimmen – für Patient:innen, Team und Prüfungen. Wir reinigen so, dass es nachvollziehbar ist: klare Abläufe, passende Mittel, und Dokumentation da, wo sie gebraucht wird.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Seit über 15 Jahren sind wir der vertrauensvolle Partner für Arztpraxen, Zahnarztpraxen, Kliniken und Therapiezentren in ganz Nordrhein-Westfalen. Unser speziell geschultes Reinigungspersonal kennt die besonderen Anforderungen medizinischer Einrichtungen und ist mit den aktuellen Hygienevorschriften bestens vertraut.
+                  Schmitter Gebäudereinigung arbeitet seit über 15 Jahren mit Arztpraxen, Zahnärzten, Kliniken und Therapiezentren in NRW. Unser Team ist für medizinische Umgebungen geschult und arbeitet diskret – damit der Praxisbetrieb nicht aus dem Takt gerät.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Wir arbeiten ausschließlich nach den Richtlinien des Robert Koch-Instituts (RKI) und verwenden VAH-gelistete (Verbund für Angewandte Hygiene) sowie DGHM-zertifizierte Desinfektionsmittel. Alle eingesetzten Produkte sind für den medizinischen Bereich zugelassen und dokumentiert.
+                  Wir orientieren uns an den RKI-Vorgaben und nutzen VAH/DGHM-gelistete Mittel, wo Desinfektion sinnvoll und gefordert ist. Kurz: nicht „alles mit Kanonen“, sondern richtig nach Risiko und Bereich.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Als ISO 9001 zertifiziertes Unternehmen garantieren wir Ihnen lückenlos dokumentierte Reinigungsprozesse, die den Anforderungen der Berufsgenossenschaften und Gesundheitsämter entsprechen. Unsere Mitarbeiter sind polizeilich überprüft, vollständig versichert und unterliegen der ärztlichen Schweigepflicht.
+                  ISO 9001 sorgt bei uns für Struktur im Hintergrund. Dazu kommen Versicherung, Zuverlässigkeit und sensible Kommunikation – weil in Praxen eben nicht nur Staub herumliegt.
                 </p>
 
                 <div className="space-y-4">
@@ -175,7 +175,9 @@ export default function PraxisreinigungPage() {
                       </svg>
                       <div>
                         <h3 className="font-bold text-gray-900 mb-2">Gesetzliche Pflicht für Praxisbetreiber</h3>
-                        <p className="text-gray-600 text-sm leading-relaxed">§ 36 Infektionsschutzgesetz (IfSG) verpflichtet medizinische Einrichtungen zur Einhaltung hygienischer Standards. Wir unterstützen Sie bei der rechtskonformen Umsetzung und stellen alle erforderlichen Dokumentationen bereit.</p>
+                        <p className="text-gray-600 text-sm leading-relaxed">
+                          Kurz gesagt: Hygiene muss sitzen. Wir helfen bei sauberer Umsetzung und liefern die Nachweise, die im Alltag (und bei Kontrollen) wirklich helfen.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -270,7 +272,7 @@ export default function PraxisreinigungPage() {
                 </div>
 
                 <div>
-                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum ABED - Gebäudereinigung für Ihre Praxisreinigung?</h2>
+                  <h2 className="text-3xl font-bold text-gray-900 mb-8">Warum Schmitter Gebäudereinigung für Ihre Praxisreinigung?</h2>
                   <div className="space-y-6">
                     <div className="flex items-start">
                       <div className="w-16 h-16 bg-red-100 rounded-2xl flex items-center justify-center flex-shrink-0 mr-4">
@@ -463,7 +465,7 @@ export default function PraxisreinigungPage() {
                     ))}
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Seit 3 Jahren arbeiten wir mit ABED - Gebäudereinigung zusammen. Die Reinigung erfolgt zuverlässig nach RKI-Standards und die Dokumentation ist perfekt für unsere Audits."
+                    "Seit 3 Jahren arbeiten wir mit Schmitter Gebäudereinigung zusammen. Die Reinigung erfolgt zuverlässig nach RKI-Standards und die Dokumentation ist perfekt für unsere Audits."
                   </p>
                 </div>
 
@@ -528,7 +530,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Die Kosten variieren je nach Praxisgröße, Fachrichtung und Reinigungsintervall. Eine 100m² Allgemeinarztpraxis kostet ab ca. 150-250€ pro Reinigung. Wir erstellen Ihnen gerne ein individuelles, transparentes Angebot nach einer kostenlosen Vor-Ort-Besichtigung.
+                    Kommt auf Fläche, Fachrichtung und Häufigkeit an. Als grober Richtwert: eine Praxis um 100 m² liegt oft bei ca. 150–250 € pro Reinigung. Den echten Preis bekommen Sie nach kurzer Vor-Ort-Absprache – transparent und ohne versteckte „ach übrigens“-Positionen.
                   </div>
                 </details>
 
@@ -540,7 +542,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Wir verwenden ausschließlich VAH-gelistete (Verbund für Angewandte Hygiene) und DGHM-zertifizierte Desinfektionsmittel, die für den medizinischen Bereich zugelassen sind. Alle Produkte sind dokumentiert und entsprechen den RKI-Richtlinien.
+                    VAH/DGHM-gelistete Mittel – passend zum Bereich und zur Aufgabe. Nicht „alles desinfizieren, immer“, sondern sinnvoll nach Risiko, damit Hygiene stimmt und Materialien nicht unnötig leiden.
                   </div>
                 </details>
 
@@ -552,7 +554,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Ja, alle unsere Mitarbeiter durchlaufen eine spezielle Schulung in medizinischer Hygiene und Infektionsprävention. Sie sind zudem polizeilich überprüft, vollständig versichert und unterliegen der ärztlichen Schweigepflicht gemäß § 203 StGB.
+                    Ja. Hygiene in medizinischen Bereichen ist ein eigenes Spielfeld – dafür ist unser Team geschult. Dazu kommen Versicherung, Zuverlässigkeit und Diskretion im Praxisalltag.
                   </div>
                 </details>
 
@@ -564,7 +566,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Selbstverständlich! Wir passen uns flexibel Ihren Sprechzeiten an und reinigen bevorzugt nach Praxisschluss oder vor Praxisöffnung, damit Ihr Praxisbetrieb nicht gestört wird. Auch Wochenend-Termine sind möglich.
+                    Ja – das ist sogar meistens der Standard. Vor Öffnung, nach Schluss oder am Wochenende: Wir planen so, dass Patient:innen und Ablauf nicht gestört werden.
                   </div>
                 </details>
 
@@ -576,7 +578,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Jede Reinigung wird lückenlos dokumentiert mit Datum, Uhrzeit, durchgeführten Tätigkeiten und eingesetzten Produkten. Sie erhalten digitale oder ausgedruckte Reinigungs- und Desinfektionsnachweise, die Sie jederzeit bei Audits durch Berufsgenossenschaften oder Gesundheitsämter vorlegen können.
+                    Wenn Dokumentation nötig ist, machen wir sie ordentlich: Datum, Uhrzeit, was gemacht wurde (und ggf. Mittel). So haben Sie etwas in der Hand – ohne Papierchaos.
                   </div>
                 </details>
 
@@ -588,7 +590,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    Für Notfälle wie Infektionsausbrüche oder Kontaminationen bieten wir einen 24/7-Notfallservice. Unsere geschulten Teams können innerhalb weniger Stunden vor Ort sein und eine professionelle Desinfektion nach RKI-Richtlinien durchführen.
+                    Wenn’s dringend ist, reagieren wir schnell. Sie rufen an, wir klären Lage und Vorgehen – und kommen so zügig wie möglich. Wichtig: Im Notfall lieber einmal zu früh melden als zu spät.
                   </div>
                 </details>
               </div>
@@ -665,10 +667,10 @@ export default function PraxisreinigungPage() {
                     Jetzt beraten lassen
                   </Link>
                   <a
-                    href="tel:+4921112345678"
+                    href="tel:+4920189083050"
                     className="inline-flex items-center justify-center bg-blue-500 text-white border-2 border-white/50 px-8 py-4 rounded-lg hover:bg-blue-400 transition-all font-bold"
                   >
-                    0211 123 456 78
+                    0201-89083050
                   </a>
                 </div>
                 <p className="text-blue-200 text-sm mt-6">

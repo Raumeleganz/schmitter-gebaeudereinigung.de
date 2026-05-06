@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Datenschutzerklärung | ABED - Gebäudereinigung",
-  description: "Datenschutzerklärung der ABED Gebäudereinigung - Informationen zur Verarbeitung personenbezogener Daten",
+  title: "Datenschutzerklärung | Schmitter Gebäudereinigung",
+  description: "Datenschutzerklärung der Schmitter Gebäudereinigung - Informationen zur Verarbeitung personenbezogener Daten",
   robots: {
     index: true,
     follow: true,
@@ -42,20 +42,20 @@ export default function DatenschutzPage() {
               Verantwortliche Stelle
             </h2>
             <div className="ml-11 space-y-2 text-gray-700">
-              <p className="font-semibold text-gray-900">ABED Gebäudereinigung</p>
+              <p className="font-semibold text-gray-900">Schmitter Gebäudereinigung</p>
               <p>Geschäftsführer: Max Mustermann</p>
               <p>Musterstraße 123</p>
               <p>40212 Düsseldorf</p>
               <p>
                 <span className="font-semibold">E-Mail:</span>{" "}
-                <a href="mailto:info@ABED-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
-                  info@ABED-gebaeudereinigung.de
+                <a href="mailto:info@schmitter-gebaeudereinigung.de" className="text-blue-600 hover:text-blue-700">
+                  info@schmitter-gebaeudereinigung.de
                 </a>
               </p>
               <p>
                 <span className="font-semibold">Telefon:</span>{" "}
-                <a href="tel:+4921112345678" className="text-blue-600 hover:text-blue-700">
-                  +49 211 12345678
+                <a href="tel:+4920189083050" className="text-blue-600 hover:text-blue-700">
+                  0201-89083050
                 </a>
               </p>
             </div>

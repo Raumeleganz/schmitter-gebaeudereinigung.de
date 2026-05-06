@@ -1,6 +1,6 @@
 /**
  * Admin Analytics Dashboard
- * Professional Analytics System für ABED Gebäudereinigung
+ * Professional Analytics System für Schmitter Gebäudereinigung
  */
 
 import { Metadata } from 'next';
@@ -12,7 +12,7 @@ import ServicesChart from './components/ServicesChart';
 import ConversionFunnel from './components/ConversionFunnel';
 
 export const metadata: Metadata = {
-  title: 'Analytics Dashboard | ABED Admin',
+  title: 'Analytics Dashboard | Schmitter Admin',
   description: 'Echtzeit-Einblicke in Ihre Geschäftsdaten',
 };
 

@@ -14,7 +14,7 @@ export function Navigation() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-amber-600">
           <Sparkles className="w-7 h-7 text-amber-600" />
-          <span style={{ fontFamily: 'Playfair Display, serif' }}>Raumeleganz</span>
+          <span style={{ fontFamily: 'Playfair Display, serif' }}>Gebäudereinigung</span>
         </Link>
 
         {/* Desktop Navigation */}

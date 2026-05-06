@@ -15,7 +15,7 @@ export const cities: Record<string, CityData> = {
     "street": "Alter Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Köln – professionell & planbar",
-    "title": "Gebäudereinigung Köln | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Köln | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Köln für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Köln",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Köln – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -33,10 +33,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Köln",
     "keyword5": "Industriereinigung Köln",
     "imageKeyword": "Gebäudereinigung Köln",
-    "imageAlt": "DATRA Gebäudereinigung in Köln – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Köln – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Köln vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Köln.",
+    "imageAlt": "Schmitter Gebäudereinigung in Köln – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Köln – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Köln vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Köln.",
     "ctaText": "Jetzt kostenloses Angebot für Köln anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Köln"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Köln"
   },
   "duesseldorf": {
     "slug": "duesseldorf",
@@ -47,7 +47,7 @@ export const cities: Record<string, CityData> = {
     "street": "Heinrich-Heine-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Düsseldorf für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Düsseldorf | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Düsseldorf | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Düsseldorf: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Düsseldorf",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Düsseldorf.",
@@ -65,10 +65,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Düsseldorf",
     "keyword5": "Industriereinigung Düsseldorf",
     "imageKeyword": "Gebäudereinigung Düsseldorf",
-    "imageAlt": "DATRA Gebäudereinigung in Düsseldorf – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Düsseldorf professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Düsseldorf mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Düsseldorf.",
+    "imageAlt": "Schmitter Gebäudereinigung in Düsseldorf – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Düsseldorf professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Düsseldorf mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Düsseldorf.",
     "ctaText": "Jetzt kostenloses Angebot für Düsseldorf anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Düsseldorf"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Düsseldorf"
   },
   "dortmund": {
     "slug": "dortmund",
@@ -79,7 +79,7 @@ export const cities: Record<string, CityData> = {
     "street": "Westenhellweg 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Dortmund",
-    "title": "Gebäudereinigung Dortmund | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Dortmund | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Dortmund: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Dortmund",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Dortmund.",
@@ -97,10 +97,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Dortmund",
     "keyword5": "Industriereinigung Dortmund",
     "imageKeyword": "Gebäudereinigung Dortmund",
-    "imageAlt": "DATRA Gebäudereinigung in Dortmund – Professioneller Reinigungsservice",
-    "aboutText": "In Dortmund bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Dortmund. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Dortmund übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Dortmund – Professioneller Reinigungsservice",
+    "aboutText": "In Dortmund bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Dortmund. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Dortmund übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Dortmund anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Dortmund"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Dortmund"
   },
   "essen": {
     "slug": "essen",
@@ -111,7 +111,7 @@ export const cities: Record<string, CityData> = {
     "street": "Rathaus-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Essen: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Essen | DATRA – Fenster",
+    "title": "Gebäudereinigung Essen | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Essen – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Essen",
     "heroSubtitle": "Nachhaltig reinigen in Essen: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -129,10 +129,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Essen",
     "keyword5": "Industriereinigung Essen",
     "imageKeyword": "Gebäudereinigung Essen",
-    "imageAlt": "DATRA Gebäudereinigung in Essen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Essen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Essen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Essen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Essen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Essen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Essen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Essen.",
     "ctaText": "Jetzt kostenloses Angebot für Essen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Essen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Essen"
   },
   "duisburg": {
     "slug": "duisburg",
@@ -143,7 +143,7 @@ export const cities: Record<string, CityData> = {
     "street": "Schwanenstraße 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Duisburg",
-    "title": "Gebäudereinigung Duisburg | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Duisburg | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Duisburg mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Duisburg",
     "heroSubtitle": "Für Unternehmen & Praxen in Duisburg: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -161,10 +161,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Duisburg",
     "keyword5": "Industriereinigung Duisburg",
     "imageKeyword": "Gebäudereinigung Duisburg",
-    "imageAlt": "DATRA Gebäudereinigung in Duisburg – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Duisburg – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Duisburg vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Duisburg.",
+    "imageAlt": "Schmitter Gebäudereinigung in Duisburg – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Duisburg – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Duisburg vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Duisburg.",
     "ctaText": "Jetzt kostenloses Angebot für Duisburg anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Duisburg"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Duisburg"
   },
   "bochum": {
     "slug": "bochum",
@@ -175,7 +175,7 @@ export const cities: Record<string, CityData> = {
     "street": "Boulevard 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bochum – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Bochum | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Bochum | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Bochum: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Bochum",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Bochum.",
@@ -193,10 +193,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bochum",
     "keyword5": "Industriereinigung Bochum",
     "imageKeyword": "Gebäudereinigung Bochum",
-    "imageAlt": "DATRA Gebäudereinigung in Bochum – Professioneller Reinigungsservice",
-    "aboutText": "In Bochum sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Bochum bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Bochum.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bochum – Professioneller Reinigungsservice",
+    "aboutText": "In Bochum sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Bochum bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Bochum.",
     "ctaText": "Jetzt kostenloses Angebot für Bochum anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bochum"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bochum"
   },
   "wuppertal": {
     "slug": "wuppertal",
@@ -207,7 +207,7 @@ export const cities: Record<string, CityData> = {
     "street": "Warndtstraße 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Wuppertal",
-    "title": "Gebäudereinigung Wuppertal | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Wuppertal | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Wuppertal: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Wuppertal",
     "heroSubtitle": "Green Cleaning in Wuppertal: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -225,10 +225,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Wuppertal",
     "keyword5": "Industriereinigung Wuppertal",
     "imageKeyword": "Gebäudereinigung Wuppertal",
-    "imageAlt": "DATRA Gebäudereinigung in Wuppertal – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Wuppertal effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Wuppertal mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Wuppertal.",
+    "imageAlt": "Schmitter Gebäudereinigung in Wuppertal – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Wuppertal effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Wuppertal mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Wuppertal.",
     "ctaText": "Jetzt kostenloses Angebot für Wuppertal anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Wuppertal"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Wuppertal"
   },
   "bielefeld": {
     "slug": "bielefeld",
@@ -239,7 +239,7 @@ export const cities: Record<string, CityData> = {
     "street": "Welle 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bielefeld mit Festpreisen",
-    "title": "Gebäudereinigung Bielefeld | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Bielefeld | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Bielefeld: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Bielefeld",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Bielefeld.",
@@ -257,10 +257,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bielefeld",
     "keyword5": "Industriereinigung Bielefeld",
     "imageKeyword": "Gebäudereinigung Bielefeld",
-    "imageAlt": "DATRA Gebäudereinigung in Bielefeld – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Bielefeld effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Bielefeld mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Bielefeld.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bielefeld – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Bielefeld effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Bielefeld mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Bielefeld.",
     "ctaText": "Jetzt kostenloses Angebot für Bielefeld anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bielefeld"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bielefeld"
   },
   "bonn": {
     "slug": "bonn",
@@ -271,7 +271,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bonn – professionell & planbar",
-    "title": "Gebäudereinigung Bonn | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Bonn | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Bonn: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Bonn",
     "heroSubtitle": "Schneller Start in Bonn: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -289,10 +289,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bonn",
     "keyword5": "Industriereinigung Bonn",
     "imageKeyword": "Gebäudereinigung Bonn",
-    "imageAlt": "DATRA Gebäudereinigung in Bonn – Professioneller Reinigungsservice",
-    "aboutText": "In Bonn bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Bonn. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Bonn übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bonn – Professioneller Reinigungsservice",
+    "aboutText": "In Bonn bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Bonn. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Bonn übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Bonn anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bonn"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bonn"
   },
   "muenster": {
     "slug": "muenster",
@@ -303,7 +303,7 @@ export const cities: Record<string, CityData> = {
     "street": "Domplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Münster für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Münster | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Münster | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Münster: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Münster",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Münster.",
@@ -321,10 +321,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Münster",
     "keyword5": "Industriereinigung Münster",
     "imageKeyword": "Gebäudereinigung Münster",
-    "imageAlt": "DATRA Gebäudereinigung in Münster – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Münster und Umgebung. In Münster als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Münster.",
+    "imageAlt": "Schmitter Gebäudereinigung in Münster – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Münster und Umgebung. In Münster als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Münster.",
     "ctaText": "Jetzt kostenloses Angebot für Münster anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Münster"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Münster"
   },
   "moenchengladbach": {
     "slug": "moenchengladbach",
@@ -335,7 +335,7 @@ export const cities: Record<string, CityData> = {
     "street": "Viersener Straße 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Mönchengladbach",
-    "title": "Gebäudereinigung Mönchengladbach | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Mönchengladbach | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Strukturiert reinigen in Mönchengladbach: definierte Zuständigkeiten, messbare Qualität, kurze Wege zum Angebot. Jetzt Termin reservieren.",
     "heroTitle": "Ihre Gebäudereinigung in Mönchengladbach",
     "heroSubtitle": "Transparente Reinigung für Mönchengladbach: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -353,10 +353,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Mönchengladbach",
     "keyword5": "Industriereinigung Mönchengladbach",
     "imageKeyword": "Gebäudereinigung Mönchengladbach",
-    "imageAlt": "DATRA Gebäudereinigung in Mönchengladbach – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Mönchengladbach und Umgebung. In Mönchengladbach als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Mönchengladbach.",
+    "imageAlt": "Schmitter Gebäudereinigung in Mönchengladbach – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Mönchengladbach und Umgebung. In Mönchengladbach als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Mönchengladbach.",
     "ctaText": "Jetzt kostenloses Angebot für Mönchengladbach anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Mönchengladbach"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Mönchengladbach"
   },
   "gelsenkirchen": {
     "slug": "gelsenkirchen",
@@ -367,7 +367,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Gelsenkirchen: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Gelsenkirchen | DATRA – Fenster",
+    "title": "Gebäudereinigung Gelsenkirchen | Schmitter – Fenster",
     "metaDescription": "Schnell startklar in Gelsenkirchen: zügiger Angebotsweg, festes Team, reibungsloser Übergang. Sauberkeit ohne Mehraufwand.",
     "heroTitle": "Ihre Gebäudereinigung in Gelsenkirchen",
     "heroSubtitle": "Hygiene für Büro & Praxis in Gelsenkirchen – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -385,10 +385,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Gelsenkirchen",
     "keyword5": "Industriereinigung Gelsenkirchen",
     "imageKeyword": "Gebäudereinigung Gelsenkirchen",
-    "imageAlt": "DATRA Gebäudereinigung in Gelsenkirchen – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Gelsenkirchen effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Gelsenkirchen mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Gelsenkirchen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Gelsenkirchen – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Gelsenkirchen effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Gelsenkirchen mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Gelsenkirchen.",
     "ctaText": "Jetzt kostenloses Angebot für Gelsenkirchen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Gelsenkirchen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Gelsenkirchen"
   },
   "aachen": {
     "slug": "aachen",
@@ -399,7 +399,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Aachen",
-    "title": "Gebäudereinigung Aachen | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Aachen | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Gebäudereinigung Aachen ohne Umwege: verständliche Pakete, planbare Termine, verlässliche Resultate. Anfrage in wenigen Klicks.",
     "heroTitle": "Ihre Gebäudereinigung in Aachen",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Aachen – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -417,10 +417,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Aachen",
     "keyword5": "Industriereinigung Aachen",
     "imageKeyword": "Gebäudereinigung Aachen",
-    "imageAlt": "DATRA Gebäudereinigung in Aachen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Aachen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Aachen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Aachen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Aachen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Aachen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Aachen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Aachen.",
     "ctaText": "Jetzt kostenloses Angebot für Aachen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Aachen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Aachen"
   },
   "krefeld": {
     "slug": "krefeld",
@@ -431,7 +431,7 @@ export const cities: Record<string, CityData> = {
     "street": "Rheinstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Krefeld – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Krefeld | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Krefeld | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Risikoarm zur konstanten Hygiene in Krefeld: geprüfte Abläufe, dokumentierte Leistungen, feste Ansprechpartner. Jetzt informieren.",
     "heroTitle": "Ihre Gebäudereinigung in Krefeld",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Krefeld.",
@@ -449,10 +449,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Krefeld",
     "keyword5": "Industriereinigung Krefeld",
     "imageKeyword": "Gebäudereinigung Krefeld",
-    "imageAlt": "DATRA Gebäudereinigung in Krefeld – Professioneller Reinigungsservice",
-    "aboutText": "In Krefeld bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Krefeld. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Krefeld übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Krefeld – Professioneller Reinigungsservice",
+    "aboutText": "In Krefeld bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Krefeld. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Krefeld übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Krefeld anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Krefeld"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Krefeld"
   },
   "oberhausen": {
     "slug": "oberhausen",
@@ -463,7 +463,7 @@ export const cities: Record<string, CityData> = {
     "street": "Goebenstraße 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Oberhausen",
-    "title": "Gebäudereinigung Oberhausen | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Oberhausen | Schmitter – fair & transparent",
     "metaDescription": "Verlässliche Gebäudereinigung Oberhausen: gründlich, termintreu, nachvollziehbar. Perfekt für Unternehmen mit hohen Anforderungen.",
     "heroTitle": "Ihre Gebäudereinigung in Oberhausen",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Oberhausen.",
@@ -481,10 +481,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Oberhausen",
     "keyword5": "Industriereinigung Oberhausen",
     "imageKeyword": "Gebäudereinigung Oberhausen",
-    "imageAlt": "DATRA Gebäudereinigung in Oberhausen – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Oberhausen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Oberhausen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Oberhausen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Oberhausen – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Oberhausen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Oberhausen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Oberhausen.",
     "ctaText": "Jetzt kostenloses Angebot für Oberhausen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Oberhausen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Oberhausen"
   },
   "hagen": {
     "slug": "hagen",
@@ -495,7 +495,7 @@ export const cities: Record<string, CityData> = {
     "street": "Friedrich-Ebert-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Hagen mit Festpreisen",
-    "title": "Gebäudereinigung Hagen | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Hagen | Schmitter – effizient & günstig",
     "metaDescription": "Gebäudereinigung Hagen: planbar, gründlich, fair. Klare Angebote & schnelle Starttermine – jetzt Besichtigung anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Hagen",
     "heroSubtitle": "Nachhaltig reinigen in Hagen: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -513,10 +513,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Hagen",
     "keyword5": "Industriereinigung Hagen",
     "imageKeyword": "Gebäudereinigung Hagen",
-    "imageAlt": "DATRA Gebäudereinigung in Hagen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Hagen und Umgebung. In Hagen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Hagen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Hagen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Hagen und Umgebung. In Hagen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Hagen.",
     "ctaText": "Jetzt kostenloses Angebot für Hagen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Hagen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Hagen"
   },
   "hamm": {
     "slug": "hamm",
@@ -527,7 +527,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Hamm – professionell & planbar",
-    "title": "Gebäudereinigung Hamm | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Hamm | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Hamm für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Hamm",
     "heroSubtitle": "Für Unternehmen & Praxen in Hamm: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -545,10 +545,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Hamm",
     "keyword5": "Industriereinigung Hamm",
     "imageKeyword": "Gebäudereinigung Hamm",
-    "imageAlt": "DATRA Gebäudereinigung in Hamm – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Hamm und Umgebung. In Hamm als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Hamm.",
+    "imageAlt": "Schmitter Gebäudereinigung in Hamm – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Hamm und Umgebung. In Hamm als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Hamm.",
     "ctaText": "Jetzt kostenloses Angebot für Hamm anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Hamm"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Hamm"
   },
   "muelheim-an-der-ruhr": {
     "slug": "muelheim-an-der-ruhr",
@@ -559,7 +559,7 @@ export const cities: Record<string, CityData> = {
     "street": "Leineweberstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Mülheim an der Ruhr für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Mülheim an der Ruhr | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Mülheim an der Ruhr | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Mülheim an der Ruhr: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Mülheim an der Ruhr",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Mülheim an der Ruhr.",
@@ -577,10 +577,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Mülheim an der Ruhr",
     "keyword5": "Industriereinigung Mülheim an der Ruhr",
     "imageKeyword": "Gebäudereinigung Mülheim an der Ruhr",
-    "imageAlt": "DATRA Gebäudereinigung in Mülheim an der Ruhr – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Mülheim an der Ruhr professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Mülheim an der Ruhr mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Mülheim an der Ruhr.",
+    "imageAlt": "Schmitter Gebäudereinigung in Mülheim an der Ruhr – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Mülheim an der Ruhr professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Mülheim an der Ruhr mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Mülheim an der Ruhr.",
     "ctaText": "Jetzt kostenloses Angebot für Mülheim an der Ruhr anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Mülheim an der Ruhr"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Mülheim an der Ruhr"
   },
   "leverkusen": {
     "slug": "leverkusen",
@@ -591,7 +591,7 @@ export const cities: Record<string, CityData> = {
     "street": "Friedrich-Ebert-Platz 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Leverkusen",
-    "title": "Gebäudereinigung Leverkusen | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Leverkusen | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Leverkusen: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Leverkusen",
     "heroSubtitle": "Green Cleaning in Leverkusen: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -609,10 +609,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Leverkusen",
     "keyword5": "Industriereinigung Leverkusen",
     "imageKeyword": "Gebäudereinigung Leverkusen",
-    "imageAlt": "DATRA Gebäudereinigung in Leverkusen – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Leverkusen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Leverkusen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Leverkusen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Leverkusen – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Leverkusen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Leverkusen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Leverkusen.",
     "ctaText": "Jetzt kostenloses Angebot für Leverkusen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Leverkusen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Leverkusen"
   },
   "solingen": {
     "slug": "solingen",
@@ -623,7 +623,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Solingen: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Solingen | DATRA – Fenster",
+    "title": "Gebäudereinigung Solingen | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Solingen – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Solingen",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Solingen.",
@@ -641,10 +641,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Solingen",
     "keyword5": "Industriereinigung Solingen",
     "imageKeyword": "Gebäudereinigung Solingen",
-    "imageAlt": "DATRA Gebäudereinigung in Solingen – Professioneller Reinigungsservice",
-    "aboutText": "Schneller Start, verlässliche Qualität – DATRA macht Gebäudereinigung in Solingen einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Solingen. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Solingen übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Solingen – Professioneller Reinigungsservice",
+    "aboutText": "Schneller Start, verlässliche Qualität – Schmitter macht Gebäudereinigung in Solingen einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Solingen. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Solingen übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Solingen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Solingen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Solingen"
   },
   "herne": {
     "slug": "herne",
@@ -655,7 +655,7 @@ export const cities: Record<string, CityData> = {
     "street": "Friedrich-Ebert-Platz 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Herne",
-    "title": "Gebäudereinigung Herne | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Herne | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Herne mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Herne",
     "heroSubtitle": "Schneller Start in Herne: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -673,10 +673,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Herne",
     "keyword5": "Industriereinigung Herne",
     "imageKeyword": "Gebäudereinigung Herne",
-    "imageAlt": "DATRA Gebäudereinigung in Herne – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Herne effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Herne mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Herne.",
+    "imageAlt": "Schmitter Gebäudereinigung in Herne – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Herne effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Herne mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Herne.",
     "ctaText": "Jetzt kostenloses Angebot für Herne anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Herne"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Herne"
   },
   "neuss": {
     "slug": "neuss",
@@ -687,7 +687,7 @@ export const cities: Record<string, CityData> = {
     "street": "Neustraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Neuss – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Neuss | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Neuss | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Neuss: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Neuss",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Neuss.",
@@ -705,10 +705,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Neuss",
     "keyword5": "Industriereinigung Neuss",
     "imageKeyword": "Gebäudereinigung Neuss",
-    "imageAlt": "DATRA Gebäudereinigung in Neuss – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Neuss professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Neuss mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Neuss.",
+    "imageAlt": "Schmitter Gebäudereinigung in Neuss – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Neuss professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Neuss mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Neuss.",
     "ctaText": "Jetzt kostenloses Angebot für Neuss anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Neuss"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Neuss"
   },
   "paderborn": {
     "slug": "paderborn",
@@ -719,7 +719,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marienplatz 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Paderborn",
-    "title": "Gebäudereinigung Paderborn | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Paderborn | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Paderborn: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Paderborn",
     "heroSubtitle": "Transparente Reinigung für Paderborn: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -737,10 +737,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Paderborn",
     "keyword5": "Industriereinigung Paderborn",
     "imageKeyword": "Gebäudereinigung Paderborn",
-    "imageAlt": "DATRA Gebäudereinigung in Paderborn – Professioneller Reinigungsservice",
-    "aboutText": "In Paderborn bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Paderborn. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Paderborn übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Paderborn – Professioneller Reinigungsservice",
+    "aboutText": "In Paderborn bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Paderborn. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Paderborn übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Paderborn anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Paderborn"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Paderborn"
   },
   "bottrop": {
     "slug": "bottrop",
@@ -751,7 +751,7 @@ export const cities: Record<string, CityData> = {
     "street": "Paßstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bottrop mit Festpreisen",
-    "title": "Gebäudereinigung Bottrop | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Bottrop | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Bottrop: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Bottrop",
     "heroSubtitle": "Hygiene für Büro & Praxis in Bottrop – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -769,10 +769,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bottrop",
     "keyword5": "Industriereinigung Bottrop",
     "imageKeyword": "Gebäudereinigung Bottrop",
-    "imageAlt": "DATRA Gebäudereinigung in Bottrop – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Bottrop Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Bottrop und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Bottrop.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bottrop – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Bottrop Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Bottrop und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Bottrop.",
     "ctaText": "Jetzt kostenloses Angebot für Bottrop anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bottrop"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bottrop"
   },
   "recklinghausen": {
     "slug": "recklinghausen",
@@ -783,7 +783,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Recklinghausen – professionell & planbar",
-    "title": "Gebäudereinigung Recklinghausen | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Recklinghausen | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Recklinghausen: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Recklinghausen",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Recklinghausen – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -801,10 +801,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Recklinghausen",
     "keyword5": "Industriereinigung Recklinghausen",
     "imageKeyword": "Gebäudereinigung Recklinghausen",
-    "imageAlt": "DATRA Gebäudereinigung in Recklinghausen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Recklinghausen und Umgebung. In Recklinghausen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Recklinghausen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Recklinghausen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Recklinghausen und Umgebung. In Recklinghausen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Recklinghausen.",
     "ctaText": "Jetzt kostenloses Angebot für Recklinghausen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Recklinghausen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Recklinghausen"
   },
   "remscheid": {
     "slug": "remscheid",
@@ -815,7 +815,7 @@ export const cities: Record<string, CityData> = {
     "street": "Alleestraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Remscheid für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Remscheid | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Remscheid | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Remscheid: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Remscheid",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Remscheid.",
@@ -833,10 +833,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Remscheid",
     "keyword5": "Industriereinigung Remscheid",
     "imageKeyword": "Gebäudereinigung Remscheid",
-    "imageAlt": "DATRA Gebäudereinigung in Remscheid – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Remscheid effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Remscheid mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Remscheid.",
+    "imageAlt": "Schmitter Gebäudereinigung in Remscheid – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Remscheid effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Remscheid mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Remscheid.",
     "ctaText": "Jetzt kostenloses Angebot für Remscheid anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Remscheid"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Remscheid"
   },
   "bergisch-gladbach": {
     "slug": "bergisch-gladbach",
@@ -847,7 +847,7 @@ export const cities: Record<string, CityData> = {
     "street": "Paffrather Straße 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Bergisch Gladbach",
-    "title": "Gebäudereinigung Bergisch Gladbach | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Bergisch Gladbach | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Strukturiert reinigen in Bergisch Gladbach: definierte Zuständigkeiten, messbare Qualität, kurze Wege zum Angebot. Jetzt Termin reservieren.",
     "heroTitle": "Ihre Gebäudereinigung in Bergisch Gladbach",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Bergisch Gladbach.",
@@ -865,10 +865,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bergisch Gladbach",
     "keyword5": "Industriereinigung Bergisch Gladbach",
     "imageKeyword": "Gebäudereinigung Bergisch Gladbach",
-    "imageAlt": "DATRA Gebäudereinigung in Bergisch Gladbach – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Bergisch Gladbach Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Bergisch Gladbach und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Bergisch Gladbach.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bergisch Gladbach – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Bergisch Gladbach Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Bergisch Gladbach und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Bergisch Gladbach.",
     "ctaText": "Jetzt kostenloses Angebot für Bergisch Gladbach anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bergisch Gladbach"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bergisch Gladbach"
   },
   "moers": {
     "slug": "moers",
@@ -879,7 +879,7 @@ export const cities: Record<string, CityData> = {
     "street": "Oberwallstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Moers: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Moers | DATRA – Fenster",
+    "title": "Gebäudereinigung Moers | Schmitter – Fenster",
     "metaDescription": "Schnell startklar in Moers: zügiger Angebotsweg, festes Team, reibungsloser Übergang. Sauberkeit ohne Mehraufwand.",
     "heroTitle": "Ihre Gebäudereinigung in Moers",
     "heroSubtitle": "Nachhaltig reinigen in Moers: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -897,10 +897,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Moers",
     "keyword5": "Industriereinigung Moers",
     "imageKeyword": "Gebäudereinigung Moers",
-    "imageAlt": "DATRA Gebäudereinigung in Moers – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Moers professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Moers mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Moers.",
+    "imageAlt": "Schmitter Gebäudereinigung in Moers – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Moers professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Moers mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Moers.",
     "ctaText": "Jetzt kostenloses Angebot für Moers anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Moers"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Moers"
   },
   "siegen": {
     "slug": "siegen",
@@ -911,7 +911,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Siegen",
-    "title": "Gebäudereinigung Siegen | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Siegen | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Gebäudereinigung Siegen ohne Umwege: verständliche Pakete, planbare Termine, verlässliche Resultate. Anfrage in wenigen Klicks.",
     "heroTitle": "Ihre Gebäudereinigung in Siegen",
     "heroSubtitle": "Für Unternehmen & Praxen in Siegen: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -929,10 +929,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Siegen",
     "keyword5": "Industriereinigung Siegen",
     "imageKeyword": "Gebäudereinigung Siegen",
-    "imageAlt": "DATRA Gebäudereinigung in Siegen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Siegen und Umgebung. In Siegen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Siegen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Siegen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Siegen und Umgebung. In Siegen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Siegen.",
     "ctaText": "Jetzt kostenloses Angebot für Siegen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Siegen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Siegen"
   },
   "guetersloh": {
     "slug": "guetersloh",
@@ -943,7 +943,7 @@ export const cities: Record<string, CityData> = {
     "street": "Berliner Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Gütersloh – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Gütersloh | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Gütersloh | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Risikoarm zur konstanten Hygiene in Gütersloh: geprüfte Abläufe, dokumentierte Leistungen, feste Ansprechpartner. Jetzt informieren.",
     "heroTitle": "Ihre Gebäudereinigung in Gütersloh",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Gütersloh.",
@@ -961,10 +961,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Gütersloh",
     "keyword5": "Industriereinigung Gütersloh",
     "imageKeyword": "Gebäudereinigung Gütersloh",
-    "imageAlt": "DATRA Gebäudereinigung in Gütersloh – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Gütersloh Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Gütersloh und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Gütersloh.",
+    "imageAlt": "Schmitter Gebäudereinigung in Gütersloh – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Gütersloh Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Gütersloh und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Gütersloh.",
     "ctaText": "Jetzt kostenloses Angebot für Gütersloh anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Gütersloh"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Gütersloh"
   },
   "witten": {
     "slug": "witten",
@@ -975,7 +975,7 @@ export const cities: Record<string, CityData> = {
     "street": "Wiesenstraße 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Witten",
-    "title": "Gebäudereinigung Witten | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Witten | Schmitter – fair & transparent",
     "metaDescription": "Verlässliche Gebäudereinigung Witten: gründlich, termintreu, nachvollziehbar. Perfekt für Unternehmen mit hohen Anforderungen.",
     "heroTitle": "Ihre Gebäudereinigung in Witten",
     "heroSubtitle": "Green Cleaning in Witten: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -993,10 +993,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Witten",
     "keyword5": "Industriereinigung Witten",
     "imageKeyword": "Gebäudereinigung Witten",
-    "imageAlt": "DATRA Gebäudereinigung in Witten – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Witten und Umgebung. In Witten als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Witten.",
+    "imageAlt": "Schmitter Gebäudereinigung in Witten – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Witten und Umgebung. In Witten als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Witten.",
     "ctaText": "Jetzt kostenloses Angebot für Witten anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Witten"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Witten"
   },
   "iserlohn": {
     "slug": "iserlohn",
@@ -1007,7 +1007,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Iserlohn mit Festpreisen",
-    "title": "Gebäudereinigung Iserlohn | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Iserlohn | Schmitter – effizient & günstig",
     "metaDescription": "Gebäudereinigung Iserlohn: planbar, gründlich, fair. Klare Angebote & schnelle Starttermine – jetzt Besichtigung anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Iserlohn",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Iserlohn.",
@@ -1025,10 +1025,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Iserlohn",
     "keyword5": "Industriereinigung Iserlohn",
     "imageKeyword": "Gebäudereinigung Iserlohn",
-    "imageAlt": "DATRA Gebäudereinigung in Iserlohn – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Iserlohn effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Iserlohn mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Iserlohn.",
+    "imageAlt": "Schmitter Gebäudereinigung in Iserlohn – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Iserlohn effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Iserlohn mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Iserlohn.",
     "ctaText": "Jetzt kostenloses Angebot für Iserlohn anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Iserlohn"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Iserlohn"
   },
   "dueren": {
     "slug": "dueren",
@@ -1039,7 +1039,7 @@ export const cities: Record<string, CityData> = {
     "street": "Rathausvorplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Düren – professionell & planbar",
-    "title": "Gebäudereinigung Düren | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Düren | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Düren für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Düren",
     "heroSubtitle": "Schneller Start in Düren: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -1057,10 +1057,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Düren",
     "keyword5": "Industriereinigung Düren",
     "imageKeyword": "Gebäudereinigung Düren",
-    "imageAlt": "DATRA Gebäudereinigung in Düren – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Düren und Umgebung. In Düren als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Düren.",
+    "imageAlt": "Schmitter Gebäudereinigung in Düren – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Düren und Umgebung. In Düren als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Düren.",
     "ctaText": "Jetzt kostenloses Angebot für Düren anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Düren"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Düren"
   },
   "ratingen": {
     "slug": "ratingen",
@@ -1071,7 +1071,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Ratingen für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Ratingen | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Ratingen | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Ratingen: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Ratingen",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Ratingen.",
@@ -1089,10 +1089,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Ratingen",
     "keyword5": "Industriereinigung Ratingen",
     "imageKeyword": "Gebäudereinigung Ratingen",
-    "imageAlt": "DATRA Gebäudereinigung in Ratingen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Ratingen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Ratingen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Ratingen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Ratingen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Ratingen professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Ratingen mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Ratingen.",
     "ctaText": "Jetzt kostenloses Angebot für Ratingen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Ratingen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Ratingen"
   },
   "luenen": {
     "slug": "luenen",
@@ -1103,7 +1103,7 @@ export const cities: Record<string, CityData> = {
     "street": "Goldstraße 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Lünen",
-    "title": "Gebäudereinigung Lünen | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Lünen | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Lünen: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Lünen",
     "heroSubtitle": "Transparente Reinigung für Lünen: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -1121,10 +1121,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Lünen",
     "keyword5": "Industriereinigung Lünen",
     "imageKeyword": "Gebäudereinigung Lünen",
-    "imageAlt": "DATRA Gebäudereinigung in Lünen – Professioneller Reinigungsservice",
-    "aboutText": "Schneller Start, verlässliche Qualität – DATRA macht Gebäudereinigung in Lünen einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Lünen. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Lünen übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Lünen – Professioneller Reinigungsservice",
+    "aboutText": "Schneller Start, verlässliche Qualität – Schmitter macht Gebäudereinigung in Lünen einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Lünen. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Lünen übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Lünen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Lünen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Lünen"
   },
   "marl": {
     "slug": "marl",
@@ -1135,7 +1135,7 @@ export const cities: Record<string, CityData> = {
     "street": "Garmannstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Marl: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Marl | DATRA – Fenster",
+    "title": "Gebäudereinigung Marl | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Marl – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Marl",
     "heroSubtitle": "Hygiene für Büro & Praxis in Marl – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -1153,10 +1153,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Marl",
     "keyword5": "Industriereinigung Marl",
     "imageKeyword": "Gebäudereinigung Marl",
-    "imageAlt": "DATRA Gebäudereinigung in Marl – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Marl Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Marl und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Marl.",
+    "imageAlt": "Schmitter Gebäudereinigung in Marl – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Marl Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Marl und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Marl.",
     "ctaText": "Jetzt kostenloses Angebot für Marl anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Marl"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Marl"
   },
   "velbert": {
     "slug": "velbert",
@@ -1167,7 +1167,7 @@ export const cities: Record<string, CityData> = {
     "street": "Am Offers 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Velbert",
-    "title": "Gebäudereinigung Velbert | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Velbert | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Velbert mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Velbert",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Velbert – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -1185,10 +1185,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Velbert",
     "keyword5": "Industriereinigung Velbert",
     "imageKeyword": "Gebäudereinigung Velbert",
-    "imageAlt": "DATRA Gebäudereinigung in Velbert – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Velbert Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Velbert und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Velbert.",
+    "imageAlt": "Schmitter Gebäudereinigung in Velbert – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Velbert Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Velbert und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Velbert.",
     "ctaText": "Jetzt kostenloses Angebot für Velbert anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Velbert"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Velbert"
   },
   "minden": {
     "slug": "minden",
@@ -1199,7 +1199,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Minden – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Minden | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Minden | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Minden: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Minden",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Minden.",
@@ -1217,10 +1217,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Minden",
     "keyword5": "Industriereinigung Minden",
     "imageKeyword": "Gebäudereinigung Minden",
-    "imageAlt": "DATRA Gebäudereinigung in Minden – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Minden und Umgebung. In Minden als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Minden.",
+    "imageAlt": "Schmitter Gebäudereinigung in Minden – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Minden und Umgebung. In Minden als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Minden.",
     "ctaText": "Jetzt kostenloses Angebot für Minden anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Minden"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Minden"
   },
   "troisdorf": {
     "slug": "troisdorf",
@@ -1231,7 +1231,7 @@ export const cities: Record<string, CityData> = {
     "street": "An der Feuerwache 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Troisdorf",
-    "title": "Gebäudereinigung Troisdorf | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Troisdorf | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Troisdorf: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Troisdorf",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Troisdorf.",
@@ -1249,10 +1249,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Troisdorf",
     "keyword5": "Industriereinigung Troisdorf",
     "imageKeyword": "Gebäudereinigung Troisdorf",
-    "imageAlt": "DATRA Gebäudereinigung in Troisdorf – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Troisdorf Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Troisdorf und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Troisdorf.",
+    "imageAlt": "Schmitter Gebäudereinigung in Troisdorf – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Troisdorf Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Troisdorf und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Troisdorf.",
     "ctaText": "Jetzt kostenloses Angebot für Troisdorf anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Troisdorf"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Troisdorf"
   },
   "viersen": {
     "slug": "viersen",
@@ -1263,7 +1263,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Viersen mit Festpreisen",
-    "title": "Gebäudereinigung Viersen | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Viersen | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Viersen: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Viersen",
     "heroSubtitle": "Nachhaltig reinigen in Viersen: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -1281,10 +1281,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Viersen",
     "keyword5": "Industriereinigung Viersen",
     "imageKeyword": "Gebäudereinigung Viersen",
-    "imageAlt": "DATRA Gebäudereinigung in Viersen – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Viersen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Viersen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Viersen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Viersen – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Viersen Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Viersen und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Viersen.",
     "ctaText": "Jetzt kostenloses Angebot für Viersen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Viersen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Viersen"
   },
   "rheine": {
     "slug": "rheine",
@@ -1295,7 +1295,7 @@ export const cities: Record<string, CityData> = {
     "street": "Auf dem Hügel 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Rheine – professionell & planbar",
-    "title": "Gebäudereinigung Rheine | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Rheine | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Rheine: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Rheine",
     "heroSubtitle": "Für Unternehmen & Praxen in Rheine: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -1313,10 +1313,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Rheine",
     "keyword5": "Industriereinigung Rheine",
     "imageKeyword": "Gebäudereinigung Rheine",
-    "imageAlt": "DATRA Gebäudereinigung in Rheine – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Rheine und Umgebung. In Rheine als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Rheine.",
+    "imageAlt": "Schmitter Gebäudereinigung in Rheine – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Rheine und Umgebung. In Rheine als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Rheine.",
     "ctaText": "Jetzt kostenloses Angebot für Rheine anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Rheine"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Rheine"
   },
   "luedenscheid": {
     "slug": "luedenscheid",
@@ -1327,7 +1327,7 @@ export const cities: Record<string, CityData> = {
     "street": "Königstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Lüdenscheid für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Lüdenscheid | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Lüdenscheid | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Lüdenscheid: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Lüdenscheid",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Lüdenscheid.",
@@ -1345,10 +1345,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Lüdenscheid",
     "keyword5": "Industriereinigung Lüdenscheid",
     "imageKeyword": "Gebäudereinigung Lüdenscheid",
-    "imageAlt": "DATRA Gebäudereinigung in Lüdenscheid – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Lüdenscheid – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Lüdenscheid vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Lüdenscheid.",
+    "imageAlt": "Schmitter Gebäudereinigung in Lüdenscheid – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Lüdenscheid – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Lüdenscheid vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Lüdenscheid.",
     "ctaText": "Jetzt kostenloses Angebot für Lüdenscheid anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Lüdenscheid"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Lüdenscheid"
   },
   "castrop-rauxel": {
     "slug": "castrop-rauxel",
@@ -1359,7 +1359,7 @@ export const cities: Record<string, CityData> = {
     "street": "Europaplatz 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Castrop-Rauxel",
-    "title": "Gebäudereinigung Castrop-Rauxel | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Castrop-Rauxel | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Strukturiert reinigen in Castrop-Rauxel: definierte Zuständigkeiten, messbare Qualität, kurze Wege zum Angebot. Jetzt Termin reservieren.",
     "heroTitle": "Ihre Gebäudereinigung in Castrop-Rauxel",
     "heroSubtitle": "Green Cleaning in Castrop-Rauxel: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -1377,10 +1377,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Castrop-Rauxel",
     "keyword5": "Industriereinigung Castrop-Rauxel",
     "imageKeyword": "Gebäudereinigung Castrop-Rauxel",
-    "imageAlt": "DATRA Gebäudereinigung in Castrop-Rauxel – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Castrop-Rauxel Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Castrop-Rauxel und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Castrop-Rauxel.",
+    "imageAlt": "Schmitter Gebäudereinigung in Castrop-Rauxel – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Castrop-Rauxel Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Castrop-Rauxel und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Castrop-Rauxel.",
     "ctaText": "Jetzt kostenloses Angebot für Castrop-Rauxel anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Castrop-Rauxel"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Castrop-Rauxel"
   },
   "gladbeck": {
     "slug": "gladbeck",
@@ -1391,7 +1391,7 @@ export const cities: Record<string, CityData> = {
     "street": "Friedrichstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Gladbeck: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Gladbeck | DATRA – Fenster",
+    "title": "Gebäudereinigung Gladbeck | Schmitter – Fenster",
     "metaDescription": "Schnell startklar in Gladbeck: zügiger Angebotsweg, festes Team, reibungsloser Übergang. Sauberkeit ohne Mehraufwand.",
     "heroTitle": "Ihre Gebäudereinigung in Gladbeck",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Gladbeck.",
@@ -1409,10 +1409,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Gladbeck",
     "keyword5": "Industriereinigung Gladbeck",
     "imageKeyword": "Gebäudereinigung Gladbeck",
-    "imageAlt": "DATRA Gebäudereinigung in Gladbeck – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Gladbeck – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Gladbeck vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Gladbeck.",
+    "imageAlt": "Schmitter Gebäudereinigung in Gladbeck – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Gladbeck – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Gladbeck vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Gladbeck.",
     "ctaText": "Jetzt kostenloses Angebot für Gladbeck anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Gladbeck"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Gladbeck"
   },
   "dorsten": {
     "slug": "dorsten",
@@ -1423,7 +1423,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Dorsten",
-    "title": "Gebäudereinigung Dorsten | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Dorsten | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Gebäudereinigung Dorsten ohne Umwege: verständliche Pakete, planbare Termine, verlässliche Resultate. Anfrage in wenigen Klicks.",
     "heroTitle": "Ihre Gebäudereinigung in Dorsten",
     "heroSubtitle": "Schneller Start in Dorsten: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -1441,10 +1441,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Dorsten",
     "keyword5": "Industriereinigung Dorsten",
     "imageKeyword": "Gebäudereinigung Dorsten",
-    "imageAlt": "DATRA Gebäudereinigung in Dorsten – Professioneller Reinigungsservice",
-    "aboutText": "Schneller Start, verlässliche Qualität – DATRA macht Gebäudereinigung in Dorsten einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Dorsten. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Dorsten übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Dorsten – Professioneller Reinigungsservice",
+    "aboutText": "Schneller Start, verlässliche Qualität – Schmitter macht Gebäudereinigung in Dorsten einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Dorsten. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Dorsten übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Dorsten anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Dorsten"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Dorsten"
   },
   "detmold": {
     "slug": "detmold",
@@ -1455,7 +1455,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Detmold – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Detmold | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Detmold | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Risikoarm zur konstanten Hygiene in Detmold: geprüfte Abläufe, dokumentierte Leistungen, feste Ansprechpartner. Jetzt informieren.",
     "heroTitle": "Ihre Gebäudereinigung in Detmold",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Detmold.",
@@ -1473,10 +1473,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Detmold",
     "keyword5": "Industriereinigung Detmold",
     "imageKeyword": "Gebäudereinigung Detmold",
-    "imageAlt": "DATRA Gebäudereinigung in Detmold – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Detmold – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Detmold vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Detmold.",
+    "imageAlt": "Schmitter Gebäudereinigung in Detmold – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Detmold – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Detmold vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Detmold.",
     "ctaText": "Jetzt kostenloses Angebot für Detmold anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Detmold"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Detmold"
   },
   "arnsberg": {
     "slug": "arnsberg",
@@ -1487,7 +1487,7 @@ export const cities: Record<string, CityData> = {
     "street": "B 229 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Arnsberg",
-    "title": "Gebäudereinigung Arnsberg | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Arnsberg | Schmitter – fair & transparent",
     "metaDescription": "Verlässliche Gebäudereinigung Arnsberg: gründlich, termintreu, nachvollziehbar. Perfekt für Unternehmen mit hohen Anforderungen.",
     "heroTitle": "Ihre Gebäudereinigung in Arnsberg",
     "heroSubtitle": "Transparente Reinigung für Arnsberg: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -1505,10 +1505,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Arnsberg",
     "keyword5": "Industriereinigung Arnsberg",
     "imageKeyword": "Gebäudereinigung Arnsberg",
-    "imageAlt": "DATRA Gebäudereinigung in Arnsberg – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Arnsberg Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Arnsberg und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Arnsberg.",
+    "imageAlt": "Schmitter Gebäudereinigung in Arnsberg – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Arnsberg Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Arnsberg und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Arnsberg.",
     "ctaText": "Jetzt kostenloses Angebot für Arnsberg anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Arnsberg"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Arnsberg"
   },
   "bocholt": {
     "slug": "bocholt",
@@ -1519,7 +1519,7 @@ export const cities: Record<string, CityData> = {
     "street": "Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bocholt mit Festpreisen",
-    "title": "Gebäudereinigung Bocholt | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Bocholt | Schmitter – effizient & günstig",
     "metaDescription": "Gebäudereinigung Bocholt: planbar, gründlich, fair. Klare Angebote & schnelle Starttermine – jetzt Besichtigung anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Bocholt",
     "heroSubtitle": "Hygiene für Büro & Praxis in Bocholt – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -1537,10 +1537,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bocholt",
     "keyword5": "Industriereinigung Bocholt",
     "imageKeyword": "Gebäudereinigung Bocholt",
-    "imageAlt": "DATRA Gebäudereinigung in Bocholt – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bocholt und Umgebung. In Bocholt als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bocholt.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bocholt – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bocholt und Umgebung. In Bocholt als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bocholt.",
     "ctaText": "Jetzt kostenloses Angebot für Bocholt anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bocholt"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bocholt"
   },
   "lippstadt": {
     "slug": "lippstadt",
@@ -1551,7 +1551,7 @@ export const cities: Record<string, CityData> = {
     "street": "Luchtenstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Lippstadt – professionell & planbar",
-    "title": "Gebäudereinigung Lippstadt | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Lippstadt | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Lippstadt für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Lippstadt",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Lippstadt – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -1569,10 +1569,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Lippstadt",
     "keyword5": "Industriereinigung Lippstadt",
     "imageKeyword": "Gebäudereinigung Lippstadt",
-    "imageAlt": "DATRA Gebäudereinigung in Lippstadt – Professioneller Reinigungsservice",
-    "aboutText": "In Lippstadt bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Lippstadt. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Lippstadt übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Lippstadt – Professioneller Reinigungsservice",
+    "aboutText": "In Lippstadt bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Lippstadt. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Lippstadt übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Lippstadt anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Lippstadt"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Lippstadt"
   },
   "dinslaken": {
     "slug": "dinslaken",
@@ -1583,7 +1583,7 @@ export const cities: Record<string, CityData> = {
     "street": "Friedrich-Ebert-Straße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Dinslaken für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Dinslaken | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Dinslaken | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Dinslaken: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Dinslaken",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Dinslaken.",
@@ -1601,10 +1601,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Dinslaken",
     "keyword5": "Industriereinigung Dinslaken",
     "imageKeyword": "Gebäudereinigung Dinslaken",
-    "imageAlt": "DATRA Gebäudereinigung in Dinslaken – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Dinslaken – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Dinslaken vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Dinslaken.",
+    "imageAlt": "Schmitter Gebäudereinigung in Dinslaken – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Dinslaken – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Dinslaken vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Dinslaken.",
     "ctaText": "Jetzt kostenloses Angebot für Dinslaken anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Dinslaken"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Dinslaken"
   },
   "luebbecke": {
     "slug": "luebbecke",
@@ -1615,7 +1615,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Lübbecke",
-    "title": "Gebäudereinigung Lübbecke | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Lübbecke | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Lübbecke: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Lübbecke",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Lübbecke.",
@@ -1633,10 +1633,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Lübbecke",
     "keyword5": "Industriereinigung Lübbecke",
     "imageKeyword": "Gebäudereinigung Lübbecke",
-    "imageAlt": "DATRA Gebäudereinigung in Lübbecke – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Lübbecke Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Lübbecke und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Lübbecke.",
+    "imageAlt": "Schmitter Gebäudereinigung in Lübbecke – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Lübbecke Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Lübbecke und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Lübbecke.",
     "ctaText": "Jetzt kostenloses Angebot für Lübbecke anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Lübbecke"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Lübbecke"
   },
   "kerpen": {
     "slug": "kerpen",
@@ -1647,7 +1647,7 @@ export const cities: Record<string, CityData> = {
     "street": "Stiftsstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Kerpen: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Kerpen | DATRA – Fenster",
+    "title": "Gebäudereinigung Kerpen | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Kerpen – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Kerpen",
     "heroSubtitle": "Nachhaltig reinigen in Kerpen: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -1665,10 +1665,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Kerpen",
     "keyword5": "Industriereinigung Kerpen",
     "imageKeyword": "Gebäudereinigung Kerpen",
-    "imageAlt": "DATRA Gebäudereinigung in Kerpen – Professioneller Reinigungsservice",
-    "aboutText": "In Kerpen bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Kerpen. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Kerpen übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Kerpen – Professioneller Reinigungsservice",
+    "aboutText": "In Kerpen bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Kerpen. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Kerpen übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Kerpen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Kerpen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Kerpen"
   },
   "wesel": {
     "slug": "wesel",
@@ -1679,7 +1679,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hohe Straße 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Wesel",
-    "title": "Gebäudereinigung Wesel | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Wesel | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Wesel mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Wesel",
     "heroSubtitle": "Für Unternehmen & Praxen in Wesel: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -1697,10 +1697,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Wesel",
     "keyword5": "Industriereinigung Wesel",
     "imageKeyword": "Gebäudereinigung Wesel",
-    "imageAlt": "DATRA Gebäudereinigung in Wesel – Professioneller Reinigungsservice",
-    "aboutText": "In Wesel sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Wesel bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Wesel.",
+    "imageAlt": "Schmitter Gebäudereinigung in Wesel – Professioneller Reinigungsservice",
+    "aboutText": "In Wesel sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Wesel bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Wesel.",
     "ctaText": "Jetzt kostenloses Angebot für Wesel anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Wesel"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Wesel"
   },
   "grevenbroich": {
     "slug": "grevenbroich",
@@ -1711,7 +1711,7 @@ export const cities: Record<string, CityData> = {
     "street": "Am Flutgraben 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Grevenbroich – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Grevenbroich | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Grevenbroich | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Grevenbroich: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Grevenbroich",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Grevenbroich.",
@@ -1729,10 +1729,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Grevenbroich",
     "keyword5": "Industriereinigung Grevenbroich",
     "imageKeyword": "Gebäudereinigung Grevenbroich",
-    "imageAlt": "DATRA Gebäudereinigung in Grevenbroich – Professioneller Reinigungsservice",
-    "aboutText": "In Grevenbroich sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Grevenbroich bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Grevenbroich.",
+    "imageAlt": "Schmitter Gebäudereinigung in Grevenbroich – Professioneller Reinigungsservice",
+    "aboutText": "In Grevenbroich sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Grevenbroich bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Grevenbroich.",
     "ctaText": "Jetzt kostenloses Angebot für Grevenbroich anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Grevenbroich"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Grevenbroich"
   },
   "herten": {
     "slug": "herten",
@@ -1743,7 +1743,7 @@ export const cities: Record<string, CityData> = {
     "street": "Blumenstraße 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Herten",
-    "title": "Gebäudereinigung Herten | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Herten | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Herten: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Herten",
     "heroSubtitle": "Green Cleaning in Herten: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -1761,10 +1761,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Herten",
     "keyword5": "Industriereinigung Herten",
     "imageKeyword": "Gebäudereinigung Herten",
-    "imageAlt": "DATRA Gebäudereinigung in Herten – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Herten professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Herten mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Herten.",
+    "imageAlt": "Schmitter Gebäudereinigung in Herten – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Herten professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Herten mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Herten.",
     "ctaText": "Jetzt kostenloses Angebot für Herten anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Herten"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Herten"
   },
   "bergheim": {
     "slug": "bergheim",
@@ -1775,7 +1775,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hubert-Rheinfeld-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Bergheim mit Festpreisen",
-    "title": "Gebäudereinigung Bergheim | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Bergheim | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Bergheim: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Bergheim",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Bergheim.",
@@ -1793,10 +1793,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bergheim",
     "keyword5": "Industriereinigung Bergheim",
     "imageKeyword": "Gebäudereinigung Bergheim",
-    "imageAlt": "DATRA Gebäudereinigung in Bergheim – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bergheim und Umgebung. In Bergheim als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bergheim.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bergheim – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bergheim und Umgebung. In Bergheim als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bergheim.",
     "ctaText": "Jetzt kostenloses Angebot für Bergheim anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bergheim"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bergheim"
   },
   "dormagen": {
     "slug": "dormagen",
@@ -1807,7 +1807,7 @@ export const cities: Record<string, CityData> = {
     "street": "Paul-Wierich-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Dormagen – professionell & planbar",
-    "title": "Gebäudereinigung Dormagen | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Dormagen | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Dormagen: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Dormagen",
     "heroSubtitle": "Schneller Start in Dormagen: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -1825,10 +1825,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Dormagen",
     "keyword5": "Industriereinigung Dormagen",
     "imageKeyword": "Gebäudereinigung Dormagen",
-    "imageAlt": "DATRA Gebäudereinigung in Dormagen – Professioneller Reinigungsservice",
-    "aboutText": "In Dormagen bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Dormagen. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Dormagen übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Dormagen – Professioneller Reinigungsservice",
+    "aboutText": "In Dormagen bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Dormagen. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Dormagen übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Dormagen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Dormagen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Dormagen"
   },
   "unna": {
     "slug": "unna",
@@ -1839,7 +1839,7 @@ export const cities: Record<string, CityData> = {
     "street": "Schulstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Unna für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Unna | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Unna | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Unna: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Unna",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Unna.",
@@ -1857,10 +1857,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Unna",
     "keyword5": "Industriereinigung Unna",
     "imageKeyword": "Gebäudereinigung Unna",
-    "imageAlt": "DATRA Gebäudereinigung in Unna – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Unna effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Unna mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Unna.",
+    "imageAlt": "Schmitter Gebäudereinigung in Unna – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Unna effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Unna mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Unna.",
     "ctaText": "Jetzt kostenloses Angebot für Unna anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Unna"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Unna"
   },
   "langenfeld": {
     "slug": "langenfeld",
@@ -1871,7 +1871,7 @@ export const cities: Record<string, CityData> = {
     "street": "Akazienallee 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Langenfeld",
-    "title": "Gebäudereinigung Langenfeld | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Langenfeld | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Strukturiert reinigen in Langenfeld: definierte Zuständigkeiten, messbare Qualität, kurze Wege zum Angebot. Jetzt Termin reservieren.",
     "heroTitle": "Ihre Gebäudereinigung in Langenfeld",
     "heroSubtitle": "Transparente Reinigung für Langenfeld: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -1889,10 +1889,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Langenfeld",
     "keyword5": "Industriereinigung Langenfeld",
     "imageKeyword": "Gebäudereinigung Langenfeld",
-    "imageAlt": "DATRA Gebäudereinigung in Langenfeld – Professioneller Reinigungsservice",
-    "aboutText": "In Langenfeld sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Langenfeld bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Langenfeld.",
+    "imageAlt": "Schmitter Gebäudereinigung in Langenfeld – Professioneller Reinigungsservice",
+    "aboutText": "In Langenfeld sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Langenfeld bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Langenfeld.",
     "ctaText": "Jetzt kostenloses Angebot für Langenfeld anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Langenfeld"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Langenfeld"
   },
   "willich": {
     "slug": "willich",
@@ -1903,7 +1903,7 @@ export const cities: Record<string, CityData> = {
     "street": "Mühlenstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Willich: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Willich | DATRA – Fenster",
+    "title": "Gebäudereinigung Willich | Schmitter – Fenster",
     "metaDescription": "Schnell startklar in Willich: zügiger Angebotsweg, festes Team, reibungsloser Übergang. Sauberkeit ohne Mehraufwand.",
     "heroTitle": "Ihre Gebäudereinigung in Willich",
     "heroSubtitle": "Hygiene für Büro & Praxis in Willich – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -1921,10 +1921,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Willich",
     "keyword5": "Industriereinigung Willich",
     "imageKeyword": "Gebäudereinigung Willich",
-    "imageAlt": "DATRA Gebäudereinigung in Willich – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Willich effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Willich mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Willich.",
+    "imageAlt": "Schmitter Gebäudereinigung in Willich – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Willich effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Willich mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Willich.",
     "ctaText": "Jetzt kostenloses Angebot für Willich anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Willich"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Willich"
   },
   "huerth": {
     "slug": "huerth",
@@ -1935,7 +1935,7 @@ export const cities: Record<string, CityData> = {
     "street": "Spijkenisser Straße 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Hürth",
-    "title": "Gebäudereinigung Hürth | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Hürth | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Gebäudereinigung Hürth ohne Umwege: verständliche Pakete, planbare Termine, verlässliche Resultate. Anfrage in wenigen Klicks.",
     "heroTitle": "Ihre Gebäudereinigung in Hürth",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Hürth – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -1953,10 +1953,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Hürth",
     "keyword5": "Industriereinigung Hürth",
     "imageKeyword": "Gebäudereinigung Hürth",
-    "imageAlt": "DATRA Gebäudereinigung in Hürth – Professioneller Reinigungsservice",
-    "aboutText": "In Hürth sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Hürth bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Hürth.",
+    "imageAlt": "Schmitter Gebäudereinigung in Hürth – Professioneller Reinigungsservice",
+    "aboutText": "In Hürth sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Hürth bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Hürth.",
     "ctaText": "Jetzt kostenloses Angebot für Hürth anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Hürth"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Hürth"
   },
   "hilden": {
     "slug": "hilden",
@@ -1967,7 +1967,7 @@ export const cities: Record<string, CityData> = {
     "street": "Mittelstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Hilden – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Hilden | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Hilden | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Risikoarm zur konstanten Hygiene in Hilden: geprüfte Abläufe, dokumentierte Leistungen, feste Ansprechpartner. Jetzt informieren.",
     "heroTitle": "Ihre Gebäudereinigung in Hilden",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Hilden.",
@@ -1985,10 +1985,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Hilden",
     "keyword5": "Industriereinigung Hilden",
     "imageKeyword": "Gebäudereinigung Hilden",
-    "imageAlt": "DATRA Gebäudereinigung in Hilden – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Hilden Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Hilden und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Hilden.",
+    "imageAlt": "Schmitter Gebäudereinigung in Hilden – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Hilden Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Hilden und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Hilden.",
     "ctaText": "Jetzt kostenloses Angebot für Hilden anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Hilden"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Hilden"
   },
   "meerbusch": {
     "slug": "meerbusch",
@@ -1999,7 +1999,7 @@ export const cities: Record<string, CityData> = {
     "street": "Haus Meer 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Meerbusch",
-    "title": "Gebäudereinigung Meerbusch | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Meerbusch | Schmitter – fair & transparent",
     "metaDescription": "Verlässliche Gebäudereinigung Meerbusch: gründlich, termintreu, nachvollziehbar. Perfekt für Unternehmen mit hohen Anforderungen.",
     "heroTitle": "Ihre Gebäudereinigung in Meerbusch",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Meerbusch.",
@@ -2017,10 +2017,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Meerbusch",
     "keyword5": "Industriereinigung Meerbusch",
     "imageKeyword": "Gebäudereinigung Meerbusch",
-    "imageAlt": "DATRA Gebäudereinigung in Meerbusch – Professioneller Reinigungsservice",
-    "aboutText": "In Meerbusch sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meerbusch bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meerbusch.",
+    "imageAlt": "Schmitter Gebäudereinigung in Meerbusch – Professioneller Reinigungsservice",
+    "aboutText": "In Meerbusch sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meerbusch bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meerbusch.",
     "ctaText": "Jetzt kostenloses Angebot für Meerbusch anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Meerbusch"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Meerbusch"
   },
   "pulheim": {
     "slug": "pulheim",
@@ -2031,7 +2031,7 @@ export const cities: Record<string, CityData> = {
     "street": "Wilhelm-Mevis-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Pulheim mit Festpreisen",
-    "title": "Gebäudereinigung Pulheim | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Pulheim | Schmitter – effizient & günstig",
     "metaDescription": "Gebäudereinigung Pulheim: planbar, gründlich, fair. Klare Angebote & schnelle Starttermine – jetzt Besichtigung anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Pulheim",
     "heroSubtitle": "Nachhaltig reinigen in Pulheim: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -2049,10 +2049,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Pulheim",
     "keyword5": "Industriereinigung Pulheim",
     "imageKeyword": "Gebäudereinigung Pulheim",
-    "imageAlt": "DATRA Gebäudereinigung in Pulheim – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Pulheim effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Pulheim mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Pulheim.",
+    "imageAlt": "Schmitter Gebäudereinigung in Pulheim – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Pulheim effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Pulheim mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Pulheim.",
     "ctaText": "Jetzt kostenloses Angebot für Pulheim anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Pulheim"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Pulheim"
   },
   "wesseling": {
     "slug": "wesseling",
@@ -2063,7 +2063,7 @@ export const cities: Record<string, CityData> = {
     "street": "Alfons-Müller-Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Wesseling – professionell & planbar",
-    "title": "Gebäudereinigung Wesseling | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Wesseling | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Wesseling für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Wesseling",
     "heroSubtitle": "Für Unternehmen & Praxen in Wesseling: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -2081,10 +2081,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Wesseling",
     "keyword5": "Industriereinigung Wesseling",
     "imageKeyword": "Gebäudereinigung Wesseling",
-    "imageAlt": "DATRA Gebäudereinigung in Wesseling – Professioneller Reinigungsservice",
-    "aboutText": "In Wesseling bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Wesseling. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Wesseling übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Wesseling – Professioneller Reinigungsservice",
+    "aboutText": "In Wesseling bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Wesseling. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Wesseling übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Wesseling anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Wesseling"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Wesseling"
   },
   "euskirchen": {
     "slug": "euskirchen",
@@ -2095,7 +2095,7 @@ export const cities: Record<string, CityData> = {
     "street": "Alter Markt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Euskirchen für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Euskirchen | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Euskirchen | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Euskirchen: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Euskirchen",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Euskirchen.",
@@ -2113,10 +2113,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Euskirchen",
     "keyword5": "Industriereinigung Euskirchen",
     "imageKeyword": "Gebäudereinigung Euskirchen",
-    "imageAlt": "DATRA Gebäudereinigung in Euskirchen – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Euskirchen – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Euskirchen vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Euskirchen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Euskirchen – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Euskirchen – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Euskirchen vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Euskirchen.",
     "ctaText": "Jetzt kostenloses Angebot für Euskirchen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Euskirchen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Euskirchen"
   },
   "niederkassel": {
     "slug": "niederkassel",
@@ -2127,7 +2127,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Niederkassel",
-    "title": "Gebäudereinigung Niederkassel | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Niederkassel | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Niederkassel: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Niederkassel",
     "heroSubtitle": "Green Cleaning in Niederkassel: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -2145,10 +2145,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Niederkassel",
     "keyword5": "Industriereinigung Niederkassel",
     "imageKeyword": "Gebäudereinigung Niederkassel",
-    "imageAlt": "DATRA Gebäudereinigung in Niederkassel – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Niederkassel Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Niederkassel und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Niederkassel.",
+    "imageAlt": "Schmitter Gebäudereinigung in Niederkassel – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Niederkassel Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Niederkassel und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Niederkassel.",
     "ctaText": "Jetzt kostenloses Angebot für Niederkassel anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Niederkassel"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Niederkassel"
   },
   "erkelenz": {
     "slug": "erkelenz",
@@ -2159,7 +2159,7 @@ export const cities: Record<string, CityData> = {
     "street": "Im Pangel 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Erkelenz: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Erkelenz | DATRA – Fenster",
+    "title": "Gebäudereinigung Erkelenz | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Erkelenz – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Erkelenz",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Erkelenz.",
@@ -2177,10 +2177,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Erkelenz",
     "keyword5": "Industriereinigung Erkelenz",
     "imageKeyword": "Gebäudereinigung Erkelenz",
-    "imageAlt": "DATRA Gebäudereinigung in Erkelenz – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Erkelenz professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Erkelenz mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Erkelenz.",
+    "imageAlt": "Schmitter Gebäudereinigung in Erkelenz – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Erkelenz professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Erkelenz mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Erkelenz.",
     "ctaText": "Jetzt kostenloses Angebot für Erkelenz anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Erkelenz"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Erkelenz"
   },
   "sankt-augustin": {
     "slug": "sankt-augustin",
@@ -2191,7 +2191,7 @@ export const cities: Record<string, CityData> = {
     "street": "Astrid-Lindgren-Straße 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Sankt Augustin",
-    "title": "Gebäudereinigung Sankt Augustin | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Sankt Augustin | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Sankt Augustin mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Sankt Augustin",
     "heroSubtitle": "Schneller Start in Sankt Augustin: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -2209,10 +2209,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Sankt Augustin",
     "keyword5": "Industriereinigung Sankt Augustin",
     "imageKeyword": "Gebäudereinigung Sankt Augustin",
-    "imageAlt": "DATRA Gebäudereinigung in Sankt Augustin – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Sankt Augustin professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Sankt Augustin mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Sankt Augustin.",
+    "imageAlt": "Schmitter Gebäudereinigung in Sankt Augustin – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Sankt Augustin professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Sankt Augustin mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Sankt Augustin.",
     "ctaText": "Jetzt kostenloses Angebot für Sankt Augustin anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Sankt Augustin"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Sankt Augustin"
   },
   "koenigswinter": {
     "slug": "koenigswinter",
@@ -2223,7 +2223,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Königswinter – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Königswinter | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Königswinter | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Königswinter: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Königswinter",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Königswinter.",
@@ -2241,10 +2241,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Königswinter",
     "keyword5": "Industriereinigung Königswinter",
     "imageKeyword": "Gebäudereinigung Königswinter",
-    "imageAlt": "DATRA Gebäudereinigung in Königswinter – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Königswinter – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Königswinter vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Königswinter.",
+    "imageAlt": "Schmitter Gebäudereinigung in Königswinter – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Königswinter – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Königswinter vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Königswinter.",
     "ctaText": "Jetzt kostenloses Angebot für Königswinter anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Königswinter"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Königswinter"
   },
   "bruehl": {
     "slug": "bruehl",
@@ -2255,7 +2255,7 @@ export const cities: Record<string, CityData> = {
     "street": "Heinrich-Fetten-Platz 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Brühl",
-    "title": "Gebäudereinigung Brühl | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Brühl | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Brühl: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Brühl",
     "heroSubtitle": "Transparente Reinigung für Brühl: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -2273,10 +2273,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Brühl",
     "keyword5": "Industriereinigung Brühl",
     "imageKeyword": "Gebäudereinigung Brühl",
-    "imageAlt": "DATRA Gebäudereinigung in Brühl – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Brühl Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Brühl und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Brühl.",
+    "imageAlt": "Schmitter Gebäudereinigung in Brühl – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Brühl Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Brühl und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Brühl.",
     "ctaText": "Jetzt kostenloses Angebot für Brühl anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Brühl"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Brühl"
   },
   "siegburg": {
     "slug": "siegburg",
@@ -2287,7 +2287,7 @@ export const cities: Record<string, CityData> = {
     "street": "Marktplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Siegburg mit Festpreisen",
-    "title": "Gebäudereinigung Siegburg | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Siegburg | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Siegburg: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Siegburg",
     "heroSubtitle": "Hygiene für Büro & Praxis in Siegburg – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -2305,10 +2305,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Siegburg",
     "keyword5": "Industriereinigung Siegburg",
     "imageKeyword": "Gebäudereinigung Siegburg",
-    "imageAlt": "DATRA Gebäudereinigung in Siegburg – Professioneller Reinigungsservice",
-    "aboutText": "In Siegburg sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Siegburg bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Siegburg.",
+    "imageAlt": "Schmitter Gebäudereinigung in Siegburg – Professioneller Reinigungsservice",
+    "aboutText": "In Siegburg sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Siegburg bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Siegburg.",
     "ctaText": "Jetzt kostenloses Angebot für Siegburg anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Siegburg"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Siegburg"
   },
   "hennef": {
     "slug": "hennef",
@@ -2319,7 +2319,7 @@ export const cities: Record<string, CityData> = {
     "street": "Rathausplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Hennef – professionell & planbar",
-    "title": "Gebäudereinigung Hennef | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Hennef | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Hennef: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Hennef",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Hennef – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -2337,10 +2337,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Hennef",
     "keyword5": "Industriereinigung Hennef",
     "imageKeyword": "Gebäudereinigung Hennef",
-    "imageAlt": "DATRA Gebäudereinigung in Hennef – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Hennef Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Hennef und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Hennef.",
+    "imageAlt": "Schmitter Gebäudereinigung in Hennef – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Hennef Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Hennef und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Hennef.",
     "ctaText": "Jetzt kostenloses Angebot für Hennef anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Hennef"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Hennef"
   },
   "kleve": {
     "slug": "kleve",
@@ -2351,7 +2351,7 @@ export const cities: Record<string, CityData> = {
     "street": "Regenbogen 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Kleve für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Kleve | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Kleve | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Kleve: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Kleve",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Kleve.",
@@ -2369,10 +2369,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Kleve",
     "keyword5": "Industriereinigung Kleve",
     "imageKeyword": "Gebäudereinigung Kleve",
-    "imageAlt": "DATRA Gebäudereinigung in Kleve – Professioneller Reinigungsservice",
-    "aboutText": "Schneller Start, verlässliche Qualität – DATRA macht Gebäudereinigung in Kleve einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Kleve. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Kleve übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Kleve – Professioneller Reinigungsservice",
+    "aboutText": "Schneller Start, verlässliche Qualität – Schmitter macht Gebäudereinigung in Kleve einfach. Mit kurzen Reaktionszeiten, transparenten Festpreisen und flexiblen Einsatzzeiten sind wir der ideale Partner für Unternehmen in Kleve. Unsere erfahrenen Reinigungskräfte kennen die lokalen Anforderungen und arbeiten diskret sowie effizient. Ob regelmäßige Unterhaltsreinigung, einmalige Grundreinigung oder Sonderreinigungen – wir bieten das komplette Leistungsspektrum aus einer Hand. Profitieren Sie von über 15 Jahren Expertise, modernster Reinigungstechnik und einem Service, der Ihre Erwartungen in Kleve übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Kleve anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Kleve"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Kleve"
   },
   "frechen": {
     "slug": "frechen",
@@ -2383,7 +2383,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Frechen",
-    "title": "Gebäudereinigung Frechen | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Frechen | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Strukturiert reinigen in Frechen: definierte Zuständigkeiten, messbare Qualität, kurze Wege zum Angebot. Jetzt Termin reservieren.",
     "heroTitle": "Ihre Gebäudereinigung in Frechen",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Frechen.",
@@ -2401,10 +2401,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Frechen",
     "keyword5": "Industriereinigung Frechen",
     "imageKeyword": "Gebäudereinigung Frechen",
-    "imageAlt": "DATRA Gebäudereinigung in Frechen – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Frechen und Umgebung. In Frechen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Frechen.",
+    "imageAlt": "Schmitter Gebäudereinigung in Frechen – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Frechen und Umgebung. In Frechen als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Frechen.",
     "ctaText": "Jetzt kostenloses Angebot für Frechen anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Frechen"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Frechen"
   },
   "uebach-palenberg": {
     "slug": "uebach-palenberg",
@@ -2415,7 +2415,7 @@ export const cities: Record<string, CityData> = {
     "street": "Carlsplatz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Übach-Palenberg: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Übach-Palenberg | DATRA – Fenster",
+    "title": "Gebäudereinigung Übach-Palenberg | Schmitter – Fenster",
     "metaDescription": "Schnell startklar in Übach-Palenberg: zügiger Angebotsweg, festes Team, reibungsloser Übergang. Sauberkeit ohne Mehraufwand.",
     "heroTitle": "Ihre Gebäudereinigung in Übach-Palenberg",
     "heroSubtitle": "Nachhaltig reinigen in Übach-Palenberg: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -2433,10 +2433,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Übach-Palenberg",
     "keyword5": "Industriereinigung Übach-Palenberg",
     "imageKeyword": "Gebäudereinigung Übach-Palenberg",
-    "imageAlt": "DATRA Gebäudereinigung in Übach-Palenberg – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Übach-Palenberg – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Übach-Palenberg vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Übach-Palenberg.",
+    "imageAlt": "Schmitter Gebäudereinigung in Übach-Palenberg – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Übach-Palenberg – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Übach-Palenberg vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Übach-Palenberg.",
     "ctaText": "Jetzt kostenloses Angebot für Übach-Palenberg anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Übach-Palenberg"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Übach-Palenberg"
   },
   "kamp-lintfort": {
     "slug": "kamp-lintfort",
@@ -2447,7 +2447,7 @@ export const cities: Record<string, CityData> = {
     "street": "Moerser Straße 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Kamp-Lintfort",
-    "title": "Gebäudereinigung Kamp-Lintfort | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Kamp-Lintfort | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Gebäudereinigung Kamp-Lintfort ohne Umwege: verständliche Pakete, planbare Termine, verlässliche Resultate. Anfrage in wenigen Klicks.",
     "heroTitle": "Ihre Gebäudereinigung in Kamp-Lintfort",
     "heroSubtitle": "Für Unternehmen & Praxen in Kamp-Lintfort: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -2465,10 +2465,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Kamp-Lintfort",
     "keyword5": "Industriereinigung Kamp-Lintfort",
     "imageKeyword": "Gebäudereinigung Kamp-Lintfort",
-    "imageAlt": "DATRA Gebäudereinigung in Kamp-Lintfort – Professioneller Reinigungsservice",
-    "aboutText": "In Kamp-Lintfort sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Kamp-Lintfort bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Kamp-Lintfort.",
+    "imageAlt": "Schmitter Gebäudereinigung in Kamp-Lintfort – Professioneller Reinigungsservice",
+    "aboutText": "In Kamp-Lintfort sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Kamp-Lintfort bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Kamp-Lintfort.",
     "ctaText": "Jetzt kostenloses Angebot für Kamp-Lintfort anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Kamp-Lintfort"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Kamp-Lintfort"
   },
   "erkrath": {
     "slug": "erkrath",
@@ -2479,7 +2479,7 @@ export const cities: Record<string, CityData> = {
     "street": "Bismarckstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Erkrath – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Erkrath | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Erkrath | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Risikoarm zur konstanten Hygiene in Erkrath: geprüfte Abläufe, dokumentierte Leistungen, feste Ansprechpartner. Jetzt informieren.",
     "heroTitle": "Ihre Gebäudereinigung in Erkrath",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Erkrath.",
@@ -2497,10 +2497,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Erkrath",
     "keyword5": "Industriereinigung Erkrath",
     "imageKeyword": "Gebäudereinigung Erkrath",
-    "imageAlt": "DATRA Gebäudereinigung in Erkrath – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Erkrath – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Erkrath vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Erkrath.",
+    "imageAlt": "Schmitter Gebäudereinigung in Erkrath – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Erkrath – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Erkrath vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Erkrath.",
     "ctaText": "Jetzt kostenloses Angebot für Erkrath anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Erkrath"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Erkrath"
   },
   "meckenheim": {
     "slug": "meckenheim",
@@ -2511,7 +2511,7 @@ export const cities: Record<string, CityData> = {
     "street": "Merler Straße 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Meckenheim",
-    "title": "Gebäudereinigung Meckenheim | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Meckenheim | Schmitter – fair & transparent",
     "metaDescription": "Verlässliche Gebäudereinigung Meckenheim: gründlich, termintreu, nachvollziehbar. Perfekt für Unternehmen mit hohen Anforderungen.",
     "heroTitle": "Ihre Gebäudereinigung in Meckenheim",
     "heroSubtitle": "Green Cleaning in Meckenheim: ressourcenschonend, materialverträglich und wirksam – ohne Kompromisse bei der Hygiene.",
@@ -2529,10 +2529,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Meckenheim",
     "keyword5": "Industriereinigung Meckenheim",
     "imageKeyword": "Gebäudereinigung Meckenheim",
-    "imageAlt": "DATRA Gebäudereinigung in Meckenheim – Professioneller Reinigungsservice",
-    "aboutText": "In Meckenheim sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meckenheim bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meckenheim.",
+    "imageAlt": "Schmitter Gebäudereinigung in Meckenheim – Professioneller Reinigungsservice",
+    "aboutText": "In Meckenheim sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meckenheim bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meckenheim.",
     "ctaText": "Jetzt kostenloses Angebot für Meckenheim anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Meckenheim"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Meckenheim"
   },
   "mettmann": {
     "slug": "mettmann",
@@ -2543,7 +2543,7 @@ export const cities: Record<string, CityData> = {
     "street": "Adlerstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Mettmann mit Festpreisen",
-    "title": "Gebäudereinigung Mettmann | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Mettmann | Schmitter – effizient & günstig",
     "metaDescription": "Gebäudereinigung Mettmann: planbar, gründlich, fair. Klare Angebote & schnelle Starttermine – jetzt Besichtigung anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Mettmann",
     "heroSubtitle": "Planbar sauber: feste Ansprechpartner, definierte Leistungsverzeichnisse und faire Preise in Mettmann.",
@@ -2561,10 +2561,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Mettmann",
     "keyword5": "Industriereinigung Mettmann",
     "imageKeyword": "Gebäudereinigung Mettmann",
-    "imageAlt": "DATRA Gebäudereinigung in Mettmann – Professioneller Reinigungsservice",
-    "aboutText": "Mehr Leistung fürs Budget – DATRA bietet in Mettmann effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Mettmann mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit DATRA erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Mettmann.",
+    "imageAlt": "Schmitter Gebäudereinigung in Mettmann – Professioneller Reinigungsservice",
+    "aboutText": "Mehr Leistung fürs Budget – Schmitter bietet in Mettmann effiziente Gebäudereinigung zu fairen Konditionen. Durch optimierte Prozesse, geschultes Personal und moderne Reinigungstechnik halten wir die Kosten niedrig, ohne an der Qualität zu sparen. In Mettmann mit seinen vielfältigen Wirtschaftsbranchen verstehen wir die Bedeutung eines ausgezeichneten Preis-Leistungs-Verhältnisses. Unsere transparenten Festpreise, kurzen Angebotszeiten und flexiblen Vertragsmodelle machen Gebäudereinigung kalkulierbar. Ob Büro, Praxis oder Industrieanlage – mit Schmitter erhalten Sie messbare Qualität, dokumentierte Leistungen und einen Service, der sich rechnet in Mettmann.",
     "ctaText": "Jetzt kostenloses Angebot für Mettmann anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Mettmann"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Mettmann"
   },
   "rheinbach": {
     "slug": "rheinbach",
@@ -2575,7 +2575,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Rheinbach – professionell & planbar",
-    "title": "Gebäudereinigung Rheinbach | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Rheinbach | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Gebäudereinigung in Rheinbach für höchste Ansprüche: planbare Abläufe, dokumentierte Qualität, feste Ansprechpartner. Jetzt unverbindlich beraten lassen.",
     "heroTitle": "Ihre Gebäudereinigung in Rheinbach",
     "heroSubtitle": "Schneller Start in Rheinbach: Besichtigung, Fixpreis-Angebot, Übergabe an ein eingespieltes Team.",
@@ -2593,10 +2593,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Rheinbach",
     "keyword5": "Industriereinigung Rheinbach",
     "imageKeyword": "Gebäudereinigung Rheinbach",
-    "imageAlt": "DATRA Gebäudereinigung in Rheinbach – Professioneller Reinigungsservice",
-    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Rheinbach Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. DATRA steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Rheinbach und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Rheinbach.",
+    "imageAlt": "Schmitter Gebäudereinigung in Rheinbach – Professioneller Reinigungsservice",
+    "aboutText": "Als erfahrener Partner für Gebäudereinigung sind wir in Rheinbach Ihr kompetenter Ansprechpartner für sämtliche Reinigungsdienstleistungen. Schmitter steht für messbare Qualität: dokumentierte Leistungen, klare Standards und verlässliche Ergebnisse. Unsere zertifizierten Reinigungskräfte kennen die speziellen Anforderungen in Rheinbach und setzen modernste Reinigungstechnologien sowie umweltfreundliche Reinigungsmittel ein. Ob Bürogebäude, Produktionshallen, medizinische Einrichtungen oder öffentliche Gebäude – wir garantieren höchste Hygienestandards und nachhaltige Sauberkeit. Profitieren Sie von unserer langjährigen Erfahrung und einem ausgezeichneten Preis-Leistungs-Verhältnis in Rheinbach.",
     "ctaText": "Jetzt kostenloses Angebot für Rheinbach anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Rheinbach"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Rheinbach"
   },
   "gevelsberg": {
     "slug": "gevelsberg",
@@ -2607,7 +2607,7 @@ export const cities: Record<string, CityData> = {
     "street": "Vendômer Platz 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Gevelsberg für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Gevelsberg | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Gevelsberg | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Sauberkeit mit Methode in Gevelsberg: klare Leistungsverzeichnisse, messbare Ergebnisse, zuverlässige Teams. Besichtigung kostenlos anfragen.",
     "heroTitle": "Ihre Gebäudereinigung in Gevelsberg",
     "heroSubtitle": "Ökologisch & effizient – reduzierte Chemie, smarte Prozesse und konstante Ergebnisse in Gevelsberg.",
@@ -2625,10 +2625,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Gevelsberg",
     "keyword5": "Industriereinigung Gevelsberg",
     "imageKeyword": "Gebäudereinigung Gevelsberg",
-    "imageAlt": "DATRA Gebäudereinigung in Gevelsberg – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Gevelsberg professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Gevelsberg mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Gevelsberg.",
+    "imageAlt": "Schmitter Gebäudereinigung in Gevelsberg – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Gevelsberg professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Gevelsberg mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Gevelsberg.",
     "ctaText": "Jetzt kostenloses Angebot für Gevelsberg anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Gevelsberg"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Gevelsberg"
   },
   "emsdetten": {
     "slug": "emsdetten",
@@ -2639,7 +2639,7 @@ export const cities: Record<string, CityData> = {
     "street": "Am Brink 1",
     "district": "Stadtmitte",
     "h1": "Professionelle Gebäudereinigung in Emsdetten",
-    "title": "Gebäudereinigung Emsdetten | DATRA – für Unternehmen & Praxen",
+    "title": "Gebäudereinigung Emsdetten | Schmitter – für Unternehmen & Praxen",
     "metaDescription": "Professionelle Gebäudereinigung Emsdetten: diskret, gründlich, terminsicher. Transparente Angebote und schnelle Starttermine für Unternehmen & Praxen.",
     "heroTitle": "Ihre Gebäudereinigung in Emsdetten",
     "heroSubtitle": "Transparente Reinigung für Emsdetten: dokumentierte Leistungen, nachvollziehbare Kosten, messbare Qualität.",
@@ -2657,10 +2657,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Emsdetten",
     "keyword5": "Industriereinigung Emsdetten",
     "imageKeyword": "Gebäudereinigung Emsdetten",
-    "imageAlt": "DATRA Gebäudereinigung in Emsdetten – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Emsdetten – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Emsdetten vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Emsdetten.",
+    "imageAlt": "Schmitter Gebäudereinigung in Emsdetten – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Emsdetten – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Emsdetten vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Emsdetten.",
     "ctaText": "Jetzt kostenloses Angebot für Emsdetten anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Emsdetten"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Emsdetten"
   },
   "schwerte": {
     "slug": "schwerte",
@@ -2671,7 +2671,7 @@ export const cities: Record<string, CityData> = {
     "street": "Bethunestraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Schwerte: sauber, pünktlich, fair",
-    "title": "Gebäudereinigung Schwerte | DATRA – Fenster",
+    "title": "Gebäudereinigung Schwerte | Schmitter – Fenster",
     "metaDescription": "Gebäudereinigung Schwerte – fair kalkuliert: effiziente Prozesse, klare Festpreise, verlässliche Ergebnisse. Angebot in kurzer Zeit erhalten.",
     "heroTitle": "Ihre Gebäudereinigung in Schwerte",
     "heroSubtitle": "Hygiene für Büro & Praxis in Schwerte – verlässlich, budgetbewusst und nachhaltig umgesetzt.",
@@ -2689,10 +2689,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Schwerte",
     "keyword5": "Industriereinigung Schwerte",
     "imageKeyword": "Gebäudereinigung Schwerte",
-    "imageAlt": "DATRA Gebäudereinigung in Schwerte – Professioneller Reinigungsservice",
-    "aboutText": "In Schwerte bietet DATRA als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Schwerte. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Schwerte übertrifft.",
+    "imageAlt": "Schmitter Gebäudereinigung in Schwerte – Professioneller Reinigungsservice",
+    "aboutText": "In Schwerte bietet Schmitter als etabliertes Reinigungsunternehmen maßgeschneiderte Lösungen für Ihre individuellen Anforderungen. Mit über 15 Jahren Erfahrung verstehen wir die vielfältigen Herausforderungen der Gebäudereinigung in Schwerte. Unsere geschulten Fachkräfte arbeiten mit modernster Technik und umweltschonenden Reinigungsmitteln, um optimale Ergebnisse zu erzielen. Von der täglichen Unterhaltsreinigung über Grundreinigungen bis hin zu Spezialreinigungen – wir passen unsere Dienstleistungen exakt an Ihre Bedürfnisse an. Vertrauen Sie auf Qualität, Erfahrung und einen Service, der Ihre Erwartungen in Schwerte übertrifft.",
     "ctaText": "Jetzt kostenloses Angebot für Schwerte anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Schwerte"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Schwerte"
   },
   "erftstadt": {
     "slug": "erftstadt",
@@ -2703,7 +2703,7 @@ export const cities: Record<string, CityData> = {
     "street": "B 265 1",
     "district": "Stadtmitte",
     "h1": "Büro- & Unterhaltsreinigung in Erftstadt",
-    "title": "Gebäudereinigung Erftstadt | DATRA – zuverlässig & gründlich",
+    "title": "Gebäudereinigung Erftstadt | Schmitter – zuverlässig & gründlich",
     "metaDescription": "Mehr Leistung fürs Budget: Reinigung in Erftstadt mit nachvollziehbaren Kosten und konstanter Qualität. Jetzt Fixpreis-Angebot sichern.",
     "heroTitle": "Ihre Gebäudereinigung in Erftstadt",
     "heroSubtitle": "Reinigungsservice für Büros & Praxen in Erftstadt – feste Turnusse, dokumentierte Qualität, schnelle Starttermine.",
@@ -2721,10 +2721,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Erftstadt",
     "keyword5": "Industriereinigung Erftstadt",
     "imageKeyword": "Gebäudereinigung Erftstadt",
-    "imageAlt": "DATRA Gebäudereinigung in Erftstadt – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Erftstadt – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Erftstadt vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Erftstadt.",
+    "imageAlt": "Schmitter Gebäudereinigung in Erftstadt – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Erftstadt – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Erftstadt vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Erftstadt.",
     "ctaText": "Jetzt kostenloses Angebot für Erftstadt anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Erftstadt"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Erftstadt"
   },
   "rheda-wiedenbrueck": {
     "slug": "rheda-wiedenbrueck",
@@ -2735,7 +2735,7 @@ export const cities: Record<string, CityData> = {
     "street": "Mittelhegge 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Rheda-Wiedenbrück – zuverlässig & gründlich",
-    "title": "Gebäudereinigung Rheda-Wiedenbrück | DATRA – Start in 5–7 Werktagen",
+    "title": "Gebäudereinigung Rheda-Wiedenbrück | Schmitter – Start in 5–7 Werktagen",
     "metaDescription": "Nachhaltige Gebäudereinigung in Rheda-Wiedenbrück: materialschonend, wirkungsstark, ressourcensensibel. Green Cleaning ohne Abstriche bei der Hygiene.",
     "heroTitle": "Ihre Gebäudereinigung in Rheda-Wiedenbrück",
     "heroSubtitle": "Sauberkeit mit System: planbare Turnusse, klare Checklisten und faire Konditionen in Rheda-Wiedenbrück.",
@@ -2753,10 +2753,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Rheda-Wiedenbrück",
     "keyword5": "Industriereinigung Rheda-Wiedenbrück",
     "imageKeyword": "Gebäudereinigung Rheda-Wiedenbrück",
-    "imageAlt": "DATRA Gebäudereinigung in Rheda-Wiedenbrück – Professioneller Reinigungsservice",
-    "aboutText": "Planbare Sauberkeit in Rheda-Wiedenbrück – darauf können Sie sich bei DATRA verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Rheda-Wiedenbrück vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – DATRA steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Rheda-Wiedenbrück.",
+    "imageAlt": "Schmitter Gebäudereinigung in Rheda-Wiedenbrück – Professioneller Reinigungsservice",
+    "aboutText": "Planbare Sauberkeit in Rheda-Wiedenbrück – darauf können Sie sich bei Schmitter verlassen. Als professioneller Dienstleister für Gebäudereinigung garantieren wir feste Ansprechpartner, definierte Leistungsverzeichnisse und termingerechte Ausführung. In Rheda-Wiedenbrück vertrauen zahlreiche Unternehmen auf unsere strukturierten Abläufe und konstante Qualität. Unsere geschulten Reinigungskräfte arbeiten nach Checklisten, dokumentieren ihre Leistungen und unterliegen regelmäßigen Qualitätskontrollen. Von der ersten Besichtigung über das Festpreis-Angebot bis zur laufenden Betreuung – Schmitter steht für Transparenz, Zuverlässigkeit und professionelle Gebäudereinigung in Rheda-Wiedenbrück.",
     "ctaText": "Jetzt kostenloses Angebot für Rheda-Wiedenbrück anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Rheda-Wiedenbrück"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Rheda-Wiedenbrück"
   },
   "buende": {
     "slug": "buende",
@@ -2767,7 +2767,7 @@ export const cities: Record<string, CityData> = {
     "street": "Nordring 1",
     "district": "Stadtmitte",
     "h1": "Nachhaltige Gebäudereinigung in Bünde",
-    "title": "Gebäudereinigung Bünde | DATRA – fair & transparent",
+    "title": "Gebäudereinigung Bünde | Schmitter – fair & transparent",
     "metaDescription": "Ökologisch reinigen in Bünde: reduzierte Chemie, geschulte Teams, konstante Qualität. Verantwortungsvoll sauber – für Büro & Praxis.",
     "heroTitle": "Ihre Gebäudereinigung in Bünde",
     "heroSubtitle": "Effizient & budgetfreundlich – transparente Festpreise, zuverlässige Teams und messbare Qualität in Bünde.",
@@ -2785,10 +2785,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Bünde",
     "keyword5": "Industriereinigung Bünde",
     "imageKeyword": "Gebäudereinigung Bünde",
-    "imageAlt": "DATRA Gebäudereinigung in Bünde – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bünde und Umgebung. In Bünde als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bünde.",
+    "imageAlt": "Schmitter Gebäudereinigung in Bünde – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Bünde und Umgebung. In Bünde als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Bünde.",
     "ctaText": "Jetzt kostenloses Angebot für Bünde anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Bünde"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Bünde"
   },
   "kaarst": {
     "slug": "kaarst",
@@ -2799,7 +2799,7 @@ export const cities: Record<string, CityData> = {
     "street": "Am Neumarkt 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Kaarst mit Festpreisen",
-    "title": "Gebäudereinigung Kaarst | DATRA – effizient & günstig",
+    "title": "Gebäudereinigung Kaarst | Schmitter – effizient & günstig",
     "metaDescription": "Büro- & Praxisreinigung in Kaarst: hohe Hygienestandards, diskrete Abläufe, verlässliche Dokumentation. Ideal für den geregelten Alltag.",
     "heroTitle": "Ihre Gebäudereinigung in Kaarst",
     "heroSubtitle": "Nachhaltig reinigen in Kaarst: ökologische Mittel, geschulte Teams und lückenlose QS-Dokumentation.",
@@ -2817,10 +2817,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Kaarst",
     "keyword5": "Industriereinigung Kaarst",
     "imageKeyword": "Gebäudereinigung Kaarst",
-    "imageAlt": "DATRA Gebäudereinigung in Kaarst – Professioneller Reinigungsservice",
-    "aboutText": "DATRA verbindet in Kaarst professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Kaarst mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: DATRA ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Kaarst.",
+    "imageAlt": "Schmitter Gebäudereinigung in Kaarst – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter verbindet in Kaarst professionelle Gebäudereinigung mit ökologischer Verantwortung. Als umweltbewusster Dienstleister setzen wir auf ressourcenschonende Reinigungsmethoden und biologisch abbaubare Reinigungsmittel – ohne Kompromisse bei der Hygiene. In Kaarst mit seiner dynamischen Entwicklung benötigen Unternehmen effiziente Reinigungslösungen, die Zeit und Kosten sparen. Unser geschultes Personal arbeitet nach strukturierten Prozessen und garantiert konstante Qualität. Von Büros über Praxen bis hin zu Industrieanlagen: Schmitter ist Ihr Partner für nachhaltige Sauberkeit und dokumentierte Ergebnisse in Kaarst.",
     "ctaText": "Jetzt kostenloses Angebot für Kaarst anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Kaarst"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Kaarst"
   },
   "meschede": {
     "slug": "meschede",
@@ -2831,7 +2831,7 @@ export const cities: Record<string, CityData> = {
     "street": "Beringhauser Straße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung Meschede – professionell & planbar",
-    "title": "Gebäudereinigung Meschede | DATRA – Hygiene für Büro & Praxis",
+    "title": "Gebäudereinigung Meschede | Schmitter – Hygiene für Büro & Praxis",
     "metaDescription": "Industrielle Reinigung Meschede: robuste Prozesse, sichere Durchführung, klare Ergebnisse. Sauberkeit, die Produktion nicht ausbremst.",
     "heroTitle": "Ihre Gebäudereinigung in Meschede",
     "heroSubtitle": "Für Unternehmen & Praxen in Meschede: verlässlich, gründlich, terminsicher – inklusive Qualitätskontrolle.",
@@ -2849,10 +2849,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Meschede",
     "keyword5": "Industriereinigung Meschede",
     "imageKeyword": "Gebäudereinigung Meschede",
-    "imageAlt": "DATRA Gebäudereinigung in Meschede – Professioneller Reinigungsservice",
-    "aboutText": "In Meschede sorgt DATRA für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meschede bieten wir spezielle Hygienekonzepte. Mit DATRA investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meschede.",
+    "imageAlt": "Schmitter Gebäudereinigung in Meschede – Professioneller Reinigungsservice",
+    "aboutText": "In Meschede sorgt Schmitter für höchste Hygienestandards in Ihren Räumlichkeiten. Als spezialisierter Dienstleister für Gebäudereinigung legen wir besonderen Wert auf gesundheitsfördernde Reinigungskonzepte. Unsere zertifizierten Fachkräfte arbeiten nach aktuellen Hygienerichtlinien und setzen professionelle Reinigungstechnik ein, die Bakterien, Viren und Allergene wirkungsvoll beseitigt. Besonders für medizinische Einrichtungen, Praxen und lebensmittelverarbeitende Betriebe in Meschede bieten wir spezielle Hygienekonzepte. Mit Schmitter investieren Sie in die Gesundheit Ihrer Mitarbeiter und Kunden – verlässlich, dokumentiert und nach höchsten Standards in Meschede.",
     "ctaText": "Jetzt kostenloses Angebot für Meschede anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Meschede"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Meschede"
   },
   "schwelm": {
     "slug": "schwelm",
@@ -2863,7 +2863,7 @@ export const cities: Record<string, CityData> = {
     "street": "Hauptstraße 1",
     "district": "Stadtmitte",
     "h1": "Gebäudereinigung in Schwelm für Unternehmen & Praxen",
-    "title": "Gebäudereinigung Schwelm | DATRA – sauber. pünktlich. fair.",
+    "title": "Gebäudereinigung Schwelm | Schmitter – sauber. pünktlich. fair.",
     "metaDescription": "Planbar sauber in Schwelm: Besichtigung, Leistungsverzeichnis, regelmäßige Qualitätskontrollen. Transparente Kommunikation von Start bis Abschluss.",
     "heroTitle": "Ihre Gebäudereinigung in Schwelm",
     "heroSubtitle": "Mehr Wert fürs Budget: optimierte Reinigungsabläufe, klare Angebote und schnelle Verfügbarkeit in Schwelm.",
@@ -2881,10 +2881,10 @@ export const cities: Record<string, CityData> = {
     "keyword4": "Reinigungsservice Schwelm",
     "keyword5": "Industriereinigung Schwelm",
     "imageKeyword": "Gebäudereinigung Schwelm",
-    "imageAlt": "DATRA Gebäudereinigung in Schwelm – Professioneller Reinigungsservice",
-    "aboutText": "DATRA ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Schwelm und Umgebung. In Schwelm als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf DATRA – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Schwelm.",
+    "imageAlt": "Schmitter Gebäudereinigung in Schwelm – Professioneller Reinigungsservice",
+    "aboutText": "Schmitter ist seit über 15 Jahren Ihr zuverlässiger Partner für professionelle Gebäudereinigung in Schwelm und Umgebung. In Schwelm als wichtiger Standort für Unternehmen vertrauen bereits zahlreiche Betriebe auf unsere professionellen Reinigungsdienstleistungen. Mit modernster Reinigungstechnik, geschultem Fachpersonal und einem umfassenden Qualitätsmanagement sorgen wir für hygienisch einwandfreie Räumlichkeiten. Unser Leistungsspektrum umfasst die komplette Unterhaltsreinigung, Grundreinigung sowie Spezialreinigungen für alle Gebäudetypen und Branchen. Verlassen Sie sich auf Schmitter – Expertise, Zuverlässigkeit und kundenorientierte Arbeitsweise in Schwelm.",
     "ctaText": "Jetzt kostenloses Angebot für Schwelm anfragen",
-    "schemaBusinessName": "DATRA Gebäudereinigung Schwelm"
+    "schemaBusinessName": "Schmitter Gebäudereinigung Schwelm"
   }
 };
 
@@ -2905,4 +2905,18 @@ export function getCityBySlug(slug: string): CityData | undefined {
  */
 export function getAllCities(): CityData[] {
   return Object.values(cities);
+}
+
+/**
+ * Liste für /einsatzgebiete (alphabetisch nach Name)
+ */
+export const nrwCities: CityData[] = Object.values(cities).sort((a, b) =>
+  a.name.localeCompare(b.name, "de")
+);
+
+/**
+ * Slugs für generateStaticParams / dynamische Routen
+ */
+export function getAllCitySlugs(): string[] {
+  return [...citySlugs];
 }

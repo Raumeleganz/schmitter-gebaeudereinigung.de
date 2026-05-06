@@ -4,11 +4,11 @@ import { Metadata } from "next";
 import { cities } from "@/data/cities.generated";
 
 export const metadata: Metadata = {
-  title: "Einsatzgebiete in NRW - Gebäudereinigung in ganz Nordrhein-Westfalen | ABED - Gebäudereinigung",
+  title: "Einsatzgebiete in NRW - Gebäudereinigung in ganz Nordrhein-Westfalen | Schmitter Gebäudereinigung",
   description: "Wir sind in ganz NRW für Sie da: Düsseldorf, Köln, Ruhrgebiet, Münsterland, Bergisches Land und weitere Regionen. Professionelle Gebäudereinigung vor Ort.",
   keywords: ["Düsseldorf", "Köln", "Essen", "Dortmund", "Bochum", "Münster", "Gebäudereinigung NRW"],
   openGraph: {
-    title: "Einsatzgebiete in NRW - ABED - Gebäudereinigung",
+    title: "Einsatzgebiete in NRW - Schmitter Gebäudereinigung",
     description: "Professionelle Gebäudereinigung in ganz Nordrhein-Westfalen.",
     type: "website",
   },
@@ -29,13 +29,13 @@ export default function EinsatzgebietePage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://cleanpro-nrw.de"
+                "item": "https://schmitter-gebaeudereinigung.de"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Einsatzgebiete",
-                "item": "https://cleanpro-nrw.de/einsatzgebiete"
+                "item": "https://schmitter-gebaeudereinigung.de/einsatzgebiete"
               }
             ]
           })
@@ -149,13 +149,13 @@ export default function EinsatzgebietePage() {
                     </Link>
                     
                     <a
-                      href="tel:+4921112345678"
+                      href="tel:+4920189083050"
                       className="group inline-flex items-center bg-blue-800/80 backdrop-blur-sm text-white px-8 py-5 rounded-xl hover:bg-blue-900 transition-all font-bold shadow-lg border-2 border-white/20 hover:border-white/40"
                     >
                       <svg className="w-6 h-6 mr-2 group-hover:rotate-12 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                       </svg>
-                      <span>0211 123 456 78</span>
+                      <span>0201-89083050</span>
                     </a>
                   </div>
 

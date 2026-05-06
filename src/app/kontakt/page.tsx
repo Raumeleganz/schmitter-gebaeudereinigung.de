@@ -3,13 +3,17 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Kontakt - Jetzt unverbindlich anfragen | ABED - Gebäudereinigung",
-  description: "Kontaktieren Sie ABED - Gebäudereinigung für professionelle Gebäudereinigung in NRW. Kostenlose Beratung und individuelles Angebot. Tel: 0211 123 456 78",
-  keywords: ["Kontakt", "Anfrage", "Beratung", "Angebot", "ABED - Gebäudereinigung", "Gebäudereinigung"],
+  title: "Kontakt | Schmitter Gebäudereinigung NRW – wir melden uns verständlich zurück",
+  description:
+    "Schnelle, klare Antworten zu Büro-, Praxis- und Gebäudereinigung in NRW: Kontakt per Formular oder Telefon. Besichtigung unverbindlich, Angebot verständlich aufgebaut.",
+  keywords: ["Kontakt", "Anfrage", "Beratung", "Gebäudereinigung NRW", "Schmitter", "Büroreinigung Kontakt"],
+  alternates: { canonical: "https://schmitter-gebaeudereinigung.de/kontakt" },
   openGraph: {
-    title: "Kontakt - ABED - Gebäudereinigung",
-    description: "Kontaktieren Sie uns für ein unverbindliches Angebot.",
+    title: "Kontakt | Schmitter Gebäudereinigung",
+    description:
+      "Gebäudereinigung ohne Fachwort-Dschungel: Kurz beschreiben, was Sie brauchen – wir klären den Rest gemeinsam ein.",
     type: "website",
+    url: "https://schmitter-gebaeudereinigung.de/kontakt",
   },
 };
 
