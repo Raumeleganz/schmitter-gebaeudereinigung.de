@@ -28,6 +28,12 @@ const eslintConfig = [
       "@typescript-eslint/no-explicit-any": "off",
     },
   },
+  // Explicit global override (requested)
+  {
+    rules: {
+      "@typescript-eslint/no-explicit-any": "off",
+    },
+  },
 ];
 
 export default eslintConfig;
