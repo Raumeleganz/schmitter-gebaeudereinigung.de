@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "Industriereinigung NRW • Produktionshallen, Lagerhallen & Werkstätten • 24/7 Service | Schmitter",
+  title: "Industriereinigung NRW • Produktionshallen, Lagerhallen & Werkstätten • Flexible Zeiten | Schmitter",
   description: "✓ Professionelle Industriereinigung in NRW ✓ Produktionshallen ✓ Lagerhallen ✓ Maschinenreinigung ✓ HACCP-konform ✓ Flexible Zeiten ✓ Kostenlose Beratung ➤ Jetzt anfragen!",
   keywords: [
     "Industriereinigung NRW", 
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "Gewerbereinigung NRW",
     "Industriebodenreinigung",
     "HACCP Reinigung",
-    "24/7 Industriereinigung",
+    "Flexible Industriereinigung",
     "Hochdruckreinigung Industrie",
     "Hallenreinigung Köln",
     "Fabrikreinigung",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Professionelle Industriereinigung in NRW | Schmitter Gebäudereinigung",
-    description: "Leistungsstarke Reinigungslösungen für Produktionshallen, Lagerhallen und Betriebsstätten. 24/7 Service, HACCP-konform, modernste Technik.",
+    description: "Leistungsstarke Reinigungslösungen für Produktionshallen, Lagerhallen und Betriebsstätten. Flexible Zeiten, HACCP-konform, moderne Technik.",
     type: "website",
     images: [
       {
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Industriereinigung NRW • 24/7 Service | Schmitter",
+    title: "Industriereinigung NRW • Flexible Zeiten | Schmitter",
     description: "Professionelle Reinigung für Produktionshallen, Lagerhallen & Betriebsstätten in NRW",
   },
   alternates: {
@@ -117,7 +117,7 @@ export default function IndustriereinigungPage() {
     },
     {
       name: "Logistik & Lager",
-      challenges: ["Große Flächen", "Hochregale", "24/7 Betrieb"],
+      challenges: ["Große Flächen", "Hochregale", "laufender Betrieb"],
       icon: "📦"
     },
     {
@@ -150,8 +150,8 @@ export default function IndustriereinigungPage() {
       answer: "Wir reinigen Industriebetriebe aus allen Branchen: Metallverarbeitung, Lebensmittelindustrie, Logistik & Lager, Automotive, Pharma, Chemie, Kunststoffverarbeitung, Elektronikfertigung und viele mehr. Jede Branche hat spezifische Anforderungen, die wir kennen und umsetzen."
     },
     {
-      question: "Sind Sie HACCP-zertifiziert?",
-      answer: "Ja, unsere Mitarbeiter sind in HACCP-konformen Reinigungsverfahren geschult. Wir verwenden lebensmittelsichere Reinigungsmittel und dokumentieren alle Reinigungsvorgänge gemäß Hygienevorschriften. Dies ist besonders wichtig für Betriebe der Lebensmittel- und Pharmaindustrie."
+      question: "Arbeiten Sie nach Hygienestandards?",
+      answer: "Ja. Wir arbeiten mit klaren Hygiene- und Sicherheitsabläufen, passenden Reinigungsmitteln und dokumentieren die Leistungen dort, wo es sinnvoll ist. Das ist besonders wichtig für sensible Bereiche wie Lebensmittel- und Pharmaumgebungen."
     },
     {
       question: "Welche Maschinen und Geräte setzen Sie ein?",
@@ -198,7 +198,7 @@ export default function IndustriereinigungPage() {
               "@type": "State",
               "name": "Nordrhein-Westfalen"
             },
-            "description": "Professionelle Industriereinigung für Produktionshallen, Lagerhallen, Werkstätten und Betriebsstätten in NRW. 24/7 Service, HACCP-konform, modernste Reinigungstechnik.",
+              "description": "Professionelle Industriereinigung für Produktionshallen, Lagerhallen, Werkstätten und Betriebsstätten in NRW. Flexible Zeiten, HACCP-konform, moderne Reinigungstechnik.",
             "offers": {
               "@type": "Offer",
               "availability": "https://schema.org/InStock",
@@ -313,12 +313,12 @@ export default function IndustriereinigungPage() {
                 
                 <div className="grid grid-cols-3 gap-4">
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
-                    <div className="text-2xl font-bold text-blue-600 mb-1">24/7</div>
-                    <div className="text-xs text-gray-600">Verfügbar</div>
+                    <div className="text-2xl font-bold text-blue-600 mb-1">Flexibel</div>
+                    <div className="text-xs text-gray-600">bei Zeiten</div>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
-                    <div className="text-2xl font-bold text-blue-600 mb-1">100%</div>
-                    <div className="text-xs text-gray-600">Versichert</div>
+                    <div className="text-2xl font-bold text-blue-600 mb-1">Sicher</div>
+                    <div className="text-xs text-gray-600">im Ablauf</div>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
                     <div className="text-2xl font-bold text-blue-600 mb-1">Profi</div>
@@ -425,7 +425,7 @@ export default function IndustriereinigungPage() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                     </svg>
                   </div>
-                  <h3 className="font-bold text-gray-900 mb-2">24/7 Verfügbar</h3>
+                  <h3 className="font-bold text-gray-900 mb-2">Flexible Zeiten</h3>
                   <p className="text-gray-600 text-sm">Flexibel zu Ihren Produktionszeiten – auch nachts und am Wochenende</p>
                 </div>
                 
@@ -530,7 +530,7 @@ export default function IndustriereinigungPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Professionelle Industriereinigung in NRW – Ihr Partner für saubere Produktionsumgebungen</h2>
               
               <p className="text-gray-600 leading-relaxed mb-4">
-                <strong>Industriereinigung in Düsseldorf, Köln und ganz NRW</strong> – Schmitter Gebäudereinigung ist Ihr verlässlicher Partner für die professionelle Reinigung von Produktionshallen, Lagerhallen, Werkstätten und Industriegebäuden. Mit über 15 Jahren Erfahrung und modernster Reinigungstechnik sorgen wir für hygienische, sichere und produktive Arbeitsumgebungen in Industriebetrieben aller Branchen.
+                <strong>Industriereinigung in Düsseldorf, Köln und ganz NRW</strong> – Schmitter Gebäudereinigung ist Ihr verlässlicher Partner für die professionelle Reinigung von Produktionshallen, Lagerhallen, Werkstätten und Industriegebäuden. Mit sauber geplanten Abläufen und moderner Reinigungstechnik sorgen wir für hygienische, sichere und produktive Arbeitsumgebungen in Industriebetrieben aller Branchen.
               </p>
               
               <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Warum ist professionelle Industriereinigung so wichtig?</h3>
@@ -574,7 +574,7 @@ export default function IndustriereinigungPage() {
                 <li><strong>Pharma & Chemie</strong>: Reinraumreinigung nach GMP-Standards</li>
               </ul>
 
-              <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">24/7 Industriereinigung – flexibel zu Ihren Zeiten</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Industriereinigung – flexibel zu Ihren Zeiten</h3>
               <p className="text-gray-600 leading-relaxed mb-4">
                 Wir wissen, dass Produktionsstillstände teuer sind. Deshalb bieten wir <strong>flexible Reinigungszeiten</strong> an:
               </p>

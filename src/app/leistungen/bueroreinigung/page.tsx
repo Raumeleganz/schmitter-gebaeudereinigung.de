@@ -160,10 +160,10 @@ export default function BueroreinigungPage() {
                   Ein sauberes Büro ist kein Luxus – es spart Nerven. Wenn Küche, Sanitär und Meetingraum passen, arbeitet es sich einfach ruhiger (und der erste Eindruck beim Besuch ist auch direkt besser).
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Schmitter Gebäudereinigung unterstützt Unternehmen in ganz Nordrhein-Westfalen seit über 15 Jahren – mit festen Abläufen, klaren Absprachen und Zeiten, die Ihren Betrieb nicht stören. Täglich, wöchentlich oder nach Bedarf: Sie sagen, wie es passt – wir setzen es um.
+                  Schmitter Gebäudereinigung unterstützt Unternehmen in ganz Nordrhein-Westfalen seit vielen Jahren – mit festen Abläufen, klaren Absprachen und Zeiten, die Ihren Betrieb nicht stören. Täglich, wöchentlich oder nach Bedarf: Sie sagen, wie es passt – wir setzen es um.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  Und ja: Qualität ist bei uns nicht „Gefühl“, sondern System. ISO 9001, dokumentierte Checklisten und ein Team, das weiß, welche Flächen im Büro schnell eklig werden (und welche nur laut aussehen).
+                  Und ja: Qualität ist bei uns nicht „Gefühl“, sondern System. Dokumentierte Checklisten und ein Team, das weiß, welche Flächen im Büro schnell eklig werden (und welche nur laut aussehen).
                 </p>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
                   <h3 className="font-bold text-gray-900 mb-4 flex items-center">
@@ -196,9 +196,9 @@ export default function BueroreinigungPage() {
                   className="rounded-2xl shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-xl shadow-xl border border-gray-100">
-                  <div className="text-4xl font-bold text-blue-600 mb-1">100%</div>
-                  <div className="text-sm text-gray-600 font-semibold">Kundenzufriedenheit</div>
-                  <div className="text-xs text-gray-500 mt-1">Über 500+ Unternehmen</div>
+                  <div className="text-2xl font-bold text-blue-600 mb-1">Zuverlässig</div>
+                  <div className="text-sm text-gray-600 font-semibold">im Alltag</div>
+                  <div className="text-xs text-gray-500 mt-1">Klare Abläufe & feste Teams</div>
                 </div>
               </div>
             </div>
@@ -219,12 +219,12 @@ export default function BueroreinigungPage() {
                   {/* Stats Overlay */}
                   <div className="absolute bottom-6 left-6 right-6 grid grid-cols-3 gap-4">
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-blue-600">15+</div>
-                      <div className="text-xs text-gray-600 font-semibold">Jahre Erfahrung</div>
+                      <div className="text-2xl font-bold text-blue-600">Planbar</div>
+                      <div className="text-xs text-gray-600 font-semibold">im Ablauf</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-blue-600">500+</div>
-                      <div className="text-xs text-gray-600 font-semibold">Zufriedene Kunden</div>
+                      <div className="text-2xl font-bold text-blue-600">Sauber</div>
+                      <div className="text-xs text-gray-600 font-semibold">mit System</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
                       <div className="text-3xl font-bold text-blue-600">50+</div>
@@ -243,7 +243,7 @@ export default function BueroreinigungPage() {
                         </svg>
                       </div>
                       <div>
-                        <h3 className="text-xl font-bold text-gray-900 mb-2">Qualität mit Plan (ISO 9001)</h3>
+                      <h3 className="text-xl font-bold text-gray-900 mb-2">Qualität mit Plan</h3>
                         <p className="text-gray-600">
                           Bedeutet bei uns: sauber ist messbar. Mit Checklisten, klaren Standards und regelmäßigen Kontrollen – nicht „wird schon“.
                         </p>
@@ -272,7 +272,7 @@ export default function BueroreinigungPage() {
                       </div>
                       <div>
                         <h3 className="text-xl font-bold text-gray-900 mb-2">Umweltfreundlich & Nachhaltig</h3>
-                        <p className="text-gray-600">EU-Ecolabel zertifizierte Reinigungsmittel ohne schädliche Chemikalien. Gut für Ihre Gesundheit, gut für die Umwelt.</p>
+                      <p className="text-gray-600">Wir setzen – wo es passt – auf ausgewählte Reinigungsmittel und saubere Dosierung. Gut für Räume, Oberflächen und das Team vor Ort.</p>
                       </div>
                     </div>
                   </div>
@@ -353,72 +353,66 @@ export default function BueroreinigungPage() {
             <div className="mb-20">
               <h2 className="text-3xl font-bold text-gray-900 mb-4 text-center">Das sagen unsere Kunden</h2>
               <p className="text-lg text-gray-600 text-center mb-12 max-w-2xl mx-auto">
-                Über 500 Unternehmen in NRW vertrauen auf unsere professionelle Büroreinigung
+                Kundenfeedback aus dem Alltag: planbar, diskret, zuverlässig.
               </p>
               <div className="grid md:grid-cols-3 gap-8">
                 <div className="bg-white p-8 rounded-2xl shadow-xl border border-gray-100 hover:shadow-2xl transition-all duration-300">
                   <div className="flex items-center mb-6">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center text-white font-bold text-xl">
-                      TM
+                      KF
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Thomas Müller</h4>
-                      <p className="text-sm text-gray-600">Geschäftsführer, IT-Consulting</p>
+                      <h4 className="font-bold text-gray-900">Kundenfeedback</h4>
+                      <p className="text-sm text-gray-600">Büro (NRW)</p>
                     </div>
                   </div>
-                  <div className="flex mb-4">
-                    {[...Array(5)].map((_, i) => (
-                      <svg key={i} className="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-                      </svg>
-                    ))}
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-blue-50 text-blue-700">Planbar</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-blue-50 text-blue-700">Diskret</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-blue-50 text-blue-700">Sauber</span>
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Seit 3 Jahren reinigt Schmitter Gebäudereinigung unsere Büroräume. Pünktlich, zuverlässig und immer in Top-Qualität. Das Team arbeitet so diskret, dass wir es kaum merken – aber das Ergebnis sehen wir jeden Tag!"
+                    "Pünktlich, zuverlässig und ohne Theater. Das Team arbeitet so diskret, dass man es kaum merkt – aber das Ergebnis sieht man."
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl shadow-xl border border-gray-100 hover:shadow-2xl transition-all duration-300">
                   <div className="flex items-center mb-6">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4 bg-gradient-to-br from-purple-400 to-purple-600 flex items-center justify-center text-white font-bold text-xl">
-                      SK
+                      KF
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Sarah Klein</h4>
-                      <p className="text-sm text-gray-600">HR-Managerin, Startup</p>
+                      <h4 className="font-bold text-gray-900">Kundenfeedback</h4>
+                      <p className="text-sm text-gray-600">Büro (NRW)</p>
                     </div>
                   </div>
-                  <div className="flex mb-4">
-                    {[...Array(5)].map((_, i) => (
-                      <svg key={i} className="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-                      </svg>
-                    ))}
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-purple-50 text-purple-700">Flexibel</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-purple-50 text-purple-700">Unkompliziert</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-purple-50 text-purple-700">Fair</span>
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Als junges Startup war uns wichtig, einen flexiblen Partner zu finden. Schmitter Gebäudereinigung hat perfekt zu uns gepasst – faire Preise, keine lange Vertragsbindung und super Service!"
+                    "Uns war wichtig, einen flexiblen Partner zu haben. Passt: klare Absprachen, faire Konditionen und ein Service, der mitdenkt."
                   </p>
                 </div>
 
                 <div className="bg-white p-8 rounded-2xl shadow-xl border border-gray-100 hover:shadow-2xl transition-all duration-300">
                   <div className="flex items-center mb-6">
                     <div className="relative w-16 h-16 rounded-full overflow-hidden mr-4 bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center text-white font-bold text-xl">
-                      MW
+                      KF
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Michael Wagner</h4>
-                      <p className="text-sm text-gray-600">Facility Manager, Konzern</p>
+                      <h4 className="font-bold text-gray-900">Kundenfeedback</h4>
+                      <p className="text-sm text-gray-600">Büro (NRW)</p>
                     </div>
                   </div>
-                  <div className="flex mb-4">
-                    {[...Array(5)].map((_, i) => (
-                      <svg key={i} className="w-5 h-5 text-yellow-400 fill-current" viewBox="0 0 20 20">
-                        <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z" />
-                      </svg>
-                    ))}
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-green-50 text-green-700">Konstant</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-green-50 text-green-700">Sorgfältig</span>
+                    <span className="text-xs font-semibold px-2 py-1 rounded-full bg-green-50 text-green-700">Eingespielt</span>
                   </div>
                   <p className="text-gray-600 italic leading-relaxed">
-                    "Bei 2.500 m² Bürofläche brauchen wir absolute Profis. Schmitter Gebäudereinigung liefert konstant hervorragende Qualität mit einem festen, gut eingespielten Team. Absolut empfehlenswert!"
+                    "Wir brauchen einen Partner, der konstant sauber arbeitet. Mit festen Abläufen und einem eingespielten Team klappt das zuverlässig."
                   </p>
                 </div>
               </div>
@@ -711,7 +705,7 @@ export default function BueroreinigungPage() {
                   <div className="relative h-96 md:h-auto">
                     <Image
                       src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80&fm=webp"
-                      alt="Zufriedenheitsgarantie Büroreinigung"
+                      alt="Qualitätssicherung bei der Büroreinigung"
                       fill
                       className="object-cover"
                       sizes="(max-width: 768px) 100vw, 50vw"
@@ -726,7 +720,7 @@ export default function BueroreinigungPage() {
                         <svg className="w-5 h-5 text-yellow-400 mr-2" fill="currentColor" viewBox="0 0 20 20">
                           <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
                         </svg>
-                        <span className="font-bold">100% Zufriedenheitsgarantie</span>
+                        <span className="font-bold">Qualität, die nachvollziehbar bleibt</span>
                       </div>
                       
                       <h2 className="text-3xl md:text-4xl font-bold mb-6">
@@ -734,25 +728,25 @@ export default function BueroreinigungPage() {
                       </h2>
                       
                       <p className="text-lg text-blue-50 mb-8 leading-relaxed">
-                        Bei Schmitter Gebäudereinigung garantieren wir Ihnen nicht nur saubere Räume, sondern auch absolute Zufriedenheit. Wenn Sie mit unserer Leistung nicht vollständig zufrieden sind, bessern wir kostenlos nach – innerhalb von 24 Stunden, garantiert!
+                        Wenn etwas nicht passt, sprechen Sie’s an. Wir korrigieren sauber nach und stimmen gemeinsam ab, was für Sie „richtig sauber“ heißt – ohne Diskussion, ohne Drama.
                       </p>
                       
                       <div className="grid grid-cols-2 gap-6">
                         <div className="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
-                          <div className="text-3xl font-bold mb-1">24h</div>
-                          <div className="text-sm text-blue-100">Nachbesserungsgarantie</div>
+                          <div className="text-3xl font-bold mb-1">Schnell</div>
+                          <div className="text-sm text-blue-100">Rückmeldung & Nachbesserung</div>
                         </div>
                         <div className="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
-                          <div className="text-3xl font-bold mb-1">5 Mio.€</div>
-                          <div className="text-sm text-blue-100">Versicherungsschutz</div>
+                          <div className="text-3xl font-bold mb-1">Versichert</div>
+                          <div className="text-sm text-blue-100">mit Haftpflicht</div>
                         </div>
                         <div className="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
-                          <div className="text-3xl font-bold mb-1">ISO</div>
-                          <div className="text-sm text-blue-100">9001 Zertifiziert</div>
+                          <div className="text-3xl font-bold mb-1">Standard</div>
+                          <div className="text-sm text-blue-100">klare Routinen</div>
                         </div>
                         <div className="bg-white/10 backdrop-blur-sm p-4 rounded-xl border border-white/20">
-                          <div className="text-3xl font-bold mb-1">0%</div>
-                          <div className="text-sm text-blue-100">Versteckte Kosten</div>
+                          <div className="text-3xl font-bold mb-1">Klar</div>
+                          <div className="text-sm text-blue-100">ohne Überraschungen</div>
                         </div>
                       </div>
                     </div>

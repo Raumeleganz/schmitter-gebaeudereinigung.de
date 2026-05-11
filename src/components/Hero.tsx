@@ -24,10 +24,10 @@ export default function Hero() {
     },
     {
       image: "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=1200&q=80&fm=webp",
-      title: "Sauberkeit mit Hirn – seit über 15 Jahren",
+      title: "Sauberkeit mit Hirn – professionell umgesetzt",
       subtitle: "Seriös, freundlich, mit ordentlicher Chemie",
       description:
-        "Wir sind zertifiziert, halten Standards ein und mögen trotzdem einen lockeren Ton. Für Sie heißt das: weniger Kleingedrucktes-Geschwurbel – mehr konkrete Leistungen, feste Absprachen und ein Team, das nicht nur „irgendwie“ wischt.",
+        "Wir arbeiten mit klaren Standards – und mögen trotzdem einen lockeren Ton. Für Sie heißt das: weniger Kleingedrucktes-Geschwurbel – mehr konkrete Leistungen, feste Absprachen und ein Team, das nicht nur „irgendwie“ wischt.",
     },
   ];
 
@@ -119,9 +119,9 @@ export default function Hero() {
             {/* Trust Indicators mit Stagger Animation */}
             <div className="mt-10 flex flex-wrap gap-6 items-center">
               {[
-                "15+ Jahre unterwegs",
+                "Erfahrung aus der Praxis",
                 "Überall in NRW im Einsatz",
-                "Fest zertifiziert & versichert",
+                "Klare Abläufe & feste Teams",
               ].map((text, index) => (
                 <motion.div
                   key={text}

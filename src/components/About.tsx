@@ -79,7 +79,7 @@ export default function About() {
                       </svg>
                     </div>
                     <div>
-                      <p className="text-xl font-bold text-gray-900">15+ Jahre Erfahrung</p>
+                      <p className="text-xl font-bold text-gray-900">Professionelle Gebäudereinigung</p>
                     </div>
                   </div>
                 </div>
@@ -110,7 +110,7 @@ export default function About() {
             </h2>
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Weil professionelle Gebäudereinigung keine Raketenwissenschaft ist – aber Arbeit mit klaren Aufgaben und ehrlicher Kommunikation. Seit über 15 Jahren halten wir Büros, Praxen und Gebäude in NRW dort, wo man sich wohlfühlen kann beim reingehen – damit Sie sich um Ihr Kerngeschäft kümmern können.
+              Weil professionelle Gebäudereinigung keine Raketenwissenschaft ist – aber Arbeit mit klaren Aufgaben und ehrlicher Kommunikation. Seit vielen Jahren halten wir Büros, Praxen und Gebäude in NRW dort, wo man sich wohlfühlen kann beim reingehen – damit Sie sich um Ihr Kerngeschäft kümmern können.
             </p>
 
             {/* Features List */}
@@ -146,21 +146,21 @@ export default function About() {
             <svg className="w-6 h-6 text-green-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
             </svg>
-            <span className="font-semibold text-gray-900">ISO 9001 zertifiziert</span>
+            <span className="font-semibold text-gray-900">Qualität mit Standards</span>
           </div>
           
           <div className="flex items-center space-x-3 bg-gray-50 rounded-xl px-6 py-4 border border-gray-200">
             <svg className="w-6 h-6 text-green-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
             </svg>
-            <span className="font-semibold text-gray-900">Versichert & haftbar</span>
+            <span className="font-semibold text-gray-900">Verlässliche Absprachen</span>
           </div>
           
           <div className="flex items-center space-x-3 bg-gray-50 rounded-xl px-6 py-4 border border-gray-200">
             <svg className="w-6 h-6 text-green-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
             </svg>
-            <span className="font-semibold text-gray-900">DSGVO-konform</span>
+            <span className="font-semibold text-gray-900">Datenschutz im Blick</span>
           </div>
         </div>
       </div>

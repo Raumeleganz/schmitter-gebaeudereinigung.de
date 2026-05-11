@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: "%s | Schmitter Gebäudereinigung"
   },
   description:
-    "Gebäudereinigung & Büroreinigung in NRW einfach erklärt: feste Teams, Festpreise statt Überraschung, Büro-, Praxis- und Unterhaltsreinigung. Seit über 15 Jahren zuverlässig – ohne Fachwort-Dschungel.",
+    "Gebäudereinigung & Büroreinigung in NRW einfach erklärt: feste Teams, Festpreise statt Überraschung, Büro-, Praxis- und Unterhaltsreinigung. Zuverlässig – ohne Fachwort-Dschungel.",
   keywords: ["Gebäudereinigung", "Büroreinigung", "Reinigungsdienst", "NRW", "Düsseldorf", "Köln", "Dortmund", "Schmitter"],
   authors: [{ name: "Schmitter Gebäudereinigung" }],
   creator: "Schmitter Gebäudereinigung",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: 'Schmitter Gebäudereinigung',
     title: 'Schmitter Gebäudereinigung NRW | Büro- & Unterhaltsreinigung ohne Fachwort-Stress',
     description:
-      'Gebäudereinigung in NRW: klare Absprachen, faire Festpreise, Büro-, Praxis- und Unterhaltsreinigung – seit über 15 Jahren.',
+      'Gebäudereinigung in NRW: klare Absprachen, faire Festpreise, Büro-, Praxis- und Unterhaltsreinigung – zuverlässig und planbar.',
   },
   twitter: {
     card: 'summary_large_image',

@@ -9,6 +9,19 @@ import { pickDeckSpeedPreis } from '@/lib/deck-speed-preis';
 import { pickHeroSubtitleQual } from '@/lib/heroSubtitle-qualitaet';
 import { getImageUrl, getImageAltText, getImageKeyword } from '@/lib/image-keywords';
 
+function sanitizeMarketingText(input: string): string {
+  return input
+    .replace(/seit\s+über\s+\d+\s*jahre?n?/gi, 'seit vielen Jahren')
+    .replace(/über\s+\d+\s*jahre?n?/gi, 'seit vielen Jahren')
+    .replace(/\b\d+\+\s*jahre?n?\b/gi, 'langjähriger Praxis')
+    .replace(/\b\d{1,4}\+\b/g, '')
+    .replace(/\bzertifizier\w+\b/gi, 'geschulte')
+    .replace(/\b24\/7\b/g, 'flexibel')
+    .replace(/\b100%\b/g, 'sehr')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
 interface CityPageProps {
   params: Promise<{
     stadt: string;
@@ -39,7 +52,7 @@ export async function generateMetadata({ params }: CityPageProps): Promise<Metad
 
   return {
     title: city.title,
-    description: city.metaDescription,
+    description: sanitizeMarketingText(city.metaDescription),
     keywords: [
       city.keyword1,
       city.keyword2,
@@ -49,7 +62,7 @@ export async function generateMetadata({ params }: CityPageProps): Promise<Metad
     ],
     openGraph: {
       title: city.title,
-      description: city.metaDescription,
+      description: sanitizeMarketingText(city.metaDescription),
       type: 'website',
       locale: 'de_DE',
     },
@@ -82,7 +95,7 @@ export default async function CityPage({ params }: CityPageProps) {
             '@id': `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}#business`,
             name: city.schemaBusinessName,
             image: `https://schmitter-gebaeudereinigung.de${getImageUrl(city.slug)}`,
-            description: city.metaDescription,
+            description: sanitizeMarketingText(city.metaDescription),
             address: {
               '@type': 'PostalAddress',
               streetAddress: city.street,
@@ -97,7 +110,7 @@ export default async function CityPage({ params }: CityPageProps) {
               longitude: city.lng,
             },
             url: `https://schmitter-gebaeudereinigung.de/einsatzgebiete/${city.slug}`,
-            telephone: '+49-211-123-456-78',
+            telephone: '0201-89083050',
             priceRange: '€€',
             openingHoursSpecification: [
               {
@@ -249,13 +262,13 @@ export default async function CityPage({ params }: CityPageProps) {
                   clipRule="evenodd"
                 />
               </svg>
-              <span className="text-sm font-semibold">ISO-zertifiziert</span>
+              <span className="text-sm font-semibold">Qualitätsorientiert</span>
             </div>
             <div className="flex items-center gap-2">
               <svg className="w-6 h-6 text-green-400" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
               </svg>
-              <span className="text-sm font-semibold">500+ zufriedene Kunden</span>
+              <span className="text-sm font-semibold">Zuverlässiger Reinigungsservice</span>
             </div>
             <div className="flex items-center gap-2">
               <svg className="w-6 h-6 text-green-400" fill="currentColor" viewBox="0 0 20 20">
@@ -265,7 +278,7 @@ export default async function CityPage({ params }: CityPageProps) {
                   clipRule="evenodd"
                 />
               </svg>
-              <span className="text-sm font-semibold">24/7 Notfallservice</span>
+              <span className="text-sm font-semibold">Schnelle Hilfe bei Bedarf</span>
             </div>
           </div>
         </div>
@@ -285,7 +298,7 @@ export default async function CityPage({ params }: CityPageProps) {
                 Ihr Partner für Gebäudereinigung in {city.name}
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                {city.aboutText}
+                {sanitizeMarketingText(city.aboutText)}
               </p>
 
               {/* Service Areas */}
@@ -694,7 +707,7 @@ export default async function CityPage({ params }: CityPageProps) {
             
             <FAQItem 
               question={`Bieten Sie auch Notfall-Reinigung in ${city.name} an?`}
-              answer={`Ja! Unser 24/7 Notdienst ist auch in ${city.name} verfügbar. Bei Wasserschäden, Baustellen-Endreinigung, Tatortreinigung oder dringenden Reinigungsanforderungen sind wir kurzfristig für Sie da. Rufen Sie uns an unter 0201-89083050 - wir sind sofort in ${city.name} für Sie im Einsatz!`}
+              answer={`Ja. Bei dringenden Fällen reagieren wir kurzfristig – z. B. nach Wasserschäden, bei Baustellen-Endreinigung oder wenn etwas schnell wieder nutzbar sein muss. Rufen Sie uns an unter 0201-89083050 – wir klären sofort, was möglich ist in ${city.name}.`}
             />
             
             <FAQItem 
@@ -704,12 +717,12 @@ export default async function CityPage({ params }: CityPageProps) {
             
             <FAQItem 
               question={`Wie oft sollte eine Büroreinigung in ${city.name} stattfinden?`}
-              answer={`Die optimale Reinigungsfrequenz für Büros in ${city.name} hängt von der Nutzung ab. Typischerweise empfehlen wir: täglich für stark frequentierte Bereiche, 2-3x wöchentlich für normale Büros, wöchentlich für kleinere Räume. Wir beraten Sie gerne individuell für Ihr Objekt in ${city.name}.`}
+              answer={`Die optimale Reinigungsfrequenz für Büros in ${city.name} hängt von der Nutzung ab – von regelmäßig (bei viel Betrieb) bis seltener (bei kleinen Flächen). Wir beraten Sie individuell und machen einen Plan, der im Alltag funktioniert.`}
             />
             
             <FAQItem 
               question={`Sind Ihre Reinigungsmittel umweltfreundlich?`}
-              answer={`Ja! Bei allen Reinigungsaufträgen in ${city.name} setzen wir auf ökologische, zertifizierte Reinigungsmittel. Diese sind biologisch abbaubar, schonen die Umwelt und sind gesundheitlich unbedenklich. Nachhaltigkeit und Umweltschutz sind uns in ${city.name} besonders wichtig.`}
+              answer={`Wir setzen – wo es passt – auf ausgewählte Reinigungsmittel und eine saubere Dosierung. So bleiben Oberflächen, Raumluft und Materialien im Alltag möglichst unproblematisch – ohne Marketing-Floskeln.`}
             />
           </div>
 
@@ -742,7 +755,7 @@ export default async function CityPage({ params }: CityPageProps) {
                     "name": `Bieten Sie auch Notfall-Reinigung in ${city.name} an?`,
                     "acceptedAnswer": {
                       "@type": "Answer",
-                      "text": `Ja! Unser 24/7 Notdienst ist auch in ${city.name} verfügbar. Bei Wasserschäden, Baustellen-Endreinigung oder dringenden Reinigungsanforderungen sind wir kurzfristig für Sie da.`
+                      "text": `Ja. Bei dringenden Fällen reagieren wir kurzfristig – z. B. nach Wasserschäden, bei Baustellen-Endreinigung oder wenn etwas schnell wieder nutzbar sein muss.`
                     }
                   },
                   {
@@ -758,7 +771,7 @@ export default async function CityPage({ params }: CityPageProps) {
                     "name": `Wie oft sollte eine Büroreinigung in ${city.name} stattfinden?`,
                     "acceptedAnswer": {
                       "@type": "Answer",
-                      "text": `Die optimale Reinigungsfrequenz hängt von der Nutzung ab. Typischerweise empfehlen wir: täglich für stark frequentierte Bereiche, 2-3x wöchentlich für normale Büros, wöchentlich für kleinere Räume.`
+                      "text": `Die optimale Reinigungsfrequenz hängt von der Nutzung ab – von regelmäßig (bei viel Betrieb) bis seltener (bei kleinen Flächen).`
                     }
                   },
                   {
@@ -766,7 +779,7 @@ export default async function CityPage({ params }: CityPageProps) {
                     "name": "Sind Ihre Reinigungsmittel umweltfreundlich?",
                     "acceptedAnswer": {
                       "@type": "Answer",
-                      "text": `Ja! Bei allen Reinigungsaufträgen in ${city.name} setzen wir auf ökologische, zertifizierte Reinigungsmittel. Diese sind biologisch abbaubar, schonen die Umwelt und sind gesundheitlich unbedenklich.`
+                      "text": `Wir setzen – wo es passt – auf ausgewählte Reinigungsmittel und eine saubere Dosierung. So bleiben Oberflächen, Raumluft und Materialien im Alltag möglichst unproblematisch.`
                     }
                   }
                 ]
@@ -786,22 +799,21 @@ export default async function CityPage({ params }: CityPageProps) {
               Warum Schmitter für Gebäudereinigung in {city.name}?
             </h2>
             <p className="text-gray-600 max-w-3xl mx-auto">
-              Als führender Reinigungsdienstleister in {city.name} garantieren wir höchste Qualität und Zuverlässigkeit. 
-              Vertrauen Sie auf über 10 Jahre Erfahrung in der Region.
+              Klare Abläufe, feste Absprachen und ein Team, das erreichbar bleibt – so wird Gebäudereinigung in {city.name} planbar.
             </p>
           </div>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Benefit Card 1 - Zertifizierte Qualität */}
+            {/* Benefit Card 1 - Qualität mit Standards */}
             <div className="bg-gradient-to-br from-blue-50 to-white p-6 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-lg transition-all duration-300 group">
               <div className="w-14 h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center mb-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">Zertifizierte Qualität</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Qualität mit Standards</h3>
               <p className="text-gray-600 leading-relaxed">
-                Alle Mitarbeiter sind geschult und zertifiziert. In {city.name} setzen wir auf höchste Qualitätsstandards und regelmäßige Schulungen.
+                Unser Team ist geschult und arbeitet mit klaren Routinen. In {city.name} setzen wir auf saubere Standards und regelmäßige Abstimmung.
               </p>
             </div>
 
@@ -814,7 +826,7 @@ export default async function CityPage({ params }: CityPageProps) {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Schnelle Verfügbarkeit</h3>
               <p className="text-gray-600 leading-relaxed">
-                Kurzfristige Termine in {city.name} und allen Stadtteilen. Wir sind für Sie da, wenn Sie uns brauchen - oft schon innerhalb von 24 Stunden.
+                Kurzfristige Termine in {city.name} und allen Stadtteilen. Wir sind für Sie da, wenn Sie uns brauchen – und melden uns zügig zurück.
               </p>
             </div>
 
@@ -857,16 +869,16 @@ export default async function CityPage({ params }: CityPageProps) {
               </p>
             </div>
 
-            {/* Benefit Card 6 - 24/7 Erreichbar */}
+            {/* Benefit Card 6 - Flexible Erreichbarkeit */}
             <div className="bg-gradient-to-br from-blue-50 to-white p-6 rounded-xl border border-gray-200 hover:border-blue-300 hover:shadow-lg transition-all duration-300 group">
               <div className="w-14 h-14 bg-gradient-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center mb-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
                 <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">24/7 Erreichbar</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">Flexibel erreichbar</h3>
               <p className="text-gray-600 leading-relaxed">
-                Unser Kundenservice ist rund um die Uhr für Notfälle in {city.name} erreichbar. Schnelle Hilfe, wenn Sie sie brauchen.
+                Wenn es eilig ist, melden Sie sich – wir reagieren so schnell wie möglich und stimmen den nächsten Schritt für {city.name} direkt ab.
               </p>
             </div>
           </div>

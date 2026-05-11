@@ -7,7 +7,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Schmitter Gebäudereinigung NRW | Büro- & Praxisreinigung ohne Fachwort-Dschungel",
   description:
-    "Gebäudereinigung in NRW ohne Fachwort-Wirrwarr: Büro-, Praxis- und Unterhaltsreinigung mit klarem Plan und Team, das sagt was Sache ist – seit über 15 Jahren für saubere Ergebnisse ohne Drama.",
+    "Gebäudereinigung in NRW ohne Fachwort-Wirrwarr: Büro-, Praxis- und Unterhaltsreinigung mit klarem Plan und Team, das sagt was Sache ist – zuverlässig und sauber, ohne Drama.",
   keywords: ["Gebäudereinigung", "Büroreinigung", "Reinigungsdienst", "NRW", "Düsseldorf", "Köln", "Dortmund"],
   alternates: {
     canonical: "https://schmitter-gebaeudereinigung.de"
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Schmitter Gebäudereinigung NRW | Büro- & Praxisreinigung ohne Fachwort-Dschungel",
     description:
-      "Reinigung für Büro, Praxis & Haus in NRW – klar geredet, zuverlässig umgesetzt, seit über 15 Jahren.",
+      "Reinigung für Büro, Praxis & Haus in NRW – klar geredet, zuverlässig umgesetzt.",
     images: ["https://schmitter-gebaeudereinigung.de/images/og-home.jpg"]
   }
 };
@@ -71,7 +71,7 @@ export default function Home() {
                 <div className="flex-1">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Mit System statt „musste reichen“</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    ISO 9001 ist kein Party-Titel, sondern heißt: Checklisten, weniger Zufall beim Putzen, und nachvollziehbare Routine statt spontaner Notfälle jeden Donnerstag.
+                    Qualität mit Plan heißt bei uns: Checklisten, weniger Zufall beim Putzen, und nachvollziehbare Routine statt spontaner Notfälle jeden Donnerstag.
                   </p>
                 </div>
               </div>
@@ -128,7 +128,7 @@ export default function Home() {
                 <div className="flex-1">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Leute, die Bock auf Ordnung haben</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Über 15 Jahre Erfahrung heißt: Wir wissen, wo Schmutz sich gern versteckt – und reden offen, wenn’s mal knifflig wird oder Sonderwerkzeug braucht.
+                    Erfahrung aus der Praxis heißt: Wir wissen, wo Schmutz sich gern versteckt – und reden offen, wenn’s mal knifflig wird oder Sonderwerkzeug braucht.
                   </p>
                 </div>
               </div>
@@ -239,7 +239,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-8 text-center">
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">ISO 9001 (Qualität mit Plan)</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-3">Qualität mit Plan</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   Kurz gesagt: wie wir Arbeit festhalten, überprüfen und verbessern – damit Büro-, Praxis- und Gebäudereinigung nicht von der Tageslaune abhängt.
                 </p>

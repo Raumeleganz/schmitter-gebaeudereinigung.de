@@ -176,16 +176,16 @@ export default function GlasreinigungPage() {
                 
                 <div className="grid grid-cols-3 gap-4">
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
-                    <div className="text-2xl font-bold text-blue-600 mb-1">100%</div>
-                    <div className="text-xs text-gray-600">Streifenfrei</div>
+                    <div className="text-2xl font-bold text-blue-600 mb-1">Sorgfältig</div>
+                    <div className="text-xs text-gray-600">streifenfrei</div>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
                     <div className="text-2xl font-bold text-blue-600 mb-1">Öko</div>
                     <div className="text-xs text-gray-600">Umweltfreundlich</div>
                   </div>
                   <div className="bg-gray-50 p-4 rounded-xl text-center">
-                    <div className="text-2xl font-bold text-blue-600 mb-1">24/7</div>
-                    <div className="text-xs text-gray-600">Service</div>
+                    <div className="text-2xl font-bold text-blue-600 mb-1">Flexibel</div>
+                    <div className="text-xs text-gray-600">bei Zeiten</div>
                   </div>
                 </div>
               </div>

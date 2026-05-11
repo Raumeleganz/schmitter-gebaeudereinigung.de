@@ -5,8 +5,9 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
   title: "Professionelle Praxisreinigung in NRW - Arztpraxen, Kliniken & Medizinische Einrichtungen | Schmitter Gebäudereinigung",
-  description: "Spezialisierte Praxisreinigung nach RKI-Richtlinien in NRW. Hygienische Reinigung für Arztpraxen, Zahnarztpraxen, Kliniken. ISO-zertifiziert & desinfizierend. ✓ VAH-gelistet ✓ Infektionsschutz ✓ § 36 IfSG konform",
-  keywords: ["Praxisreinigung", "Arztpraxis reinigen", "Zahnarztpraxis Reinigung", "Klinik Reinigung", "medizinische Reinigung", "RKI-Richtlinien", "Desinfektion", "Praxisreinigung Düsseldorf", "Praxisreinigung Köln", "Praxisreinigung NRW", "VAH-gelistet", "Infektionsschutz"],
+  description:
+    "Spezialisierte Praxisreinigung nach RKI-Richtlinien in NRW. Hygienische Reinigung für Arztpraxen, Zahnarztpraxen und Kliniken – klar geplant, zuverlässig umgesetzt.",
+  keywords: ["Praxisreinigung", "Arztpraxis reinigen", "Zahnarztpraxis Reinigung", "Klinik Reinigung", "medizinische Reinigung", "Hygiene", "Desinfektion", "Praxisreinigung Düsseldorf", "Praxisreinigung Köln", "Praxisreinigung NRW", "Hygienekonzept"],
   openGraph: {
     title: "Professionelle Praxisreinigung in NRW | Schmitter Gebäudereinigung",
     description: "Hygienische Reinigung für medizinische Einrichtungen nach höchsten Standards.",
@@ -17,8 +18,8 @@ export const metadata: Metadata = {
 export default function PraxisreinigungPage() {
   const features = [
     {
-      title: "Desinfektion nach RKI-Richtlinien",
-      description: "Professionelle Flächendesinfektion gemäß Robert Koch-Institut Standards mit VAH-gelisteten Mitteln",
+      title: "Desinfektion nach Hygienekonzept",
+      description: "Professionelle Flächendesinfektion nach gängigen Hygienerichtlinien – passend zum Bereich und zur Aufgabe",
       icon: "🦠",
       image: "https://images.unsplash.com/photo-1631815589968-fdb09a223b1e?w=600&q=80&fm=webp"
     },
@@ -47,8 +48,8 @@ export default function PraxisreinigungPage() {
       image: "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?w=600&q=80&fm=webp"
     },
     {
-      title: "Abfallentsorgung nach IfSG",
-      description: "Sachgerechte Trennung und Entsorgung von medizinischem Abfall gemäß Infektionsschutzgesetz",
+      title: "Abfallentsorgung nach Vorgaben",
+      description: "Sachgerechte Trennung und Entsorgung von Praxisabfällen – nachvollziehbar und sauber geregelt",
       icon: "♻️",
       image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&q=80&fm=webp"
     },
@@ -74,8 +75,8 @@ export default function PraxisreinigungPage() {
       )
     },
     {
-      title: "Geprüfte Desinfektionsmittel",
-      description: "VAH/DGHM-gelistete Desinfektionsmittel für optimale Hygiene",
+      title: "Passende Desinfektionsmittel",
+      description: "Desinfektionsmittel passend zum Bereich – sinnvoll eingesetzt, damit Hygiene stimmt und Materialien geschont werden",
       icon: (
         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
@@ -158,13 +159,13 @@ export default function PraxisreinigungPage() {
                   In einer Praxis ist „sauber“ nicht optional. Hygiene muss stimmen – für Patient:innen, Team und Prüfungen. Wir reinigen so, dass es nachvollziehbar ist: klare Abläufe, passende Mittel, und Dokumentation da, wo sie gebraucht wird.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Schmitter Gebäudereinigung arbeitet seit über 15 Jahren mit Arztpraxen, Zahnärzten, Kliniken und Therapiezentren in NRW. Unser Team ist für medizinische Umgebungen geschult und arbeitet diskret – damit der Praxisbetrieb nicht aus dem Takt gerät.
+                  Schmitter Gebäudereinigung arbeitet seit vielen Jahren mit Arztpraxen, Zahnärzten, Kliniken und Therapiezentren in NRW. Unser Team ist für medizinische Umgebungen geschult und arbeitet diskret – damit der Praxisbetrieb nicht aus dem Takt gerät.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Wir orientieren uns an den RKI-Vorgaben und nutzen VAH/DGHM-gelistete Mittel, wo Desinfektion sinnvoll und gefordert ist. Kurz: nicht „alles mit Kanonen“, sondern richtig nach Risiko und Bereich.
+                  Wir orientieren uns an gängigen Hygienerichtlinien und setzen Desinfektion dort ein, wo sie sinnvoll und gefordert ist. Kurz: nicht „alles mit Kanonen“, sondern passend nach Risiko und Bereich.
                 </p>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                  ISO 9001 sorgt bei uns für Struktur im Hintergrund. Dazu kommen Versicherung, Zuverlässigkeit und sensible Kommunikation – weil in Praxen eben nicht nur Staub herumliegt.
+                  Klare Standards sorgen bei uns für Struktur im Hintergrund. Dazu kommen Versicherung, Zuverlässigkeit und sensible Kommunikation – weil in Praxen eben nicht nur Staub herumliegt.
                 </p>
 
                 <div className="space-y-4">
@@ -217,7 +218,7 @@ export default function PraxisreinigungPage() {
                   <div className="absolute bottom-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl shadow-xl">
                     <div className="text-3xl font-bold text-red-600 mb-1">RKI</div>
                     <div className="text-sm text-gray-900 font-semibold">konform</div>
-                    <div className="text-xs text-gray-600 mt-1">VAH-gelistet</div>
+                    <div className="text-xs text-gray-600 mt-1">passende Mittel</div>
                   </div>
                 </div>
 
@@ -257,16 +258,16 @@ export default function PraxisreinigungPage() {
                   {/* Stats Overlay */}
                   <div className="absolute bottom-6 left-6 right-6 grid grid-cols-3 gap-4">
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-red-600">15+</div>
-                      <div className="text-xs text-gray-600 font-semibold">Jahre</div>
+                      <div className="text-2xl font-bold text-red-600">Hygienisch</div>
+                      <div className="text-xs text-gray-600 font-semibold">geplant</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-red-600">100%</div>
-                      <div className="text-xs text-gray-600 font-semibold">Zuverlässig</div>
+                      <div className="text-2xl font-bold text-red-600">Zuverlässig</div>
+                      <div className="text-xs text-gray-600 font-semibold">im Ablauf</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-red-600">24/7</div>
-                      <div className="text-xs text-gray-600 font-semibold">Erreichbar</div>
+                      <div className="text-2xl font-bold text-red-600">Flexibel</div>
+                      <div className="text-xs text-gray-600 font-semibold">bei Zeiten</div>
                     </div>
                   </div>
                 </div>
@@ -424,7 +425,7 @@ export default function PraxisreinigungPage() {
                   </div>
                   <h3 className="text-xl font-bold text-gray-900 mb-3">Fachgerechte Reinigung</h3>
                   <p className="text-gray-600">
-                    Systematische Reinigung und Desinfektion nach RKI-Richtlinien mit geprüften Mitteln
+                    Systematische Reinigung und Desinfektion nach gängigen Hygienerichtlinien mit passenden Mitteln
                   </p>
                 </div>
 
@@ -542,7 +543,7 @@ export default function PraxisreinigungPage() {
                     </svg>
                   </summary>
                   <div className="px-6 pb-6 text-gray-600 leading-relaxed">
-                    VAH/DGHM-gelistete Mittel – passend zum Bereich und zur Aufgabe. Nicht „alles desinfizieren, immer“, sondern sinnvoll nach Risiko, damit Hygiene stimmt und Materialien nicht unnötig leiden.
+                    Passende Mittel – passend zum Bereich und zur Aufgabe. Nicht „alles desinfizieren, immer“, sondern sinnvoll nach Risiko, damit Hygiene stimmt und Materialien nicht unnötig leiden.
                   </div>
                 </details>
 

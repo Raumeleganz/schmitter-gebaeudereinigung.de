@@ -141,7 +141,7 @@ export default function UnterhaltsreinigungPage() {
                   Unterhaltsreinigung heißt ganz simpel: regelmäßig sauber machen, bevor es „viel Arbeit“ wird. Treppenhaus, Flure, Eingang, Aufzug – also genau die Bereiche, die jeden Tag alle sehen.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  Schmitter Gebäudereinigung arbeitet seit über 15 Jahren für Hausverwaltungen, Eigentümergemeinschaften und Gewerbeobjekte in NRW. Wir kommen im festen Rhythmus, halten die Absprachen ein – und wenn’s irgendwo klemmt, gibt’s einen Ansprechpartner statt Ping-Pong.
+                  Schmitter Gebäudereinigung arbeitet seit vielen Jahren für Hausverwaltungen, Eigentümergemeinschaften und Gewerbeobjekte in NRW. Wir kommen im festen Rhythmus, halten die Absprachen ein – und wenn’s irgendwo klemmt, gibt’s einen Ansprechpartner statt Ping-Pong.
                 </p>
                 <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                   Wir machen nicht nur „einmal drüber“, sondern so, dass man’s merkt: Geländer, Ecken, Lichtschalter, Spuren am Eingang – die typischen Nerv-Dinger.
@@ -200,9 +200,8 @@ export default function UnterhaltsreinigungPage() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                   <div className="absolute bottom-6 right-6 bg-white/95 backdrop-blur-sm p-5 rounded-xl shadow-xl">
-                    <div className="text-3xl font-bold text-green-600 mb-1">15+</div>
-                    <div className="text-sm text-gray-900 font-semibold">Jahre</div>
-                    <div className="text-xs text-gray-600 mt-1">Erfahrung</div>
+                    <div className="text-lg font-bold text-green-600 mb-1">Erfahrung aus der Praxis</div>
+                    <div className="text-xs text-gray-600 mt-1">Sauber geplant, sauber umgesetzt</div>
                   </div>
                 </div>
 
@@ -218,7 +217,7 @@ export default function UnterhaltsreinigungPage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
                   <div className="absolute bottom-6 left-6 right-6">
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl">
-                      <p className="text-sm font-bold text-gray-900">Vertrauen von über 500 Immobilien</p>
+                      <p className="text-sm font-bold text-gray-900">Zuverlässig für Immobilien</p>
                       <p className="text-xs text-gray-600 mt-1">Wohngebäude · Gewerbeimmobilien · Bürokomplexe</p>
                     </div>
                   </div>
@@ -241,16 +240,16 @@ export default function UnterhaltsreinigungPage() {
                   
                   <div className="absolute bottom-6 left-6 right-6 grid grid-cols-3 gap-4">
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-green-600">500+</div>
+                      <div className="text-2xl font-bold text-green-600">Viele</div>
                       <div className="text-xs text-gray-600 font-semibold">Objekte</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-green-600">100%</div>
-                      <div className="text-xs text-gray-600 font-semibold">Zuverlässig</div>
+                      <div className="text-2xl font-bold text-green-600">Planbar</div>
+                      <div className="text-xs text-gray-600 font-semibold">im Alltag</div>
                     </div>
                     <div className="bg-white/95 backdrop-blur-sm p-4 rounded-xl text-center">
-                      <div className="text-3xl font-bold text-green-600">24/7</div>
-                      <div className="text-xs text-gray-600 font-semibold">Service</div>
+                      <div className="text-2xl font-bold text-green-600">Flexibel</div>
+                      <div className="text-xs text-gray-600 font-semibold">bei Terminen</div>
                     </div>
                   </div>
                 </div>

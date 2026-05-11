@@ -3,12 +3,13 @@ import Testimonials from "@/components/Testimonials";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Über uns - 15+ Jahre Erfahrung in Gebäudereinigung | Schmitter Gebäudereinigung",
-  description: "Erfahren Sie mehr über Schmitter Gebäudereinigung: 15+ Jahre Erfahrung, 500+ zufriedene Kunden, ISO-zertifiziert. Ihr zuverlässiger Partner für professionelle Gebäudereinigung in NRW.",
-  keywords: ["Über uns", "Schmitter Gebäudereinigung", "Gebäudereinigung", "Erfahrung", "ISO-zertifiziert", "NRW"],
+  title: "Über uns | Schmitter Gebäudereinigung",
+  description:
+    "Erfahren Sie mehr über Schmitter Gebäudereinigung: professionelle Reinigung, klare Abläufe und zuverlässiger Service in NRW.",
+  keywords: ["Über uns", "Schmitter Gebäudereinigung", "Gebäudereinigung", "NRW"],
   openGraph: {
     title: "Über uns - Schmitter Gebäudereinigung",
-    description: "15+ Jahre Erfahrung in professioneller Gebäudereinigung.",
+    description: "Professionelle Gebäudereinigung mit klaren Abläufen und zuverlässigem Service.",
     type: "website",
   },
 };
